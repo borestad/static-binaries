@@ -1,0 +1,35 @@
+#!/usr/bin/env bash
+#set -euo pipefail
+
+. $(dirname $0)/helpers
+GITROOT=`git-root`
+
+initstart=$(time-now)
+
+# =============================================================================
+# DEBUG
+# =============================================================================
+✨ "Show cache folders"
+show-cache-folders
+timestamp
+
+
+# =============================================================================
+# Install node_modules
+# =============================================================================
+✨ "pnpm install"
+
+cd $GITROOT
+# Applying dirty fix for *not* including @types/* in the production ci
+cp pnpm-lock.yaml $RUNNER_TEMPDIR/
+grep -v "'@types/" $RUNNER_TEMPDIR/pnpm-lock.yaml >| pnpm-lock.yaml
+
+pnpm install \
+  --frozen-lockfile \
+  --production \
+  --prefer-offline \
+  --no-verify-store-integrity
+
+mv $RUNNER_TEMPDIR/pnpm-lock.yaml .
+timestamp
+
