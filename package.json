@@ -17,8 +17,10 @@
     "eslint-plugin-unicorn": "^44.0.2"
   },
   "dependenciesBin": [
+    "https://raw.githubusercontent.com/borestad/static-binaries/main/eget",
     "https://raw.githubusercontent.com/borestad/static-binaries/main/just",
-    "https://raw.githubusercontent.com/borestad/static-binaries/main/sponge"
+    "https://raw.githubusercontent.com/borestad/static-binaries/main/sponge",
+    "https://raw.githubusercontent.com/borestad/static-binaries/main/hr"
   ],
   "pnpm": {
     "overrides": {
