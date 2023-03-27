@@ -67,7 +67,7 @@ jobs:
 
       # ─────────────────────────────────────────────────────
       - name: Just ❯ cron/default
-        run: just job1
+        run: just download-static-binaries
 
       # ─────────────────────────────────────────────────────
       - name: Post hooks ❯ Commit to repository

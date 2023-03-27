@@ -1,0 +1,61 @@
+#!/usr/bin/env bash
+
+set -e
+
+cd "$(dirname $0)"
+ROOT=$(pwd)
+mkdir -p x86_64 && cd x86_64
+
+echo "ROOT: $ROOT"
+echo "Rate: $(eget --rate)"
+
+function ndjson() {
+  jq -r '.[] | @base64' $1
+}
+
+for row in $(ndjson $ROOT/sources.json); do
+
+  _jq() {
+     printf ${row} | base64 --decode | jq -r "${1}"
+  }
+
+  echo '────────────────────────────────────────────────────────────────────────────────'
+
+  name=$(_jq '.name')
+  eget_url=$(_jq '.eget_url')
+  eget_args=$(_jq '.eget_args | select (.!=null)')
+  upx=$(_jq '.upx | select (.!=null)')
+  verify=$(_jq '.verify | select (.!=null)')
+
+  echo "🚀 Downloading $name ..."
+  eget -q "$eget_url" ${eget_args} \
+      --to=$name \
+      -a '^sha' \
+      -a '^b3'
+
+  file ./$name | egrep  'dynamically linked|not stripped' || true
+
+  echo "Size (original): $(stat -c %s ./$name | numfmt --to=iec)"
+  echo "SHA 256:         $(shasum -a 256 ./$name | cut -d ' ' -f1)"
+
+  echo
+  if [ ! -z "$upx" ]; then
+    strip ./$name || true
+    echo "Size (stripped): $(stat -c %s ./$name | numfmt --to=iec)"
+    echo "SHA 256:         $(shasum -a 256 ./$name | cut -d ' ' -f1)"
+    echo
+  fi
+
+  if [ ! -z "$verify" ]; then
+    echo "Verify version:"
+    cmd="./$name ${verify}"
+    eval $cmd
+    echo "Exit code: $(printf '%d\n' $?)"
+  fi
+
+  if [ $? -ne 0 ]; then
+      exit $?
+  fi
+
+
+done
