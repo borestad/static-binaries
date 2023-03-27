@@ -1,0 +1,221 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Preinstall
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+download() {
+  local url=$1
+  local software=$(basename "$url")
+
+  if ! command -v "$software" &> /dev/null; then
+    echo "𐄂 $software is not installed, downloading ..."
+    wget -O ~/.local/bin/$software -q -nv --content-disposition "$url"
+    chmod +x ~/.local/bin/$software 2> /dev/null || true
+  else
+    printf "%-35s %s\n" "✔ $software is already installed. " "[ `command -v $software` ]"
+  fi
+}
+
+install-static-binaries() {
+  for url in $(jq .dependenciesBin package.json | jq -r .[]); do
+    download $url &
+  done
+  wait
+}
+
+install-pnpm-binary() {
+  local version=$(jq -r .packageManager package.json | sed 's/pnpm@//')
+  /usr/bin/time -f "%es | %C" wget -nv -qO- "https://registry.npmjs.org/pnpm/-/pnpm-$version.tgz" | tar -xzpf- -C $RUNNER_TEMP
+  ln -sf $(readlink -f $RUNNER_TEMP/package/bin/pnpm.cjs) ~/.local/bin/pnpm
+  echo "store-dir=$PNPM_STORE_DIR" >>~/.npmrc
+}
+
+create-directories() {
+  mkdir -p ~/.local/bin $ACTIONS_CACHE_DIR $ACTIONS_CACHE_BIN_DIR $PNPM_HOME $PNPM_STORE_DIR $RUNNER_TEMPDIR
+}
+
+optimize-ubuntu() {
+  # "Optimize apt-get install"
+  sudo cp -p /bin/true /usr/bin/mandb 2>/dev/null || true
+  sudo mv -f /var/cache/man /tmp/ 2>/dev/null || true
+}
+
+set-env-variables() {
+  echo ACTIONS_CACHE_DIR=$RUNNER_WORKSPACE/.actions-cache                 >> $GITHUB_ENV
+  echo ACTIONS_CACHE_BIN_DIR=$RUNNER_WORKSPACE/.actions-cache/bin         >> $GITHUB_ENV
+  echo CACHE_PREFIX=$(date +'%U')                                         >> $GITHUB_ENV
+  echo CONTEXT_DIR=$RUNNER_WORKSPACE/.context                             >> $GITHUB_ENV
+  echo PNPM_HOME=$RUNNER_WORKSPACE/.actions-cache/pnpm                    >> $GITHUB_ENV
+  echo PNPM_STORE_DIR=$RUNNER_WORKSPACE/.actions-cache/pnpm/pnpm-store    >> $GITHUB_ENV
+  echo RUNNER_TEMPDIR=$RUNNER_TEMP/`date +%s%N`                           >> $GITHUB_ENV
+  echo NODE_ENV="production"                                              >> $GITHUB_ENV
+
+  echo './node_modules/.bin'                                              >> $GITHUB_PATH
+  echo $HOME/.local/bin                                                   >> $GITHUB_PATH
+  echo $RUNNER_WORKSPACE/.actions-cache/pnpm                              >> $GITHUB_PATH
+  echo $RUNNER_WORKSPACE/.actions-cache/bin                               >> $GITHUB_PATH
+  echo $GITHUB_WORKSPACE/.github/scripts                                  >> $GITHUB_PATH
+}
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Time / Benchmark
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+time-now() {
+  date +%s.%N
+}
+
+benchmark() {
+  local start=$1
+  local end=${2:-$(time-now)}
+  printf %.2f $(echo "$end - $start" | bc -l)
+}
+
+timestamp() {
+  printf "\n%-65s %s\n" "⌛ Time: $(benchmark $start)s" "⌛ Total: $(benchmark $initstart)s"
+}
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Debug / Statistics / Information
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+show-cache-folders() {
+  cd $ACTIONS_CACHE_DIR
+  find . -maxdepth 1 -type d -not -iname '.git' -print0 | xargs -0 -I {} sh -c "printf '%-24s' '{}' ; du -sh {} | cut -f 1" \;
+}
+
+show-cache-structure() {
+  ✨ "Cache structure ($ACTIONS_CACHE_DIR)"
+  cd $ACTIONS_CACHE_DIR
+  find . -maxdepth 1 -type d -not -iname '.git' -print0 | xargs -0 -I {} sh -c "tree -L 2 -F --noreport {}; echo"
+}
+
+show-system-information() {
+  while IFS=":" read -r a b; do
+    case $a in
+    "MemTotal")
+      mem_total="${b/kB/}"
+      ;;
+    "MemAvailable")
+      mem_avail=${b/kB/}
+      ;;
+    esac
+  done < /proc/meminfo
+
+  mem_used=$(((mem_total - mem_avail) / 1024))
+  mem_total="$((mem_total / 1024))"
+  cores="$(nproc --all)"
+
+  echo "Cores:         $cores"
+  echo "Memory used:   $mem_used Mb"
+  echo "Memory total:  $mem_total Mb"
+}
+
+
+dump-env() {
+  TOKEN="dump-env-$RANDOM-$RANDOM"
+
+  echo
+  echo "::group::Environment variables"
+  echo "::stop-commands::$TOKEN"
+  env|sort| egrep --color=always '^[^=]+' || true
+  echo "::$TOKEN::"
+  echo "::endgroup::"
+}
+
+dump-context() {
+  command -v gron || (mkdir -p ~/.local/bin &> /dev/null && cd "$_" && wget -q -nv "https://raw.githubusercontent.com/borestad/static-binaries/main/gron" && chmod +x gron)
+
+  TOKEN="dump-context-$RANDOM-$RANDOM-token"
+  echo "::group::Event ($(gron $GITHUB_EVENT_PATH | wc -l))"
+  echo "::stop-commands::$TOKEN"
+  gron -c "$GITHUB_EVENT_PATH" || true
+  echo "::$TOKEN::"
+  echo "::endgroup::"
+
+  TOKEN="dump-context-$RANDOM-$RANDOM-token"
+  echo "::group::Github Context ($(gron $CONTEXT_DIR/github.json | wc -l))"
+  echo "::stop-commands::$TOKEN"
+  gron -c $CONTEXT_DIR/github.json || true
+  echo "::$TOKEN::"
+  echo "::endgroup::"
+
+  TOKEN="dump-context-$RANDOM-$RANDOM-token"
+  echo "::group::Job Context ($(gron $CONTEXT_DIR/job.json | wc -l))"
+  echo "::stop-commands::$TOKEN"
+  gron -c $CONTEXT_DIR/job.json || true
+  echo "::$TOKEN::"
+  echo "::endgroup::"
+
+  TOKEN="dump-context-$RANDOM-$RANDOM-token"
+  echo "::group::Steps Context ($(gron $CONTEXT_DIR/steps.json | wc -l))"
+  echo "::stop-commands::$TOKEN"
+  gron -c $CONTEXT_DIR/steps.json || true
+  echo "::$TOKEN::"
+  echo "::endgroup::"
+
+  TOKEN="dump-context-$RANDOM-$RANDOM-token"
+  echo "::group::Runner Context ($(gron $CONTEXT_DIR/runner.json | wc -l))"
+  echo "::stop-commands::$TOKEN"
+  gron -c $CONTEXT_DIR/runner.json || true
+  echo "::$TOKEN::"
+  echo "::endgroup::"
+
+  TOKEN="dump-context-$RANDOM-$RANDOM-token"
+  echo "::group::Strategy Context ($(gron $CONTEXT_DIR/strategy.json | wc -l))"
+  echo "::stop-commands::$TOKEN"
+  gron -c $CONTEXT_DIR/strategy.json || true
+  echo "::$TOKEN::"
+  echo "::endgroup::"
+
+  TOKEN="dump-context-$RANDOM-$RANDOM-token"
+  echo "::group::Matrix Context ($(gron $CONTEXT_DIR/matrix.json | wc -l))"
+  echo "::stop-commands::$TOKEN"
+  gron -c $CONTEXT_DIR/matrix.json || true
+  echo "::$TOKEN::"
+  echo "::endgroup::"
+}
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# Formatters / Printers
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✨() {
+  ___
+  start=$(time-now)
+  echo "✨ $1"
+  echo
+}
+
+✓() { echo -e "✓ ${R} $1"; }
+
+___() {
+  printf "\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
+}
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# File system
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+git-root() {
+  git rev-parse --show-toplevel
+}
+
+mk() {
+  mkdir -pv -p "$@" && cd "$_"
+}
+
+mkt() {
+  cd $(mktemp -d) && pwd
+}
+
+has-file-changed() {
+  changed_files="$(git diff-tree -r --name-only --no-commit-id ORIG_HEAD HEAD 2>/dev/null)"
+  if $(echo "$changed_files" | grep --quiet "$1"); then
+    return 0
+  fi
+  return 1
+}
+
+# Allow calling for methods from outside
+  for i in "$@"; do
+    "$i"
+  done
