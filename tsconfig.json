@@ -1,0 +1,21 @@
+{
+  "extends": "@tsconfig/node16-strictest-esm/tsconfig.json",
+  "include": [
+    "./**/*.ts", "./**/*.mjs"
+  ],
+  "exclude": [
+    "./fixtures/**/*.*"
+  ],
+  "compilerOptions": {
+    "baseUrl": ".",
+    "target": "ES2022",
+    "outDir": "./dist",
+    "module": "esnext",
+    "esModuleInterop": true,
+    "noImplicitAny": true,
+    "experimentalDecorators": true,
+    "checkJs": true,
+    "moduleResolution": "node",
+    "strict": true
+  }
+}
