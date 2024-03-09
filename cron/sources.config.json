@@ -65,7 +65,7 @@
   { "name": "pup",              "eget_url": "ericchiang/pup",                     "eget_args": "-a linux_amd6",                                "verify": "--version", "upx": true },
   { "name": "rargs",            "eget_url": "lotabout/rargs",                     "eget_args": "-a x86_64-unknown-linux-musl",                 "verify": "--version", "upx": true },
   { "name": "rg",               "eget_url": "BurntSushi/ripgrep",                 "eget_args": "-a x86_64",                                    "verify": "--version  | head -1", "upx": true },
-  { "name": "sd",               "eget_url": "chmln/sd",                           "eget_args": "-a x86_64-unknown-linux-gnu",                  "verify": "--version", "upx": true },
+  { "name": "sd",               "eget_url": "chmln/sd",                           "eget_args": "-a x86_64-unknown-linux-musl",                  "verify": "--version", "upx": true },
   { "name": "shfmt",            "eget_url": "mvdan/sh",                           "eget_args": "-a linux_amd64",                               "verify": "--version", "upx": true },
   { "name": "starship",         "eget_url": "starship/starship",                  "eget_args": "-a x86_64-unknown-linux-musl",                 "verify": "--version | head -1", "upx": true },
   { "name": "task",             "eget_url": "go-task/task",                       "eget_args": "-a linux_amd64.tar.gz",                        "verify": "--version", "upx": true },
