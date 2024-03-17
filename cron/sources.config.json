@@ -45,7 +45,7 @@
   { "name": "hyperfine",        "eget_url": "sharkdp/hyperfine",                  "eget_args": "-a x86_64-unknown-linux-musl",                 "verify": "--version", "upx": true },
   { "name": "fnm",              "eget_url": "Schniz/fnm",                         "eget_args": "-a linux",                                     "verify": "--version", "upx": true },
   { "name": "fzf",              "eget_url": "junegunn/fzf",                       "eget_args": "-a linux_amd64",                               "verify": "--version", "upx": true },
-  { "name": "fastfetch",        "eget_url": "fastfetch-cli/fastfetch",            "eget_args": "-a linux-amd64.tar.gz",                              "verify": "--version", "upx": true },
+  { "name": "fastfetch",        "eget_url": "fastfetch-cli/fastfetch",            "eget_args": "-a linux-amd64.tar.gz -f '*/usr/bin/fastfetch*'", "verify": "--version", "upx": true },
   { "name": "gdu",              "eget_url": "dundee/gdu",                         "eget_args": "-a du_linux_amd64_static.tgz",                 "verify": "--version | head -1", "upx": true },
   { "name": "gitui",            "eget_url": "extrawurst/gitui",                   "eget_args": "-a linux-musl",                                "verify": "--version", "upx": true },
   { "name": "gojq",             "eget_url": "itchyny/gojq",                       "eget_args": "-a linux_amd64",                               "verify": "--version", "upx": true },
