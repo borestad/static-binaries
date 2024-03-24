@@ -1,16 +1,82 @@
 {
   "assets": [
     {
-      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.0/starship-aarch64-apple-darwin.tar.gz",
+      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.1/starship-aarch64-apple-darwin.pkg",
+      "content_type": "application/octet-stream",
+      "created_at": "2024-03-24T10:04:34Z",
+      "id": 158343568,
+      "label": "",
+      "name": "starship-aarch64-apple-darwin.pkg",
+      "node_id": "RA_kwDOCqswNs4JcCGQ",
+      "size": 9328867,
+      "state": "uploaded",
+      "updated_at": "2024-03-24T10:04:35Z",
+      "uploader": {
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+        "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+        "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+        "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/apps/github-actions",
+        "id": 41898282,
+        "login": "github-actions[bot]",
+        "node_id": "MDM6Qm90NDE4OTgyODI=",
+        "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+        "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+        "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+        "type": "Bot",
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+      },
+      "url": "https://api.github.com/repos/starship/starship/releases/assets/158343568"
+    },
+    {
+      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.1/starship-aarch64-apple-darwin.pkg.sha256",
+      "content_type": "application/octet-stream",
+      "created_at": "2024-03-24T10:04:34Z",
+      "id": 158343577,
+      "label": "",
+      "name": "starship-aarch64-apple-darwin.pkg.sha256",
+      "node_id": "RA_kwDOCqswNs4JcCGZ",
+      "size": 65,
+      "state": "uploaded",
+      "updated_at": "2024-03-24T10:04:35Z",
+      "uploader": {
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+        "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+        "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+        "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/apps/github-actions",
+        "id": 41898282,
+        "login": "github-actions[bot]",
+        "node_id": "MDM6Qm90NDE4OTgyODI=",
+        "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+        "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+        "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+        "type": "Bot",
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+      },
+      "url": "https://api.github.com/repos/starship/starship/releases/assets/158343577"
+    },
+    {
+      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.1/starship-aarch64-apple-darwin.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2024-03-21T15:29:16Z",
-      "id": 157900348,
+      "created_at": "2024-03-24T10:04:34Z",
+      "id": 158343569,
       "label": "",
       "name": "starship-aarch64-apple-darwin.tar.gz",
-      "node_id": "RA_kwDOCqswNs4JaV48",
-      "size": 2895868,
+      "node_id": "RA_kwDOCqswNs4JcCGR",
+      "size": 2900870,
       "state": "uploaded",
-      "updated_at": "2024-03-21T15:29:17Z",
+      "updated_at": "2024-03-24T10:04:35Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -31,19 +97,19 @@
         "type": "Bot",
         "url": "https://api.github.com/users/github-actions%5Bbot%5D"
       },
-      "url": "https://api.github.com/repos/starship/starship/releases/assets/157900348"
+      "url": "https://api.github.com/repos/starship/starship/releases/assets/158343569"
     },
     {
-      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.0/starship-aarch64-apple-darwin.tar.gz.sha256",
+      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.1/starship-aarch64-apple-darwin.tar.gz.sha256",
       "content_type": "application/octet-stream",
-      "created_at": "2024-03-21T15:29:16Z",
-      "id": 157900347,
+      "created_at": "2024-03-24T10:04:34Z",
+      "id": 158343567,
       "label": "",
       "name": "starship-aarch64-apple-darwin.tar.gz.sha256",
-      "node_id": "RA_kwDOCqswNs4JaV47",
+      "node_id": "RA_kwDOCqswNs4JcCGP",
       "size": 65,
       "state": "uploaded",
-      "updated_at": "2024-03-21T15:29:16Z",
+      "updated_at": "2024-03-24T10:04:35Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -64,19 +130,19 @@
         "type": "Bot",
         "url": "https://api.github.com/users/github-actions%5Bbot%5D"
       },
-      "url": "https://api.github.com/repos/starship/starship/releases/assets/157900347"
+      "url": "https://api.github.com/repos/starship/starship/releases/assets/158343567"
     },
     {
-      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.0/starship-aarch64-pc-windows-msvc.zip",
+      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.1/starship-aarch64-pc-windows-msvc.zip",
       "content_type": "application/zip",
-      "created_at": "2024-03-21T15:29:16Z",
-      "id": 157900352,
+      "created_at": "2024-03-24T10:04:34Z",
+      "id": 158343573,
       "label": "",
       "name": "starship-aarch64-pc-windows-msvc.zip",
-      "node_id": "RA_kwDOCqswNs4JaV5A",
-      "size": 3139175,
+      "node_id": "RA_kwDOCqswNs4JcCGV",
+      "size": 3141284,
       "state": "uploaded",
-      "updated_at": "2024-03-21T15:29:17Z",
+      "updated_at": "2024-03-24T10:04:35Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -97,19 +163,19 @@
         "type": "Bot",
         "url": "https://api.github.com/users/github-actions%5Bbot%5D"
       },
-      "url": "https://api.github.com/repos/starship/starship/releases/assets/157900352"
+      "url": "https://api.github.com/repos/starship/starship/releases/assets/158343573"
     },
     {
-      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.0/starship-aarch64-pc-windows-msvc.zip.sha256",
+      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.1/starship-aarch64-pc-windows-msvc.zip.sha256",
       "content_type": "application/octet-stream",
-      "created_at": "2024-03-21T15:29:16Z",
-      "id": 157900349,
+      "created_at": "2024-03-24T10:04:34Z",
+      "id": 158343570,
       "label": "",
       "name": "starship-aarch64-pc-windows-msvc.zip.sha256",
-      "node_id": "RA_kwDOCqswNs4JaV49",
+      "node_id": "RA_kwDOCqswNs4JcCGS",
       "size": 65,
       "state": "uploaded",
-      "updated_at": "2024-03-21T15:29:17Z",
+      "updated_at": "2024-03-24T10:04:35Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -130,19 +196,19 @@
         "type": "Bot",
         "url": "https://api.github.com/users/github-actions%5Bbot%5D"
       },
-      "url": "https://api.github.com/repos/starship/starship/releases/assets/157900349"
+      "url": "https://api.github.com/repos/starship/starship/releases/assets/158343570"
     },
     {
-      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.0/starship-aarch64-unknown-linux-musl.tar.gz",
+      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.1/starship-aarch64-unknown-linux-musl.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2024-03-21T15:29:16Z",
-      "id": 157900351,
+      "created_at": "2024-03-24T10:04:34Z",
+      "id": 158343576,
       "label": "",
       "name": "starship-aarch64-unknown-linux-musl.tar.gz",
-      "node_id": "RA_kwDOCqswNs4JaV4_",
-      "size": 3696610,
+      "node_id": "RA_kwDOCqswNs4JcCGY",
+      "size": 3697575,
       "state": "uploaded",
-      "updated_at": "2024-03-21T15:29:17Z",
+      "updated_at": "2024-03-24T10:04:35Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -163,19 +229,19 @@
         "type": "Bot",
         "url": "https://api.github.com/users/github-actions%5Bbot%5D"
       },
-      "url": "https://api.github.com/repos/starship/starship/releases/assets/157900351"
+      "url": "https://api.github.com/repos/starship/starship/releases/assets/158343576"
     },
     {
-      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.0/starship-aarch64-unknown-linux-musl.tar.gz.sha256",
+      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.1/starship-aarch64-unknown-linux-musl.tar.gz.sha256",
       "content_type": "application/octet-stream",
-      "created_at": "2024-03-21T15:29:16Z",
-      "id": 157900354,
+      "created_at": "2024-03-24T10:04:34Z",
+      "id": 158343574,
       "label": "",
       "name": "starship-aarch64-unknown-linux-musl.tar.gz.sha256",
-      "node_id": "RA_kwDOCqswNs4JaV5C",
+      "node_id": "RA_kwDOCqswNs4JcCGW",
       "size": 65,
       "state": "uploaded",
-      "updated_at": "2024-03-21T15:29:16Z",
+      "updated_at": "2024-03-24T10:04:35Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -196,19 +262,19 @@
         "type": "Bot",
         "url": "https://api.github.com/users/github-actions%5Bbot%5D"
       },
-      "url": "https://api.github.com/repos/starship/starship/releases/assets/157900354"
+      "url": "https://api.github.com/repos/starship/starship/releases/assets/158343574"
     },
     {
-      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.0/starship-arm-unknown-linux-musleabihf.tar.gz",
+      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.1/starship-arm-unknown-linux-musleabihf.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2024-03-21T15:29:16Z",
-      "id": 157900350,
+      "created_at": "2024-03-24T10:04:34Z",
+      "id": 158343571,
       "label": "",
       "name": "starship-arm-unknown-linux-musleabihf.tar.gz",
-      "node_id": "RA_kwDOCqswNs4JaV4-",
-      "size": 3866432,
+      "node_id": "RA_kwDOCqswNs4JcCGT",
+      "size": 3864890,
       "state": "uploaded",
-      "updated_at": "2024-03-21T15:29:17Z",
+      "updated_at": "2024-03-24T10:04:35Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -229,19 +295,19 @@
         "type": "Bot",
         "url": "https://api.github.com/users/github-actions%5Bbot%5D"
       },
-      "url": "https://api.github.com/repos/starship/starship/releases/assets/157900350"
+      "url": "https://api.github.com/repos/starship/starship/releases/assets/158343571"
     },
     {
-      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.0/starship-arm-unknown-linux-musleabihf.tar.gz.sha256",
+      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.1/starship-arm-unknown-linux-musleabihf.tar.gz.sha256",
       "content_type": "application/octet-stream",
-      "created_at": "2024-03-21T15:29:16Z",
-      "id": 157900358,
+      "created_at": "2024-03-24T10:04:34Z",
+      "id": 158343572,
       "label": "",
       "name": "starship-arm-unknown-linux-musleabihf.tar.gz.sha256",
-      "node_id": "RA_kwDOCqswNs4JaV5G",
+      "node_id": "RA_kwDOCqswNs4JcCGU",
       "size": 65,
       "state": "uploaded",
-      "updated_at": "2024-03-21T15:29:17Z",
+      "updated_at": "2024-03-24T10:04:35Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -262,19 +328,19 @@
         "type": "Bot",
         "url": "https://api.github.com/users/github-actions%5Bbot%5D"
       },
-      "url": "https://api.github.com/repos/starship/starship/releases/assets/157900358"
+      "url": "https://api.github.com/repos/starship/starship/releases/assets/158343572"
     },
     {
-      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.0/starship-i686-pc-windows-msvc.msi",
+      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.1/starship-i686-pc-windows-msvc.msi",
       "content_type": "application/octet-stream",
-      "created_at": "2024-03-21T15:29:16Z",
-      "id": 157900353,
+      "created_at": "2024-03-24T10:04:35Z",
+      "id": 158343592,
       "label": "",
       "name": "starship-i686-pc-windows-msvc.msi",
-      "node_id": "RA_kwDOCqswNs4JaV5B",
+      "node_id": "RA_kwDOCqswNs4JcCGo",
       "size": 4272128,
       "state": "uploaded",
-      "updated_at": "2024-03-21T15:29:17Z",
+      "updated_at": "2024-03-24T10:04:35Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -295,19 +361,19 @@
         "type": "Bot",
         "url": "https://api.github.com/users/github-actions%5Bbot%5D"
       },
-      "url": "https://api.github.com/repos/starship/starship/releases/assets/157900353"
+      "url": "https://api.github.com/repos/starship/starship/releases/assets/158343592"
     },
     {
-      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.0/starship-i686-pc-windows-msvc.msi.sha256",
+      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.1/starship-i686-pc-windows-msvc.msi.sha256",
       "content_type": "application/octet-stream",
-      "created_at": "2024-03-21T15:29:16Z",
-      "id": 157900355,
+      "created_at": "2024-03-24T10:04:34Z",
+      "id": 158343578,
       "label": "",
       "name": "starship-i686-pc-windows-msvc.msi.sha256",
-      "node_id": "RA_kwDOCqswNs4JaV5D",
+      "node_id": "RA_kwDOCqswNs4JcCGa",
       "size": 65,
       "state": "uploaded",
-      "updated_at": "2024-03-21T15:29:17Z",
+      "updated_at": "2024-03-24T10:04:35Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -328,19 +394,19 @@
         "type": "Bot",
         "url": "https://api.github.com/users/github-actions%5Bbot%5D"
       },
-      "url": "https://api.github.com/repos/starship/starship/releases/assets/157900355"
+      "url": "https://api.github.com/repos/starship/starship/releases/assets/158343578"
     },
     {
-      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.0/starship-i686-pc-windows-msvc.zip",
+      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.1/starship-i686-pc-windows-msvc.zip",
       "content_type": "application/zip",
-      "created_at": "2024-03-21T15:29:16Z",
-      "id": 157900360,
+      "created_at": "2024-03-24T10:04:34Z",
+      "id": 158343586,
       "label": "",
       "name": "starship-i686-pc-windows-msvc.zip",
-      "node_id": "RA_kwDOCqswNs4JaV5I",
-      "size": 3074889,
+      "node_id": "RA_kwDOCqswNs4JcCGi",
+      "size": 3075301,
       "state": "uploaded",
-      "updated_at": "2024-03-21T15:29:17Z",
+      "updated_at": "2024-03-24T10:04:35Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -361,19 +427,19 @@
         "type": "Bot",
         "url": "https://api.github.com/users/github-actions%5Bbot%5D"
       },
-      "url": "https://api.github.com/repos/starship/starship/releases/assets/157900360"
+      "url": "https://api.github.com/repos/starship/starship/releases/assets/158343586"
     },
     {
-      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.0/starship-i686-pc-windows-msvc.zip.sha256",
+      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.1/starship-i686-pc-windows-msvc.zip.sha256",
       "content_type": "application/octet-stream",
-      "created_at": "2024-03-21T15:29:16Z",
-      "id": 157900356,
+      "created_at": "2024-03-24T10:04:34Z",
+      "id": 158343580,
       "label": "",
       "name": "starship-i686-pc-windows-msvc.zip.sha256",
-      "node_id": "RA_kwDOCqswNs4JaV5E",
+      "node_id": "RA_kwDOCqswNs4JcCGc",
       "size": 65,
       "state": "uploaded",
-      "updated_at": "2024-03-21T15:29:17Z",
+      "updated_at": "2024-03-24T10:04:35Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -394,19 +460,19 @@
         "type": "Bot",
         "url": "https://api.github.com/users/github-actions%5Bbot%5D"
       },
-      "url": "https://api.github.com/repos/starship/starship/releases/assets/157900356"
+      "url": "https://api.github.com/repos/starship/starship/releases/assets/158343580"
     },
     {
-      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.0/starship-i686-unknown-linux-musl.tar.gz",
+      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.1/starship-i686-unknown-linux-musl.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2024-03-21T15:29:16Z",
-      "id": 157900357,
+      "created_at": "2024-03-24T10:04:34Z",
+      "id": 158343575,
       "label": "",
       "name": "starship-i686-unknown-linux-musl.tar.gz",
-      "node_id": "RA_kwDOCqswNs4JaV5F",
-      "size": 3891871,
+      "node_id": "RA_kwDOCqswNs4JcCGX",
+      "size": 3892074,
       "state": "uploaded",
-      "updated_at": "2024-03-21T15:29:17Z",
+      "updated_at": "2024-03-24T10:04:35Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -427,19 +493,19 @@
         "type": "Bot",
         "url": "https://api.github.com/users/github-actions%5Bbot%5D"
       },
-      "url": "https://api.github.com/repos/starship/starship/releases/assets/157900357"
+      "url": "https://api.github.com/repos/starship/starship/releases/assets/158343575"
     },
     {
-      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.0/starship-i686-unknown-linux-musl.tar.gz.sha256",
+      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.1/starship-i686-unknown-linux-musl.tar.gz.sha256",
       "content_type": "application/octet-stream",
-      "created_at": "2024-03-21T15:29:16Z",
-      "id": 157900369,
+      "created_at": "2024-03-24T10:04:34Z",
+      "id": 158343579,
       "label": "",
       "name": "starship-i686-unknown-linux-musl.tar.gz.sha256",
-      "node_id": "RA_kwDOCqswNs4JaV5R",
+      "node_id": "RA_kwDOCqswNs4JcCGb",
       "size": 65,
       "state": "uploaded",
-      "updated_at": "2024-03-21T15:29:17Z",
+      "updated_at": "2024-03-24T10:04:35Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -460,19 +526,85 @@
         "type": "Bot",
         "url": "https://api.github.com/users/github-actions%5Bbot%5D"
       },
-      "url": "https://api.github.com/repos/starship/starship/releases/assets/157900369"
+      "url": "https://api.github.com/repos/starship/starship/releases/assets/158343579"
     },
     {
-      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.0/starship-x86_64-apple-darwin.tar.gz",
+      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.1/starship-x86_64-apple-darwin.pkg",
+      "content_type": "application/octet-stream",
+      "created_at": "2024-03-24T10:04:34Z",
+      "id": 158343581,
+      "label": "",
+      "name": "starship-x86_64-apple-darwin.pkg",
+      "node_id": "RA_kwDOCqswNs4JcCGd",
+      "size": 9658710,
+      "state": "uploaded",
+      "updated_at": "2024-03-24T10:04:35Z",
+      "uploader": {
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+        "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+        "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+        "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/apps/github-actions",
+        "id": 41898282,
+        "login": "github-actions[bot]",
+        "node_id": "MDM6Qm90NDE4OTgyODI=",
+        "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+        "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+        "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+        "type": "Bot",
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+      },
+      "url": "https://api.github.com/repos/starship/starship/releases/assets/158343581"
+    },
+    {
+      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.1/starship-x86_64-apple-darwin.pkg.sha256",
+      "content_type": "application/octet-stream",
+      "created_at": "2024-03-24T10:04:34Z",
+      "id": 158343584,
+      "label": "",
+      "name": "starship-x86_64-apple-darwin.pkg.sha256",
+      "node_id": "RA_kwDOCqswNs4JcCGg",
+      "size": 65,
+      "state": "uploaded",
+      "updated_at": "2024-03-24T10:04:35Z",
+      "uploader": {
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+        "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+        "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+        "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/apps/github-actions",
+        "id": 41898282,
+        "login": "github-actions[bot]",
+        "node_id": "MDM6Qm90NDE4OTgyODI=",
+        "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+        "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+        "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+        "type": "Bot",
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+      },
+      "url": "https://api.github.com/repos/starship/starship/releases/assets/158343584"
+    },
+    {
+      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.1/starship-x86_64-apple-darwin.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2024-03-21T15:29:16Z",
-      "id": 157900359,
+      "created_at": "2024-03-24T10:04:34Z",
+      "id": 158343582,
       "label": "",
       "name": "starship-x86_64-apple-darwin.tar.gz",
-      "node_id": "RA_kwDOCqswNs4JaV5H",
-      "size": 3130590,
+      "node_id": "RA_kwDOCqswNs4JcCGe",
+      "size": 3236465,
       "state": "uploaded",
-      "updated_at": "2024-03-21T15:29:17Z",
+      "updated_at": "2024-03-24T10:04:35Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -493,19 +625,19 @@
         "type": "Bot",
         "url": "https://api.github.com/users/github-actions%5Bbot%5D"
       },
-      "url": "https://api.github.com/repos/starship/starship/releases/assets/157900359"
+      "url": "https://api.github.com/repos/starship/starship/releases/assets/158343582"
     },
     {
-      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.0/starship-x86_64-apple-darwin.tar.gz.sha256",
+      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.1/starship-x86_64-apple-darwin.tar.gz.sha256",
       "content_type": "application/octet-stream",
-      "created_at": "2024-03-21T15:29:16Z",
-      "id": 157900361,
+      "created_at": "2024-03-24T10:04:34Z",
+      "id": 158343583,
       "label": "",
       "name": "starship-x86_64-apple-darwin.tar.gz.sha256",
-      "node_id": "RA_kwDOCqswNs4JaV5J",
+      "node_id": "RA_kwDOCqswNs4JcCGf",
       "size": 65,
       "state": "uploaded",
-      "updated_at": "2024-03-21T15:29:17Z",
+      "updated_at": "2024-03-24T10:04:35Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -526,19 +658,19 @@
         "type": "Bot",
         "url": "https://api.github.com/users/github-actions%5Bbot%5D"
       },
-      "url": "https://api.github.com/repos/starship/starship/releases/assets/157900361"
+      "url": "https://api.github.com/repos/starship/starship/releases/assets/158343583"
     },
     {
-      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.0/starship-x86_64-pc-windows-msvc.msi",
+      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.1/starship-x86_64-pc-windows-msvc.msi",
       "content_type": "application/octet-stream",
-      "created_at": "2024-03-21T15:29:16Z",
-      "id": 157900362,
+      "created_at": "2024-03-24T10:04:35Z",
+      "id": 158343587,
       "label": "",
       "name": "starship-x86_64-pc-windows-msvc.msi",
-      "node_id": "RA_kwDOCqswNs4JaV5K",
+      "node_id": "RA_kwDOCqswNs4JcCGj",
       "size": 4571136,
       "state": "uploaded",
-      "updated_at": "2024-03-21T15:29:17Z",
+      "updated_at": "2024-03-24T10:04:35Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -559,19 +691,19 @@
         "type": "Bot",
         "url": "https://api.github.com/users/github-actions%5Bbot%5D"
       },
-      "url": "https://api.github.com/repos/starship/starship/releases/assets/157900362"
+      "url": "https://api.github.com/repos/starship/starship/releases/assets/158343587"
     },
     {
-      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.0/starship-x86_64-pc-windows-msvc.msi.sha256",
+      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.1/starship-x86_64-pc-windows-msvc.msi.sha256",
       "content_type": "application/octet-stream",
-      "created_at": "2024-03-21T15:29:16Z",
-      "id": 157900364,
+      "created_at": "2024-03-24T10:04:35Z",
+      "id": 158343588,
       "label": "",
       "name": "starship-x86_64-pc-windows-msvc.msi.sha256",
-      "node_id": "RA_kwDOCqswNs4JaV5M",
+      "node_id": "RA_kwDOCqswNs4JcCGk",
       "size": 65,
       "state": "uploaded",
-      "updated_at": "2024-03-21T15:29:17Z",
+      "updated_at": "2024-03-24T10:04:35Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -592,19 +724,19 @@
         "type": "Bot",
         "url": "https://api.github.com/users/github-actions%5Bbot%5D"
       },
-      "url": "https://api.github.com/repos/starship/starship/releases/assets/157900364"
+      "url": "https://api.github.com/repos/starship/starship/releases/assets/158343588"
     },
     {
-      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.0/starship-x86_64-pc-windows-msvc.zip",
+      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.1/starship-x86_64-pc-windows-msvc.zip",
       "content_type": "application/zip",
-      "created_at": "2024-03-21T15:29:16Z",
-      "id": 157900368,
+      "created_at": "2024-03-24T10:04:35Z",
+      "id": 158343589,
       "label": "",
       "name": "starship-x86_64-pc-windows-msvc.zip",
-      "node_id": "RA_kwDOCqswNs4JaV5Q",
-      "size": 3365366,
+      "node_id": "RA_kwDOCqswNs4JcCGl",
+      "size": 3365248,
       "state": "uploaded",
-      "updated_at": "2024-03-21T15:29:17Z",
+      "updated_at": "2024-03-24T10:04:35Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -625,19 +757,19 @@
         "type": "Bot",
         "url": "https://api.github.com/users/github-actions%5Bbot%5D"
       },
-      "url": "https://api.github.com/repos/starship/starship/releases/assets/157900368"
+      "url": "https://api.github.com/repos/starship/starship/releases/assets/158343589"
     },
     {
-      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.0/starship-x86_64-pc-windows-msvc.zip.sha256",
+      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.1/starship-x86_64-pc-windows-msvc.zip.sha256",
       "content_type": "application/octet-stream",
-      "created_at": "2024-03-21T15:29:16Z",
-      "id": 157900363,
+      "created_at": "2024-03-24T10:04:34Z",
+      "id": 158343585,
       "label": "",
       "name": "starship-x86_64-pc-windows-msvc.zip.sha256",
-      "node_id": "RA_kwDOCqswNs4JaV5L",
+      "node_id": "RA_kwDOCqswNs4JcCGh",
       "size": 65,
       "state": "uploaded",
-      "updated_at": "2024-03-21T15:29:17Z",
+      "updated_at": "2024-03-24T10:04:35Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -658,19 +790,85 @@
         "type": "Bot",
         "url": "https://api.github.com/users/github-actions%5Bbot%5D"
       },
-      "url": "https://api.github.com/repos/starship/starship/releases/assets/157900363"
+      "url": "https://api.github.com/repos/starship/starship/releases/assets/158343585"
     },
     {
-      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.0/starship-x86_64-unknown-linux-gnu.tar.gz",
+      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.1/starship-x86_64-unknown-freebsd.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2024-03-21T15:29:16Z",
-      "id": 157900367,
+      "created_at": "2024-03-24T10:04:35Z",
+      "id": 158343593,
+      "label": "",
+      "name": "starship-x86_64-unknown-freebsd.tar.gz",
+      "node_id": "RA_kwDOCqswNs4JcCGp",
+      "size": 3867663,
+      "state": "uploaded",
+      "updated_at": "2024-03-24T10:04:35Z",
+      "uploader": {
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+        "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+        "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+        "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/apps/github-actions",
+        "id": 41898282,
+        "login": "github-actions[bot]",
+        "node_id": "MDM6Qm90NDE4OTgyODI=",
+        "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+        "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+        "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+        "type": "Bot",
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+      },
+      "url": "https://api.github.com/repos/starship/starship/releases/assets/158343593"
+    },
+    {
+      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.1/starship-x86_64-unknown-freebsd.tar.gz.sha256",
+      "content_type": "application/octet-stream",
+      "created_at": "2024-03-24T10:04:35Z",
+      "id": 158343590,
+      "label": "",
+      "name": "starship-x86_64-unknown-freebsd.tar.gz.sha256",
+      "node_id": "RA_kwDOCqswNs4JcCGm",
+      "size": 65,
+      "state": "uploaded",
+      "updated_at": "2024-03-24T10:04:35Z",
+      "uploader": {
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+        "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+        "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+        "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/apps/github-actions",
+        "id": 41898282,
+        "login": "github-actions[bot]",
+        "node_id": "MDM6Qm90NDE4OTgyODI=",
+        "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+        "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+        "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+        "type": "Bot",
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+      },
+      "url": "https://api.github.com/repos/starship/starship/releases/assets/158343590"
+    },
+    {
+      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.1/starship-x86_64-unknown-linux-gnu.tar.gz",
+      "content_type": "application/gzip",
+      "created_at": "2024-03-24T10:04:35Z",
+      "id": 158343596,
       "label": "",
       "name": "starship-x86_64-unknown-linux-gnu.tar.gz",
-      "node_id": "RA_kwDOCqswNs4JaV5P",
-      "size": 3903199,
+      "node_id": "RA_kwDOCqswNs4JcCGs",
+      "size": 3901660,
       "state": "uploaded",
-      "updated_at": "2024-03-21T15:29:17Z",
+      "updated_at": "2024-03-24T10:04:35Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -691,19 +889,19 @@
         "type": "Bot",
         "url": "https://api.github.com/users/github-actions%5Bbot%5D"
       },
-      "url": "https://api.github.com/repos/starship/starship/releases/assets/157900367"
+      "url": "https://api.github.com/repos/starship/starship/releases/assets/158343596"
     },
     {
-      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.0/starship-x86_64-unknown-linux-gnu.tar.gz.sha256",
+      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.1/starship-x86_64-unknown-linux-gnu.tar.gz.sha256",
       "content_type": "application/octet-stream",
-      "created_at": "2024-03-21T15:29:16Z",
-      "id": 157900365,
+      "created_at": "2024-03-24T10:04:35Z",
+      "id": 158343594,
       "label": "",
       "name": "starship-x86_64-unknown-linux-gnu.tar.gz.sha256",
-      "node_id": "RA_kwDOCqswNs4JaV5N",
+      "node_id": "RA_kwDOCqswNs4JcCGq",
       "size": 65,
       "state": "uploaded",
-      "updated_at": "2024-03-21T15:29:17Z",
+      "updated_at": "2024-03-24T10:04:35Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -724,19 +922,19 @@
         "type": "Bot",
         "url": "https://api.github.com/users/github-actions%5Bbot%5D"
       },
-      "url": "https://api.github.com/repos/starship/starship/releases/assets/157900365"
+      "url": "https://api.github.com/repos/starship/starship/releases/assets/158343594"
     },
     {
-      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.0/starship-x86_64-unknown-linux-musl.tar.gz",
+      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.1/starship-x86_64-unknown-linux-musl.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2024-03-21T15:29:17Z",
-      "id": 157900370,
+      "created_at": "2024-03-24T10:04:35Z",
+      "id": 158343595,
       "label": "",
       "name": "starship-x86_64-unknown-linux-musl.tar.gz",
-      "node_id": "RA_kwDOCqswNs4JaV5S",
-      "size": 3980634,
+      "node_id": "RA_kwDOCqswNs4JcCGr",
+      "size": 3980812,
       "state": "uploaded",
-      "updated_at": "2024-03-21T15:29:17Z",
+      "updated_at": "2024-03-24T10:04:35Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -757,19 +955,19 @@
         "type": "Bot",
         "url": "https://api.github.com/users/github-actions%5Bbot%5D"
       },
-      "url": "https://api.github.com/repos/starship/starship/releases/assets/157900370"
+      "url": "https://api.github.com/repos/starship/starship/releases/assets/158343595"
     },
     {
-      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.0/starship-x86_64-unknown-linux-musl.tar.gz.sha256",
+      "browser_download_url": "https://github.com/starship/starship/releases/download/v1.18.1/starship-x86_64-unknown-linux-musl.tar.gz.sha256",
       "content_type": "application/octet-stream",
-      "created_at": "2024-03-21T15:29:16Z",
-      "id": 157900366,
+      "created_at": "2024-03-24T10:04:35Z",
+      "id": 158343591,
       "label": "",
       "name": "starship-x86_64-unknown-linux-musl.tar.gz.sha256",
-      "node_id": "RA_kwDOCqswNs4JaV5O",
+      "node_id": "RA_kwDOCqswNs4JcCGn",
       "size": 65,
       "state": "uploaded",
-      "updated_at": "2024-03-21T15:29:17Z",
+      "updated_at": "2024-03-24T10:04:35Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -790,10 +988,10 @@
         "type": "Bot",
         "url": "https://api.github.com/users/github-actions%5Bbot%5D"
       },
-      "url": "https://api.github.com/repos/starship/starship/releases/assets/157900366"
+      "url": "https://api.github.com/repos/starship/starship/releases/assets/158343591"
     }
   ],
-  "assets_url": "https://api.github.com/repos/starship/starship/releases/147754532/assets",
+  "assets_url": "https://api.github.com/repos/starship/starship/releases/148076920/assets",
   "author": {
     "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
     "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -814,19 +1012,19 @@
     "type": "Bot",
     "url": "https://api.github.com/users/github-actions%5Bbot%5D"
   },
-  "body": "## [1.18.0](https://github.com/starship/starship/compare/v1.17.1...v1.18.0) (2024-03-21)\n\n\n### Features\n\n* $gemset variable for Ruby module ([#5429](https://github.com/starship/starship/issues/5429)) ([938ea3c](https://github.com/starship/starship/commit/938ea3c40145af68d8e28b2ef0275531f1123202))\n* **bash:** Support right prompt and transience ([#4902](https://github.com/starship/starship/issues/4902)) ([5ead13d](https://github.com/starship/starship/commit/5ead13d6aa6303c85c562f1b940048cc539667cd))\n* **bash:** use PS0 for preexec hook ([#5735](https://github.com/starship/starship/issues/5735)) ([ae711c0](https://github.com/starship/starship/commit/ae711c0f332f4f24c843e59d6d5783e398e21b38))\n* **direnv:** use JSON status with direnv &gt;= 2.33.0 ([#5692](https://github.com/starship/starship/issues/5692)) ([482c7b7](https://github.com/starship/starship/commit/482c7b719fc304fcad5f3572c4551f8ff4179522))\n* **docs:** move to vitepress ([#5785](https://github.com/starship/starship/issues/5785)) ([7485c90](https://github.com/starship/starship/commit/7485c90c9f7259c026a84dd0335f56860005315d))\n* **install:** Add version option to install script ([f66bfd9](https://github.com/starship/starship/commit/f66bfd9435f215867681a699428bd882d8c63ce7))\n* **install:** Add version option to install script ([#5728](https://github.com/starship/starship/issues/5728)) ([f66bfd9](https://github.com/starship/starship/commit/f66bfd9435f215867681a699428bd882d8c63ce7))\n* **os:** add new os symbols ([#5849](https://github.com/starship/starship/issues/5849)) ([df65b21](https://github.com/starship/starship/commit/df65b2155f92c03d07cabbcee6c92104a878c963))\n* **quarto:** Add Quarto module ([#5820](https://github.com/starship/starship/issues/5820)) ([0e49f04](https://github.com/starship/starship/commit/0e49f04a6b249090cf3703c5dac041a51e6bf530))\n* **release:** add winget arm64 push & repo sync ([#5033](https://github.com/starship/starship/issues/5033)) ([aef1a3f](https://github.com/starship/starship/commit/aef1a3f275e7ec9095c4718ecf6a268abfe7794a))\n* **username:** add detect_env_vars as option ([#5833](https://github.com/starship/starship/issues/5833)) ([b8a812b](https://github.com/starship/starship/commit/b8a812b93207da992ff8ae9f8b955bfa1252072b))\n\n\n### Bug Fixes\n\n* **bash:** Handle Unbound Variables Errors in Bash ([#4972](https://github.com/starship/starship/issues/4972)) ([7093d5c](https://github.com/starship/starship/commit/7093d5cd84967edba93c9ed412b07519664f6356))\n* **bash:** improve integration with bash-preexec ([#5734](https://github.com/starship/starship/issues/5734)) ([2aa711c](https://github.com/starship/starship/commit/2aa711ccc7096437e21149b18d1384534bfbcc57))\n* **character:** also handle vi edit mode in pwsh ([#5775](https://github.com/starship/starship/issues/5775)) ([0891ec2](https://github.com/starship/starship/commit/0891ec27a40421cd742a853885731aed63f412aa))\n* **direnv:** update to work with direnv v2.33 ([#5657](https://github.com/starship/starship/issues/5657)) ([cec111a](https://github.com/starship/starship/commit/cec111affdaf0a52f72c398f8307cf7e19c7dd8d))\n* **git_branch:** fall back to \"HEAD\" when there is no current branch ([#5768](https://github.com/starship/starship/issues/5768)) ([6a96e84](https://github.com/starship/starship/commit/6a96e84a15e3ea598356e4fcad23ac4b2690dd1e))\n* **nu:** continuation prompt not being displayed correctly ([#5851](https://github.com/starship/starship/issues/5851)) ([d308e91](https://github.com/starship/starship/commit/d308e918ee014f4ca9976683e79e819afd8160f7))\n* **status:** fix pipestatus width calculation ([#5036](https://github.com/starship/starship/issues/5036)) ([ab84043](https://github.com/starship/starship/commit/ab840439e326a80c53466c7b767d29be0112b9d2)), closes [#3162](https://github.com/starship/starship/issues/3162)\n* **zsh:** improve starship binary path escaping ([#5574](https://github.com/starship/starship/issues/5574)) ([2bb57cf](https://github.com/starship/starship/commit/2bb57cf0cd6d53194d26f4be96dff5fa14942622))",
-  "created_at": "2024-03-21T15:14:45Z",
+  "body": "## [1.18.1](https://github.com/starship/starship/compare/v1.18.0...v1.18.1) (2024-03-24)\n\n\n### Bug Fixes\n\n* **deps:** update rust crate os_info to 3.8.2 ([#5870](https://github.com/starship/starship/issues/5870)) ([d421f63](https://github.com/starship/starship/commit/d421f63785f901caf222941cbfae7cb8c0feec74))\n* replace all remaining paths referring to vuepress ([#5859](https://github.com/starship/starship/issues/5859)) ([d5861f9](https://github.com/starship/starship/commit/d5861f9f974147d307c319865890cbb3e50dbe5a))",
+  "created_at": "2024-03-24T09:51:46Z",
   "draft": false,
-  "html_url": "https://github.com/starship/starship/releases/tag/v1.18.0",
-  "id": 147754532,
-  "name": "v1.18.0",
-  "node_id": "RE_kwDOCqswNs4Izo4k",
+  "html_url": "https://github.com/starship/starship/releases/tag/v1.18.1",
+  "id": 148076920,
+  "name": "v1.18.1",
+  "node_id": "RE_kwDOCqswNs4I03l4",
   "prerelease": false,
-  "published_at": "2024-03-21T15:15:06Z",
-  "tag_name": "v1.18.0",
-  "tarball_url": "https://api.github.com/repos/starship/starship/tarball/v1.18.0",
-  "target_commitish": "a5108a763822f280785008df38ceb8e90bb9256f",
-  "upload_url": "https://uploads.github.com/repos/starship/starship/releases/147754532/assets{?name,label}",
-  "url": "https://api.github.com/repos/starship/starship/releases/147754532",
-  "zipball_url": "https://api.github.com/repos/starship/starship/zipball/v1.18.0"
+  "published_at": "2024-03-24T09:52:06Z",
+  "tag_name": "v1.18.1",
+  "tarball_url": "https://api.github.com/repos/starship/starship/tarball/v1.18.1",
+  "target_commitish": "422934dc71f9e6c582407ee5aa0364eae3b0e371",
+  "upload_url": "https://uploads.github.com/repos/starship/starship/releases/148076920/assets{?name,label}",
+  "url": "https://api.github.com/repos/starship/starship/releases/148076920",
+  "zipball_url": "https://api.github.com/repos/starship/starship/zipball/v1.18.1"
 }
