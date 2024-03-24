@@ -1,6 +1,6 @@
 [
   { "name": "busybox",          "eget_url": "https://raw.githubusercontent.com/ryanwoodsmall/static-binaries/master/x86_64/busybox",           "verify": "busybox | head -1", "upx": true },
-  { "name": "curl",             "eget_url": "https://github.com/Azathothas/Static-Binaries/blob/main/curl/curl_amd_x86_64_Linux",              "verify": "--version", "upx": true },
+  { "name": "curl",             "eget_url": "https://raw.githubusercontent.com/Azathothas/Static-Binaries/main/curl/curl_amd_x86_64_Linux",              "verify": "--version", "upx": true },
   { "name": "entr",             "eget_url": "https://raw.githubusercontent.com/ryanwoodsmall/static-binaries/master/x86_64/entr",              "verify": "2> >(grep -i release) | grep release", "upx": true },
   { "name": "jo",               "eget_url": "https://raw.githubusercontent.com/ryanwoodsmall/static-binaries/master/x86_64/jo",                "verify": "-v", "upx": true },
   { "name": "pv",               "eget_url": "https://raw.githubusercontent.com/ryanwoodsmall/static-binaries/master/x86_64/pv",                "verify": "--version | head -1", "upx": true },
@@ -15,6 +15,8 @@
   { "name": "serf",             "eget_url": "https://raw.githubusercontent.com/borestad/filedump/main/binaries/x86_64-linux/serf",             "verify": "version | head -1", "upx": true },
   { "name": "grc-rs",           "eget_url": "https://raw.githubusercontent.com/borestad/filedump/main/binaries/x86_64-linux/grc-rs",           "verify": "&>/dev/null || true && echo 'v0.3.2'", "upx": true },
   { "name": "dig",              "eget_url": "https://files.serverless.industries/bin/dig.x86",                                                 "verify": "-v", "upx": true },
+
+
 
   { "name": "rp",               "eget_url": "aaronriekenberg/rust-parallel",      "eget_args": "-a x86_64-unknown-linux-gnu",                  "verify": "--version", "upx": true },
   { "name": "sponge",           "eget_url": "hymkor/sponge",                      "eget_args": "-a linux-amd64",                               "verify": "--version", "upx": true },
