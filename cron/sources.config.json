@@ -19,7 +19,7 @@
 
 
   { "name": "rp",               "eget_url": "aaronriekenberg/rust-parallel",      "eget_args": "-a x86_64-unknown-linux-gnu",                  "verify": "--version", "upx": true },
-  { "name": "sponge",           "eget_url": "hymkor/sponge",                      "eget_args": "-a linux-amd64",                               "verify": "--version", "upx": true },
+  { "name": "sponge",           "eget_url": "hymkor/sponge",                      "eget_args": "-a linux-amd64",                               "verify": "-h 2> >(head -1)", "upx": true },
   { "name": "gh",               "eget_url": "cli/cli",                            "eget_args": "-a linux_amd64.tar.gz",                        "verify": "--version", "upx": true },
   { "name": "supervisord",      "eget_url": "triole/supervisord",                 "eget_args": "-a linux_x86_64.tar.gz",                       "verify": "version", "upx": true },
   { "name": "agrind",           "eget_url": "rcoh/angle-grinder",                 "eget_args": "-a unknown-linux-musl",                        "verify": "--version &> /dev/null || true", "upx": true },
