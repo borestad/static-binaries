@@ -1,16 +1,16 @@
 {
   "assets": [
     {
-      "browser_download_url": "https://github.com/ducaale/xh/releases/download/v0.21.0/xh-v0.21.0-aarch64-unknown-linux-musl.tar.gz",
+      "browser_download_url": "https://github.com/ducaale/xh/releases/download/v0.22.0/xh-v0.22.0-aarch64-apple-darwin.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2024-01-28T21:25:47Z",
-      "id": 148379593,
+      "created_at": "2024-04-12T22:44:22Z",
+      "id": 161826393,
       "label": "",
-      "name": "xh-v0.21.0-aarch64-unknown-linux-musl.tar.gz",
-      "node_id": "RA_kwDOEY4I3c4I2BfJ",
-      "size": 2909992,
+      "name": "xh-v0.22.0-aarch64-apple-darwin.tar.gz",
+      "node_id": "RA_kwDOEY4I3c4JpUZZ",
+      "size": 2887572,
       "state": "uploaded",
-      "updated_at": "2024-01-28T21:25:48Z",
+      "updated_at": "2024-04-12T22:44:23Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -31,19 +31,19 @@
         "type": "Bot",
         "url": "https://api.github.com/users/github-actions%5Bbot%5D"
       },
-      "url": "https://api.github.com/repos/ducaale/xh/releases/assets/148379593"
+      "url": "https://api.github.com/repos/ducaale/xh/releases/assets/161826393"
     },
     {
-      "browser_download_url": "https://github.com/ducaale/xh/releases/download/v0.21.0/xh-v0.21.0-arm-unknown-linux-gnueabihf.tar.gz",
+      "browser_download_url": "https://github.com/ducaale/xh/releases/download/v0.22.0/xh-v0.22.0-aarch64-unknown-linux-musl.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2024-01-28T21:25:38Z",
-      "id": 148379584,
+      "created_at": "2024-04-12T22:45:55Z",
+      "id": 161826582,
       "label": "",
-      "name": "xh-v0.21.0-arm-unknown-linux-gnueabihf.tar.gz",
-      "node_id": "RA_kwDOEY4I3c4I2BfA",
-      "size": 2847054,
+      "name": "xh-v0.22.0-aarch64-unknown-linux-musl.tar.gz",
+      "node_id": "RA_kwDOEY4I3c4JpUcW",
+      "size": 2935388,
       "state": "uploaded",
-      "updated_at": "2024-01-28T21:25:39Z",
+      "updated_at": "2024-04-12T22:45:55Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -64,19 +64,19 @@
         "type": "Bot",
         "url": "https://api.github.com/users/github-actions%5Bbot%5D"
       },
-      "url": "https://api.github.com/repos/ducaale/xh/releases/assets/148379584"
+      "url": "https://api.github.com/repos/ducaale/xh/releases/assets/161826582"
     },
     {
-      "browser_download_url": "https://github.com/ducaale/xh/releases/download/v0.21.0/xh-v0.21.0-x86_64-apple-darwin.tar.gz",
+      "browser_download_url": "https://github.com/ducaale/xh/releases/download/v0.22.0/xh-v0.22.0-arm-unknown-linux-gnueabihf.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2024-01-28T21:27:39Z",
-      "id": 148379845,
+      "created_at": "2024-04-12T22:45:41Z",
+      "id": 161826558,
       "label": "",
-      "name": "xh-v0.21.0-x86_64-apple-darwin.tar.gz",
-      "node_id": "RA_kwDOEY4I3c4I2BjF",
-      "size": 2988977,
+      "name": "xh-v0.22.0-arm-unknown-linux-gnueabihf.tar.gz",
+      "node_id": "RA_kwDOEY4I3c4JpUb-",
+      "size": 2855099,
       "state": "uploaded",
-      "updated_at": "2024-01-28T21:27:39Z",
+      "updated_at": "2024-04-12T22:45:42Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -97,19 +97,52 @@
         "type": "Bot",
         "url": "https://api.github.com/users/github-actions%5Bbot%5D"
       },
-      "url": "https://api.github.com/repos/ducaale/xh/releases/assets/148379845"
+      "url": "https://api.github.com/repos/ducaale/xh/releases/assets/161826558"
     },
     {
-      "browser_download_url": "https://github.com/ducaale/xh/releases/download/v0.21.0/xh-v0.21.0-x86_64-pc-windows-msvc.zip",
+      "browser_download_url": "https://github.com/ducaale/xh/releases/download/v0.22.0/xh-v0.22.0-x86_64-apple-darwin.tar.gz",
+      "content_type": "application/gzip",
+      "created_at": "2024-04-12T22:48:15Z",
+      "id": 161826802,
+      "label": "",
+      "name": "xh-v0.22.0-x86_64-apple-darwin.tar.gz",
+      "node_id": "RA_kwDOEY4I3c4JpUfy",
+      "size": 3055897,
+      "state": "uploaded",
+      "updated_at": "2024-04-12T22:48:15Z",
+      "uploader": {
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+        "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+        "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+        "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/apps/github-actions",
+        "id": 41898282,
+        "login": "github-actions[bot]",
+        "node_id": "MDM6Qm90NDE4OTgyODI=",
+        "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+        "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+        "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+        "type": "Bot",
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+      },
+      "url": "https://api.github.com/repos/ducaale/xh/releases/assets/161826802"
+    },
+    {
+      "browser_download_url": "https://github.com/ducaale/xh/releases/download/v0.22.0/xh-v0.22.0-x86_64-pc-windows-msvc.zip",
       "content_type": "application/zip",
-      "created_at": "2024-01-28T21:27:38Z",
-      "id": 148379837,
+      "created_at": "2024-04-12T22:47:18Z",
+      "id": 161826670,
       "label": "",
-      "name": "xh-v0.21.0-x86_64-pc-windows-msvc.zip",
-      "node_id": "RA_kwDOEY4I3c4I2Bi9",
-      "size": 3158850,
+      "name": "xh-v0.22.0-x86_64-pc-windows-msvc.zip",
+      "node_id": "RA_kwDOEY4I3c4JpUdu",
+      "size": 3139426,
       "state": "uploaded",
-      "updated_at": "2024-01-28T21:27:39Z",
+      "updated_at": "2024-04-12T22:47:18Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -130,19 +163,19 @@
         "type": "Bot",
         "url": "https://api.github.com/users/github-actions%5Bbot%5D"
       },
-      "url": "https://api.github.com/repos/ducaale/xh/releases/assets/148379837"
+      "url": "https://api.github.com/repos/ducaale/xh/releases/assets/161826670"
     },
     {
-      "browser_download_url": "https://github.com/ducaale/xh/releases/download/v0.21.0/xh-v0.21.0-x86_64-unknown-linux-musl.tar.gz",
+      "browser_download_url": "https://github.com/ducaale/xh/releases/download/v0.22.0/xh-v0.22.0-x86_64-unknown-linux-musl.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2024-01-28T21:26:16Z",
-      "id": 148379654,
+      "created_at": "2024-04-12T22:46:21Z",
+      "id": 161826632,
       "label": "",
-      "name": "xh-v0.21.0-x86_64-unknown-linux-musl.tar.gz",
-      "node_id": "RA_kwDOEY4I3c4I2BgG",
-      "size": 3105382,
+      "name": "xh-v0.22.0-x86_64-unknown-linux-musl.tar.gz",
+      "node_id": "RA_kwDOEY4I3c4JpUdI",
+      "size": 3151308,
       "state": "uploaded",
-      "updated_at": "2024-01-28T21:26:17Z",
+      "updated_at": "2024-04-12T22:46:21Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -163,19 +196,19 @@
         "type": "Bot",
         "url": "https://api.github.com/users/github-actions%5Bbot%5D"
       },
-      "url": "https://api.github.com/repos/ducaale/xh/releases/assets/148379654"
+      "url": "https://api.github.com/repos/ducaale/xh/releases/assets/161826632"
     },
     {
-      "browser_download_url": "https://github.com/ducaale/xh/releases/download/v0.21.0/xh_0.21.0_amd64.deb",
+      "browser_download_url": "https://github.com/ducaale/xh/releases/download/v0.22.0/xh_0.22.0_amd64.deb",
       "content_type": "application/octet-stream",
-      "created_at": "2024-01-28T21:26:16Z",
-      "id": 148379653,
+      "created_at": "2024-04-12T22:46:21Z",
+      "id": 161826631,
       "label": "",
-      "name": "xh_0.21.0_amd64.deb",
-      "node_id": "RA_kwDOEY4I3c4I2BgF",
-      "size": 2401816,
+      "name": "xh_0.22.0_amd64.deb",
+      "node_id": "RA_kwDOEY4I3c4JpUdH",
+      "size": 2432324,
       "state": "uploaded",
-      "updated_at": "2024-01-28T21:26:17Z",
+      "updated_at": "2024-04-12T22:46:21Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -196,10 +229,10 @@
         "type": "Bot",
         "url": "https://api.github.com/users/github-actions%5Bbot%5D"
       },
-      "url": "https://api.github.com/repos/ducaale/xh/releases/assets/148379653"
+      "url": "https://api.github.com/repos/ducaale/xh/releases/assets/161826631"
     }
   ],
-  "assets_url": "https://api.github.com/repos/ducaale/xh/releases/138832480/assets",
+  "assets_url": "https://api.github.com/repos/ducaale/xh/releases/151000897/assets",
   "author": {
     "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
     "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -220,19 +253,19 @@
     "type": "Bot",
     "url": "https://api.github.com/users/github-actions%5Bbot%5D"
   },
-  "body": "## Features\r\n- Display remote address in metadata when `-vv` or `--meta` flag is used, see #348 (@zuisong)\r\n\r\n## Other\r\n- Default `XH_CONFIG_DIR` to `~/.config/xh` in macOS, see #353 (@ducaale)\r\n",
-  "created_at": "2024-01-28T21:08:51Z",
+  "body": "### Features\r\n- Support http2-prior-knowledge, see #356 (@zuisong)\r\n- Directly bind to interface name on supported platforms, see #359 (@ducaale)\r\n- Enable stream when content-type is `text/event-stream`, see #360 (@zuisong)\r\n- Decode utf-8 encoded string when formatting non-streaming JSON response, see #361 (@zuisong)\r\n\r\n### Other\r\n- Upgrade to hyper v1, see #357 (@zuisong)\r\n- Use `serde-transcode` to optimize JSON formatting, see #362 (@blyxxyz)",
+  "created_at": "2024-04-12T22:34:00Z",
   "draft": false,
-  "html_url": "https://github.com/ducaale/xh/releases/tag/v0.21.0",
-  "id": 138832480,
-  "name": "v0.21.0",
-  "node_id": "RE_kwDOEY4I3c4IRmpg",
+  "html_url": "https://github.com/ducaale/xh/releases/tag/v0.22.0",
+  "id": 151000897,
+  "name": "v0.22.0",
+  "node_id": "RE_kwDOEY4I3c4JABdB",
   "prerelease": false,
-  "published_at": "2024-01-28T21:36:37Z",
-  "tag_name": "v0.21.0",
-  "tarball_url": "https://api.github.com/repos/ducaale/xh/tarball/v0.21.0",
+  "published_at": "2024-04-12T22:50:49Z",
+  "tag_name": "v0.22.0",
+  "tarball_url": "https://api.github.com/repos/ducaale/xh/tarball/v0.22.0",
   "target_commitish": "master",
-  "upload_url": "https://uploads.github.com/repos/ducaale/xh/releases/138832480/assets{?name,label}",
-  "url": "https://api.github.com/repos/ducaale/xh/releases/138832480",
-  "zipball_url": "https://api.github.com/repos/ducaale/xh/zipball/v0.21.0"
+  "upload_url": "https://uploads.github.com/repos/ducaale/xh/releases/151000897/assets{?name,label}",
+  "url": "https://api.github.com/repos/ducaale/xh/releases/151000897",
+  "zipball_url": "https://api.github.com/repos/ducaale/xh/zipball/v0.22.0"
 }
