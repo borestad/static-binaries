@@ -1,16 +1,49 @@
 {
   "assets": [
     {
-      "browser_download_url": "https://github.com/eza-community/eza/releases/download/v0.18.11/eza.exe_x86_64-pc-windows-gnu.tar.gz",
+      "browser_download_url": "https://github.com/eza-community/eza/releases/download/v0.18.13/completions-0.18.13.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2024-04-19T05:01:56Z",
-      "id": 163003104,
+      "created_at": "2024-04-25T15:30:23Z",
+      "id": 164214025,
+      "label": "",
+      "name": "completions-0.18.13.tar.gz",
+      "node_id": "RA_kwDOKAtYXM4JybUJ",
+      "size": 4644,
+      "state": "uploaded",
+      "updated_at": "2024-04-25T15:30:23Z",
+      "uploader": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/89321978?v=4",
+        "events_url": "https://api.github.com/users/cafkafk/events{/privacy}",
+        "followers_url": "https://api.github.com/users/cafkafk/followers",
+        "following_url": "https://api.github.com/users/cafkafk/following{/other_user}",
+        "gists_url": "https://api.github.com/users/cafkafk/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/cafkafk",
+        "id": 89321978,
+        "login": "cafkafk",
+        "node_id": "MDQ6VXNlcjg5MzIxOTc4",
+        "organizations_url": "https://api.github.com/users/cafkafk/orgs",
+        "received_events_url": "https://api.github.com/users/cafkafk/received_events",
+        "repos_url": "https://api.github.com/users/cafkafk/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/cafkafk/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/cafkafk/subscriptions",
+        "type": "User",
+        "url": "https://api.github.com/users/cafkafk"
+      },
+      "url": "https://api.github.com/repos/eza-community/eza/releases/assets/164214025"
+    },
+    {
+      "browser_download_url": "https://github.com/eza-community/eza/releases/download/v0.18.13/eza.exe_x86_64-pc-windows-gnu.tar.gz",
+      "content_type": "application/x-gtar",
+      "created_at": "2024-04-25T15:30:21Z",
+      "id": 164214013,
       "label": "",
       "name": "eza.exe_x86_64-pc-windows-gnu.tar.gz",
-      "node_id": "RA_kwDOKAtYXM4Jtzrg",
-      "size": 1095635,
+      "node_id": "RA_kwDOKAtYXM4JybT9",
+      "size": 1097637,
       "state": "uploaded",
-      "updated_at": "2024-04-19T05:01:57Z",
+      "updated_at": "2024-04-25T15:30:22Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/89321978?v=4",
         "events_url": "https://api.github.com/users/cafkafk/events{/privacy}",
@@ -31,19 +64,19 @@
         "type": "User",
         "url": "https://api.github.com/users/cafkafk"
       },
-      "url": "https://api.github.com/repos/eza-community/eza/releases/assets/163003104"
+      "url": "https://api.github.com/repos/eza-community/eza/releases/assets/164214013"
     },
     {
-      "browser_download_url": "https://github.com/eza-community/eza/releases/download/v0.18.11/eza.exe_x86_64-pc-windows-gnu.zip",
+      "browser_download_url": "https://github.com/eza-community/eza/releases/download/v0.18.13/eza.exe_x86_64-pc-windows-gnu.zip",
       "content_type": "application/zip",
-      "created_at": "2024-04-19T05:01:57Z",
-      "id": 163003105,
+      "created_at": "2024-04-25T15:30:22Z",
+      "id": 164214018,
       "label": "",
       "name": "eza.exe_x86_64-pc-windows-gnu.zip",
-      "node_id": "RA_kwDOKAtYXM4Jtzrh",
-      "size": 1095656,
+      "node_id": "RA_kwDOKAtYXM4JybUC",
+      "size": 1097643,
       "state": "uploaded",
-      "updated_at": "2024-04-19T05:01:58Z",
+      "updated_at": "2024-04-25T15:30:22Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/89321978?v=4",
         "events_url": "https://api.github.com/users/cafkafk/events{/privacy}",
@@ -64,19 +97,19 @@
         "type": "User",
         "url": "https://api.github.com/users/cafkafk"
       },
-      "url": "https://api.github.com/repos/eza-community/eza/releases/assets/163003105"
+      "url": "https://api.github.com/repos/eza-community/eza/releases/assets/164214018"
     },
     {
-      "browser_download_url": "https://github.com/eza-community/eza/releases/download/v0.18.11/eza_aarch64-unknown-linux-gnu.tar.gz",
+      "browser_download_url": "https://github.com/eza-community/eza/releases/download/v0.18.13/eza_aarch64-unknown-linux-gnu.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2024-04-19T05:01:56Z",
-      "id": 163003101,
+      "created_at": "2024-04-25T15:30:21Z",
+      "id": 164214012,
       "label": "",
       "name": "eza_aarch64-unknown-linux-gnu.tar.gz",
-      "node_id": "RA_kwDOKAtYXM4Jtzrd",
-      "size": 467874,
+      "node_id": "RA_kwDOKAtYXM4JybT8",
+      "size": 470423,
       "state": "uploaded",
-      "updated_at": "2024-04-19T05:01:57Z",
+      "updated_at": "2024-04-25T15:30:22Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/89321978?v=4",
         "events_url": "https://api.github.com/users/cafkafk/events{/privacy}",
@@ -97,19 +130,19 @@
         "type": "User",
         "url": "https://api.github.com/users/cafkafk"
       },
-      "url": "https://api.github.com/repos/eza-community/eza/releases/assets/163003101"
+      "url": "https://api.github.com/repos/eza-community/eza/releases/assets/164214012"
     },
     {
-      "browser_download_url": "https://github.com/eza-community/eza/releases/download/v0.18.11/eza_aarch64-unknown-linux-gnu.zip",
+      "browser_download_url": "https://github.com/eza-community/eza/releases/download/v0.18.13/eza_aarch64-unknown-linux-gnu.zip",
       "content_type": "application/zip",
-      "created_at": "2024-04-19T05:01:56Z",
-      "id": 163003102,
+      "created_at": "2024-04-25T15:30:21Z",
+      "id": 164214011,
       "label": "",
       "name": "eza_aarch64-unknown-linux-gnu.zip",
-      "node_id": "RA_kwDOKAtYXM4Jtzre",
-      "size": 467880,
+      "node_id": "RA_kwDOKAtYXM4JybT7",
+      "size": 470462,
       "state": "uploaded",
-      "updated_at": "2024-04-19T05:01:57Z",
+      "updated_at": "2024-04-25T15:30:22Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/89321978?v=4",
         "events_url": "https://api.github.com/users/cafkafk/events{/privacy}",
@@ -130,19 +163,19 @@
         "type": "User",
         "url": "https://api.github.com/users/cafkafk"
       },
-      "url": "https://api.github.com/repos/eza-community/eza/releases/assets/163003102"
+      "url": "https://api.github.com/repos/eza-community/eza/releases/assets/164214011"
     },
     {
-      "browser_download_url": "https://github.com/eza-community/eza/releases/download/v0.18.11/eza_arm-unknown-linux-gnueabihf.tar.gz",
+      "browser_download_url": "https://github.com/eza-community/eza/releases/download/v0.18.13/eza_arm-unknown-linux-gnueabihf.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2024-04-19T05:01:56Z",
-      "id": 163003100,
+      "created_at": "2024-04-25T15:30:21Z",
+      "id": 164214015,
       "label": "",
       "name": "eza_arm-unknown-linux-gnueabihf.tar.gz",
-      "node_id": "RA_kwDOKAtYXM4Jtzrc",
-      "size": 480814,
+      "node_id": "RA_kwDOKAtYXM4JybT_",
+      "size": 484026,
       "state": "uploaded",
-      "updated_at": "2024-04-19T05:01:57Z",
+      "updated_at": "2024-04-25T15:30:22Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/89321978?v=4",
         "events_url": "https://api.github.com/users/cafkafk/events{/privacy}",
@@ -163,19 +196,19 @@
         "type": "User",
         "url": "https://api.github.com/users/cafkafk"
       },
-      "url": "https://api.github.com/repos/eza-community/eza/releases/assets/163003100"
+      "url": "https://api.github.com/repos/eza-community/eza/releases/assets/164214015"
     },
     {
-      "browser_download_url": "https://github.com/eza-community/eza/releases/download/v0.18.11/eza_arm-unknown-linux-gnueabihf.zip",
+      "browser_download_url": "https://github.com/eza-community/eza/releases/download/v0.18.13/eza_arm-unknown-linux-gnueabihf.zip",
       "content_type": "application/zip",
-      "created_at": "2024-04-19T05:01:56Z",
-      "id": 163003103,
+      "created_at": "2024-04-25T15:30:21Z",
+      "id": 164214014,
       "label": "",
       "name": "eza_arm-unknown-linux-gnueabihf.zip",
-      "node_id": "RA_kwDOKAtYXM4Jtzrf",
-      "size": 480851,
+      "node_id": "RA_kwDOKAtYXM4JybT-",
+      "size": 484059,
       "state": "uploaded",
-      "updated_at": "2024-04-19T05:01:57Z",
+      "updated_at": "2024-04-25T15:30:22Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/89321978?v=4",
         "events_url": "https://api.github.com/users/cafkafk/events{/privacy}",
@@ -196,19 +229,19 @@
         "type": "User",
         "url": "https://api.github.com/users/cafkafk"
       },
-      "url": "https://api.github.com/repos/eza-community/eza/releases/assets/163003103"
+      "url": "https://api.github.com/repos/eza-community/eza/releases/assets/164214014"
     },
     {
-      "browser_download_url": "https://github.com/eza-community/eza/releases/download/v0.18.11/eza_x86_64-unknown-linux-gnu.tar.gz",
+      "browser_download_url": "https://github.com/eza-community/eza/releases/download/v0.18.13/eza_x86_64-unknown-linux-gnu.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2024-04-19T05:01:57Z",
-      "id": 163003106,
+      "created_at": "2024-04-25T15:30:22Z",
+      "id": 164214019,
       "label": "",
       "name": "eza_x86_64-unknown-linux-gnu.tar.gz",
-      "node_id": "RA_kwDOKAtYXM4Jtzri",
-      "size": 851378,
+      "node_id": "RA_kwDOKAtYXM4JybUD",
+      "size": 854137,
       "state": "uploaded",
-      "updated_at": "2024-04-19T05:01:58Z",
+      "updated_at": "2024-04-25T15:30:23Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/89321978?v=4",
         "events_url": "https://api.github.com/users/cafkafk/events{/privacy}",
@@ -229,19 +262,19 @@
         "type": "User",
         "url": "https://api.github.com/users/cafkafk"
       },
-      "url": "https://api.github.com/repos/eza-community/eza/releases/assets/163003106"
+      "url": "https://api.github.com/repos/eza-community/eza/releases/assets/164214019"
     },
     {
-      "browser_download_url": "https://github.com/eza-community/eza/releases/download/v0.18.11/eza_x86_64-unknown-linux-gnu.zip",
+      "browser_download_url": "https://github.com/eza-community/eza/releases/download/v0.18.13/eza_x86_64-unknown-linux-gnu.zip",
       "content_type": "application/zip",
-      "created_at": "2024-04-19T05:01:58Z",
-      "id": 163003107,
+      "created_at": "2024-04-25T15:30:22Z",
+      "id": 164214020,
       "label": "",
       "name": "eza_x86_64-unknown-linux-gnu.zip",
-      "node_id": "RA_kwDOKAtYXM4Jtzrj",
-      "size": 851356,
+      "node_id": "RA_kwDOKAtYXM4JybUE",
+      "size": 854115,
       "state": "uploaded",
-      "updated_at": "2024-04-19T05:01:58Z",
+      "updated_at": "2024-04-25T15:30:22Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/89321978?v=4",
         "events_url": "https://api.github.com/users/cafkafk/events{/privacy}",
@@ -262,19 +295,19 @@
         "type": "User",
         "url": "https://api.github.com/users/cafkafk"
       },
-      "url": "https://api.github.com/repos/eza-community/eza/releases/assets/163003107"
+      "url": "https://api.github.com/repos/eza-community/eza/releases/assets/164214020"
     },
     {
-      "browser_download_url": "https://github.com/eza-community/eza/releases/download/v0.18.11/eza_x86_64-unknown-linux-musl.tar.gz",
+      "browser_download_url": "https://github.com/eza-community/eza/releases/download/v0.18.13/eza_x86_64-unknown-linux-musl.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2024-04-19T05:01:58Z",
-      "id": 163003111,
+      "created_at": "2024-04-25T15:30:22Z",
+      "id": 164214021,
       "label": "",
       "name": "eza_x86_64-unknown-linux-musl.tar.gz",
-      "node_id": "RA_kwDOKAtYXM4Jtzrn",
-      "size": 1017436,
+      "node_id": "RA_kwDOKAtYXM4JybUF",
+      "size": 1020632,
       "state": "uploaded",
-      "updated_at": "2024-04-19T05:02:02Z",
+      "updated_at": "2024-04-25T15:30:22Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/89321978?v=4",
         "events_url": "https://api.github.com/users/cafkafk/events{/privacy}",
@@ -295,19 +328,19 @@
         "type": "User",
         "url": "https://api.github.com/users/cafkafk"
       },
-      "url": "https://api.github.com/repos/eza-community/eza/releases/assets/163003111"
+      "url": "https://api.github.com/repos/eza-community/eza/releases/assets/164214021"
     },
     {
-      "browser_download_url": "https://github.com/eza-community/eza/releases/download/v0.18.11/eza_x86_64-unknown-linux-musl.zip",
+      "browser_download_url": "https://github.com/eza-community/eza/releases/download/v0.18.13/eza_x86_64-unknown-linux-musl.zip",
       "content_type": "application/zip",
-      "created_at": "2024-04-19T05:02:00Z",
-      "id": 163003116,
+      "created_at": "2024-04-25T15:30:22Z",
+      "id": 164214022,
       "label": "",
       "name": "eza_x86_64-unknown-linux-musl.zip",
-      "node_id": "RA_kwDOKAtYXM4Jtzrs",
-      "size": 1017414,
+      "node_id": "RA_kwDOKAtYXM4JybUG",
+      "size": 1020640,
       "state": "uploaded",
-      "updated_at": "2024-04-19T05:02:01Z",
+      "updated_at": "2024-04-25T15:30:23Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/89321978?v=4",
         "events_url": "https://api.github.com/users/cafkafk/events{/privacy}",
@@ -328,10 +361,43 @@
         "type": "User",
         "url": "https://api.github.com/users/cafkafk"
       },
-      "url": "https://api.github.com/repos/eza-community/eza/releases/assets/163003116"
+      "url": "https://api.github.com/repos/eza-community/eza/releases/assets/164214022"
+    },
+    {
+      "browser_download_url": "https://github.com/eza-community/eza/releases/download/v0.18.13/man-0.18.13.tar.gz",
+      "content_type": "application/x-gtar",
+      "created_at": "2024-04-25T15:30:23Z",
+      "id": 164214024,
+      "label": "",
+      "name": "man-0.18.13.tar.gz",
+      "node_id": "RA_kwDOKAtYXM4JybUI",
+      "size": 8504,
+      "state": "uploaded",
+      "updated_at": "2024-04-25T15:30:23Z",
+      "uploader": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/89321978?v=4",
+        "events_url": "https://api.github.com/users/cafkafk/events{/privacy}",
+        "followers_url": "https://api.github.com/users/cafkafk/followers",
+        "following_url": "https://api.github.com/users/cafkafk/following{/other_user}",
+        "gists_url": "https://api.github.com/users/cafkafk/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/cafkafk",
+        "id": 89321978,
+        "login": "cafkafk",
+        "node_id": "MDQ6VXNlcjg5MzIxOTc4",
+        "organizations_url": "https://api.github.com/users/cafkafk/orgs",
+        "received_events_url": "https://api.github.com/users/cafkafk/received_events",
+        "repos_url": "https://api.github.com/users/cafkafk/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/cafkafk/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/cafkafk/subscriptions",
+        "type": "User",
+        "url": "https://api.github.com/users/cafkafk"
+      },
+      "url": "https://api.github.com/repos/eza-community/eza/releases/assets/164214024"
     }
   ],
-  "assets_url": "https://api.github.com/repos/eza-community/eza/releases/151861216/assets",
+  "assets_url": "https://api.github.com/repos/eza-community/eza/releases/152834154/assets",
   "author": {
     "avatar_url": "https://avatars.githubusercontent.com/u/89321978?v=4",
     "events_url": "https://api.github.com/users/cafkafk/events{/privacy}",
@@ -352,19 +418,19 @@
     "type": "User",
     "url": "https://api.github.com/users/cafkafk"
   },
-  "body": "# Note to BSD users\r\n\r\nWe recently added support for freebsd, netbsd, and openbsd. However, we don't seem to have any regular contributors that use these platforms. Last week, that meant netbsd build being broken (which was later fixed), this week, it means freebsd is.\r\n\r\nIf you're a user of any of these, and wanna help us support these platforms, please consider joining our matrix rooms and introduce yourself. \r\n\r\n# Changelog\r\n\r\n## [0.18.11] - 2024-04-19\r\n\r\n### Bug Fixes\r\n\r\n- Fix clippy lints\r\n- Enable the rule only for NetBSD.\r\n- Build aarch64, arm without libgit2\r\n\r\n### Miscellaneous Tasks\r\n\r\n- Release eza v0.18.11\r\n\r\n### Ci\r\n\r\n- Bump NetBSD version to 10.0\r\n\r\n\r\n# Checksums\r\n## sha256sum\r\n```\r\n0ca2fdbfde90eb209e0e79b26052ed0087f89ab7c4f7a28b7ef28425ac9c2cc5  ./target/bin-0.18.11/eza_aarch64-unknown-linux-gnu.tar.gz\r\n53e98fd2fece242206b9b82141c0c8f3d1a1d681aa0be1ce504353ef1e7f9d9e  ./target/bin-0.18.11/eza_aarch64-unknown-linux-gnu.zip\r\n312b8424ddd4839f9fd1afbb8d47ab2da5e60d6aa1eef0336d7b5a23cb0f467a  ./target/bin-0.18.11/eza_arm-unknown-linux-gnueabihf.tar.gz\r\n3f2387b2d7a5a51d4a592a0ba5e22dcb4181be11ca18964945d00990f9e67f33  ./target/bin-0.18.11/eza_arm-unknown-linux-gnueabihf.zip\r\n5f89f4b3a2ac8c5072c9fdbb928546768a67ab1f7ca1de61d25920d9c08eab9e  ./target/bin-0.18.11/eza.exe_x86_64-pc-windows-gnu.tar.gz\r\ndeb6484d38f5080feb152fb6d6b39fef7e198784fa43abc362160ee4b64a8f0e  ./target/bin-0.18.11/eza.exe_x86_64-pc-windows-gnu.zip\r\n223e0b5e1708e83304a4143f6ad18411177f8e377afbf62d7c12f34a24d5e2b9  ./target/bin-0.18.11/eza_x86_64-unknown-linux-gnu.tar.gz\r\n49b3e7efb0f35e209324c46eb680c47613fad3de3caf4c039323068a2624d70f  ./target/bin-0.18.11/eza_x86_64-unknown-linux-gnu.zip\r\n76897bfeb00e17dffb9d4bc0a72351568461eeccbcb4b490fa1dab7a7941528a  ./target/bin-0.18.11/eza_x86_64-unknown-linux-musl.tar.gz\r\neabae039a540fca6045af4689fff4e9c09e85f257eb96d3bcbd2801a15326a60  ./target/bin-0.18.11/eza_x86_64-unknown-linux-musl.zip\r\n```\r\n## md5sum\r\n```\r\nae10158f7ecc52140fb7ab24d67951e5  ./target/bin-0.18.11/eza_aarch64-unknown-linux-gnu.tar.gz\r\ndd1de5d7a97010c748f19b242fedc2e0  ./target/bin-0.18.11/eza_aarch64-unknown-linux-gnu.zip\r\nd699373bf1effa3c2b1dcfa8ffc44a3f  ./target/bin-0.18.11/eza_arm-unknown-linux-gnueabihf.tar.gz\r\nfdaa9668edfda38d15352da3253d85f8  ./target/bin-0.18.11/eza_arm-unknown-linux-gnueabihf.zip\r\na0ba17f03a48d0f2e38f2737732f11d1  ./target/bin-0.18.11/eza.exe_x86_64-pc-windows-gnu.tar.gz\r\n579b7dbe9cde99cf19c81cce23f47cf7  ./target/bin-0.18.11/eza.exe_x86_64-pc-windows-gnu.zip\r\nc5cf74787ecd87fcca8e2769d9b21863  ./target/bin-0.18.11/eza_x86_64-unknown-linux-gnu.tar.gz\r\n222ed71159ce5bc7dc05d91e08488779  ./target/bin-0.18.11/eza_x86_64-unknown-linux-gnu.zip\r\n08953f7054472626a374a542b5707f77  ./target/bin-0.18.11/eza_x86_64-unknown-linux-musl.tar.gz\r\n48c7391f0c9ebe327dc86ba36b02fa98  ./target/bin-0.18.11/eza_x86_64-unknown-linux-musl.zip\r\n```\r\n## blake3sum\r\n```\r\n1c4895bc928b452a3caaeaaab72c478c255ab745c525ed4c548e8503528112ef  ./target/bin-0.18.11/eza_aarch64-unknown-linux-gnu.tar.gz\r\n935bbe1a941f1c31a21b07df35ed3aa0cc87ff5ffbcf265c42d0478edb2170f8  ./target/bin-0.18.11/eza_aarch64-unknown-linux-gnu.zip\r\nb73aa561cd9fd8eb777e437a1da6404a3f2e0a75b7c922ea2135957763e0f514  ./target/bin-0.18.11/eza_arm-unknown-linux-gnueabihf.tar.gz\r\n4b6a6bf403aac22a3af8223b5df0c4fab72ade869fa41efe96b77e74df0c42db  ./target/bin-0.18.11/eza_arm-unknown-linux-gnueabihf.zip\r\n39eddfe74eeab4600c983586f51e8d219d83cbe3aa7da6a1398db04b5d2c9ad3  ./target/bin-0.18.11/eza.exe_x86_64-pc-windows-gnu.tar.gz\r\n782b660d795f19012fa62e85e9a6bbc3a85982f83ff8561d859ae48609ee36e7  ./target/bin-0.18.11/eza.exe_x86_64-pc-windows-gnu.zip\r\n9962259ad1b89640a7c3b74c9064e332c2af7b27e8656586c8ac8edaa9879d18  ./target/bin-0.18.11/eza_x86_64-unknown-linux-gnu.tar.gz\r\n251c7d928cd7e6671a60bbdbf92204738fb16849626c9b51bf3f8fd951fdfb4b  ./target/bin-0.18.11/eza_x86_64-unknown-linux-gnu.zip\r\nc109a4d7bd426571e0ff88c40426f5d8c80b5cb9964376fda5a3184abed6a1cc  ./target/bin-0.18.11/eza_x86_64-unknown-linux-musl.tar.gz\r\n7a86aeecd2e39b680c01d142480c0af90d7f6dc60fabc8c63f705f87e72041e5  ./target/bin-0.18.11/eza_x86_64-unknown-linux-musl.zip\r\n```\r\n",
-  "created_at": "2024-04-19T05:00:43Z",
+  "body": "# Description\r\nSo tiny :3\r\n\r\n# Changelog\r\n\r\n## [0.18.13] - 2024-04-25\r\n\r\n### Features\r\n\r\n- Generate completion/manpage tarballs on release\r\n\r\n### Miscellaneous Tasks\r\n\r\n- Release eza v0.18.13\r\n\r\n\r\n# Checksums\r\n## sha256sum\r\n```\r\n6c131105f340dca8673c9b719b12fc38ed3dca563dfe364a9d593d23b16531f1  ./target/bin-0.18.13/eza_aarch64-unknown-linux-gnu.tar.gz\r\n4aeca286e099af02fc61956c3fd86139eb99e939be97978b20c21f425272ca03  ./target/bin-0.18.13/eza_aarch64-unknown-linux-gnu.zip\r\n5ee6341617d26df3531bd404bd1bed6b438dca778828539b98c244fe7a3a6899  ./target/bin-0.18.13/eza_arm-unknown-linux-gnueabihf.tar.gz\r\na54181ca9df0f617312f5ad7e27fd835fbdb0b78e3b1a1f27e22802f7afc91b5  ./target/bin-0.18.13/eza_arm-unknown-linux-gnueabihf.zip\r\n9fc1593a9a8d9b86a2d5f7b596765ccf73c5fc67a824d891e832a2c634eca29a  ./target/bin-0.18.13/eza.exe_x86_64-pc-windows-gnu.tar.gz\r\n55f6456ff3371c19945f24619a490f2387b0dcc3a98272f4040b33f5a046d953  ./target/bin-0.18.13/eza.exe_x86_64-pc-windows-gnu.zip\r\n0ec56b9f2b26626d171c7088f36172229d209d7142acacb60c64b35395765ec1  ./target/bin-0.18.13/eza_x86_64-unknown-linux-gnu.tar.gz\r\n212d7d52b4fa8bfce5f9c89a0f46a3ba589ec27ffb1f2617e0c9611243296eab  ./target/bin-0.18.13/eza_x86_64-unknown-linux-gnu.zip\r\nc0e1f181e6b477bd0efb3cdd8a0704c20743eb6ee590ff2177a1e243cbd684a5  ./target/bin-0.18.13/eza_x86_64-unknown-linux-musl.tar.gz\r\n46be33b7d4edcfd36707502ba0432ce3ffb355a7b2c75fa0b8ac05d24e076b25  ./target/bin-0.18.13/eza_x86_64-unknown-linux-musl.zip\r\n```\r\n## md5sum\r\n```\r\n4872b19fefb1de6c04d1476dfcb2faa5  ./target/bin-0.18.13/eza_aarch64-unknown-linux-gnu.tar.gz\r\n9b8020fe8cd2aedd344af16f62afce81  ./target/bin-0.18.13/eza_aarch64-unknown-linux-gnu.zip\r\n7025bd9202c23ff2c6e9d7ba92d172c7  ./target/bin-0.18.13/eza_arm-unknown-linux-gnueabihf.tar.gz\r\nea72a1a7a2a7e053128d26f2349e1156  ./target/bin-0.18.13/eza_arm-unknown-linux-gnueabihf.zip\r\n99f766d9793aabb9a8177e7f9e0d9eff  ./target/bin-0.18.13/eza.exe_x86_64-pc-windows-gnu.tar.gz\r\n0b12ff03ff4a210102b3d094f79e07cd  ./target/bin-0.18.13/eza.exe_x86_64-pc-windows-gnu.zip\r\n86f39a404b3dbed94137db83cc5aab2d  ./target/bin-0.18.13/eza_x86_64-unknown-linux-gnu.tar.gz\r\n7ae49188edac0dceeb9391389764fc84  ./target/bin-0.18.13/eza_x86_64-unknown-linux-gnu.zip\r\n6200b504b469c9efae48efc0617f8fc7  ./target/bin-0.18.13/eza_x86_64-unknown-linux-musl.tar.gz\r\n1a5c3bf4c5bf139e590c7a3195602ea8  ./target/bin-0.18.13/eza_x86_64-unknown-linux-musl.zip\r\n```\r\n## blake3sum\r\n```\r\n1f5380c6a24c91c4160195e365e4ae304cbb7340d348b8df1bdc3c1cfb095314  ./target/bin-0.18.13/eza_aarch64-unknown-linux-gnu.tar.gz\r\n62335ae8bcf7d29ff30519550ea966f7ac8884e700fccf4e4106fdb558ed23f2  ./target/bin-0.18.13/eza_aarch64-unknown-linux-gnu.zip\r\n56763e95ebe41588f84a14affcdf72b8be39c3377c861e4efb2ae7dde1145ebb  ./target/bin-0.18.13/eza_arm-unknown-linux-gnueabihf.tar.gz\r\n47c96f8f02d7e3253b5f0dc6b92bc24855f9d4a23994bb9c6dc6c74f733e5fd0  ./target/bin-0.18.13/eza_arm-unknown-linux-gnueabihf.zip\r\n702441baab68ec34bbdc1baf49aa9fde9787e5fb1a4c78bd3f2443e3b256cd40  ./target/bin-0.18.13/eza.exe_x86_64-pc-windows-gnu.tar.gz\r\nb41e1f042544a56bcf9dddb4b5e2c6f4a11317f7a36481af9f4ebe32cc2561e1  ./target/bin-0.18.13/eza.exe_x86_64-pc-windows-gnu.zip\r\ne79f39138a8eb227d3416a935c15948371e0526fda5ba1c938d2c96f13920946  ./target/bin-0.18.13/eza_x86_64-unknown-linux-gnu.tar.gz\r\n25f2d26d53a6dd10d52fb08bada2b0da29067ec3c1bf8250576cfe4339828229  ./target/bin-0.18.13/eza_x86_64-unknown-linux-gnu.zip\r\n0552905466e3a3ec9451aaebad0dcadca93ecdf704387a1d91342c8e85be6334  ./target/bin-0.18.13/eza_x86_64-unknown-linux-musl.tar.gz\r\n2cf1b5cf9674bf00604c09050be5ec9f3debcdb5e4ef12d6d85a9fb7970dfebf  ./target/bin-0.18.13/eza_x86_64-unknown-linux-musl.zip\r\n```\r\n",
+  "created_at": "2024-04-25T15:29:04Z",
   "draft": false,
-  "html_url": "https://github.com/eza-community/eza/releases/tag/v0.18.11",
-  "id": 151861216,
-  "name": "eza v0.18.11",
-  "node_id": "RE_kwDOKAtYXM4JDTfg",
+  "html_url": "https://github.com/eza-community/eza/releases/tag/v0.18.13",
+  "id": 152834154,
+  "name": "eza v0.18.13",
+  "node_id": "RE_kwDOKAtYXM4JHBBq",
   "prerelease": false,
-  "published_at": "2024-04-19T05:06:11Z",
-  "tag_name": "v0.18.11",
-  "tarball_url": "https://api.github.com/repos/eza-community/eza/tarball/v0.18.11",
-  "target_commitish": "99562e3a4f0e3cf76444b0322772970d4773ce71",
-  "upload_url": "https://uploads.github.com/repos/eza-community/eza/releases/151861216/assets{?name,label}",
-  "url": "https://api.github.com/repos/eza-community/eza/releases/151861216",
-  "zipball_url": "https://api.github.com/repos/eza-community/eza/zipball/v0.18.11"
+  "published_at": "2024-04-25T15:43:55Z",
+  "tag_name": "v0.18.13",
+  "tarball_url": "https://api.github.com/repos/eza-community/eza/tarball/v0.18.13",
+  "target_commitish": "8b7dc5f517d8ccdbbf23ccb08e20bd6225e84e2b",
+  "upload_url": "https://uploads.github.com/repos/eza-community/eza/releases/152834154/assets{?name,label}",
+  "url": "https://api.github.com/repos/eza-community/eza/releases/152834154",
+  "zipball_url": "https://api.github.com/repos/eza-community/eza/zipball/v0.18.13"
 }
