@@ -3718,7 +3718,7 @@
     "type": "Bot",
     "url": "https://api.github.com/users/github-actions%5Bbot%5D"
   },
-  "body": "",
+  "body": "- New: `-W`, `--watch-non-recursive` for watching paths without also watching subfolders.\r\n- New: out-of-tree git repositories are now detected (i.e. when `.git` is a file rather than a folder)\r\n- Logs are also improved slightly with less nonsense at startup.",
   "created_at": "2024-04-28T06:57:20Z",
   "draft": false,
   "html_url": "https://github.com/watchexec/watchexec/releases/tag/v2.1.0",
