@@ -3718,7 +3718,7 @@
     "type": "Bot",
     "url": "https://api.github.com/users/github-actions%5Bbot%5D"
   },
-  "body": "",
+  "body": "- Regression: `-w, --watch` was accidentally set to behave as `-W` (#828)",
   "created_at": "2024-04-30T08:43:28Z",
   "draft": false,
   "html_url": "https://github.com/watchexec/watchexec/releases/tag/v2.1.1",
