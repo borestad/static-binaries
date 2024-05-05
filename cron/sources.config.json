@@ -87,5 +87,5 @@
   { "name": "lazygit",          "eget_url": "jesseduffield/lazygit",              "eget_args": "-a Linux_x86_64.tar.gz",                       "verify": "--version", "upx": true },
   { "name": "vegeta",           "eget_url": "tsenart/vegeta",                     "eget_args": "-a linux_amd64.tar.gz",                        "verify": "--version", "upx": true },
   { "name": "czkawka",          "eget_url": "qarmin/czkawka",                     "eget_args": "-a linux_czkawka_cli",                         "verify": "--version", "upx": true },
-  { "name": "czkawka",          "eget_url": "sxyazi/yazi",                        "eget_args": "-a x86_64-unknown-linux-musl",                 "verify": "--version", "upx": true }
+  { "name": "yazi",             "eget_url": "sxyazi/yazi",                        "eget_args": "-a x86_64-unknown-linux-musl",                 "verify": "--version", "upx": true }
 ]
