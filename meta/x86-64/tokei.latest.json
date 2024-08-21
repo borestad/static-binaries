@@ -1,6 +1,6 @@
 {
   "assets": [],
-  "assets_url": "https://api.github.com/repos/XAMPPRocky/tokei/releases/171032744/assets",
+  "assets_url": "https://api.github.com/repos/XAMPPRocky/tokei/releases/171216191/assets",
   "author": {
     "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
     "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -21,19 +21,19 @@
     "type": "Bot",
     "url": "https://api.github.com/users/github-actions%5Bbot%5D"
   },
-  "body": "### Added\n- Add support for Monkey C ([#1081](https://github.com/XAMPPRocky/tokei/pull/1081))\n- added plantuml support ([#1125](https://github.com/XAMPPRocky/tokei/pull/1125))\n- add language Tact ([#1103](https://github.com/XAMPPRocky/tokei/pull/1103))\n- add support for bicep ([#1100](https://github.com/XAMPPRocky/tokei/pull/1100))\n- add hledger ([#1121](https://github.com/XAMPPRocky/tokei/pull/1121))\n- add SELinux CIL policy source files ([#1124](https://github.com/XAMPPRocky/tokei/pull/1124))\n- --files argument now sorts alphabetically ([#1059](https://github.com/XAMPPRocky/tokei/pull/1059))\n- add support for LALRPOP ([#1077](https://github.com/XAMPPRocky/tokei/pull/1077))\n\n### Fixed\n- read hidden from config file ([#1093](https://github.com/XAMPPRocky/tokei/pull/1093))\n\n### Other\n- Fix cargo audit issues ([#1137](https://github.com/XAMPPRocky/tokei/pull/1137))\n- Add support for MDX ([#1046](https://github.com/XAMPPRocky/tokei/pull/1046))\n- Add PRQL to README.md ([#1088](https://github.com/XAMPPRocky/tokei/pull/1088))\n- add fypp extension `.fpp` to `languages.json` for Modern Fortran ([#1060](https://github.com/XAMPPRocky/tokei/pull/1060))\n- Add support for Lex ([#1087](https://github.com/XAMPPRocky/tokei/pull/1087))\n- Add d2 ([#1091](https://github.com/XAMPPRocky/tokei/pull/1091))\n- Add support for Stata ([#1112](https://github.com/XAMPPRocky/tokei/pull/1112))\n- Add support for CUE ([#1049](https://github.com/XAMPPRocky/tokei/pull/1049))\n- bump libc from 0.2.147 to 0.2.155 ([#1104](https://github.com/XAMPPRocky/tokei/pull/1104))\n- add cangjie language support ([#1127](https://github.com/XAMPPRocky/tokei/pull/1127)) ([#1128](https://github.com/XAMPPRocky/tokei/pull/1128))\n- Add support for JSLT ([#1129](https://github.com/XAMPPRocky/tokei/pull/1129))\n- Add Arturo support ([#1108](https://github.com/XAMPPRocky/tokei/pull/1108))\n- Support Bazel's MODULE files and *.bzlmod files ([#1130](https://github.com/XAMPPRocky/tokei/pull/1130))\n- read only first 128B from the file when searching for shebang ([#1040](https://github.com/XAMPPRocky/tokei/pull/1040))\n- add OpenCL as a languages.json entry ([#980](https://github.com/XAMPPRocky/tokei/pull/980))\n- Add GetText Portable Object (PO) files ([#814](https://github.com/XAMPPRocky/tokei/pull/814))\n- Support godot shader ([#1118](https://github.com/XAMPPRocky/tokei/pull/1118))\n- Add Modelica language ([#1061](https://github.com/XAMPPRocky/tokei/pull/1061))\n- Add menhir support ([#781](https://github.com/XAMPPRocky/tokei/pull/781))\n- Update README.md\n- [issue_1114] remove Cargo.lock from .gitignore ([#1115](https://github.com/XAMPPRocky/tokei/pull/1115))\n- [issue_891] give more space for Files column ([#933](https://github.com/XAMPPRocky/tokei/pull/933))\n- GitHub Action to publish docker images ([#1096](https://github.com/XAMPPRocky/tokei/pull/1096))\n- Support MoonBit language. ([#1095](https://github.com/XAMPPRocky/tokei/pull/1095))\n- Add OpenSCAD ([#1097](https://github.com/XAMPPRocky/tokei/pull/1097))\n- add jinja extension for Jinja2 ([#1083](https://github.com/XAMPPRocky/tokei/pull/1083))\n- Fix slang ([#1089](https://github.com/XAMPPRocky/tokei/pull/1089))\n- Temporarily remove Hare\n- Support .pyi python file ([#1075](https://github.com/XAMPPRocky/tokei/pull/1075))\n- add luau extension to lua ([#1066](https://github.com/XAMPPRocky/tokei/pull/1066))\n- Adding support for Snakemake ([#1045](https://github.com/XAMPPRocky/tokei/pull/1045))\n- Add Janet to languages.json ([#1042](https://github.com/XAMPPRocky/tokei/pull/1042))\n- Add OpenQASM support ([#1041](https://github.com/XAMPPRocky/tokei/pull/1041))\n- typst ([#1037](https://github.com/XAMPPRocky/tokei/pull/1037))\n- Add the ZoKrates language ([#1035](https://github.com/XAMPPRocky/tokei/pull/1035))\n- Add PRQL ([#1030](https://github.com/XAMPPRocky/tokei/pull/1030))\n- remove refs ([#1006](https://github.com/XAMPPRocky/tokei/pull/1006))\n- Add lingua franca language ([#993](https://github.com/XAMPPRocky/tokei/pull/993))\n- Add support for Razor Components ([#992](https://github.com/XAMPPRocky/tokei/pull/992))\n- Add arch's PKGBUILD files ([#972](https://github.com/XAMPPRocky/tokei/pull/972))\n- Add Hare support ([#971](https://github.com/XAMPPRocky/tokei/pull/971))\n- Add Max support ([#963](https://github.com/XAMPPRocky/tokei/pull/963))\n- Add support for Chapel ([#960](https://github.com/XAMPPRocky/tokei/pull/960))\n- Add language support for Slang ([#956](https://github.com/XAMPPRocky/tokei/pull/956))\n- Update TypeScript language ([#953](https://github.com/XAMPPRocky/tokei/pull/953))\n- Added support for Circom ([#949](https://github.com/XAMPPRocky/tokei/pull/949))\n- link to earthly project ([#1078](https://github.com/XAMPPRocky/tokei/pull/1078))",
-  "created_at": "2024-08-20T09:53:37Z",
+  "body": "### Fixed\n- fix issue https://github.com/XAMPPRocky/tokei/issues/1138 ([#1139](https://github.com/XAMPPRocky/tokei/pull/1139))",
+  "created_at": "2024-08-21T08:07:07Z",
   "draft": false,
-  "html_url": "https://github.com/XAMPPRocky/tokei/releases/tag/v13.0.0-alpha.2",
-  "id": 171032744,
-  "name": "v13.0.0-alpha.2",
-  "node_id": "RE_kwDOAio_ms4KMcCo",
+  "html_url": "https://github.com/XAMPPRocky/tokei/releases/tag/v13.0.0-alpha.3",
+  "id": 171216191,
+  "name": "v13.0.0-alpha.3",
+  "node_id": "RE_kwDOAio_ms4KNI0_",
   "prerelease": false,
-  "published_at": "2024-08-20T09:53:38Z",
-  "tag_name": "v13.0.0-alpha.2",
-  "tarball_url": "https://api.github.com/repos/XAMPPRocky/tokei/tarball/v13.0.0-alpha.2",
+  "published_at": "2024-08-21T08:07:08Z",
+  "tag_name": "v13.0.0-alpha.3",
+  "tarball_url": "https://api.github.com/repos/XAMPPRocky/tokei/tarball/v13.0.0-alpha.3",
   "target_commitish": "master",
-  "upload_url": "https://uploads.github.com/repos/XAMPPRocky/tokei/releases/171032744/assets{?name,label}",
-  "url": "https://api.github.com/repos/XAMPPRocky/tokei/releases/171032744",
-  "zipball_url": "https://api.github.com/repos/XAMPPRocky/tokei/zipball/v13.0.0-alpha.2"
+  "upload_url": "https://uploads.github.com/repos/XAMPPRocky/tokei/releases/171216191/assets{?name,label}",
+  "url": "https://api.github.com/repos/XAMPPRocky/tokei/releases/171216191",
+  "zipball_url": "https://api.github.com/repos/XAMPPRocky/tokei/zipball/v13.0.0-alpha.3"
 }
