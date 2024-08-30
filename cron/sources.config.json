@@ -19,6 +19,7 @@
 
 
 
+  { "name": "podman-tui",       "eget_url": "containers/podman-tui",              "eget_args": "-a linux_amd64",                               "verify": "version", "upx": true },
   { "name": "chezmoi",          "eget_url": "twpayne/chezmoi",                    "eget_args": "-a linux-musl_amd64.tar.gz",                   "verify": "--version", "upx": true },
   { "name": "rp",               "eget_url": "aaronriekenberg/rust-parallel",      "eget_args": "-a x86_64-unknown-linux-gnu",                  "verify": "--version", "upx": true },
   { "name": "sponge",           "eget_url": "hymkor/sponge",                      "eget_args": "-a linux-amd64",                               "verify": "-h 2> >(head -1)", "upx": true },
