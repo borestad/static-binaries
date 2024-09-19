@@ -29,8 +29,8 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       # ─────────────────────────────────────────────────────
-      - name: Github ❯ actions/checkout@v3
-        uses: actions/checkout@v3
+      - name: Github ❯ actions/checkout@v4
+        uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 1
@@ -59,7 +59,7 @@ jobs:
           git config user.email github-actions@github.com
 
       # ─────────────────────────────────────────────────────
-      # - uses: actions/cache@v3
+      # - uses: actions/cache@v4
       #   name: Bootstrap ❯ Restore Cache
       #   with:
       #     path: ${{ env.ACTIONS_CACHE_DIR }}
