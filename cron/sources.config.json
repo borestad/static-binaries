@@ -1,6 +1,5 @@
 [
   { "name": "busybox",          "eget_url": "https://raw.githubusercontent.com/ryanwoodsmall/static-binaries/master/x86_64/busybox",           "verify": "busybox | head -1", "upx": true },
-  { "name": "curl",             "eget_url": "https://raw.githubusercontent.com/Azathothas/Static-Binaries/main/curl/curl_amd_x86_64_Linux",              "verify": "--version", "upx": true },
   { "name": "entr",             "eget_url": "https://raw.githubusercontent.com/ryanwoodsmall/static-binaries/master/x86_64/entr",              "verify": "2> >(grep -i release) | grep release", "upx": true },
   { "name": "jo",               "eget_url": "https://raw.githubusercontent.com/ryanwoodsmall/static-binaries/master/x86_64/jo",                "verify": "-v", "upx": true },
   { "name": "pv",               "eget_url": "https://raw.githubusercontent.com/ryanwoodsmall/static-binaries/master/x86_64/pv",                "verify": "--version | head -1", "upx": true },
@@ -19,6 +18,8 @@
 
 
 
+  { "name": "curl",             "eget_url": "stunnel/static-curl",                "eget_args": "-a linux -a musl -a x86 -f curl",              "verify": "--version", "upx": true },
+  { "name": "trurl",            "eget_url": "stunnel/static-curl",                "eget_args": "-a linux -a musl -a x86 -f trurl",             "verify": "--version", "upx": true },
   { "name": "otree",            "eget_url": "fioncat/otree",                      "eget_args": "-a unknown-linux-musl.tar.gz",                 "verify": "-v", "upx": true },
   { "name": "podman-tui",       "eget_url": "containers/podman-tui",              "eget_args": "-a linux_amd64",                               "verify": "version", "upx": true },
   { "name": "chezmoi",          "eget_url": "twpayne/chezmoi",                    "eget_args": "-a linux-musl_amd64.tar.gz",                   "verify": "--version", "upx": true },
