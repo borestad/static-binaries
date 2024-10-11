@@ -1,6 +1,6 @@
 {
   "assets": [],
-  "assets_url": "https://api.github.com/repos/XAMPPRocky/tokei/releases/171688658/assets",
+  "assets_url": "https://api.github.com/repos/XAMPPRocky/tokei/releases/179521963/assets",
   "author": {
     "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
     "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -21,19 +21,19 @@
     "type": "Bot",
     "url": "https://api.github.com/users/github-actions%5Bbot%5D"
   },
-  "body": "### Fixed\n- fix issue https://github.com/XAMPPRocky/tokei/issues/1147 ([#1149](https://github.com/XAMPPRocky/tokei/pull/1149))\n\n### Other\n- Fix issue [#1145](https://github.com/XAMPPRocky/tokei/pull/1145) (part 2) ([#1148](https://github.com/XAMPPRocky/tokei/pull/1148))",
-  "created_at": "2024-08-23T15:05:54Z",
+  "body": "### Added\n\n- add `mbti` extension for MoonBit ([#1168](https://github.com/XAMPPRocky/tokei/pull/1168))\n\n### Other\n\n- Add language definition for Lauterbach PRACTICE Script ([#1162](https://github.com/XAMPPRocky/tokei/pull/1162))\n- Add support for justfiles ([#1175](https://github.com/XAMPPRocky/tokei/pull/1175))\n- Add Virgil ([#1178](https://github.com/XAMPPRocky/tokei/pull/1178))\n- Add templ support ([#1122](https://github.com/XAMPPRocky/tokei/pull/1122))\n- Update README.md with HiCAD from d4a1814 ([#1143](https://github.com/XAMPPRocky/tokei/pull/1143))\n- Add BQN support ([#1151](https://github.com/XAMPPRocky/tokei/pull/1151))\n- add more extensions for `Hlsl` ([#1164](https://github.com/XAMPPRocky/tokei/pull/1164))\n- Add Phix ([#1167](https://github.com/XAMPPRocky/tokei/pull/1167))\n- Add APL support ([#1152](https://github.com/XAMPPRocky/tokei/pull/1152))\n- Add support for SIL ([#1153](https://github.com/XAMPPRocky/tokei/pull/1153))\n- Use `OR` operator in Cargo.toml `license` field ([#1165](https://github.com/XAMPPRocky/tokei/pull/1165))\n- Disable legacy Cargo features ([#1158](https://github.com/XAMPPRocky/tokei/pull/1158))\n- add slint language support ([#1054](https://github.com/XAMPPRocky/tokei/pull/1054))\n- Add Pyret support ([#1032](https://github.com/XAMPPRocky/tokei/pull/1032))\n- Recognize GNUmakefile ([#1021](https://github.com/XAMPPRocky/tokei/pull/1021))",
+  "created_at": "2024-10-11T11:57:58Z",
   "draft": false,
-  "html_url": "https://github.com/XAMPPRocky/tokei/releases/tag/v13.0.0-alpha.5",
-  "id": 171688658,
-  "name": "v13.0.0-alpha.5",
-  "node_id": "RE_kwDOAio_ms4KO8LS",
+  "html_url": "https://github.com/XAMPPRocky/tokei/releases/tag/v13.0.0-alpha.6",
+  "id": 179521963,
+  "name": "v13.0.0-alpha.6",
+  "node_id": "RE_kwDOAio_ms4Ks0mr",
   "prerelease": false,
-  "published_at": "2024-08-23T15:05:55Z",
-  "tag_name": "v13.0.0-alpha.5",
-  "tarball_url": "https://api.github.com/repos/XAMPPRocky/tokei/tarball/v13.0.0-alpha.5",
+  "published_at": "2024-10-11T11:58:04Z",
+  "tag_name": "v13.0.0-alpha.6",
+  "tarball_url": "https://api.github.com/repos/XAMPPRocky/tokei/tarball/v13.0.0-alpha.6",
   "target_commitish": "master",
-  "upload_url": "https://uploads.github.com/repos/XAMPPRocky/tokei/releases/171688658/assets{?name,label}",
-  "url": "https://api.github.com/repos/XAMPPRocky/tokei/releases/171688658",
-  "zipball_url": "https://api.github.com/repos/XAMPPRocky/tokei/zipball/v13.0.0-alpha.5"
+  "upload_url": "https://uploads.github.com/repos/XAMPPRocky/tokei/releases/179521963/assets{?name,label}",
+  "url": "https://api.github.com/repos/XAMPPRocky/tokei/releases/179521963",
+  "zipball_url": "https://api.github.com/repos/XAMPPRocky/tokei/zipball/v13.0.0-alpha.6"
 }
