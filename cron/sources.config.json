@@ -6,7 +6,7 @@
   { "name": "rsync",            "eget_url": "https://raw.githubusercontent.com/ryanwoodsmall/static-binaries/master/x86_64/rsync",             "verify": "-version 2> >(head -1) | grep version", "upx": true },
   { "name": "xml",              "eget_url": "https://raw.githubusercontent.com/ryanwoodsmall/static-binaries/master/x86_64/xml",               "verify": "--version", "upx": true },
   { "name": "xmllint",          "eget_url": "https://raw.githubusercontent.com/ryanwoodsmall/static-binaries/master/x86_64/xmllint",           "verify": "-version 2> >(head -1)", "upx": true },
-  { "name": "ncdu",             "eget_url": "https://dev.yorhel.nl/download/ncdu-2.3-linux-x86_64.tar.gz",                                     "verify": "-V", "upx": true },
+  { "name": "ncdu",             "eget_url": "https://dev.yorhel.nl/download/ncdu-2.6-linux-x86_64.tar.gz",                                     "verify": "-V", "upx": true },
   { "name": "bc",               "eget_url": "https://raw.githubusercontent.com/borestad/filedump/main/binaries/x86_64-linux/bc",               "verify": "--version | head -1", "upx": true },
   { "name": "bsdtar",           "eget_url": "https://raw.githubusercontent.com/borestad/filedump/main/binaries/x86_64-linux/bsdtar",           "verify": "--version", "upx": true },
   { "name": "iprange",          "eget_url": "https://raw.githubusercontent.com/borestad/filedump/main/binaries/x86_64-linux/iprange",          "verify": " --version | head -1", "upx": true },
