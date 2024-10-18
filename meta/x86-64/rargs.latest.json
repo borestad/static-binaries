@@ -29,7 +29,8 @@
         "starred_url": "https://api.github.com/users/lotabout/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/lotabout/subscriptions",
         "type": "User",
-        "url": "https://api.github.com/users/lotabout"
+        "url": "https://api.github.com/users/lotabout",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/lotabout/rargs/releases/assets/20464004"
     },
@@ -62,7 +63,8 @@
         "starred_url": "https://api.github.com/users/lotabout/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/lotabout/subscriptions",
         "type": "User",
-        "url": "https://api.github.com/users/lotabout"
+        "url": "https://api.github.com/users/lotabout",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/lotabout/rargs/releases/assets/20464012"
     },
@@ -95,7 +97,8 @@
         "starred_url": "https://api.github.com/users/lotabout/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/lotabout/subscriptions",
         "type": "User",
-        "url": "https://api.github.com/users/lotabout"
+        "url": "https://api.github.com/users/lotabout",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/lotabout/rargs/releases/assets/20464005"
     },
@@ -128,7 +131,8 @@
         "starred_url": "https://api.github.com/users/lotabout/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/lotabout/subscriptions",
         "type": "User",
-        "url": "https://api.github.com/users/lotabout"
+        "url": "https://api.github.com/users/lotabout",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/lotabout/rargs/releases/assets/20464003"
     },
@@ -161,7 +165,8 @@
         "starred_url": "https://api.github.com/users/lotabout/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/lotabout/subscriptions",
         "type": "User",
-        "url": "https://api.github.com/users/lotabout"
+        "url": "https://api.github.com/users/lotabout",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/lotabout/rargs/releases/assets/20464013"
     },
@@ -194,7 +199,8 @@
         "starred_url": "https://api.github.com/users/lotabout/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/lotabout/subscriptions",
         "type": "User",
-        "url": "https://api.github.com/users/lotabout"
+        "url": "https://api.github.com/users/lotabout",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/lotabout/rargs/releases/assets/20464011"
     },
@@ -227,7 +233,8 @@
         "starred_url": "https://api.github.com/users/lotabout/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/lotabout/subscriptions",
         "type": "User",
-        "url": "https://api.github.com/users/lotabout"
+        "url": "https://api.github.com/users/lotabout",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/lotabout/rargs/releases/assets/20464007"
     }
@@ -251,7 +258,8 @@
     "starred_url": "https://api.github.com/users/lotabout/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/lotabout/subscriptions",
     "type": "User",
-    "url": "https://api.github.com/users/lotabout"
+    "url": "https://api.github.com/users/lotabout",
+    "user_view_type": "public"
   },
   "body": "* Set `stdin` of child process to `null`\r\n* Deprecate `-w` with `-j`\r\n* Special variable: `{LINENUM}` or `{LN}` for line number of current line\r\n* Option `--dry-run` for printing the commands to execute without actually execute the command\r\n* Print error message on missing command instead of panic.",
   "created_at": "2020-05-06T07:26:02Z",
