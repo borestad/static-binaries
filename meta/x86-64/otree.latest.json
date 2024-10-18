@@ -29,7 +29,8 @@
         "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
         "type": "Bot",
-        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/fioncat/otree/releases/assets/176407913"
     },
@@ -62,7 +63,8 @@
         "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
         "type": "Bot",
-        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/fioncat/otree/releases/assets/176408069"
     }
@@ -86,7 +88,8 @@
     "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
     "type": "Bot",
-    "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+    "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+    "user_view_type": "public"
   },
   "body": "## Features\r\n\r\n- UI: Add footer to show current root and identify.\r\n- UI: Support popup widget to show error messages.\r\n- UI: Syntax highlighting in data block widget (allow customization).\r\n- New Action: Open current selected item's content in default editor (readonly).\r\n- New Action: Copy current selected item's name or content to system clipboard.\r\n\r\n## Fixes\r\n\r\n- Fixed some typos.\r\n- Allow building without git repository, gather and integrate git build information only if the `BUILD_OTREE_WITH_GIT_INFO` is set.\r\n\r\n## What's Changed\r\n* typos by @ccoVeille in https://github.com/fioncat/otree/pull/10\r\n* style: use match replace long if/else by @fioncat in https://github.com/fioncat/otree/pull/11\r\n* fix(build): don't always execute git commands by @fioncat in https://github.com/fioncat/otree/pull/14\r\n* docs(readme): add AUR instructions by @orhun in https://github.com/fioncat/otree/pull/12\r\n* build(deps): bump the all group across 1 directory with 3 updates by @dependabot in https://github.com/fioncat/otree/pull/16\r\n* refactor: use tui-rs-tree-widget TreeData trait by @fioncat in https://github.com/fioncat/otree/pull/18\r\n* Support syntax highlighting by @fioncat in https://github.com/fioncat/otree/pull/17\r\n* feat(config): support colors palette by @fioncat in https://github.com/fioncat/otree/pull/19\r\n* Support popup a widget to show error message by @fioncat in https://github.com/fioncat/otree/pull/21\r\n* feat(actions): add edit action by @fioncat in https://github.com/fioncat/otree/pull/22\r\n* feat: support clipboard copy action by @fioncat in https://github.com/fioncat/otree/pull/24\r\n* feat(ui): add footer to display root and identify by @fioncat in https://github.com/fioncat/otree/pull/26\r\n\r\n## New Contributors\r\n* @ccoVeille made their first contribution in https://github.com/fioncat/otree/pull/10\r\n* @orhun made their first contribution in https://github.com/fioncat/otree/pull/12\r\n\r\n**Full Changelog**: https://github.com/fioncat/otree/compare/v0.1.0...v0.2.0",
   "created_at": "2024-06-28T02:20:36Z",
