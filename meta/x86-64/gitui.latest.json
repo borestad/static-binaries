@@ -29,7 +29,8 @@
         "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
         "type": "Bot",
-        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/extrawurst/gitui/releases/assets/171465327"
     },
@@ -62,7 +63,8 @@
         "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
         "type": "Bot",
-        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/extrawurst/gitui/releases/assets/171465326"
     },
@@ -95,7 +97,8 @@
         "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
         "type": "Bot",
-        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/extrawurst/gitui/releases/assets/171465328"
     },
@@ -128,7 +131,8 @@
         "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
         "type": "Bot",
-        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/extrawurst/gitui/releases/assets/171465013"
     },
@@ -161,7 +165,8 @@
         "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
         "type": "Bot",
-        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/extrawurst/gitui/releases/assets/171465044"
     },
@@ -194,7 +199,8 @@
         "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
         "type": "Bot",
-        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/extrawurst/gitui/releases/assets/171465045"
     },
@@ -227,7 +233,8 @@
         "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
         "type": "Bot",
-        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/extrawurst/gitui/releases/assets/171466738"
     },
@@ -260,7 +267,8 @@
         "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
         "type": "Bot",
-        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/extrawurst/gitui/releases/assets/171466739"
     }
@@ -284,7 +292,8 @@
     "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
     "type": "Bot",
-    "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+    "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+    "user_view_type": "public"
   },
   "body": "### Breaking Changes\r\n\r\n#### Theme file format\r\n\r\n**note:** this actually applied to the previous release already: `0.26.2`\r\n\r\nRatatui (upstream terminal rendering crate) changed its serialization format for Colors. So the theme files have to be adjusted.\r\n\r\n`selection_fg: Some(White)` -> `selection_fg: Some(\"White\")`\r\n\r\nbut this also allows us now to define colors in the common hex format:\r\n\r\n`selection_fg: Some(Rgb(0,255,0))` -> `selection_fg: Some(\"#00ff00\")`\r\n\r\nCheckout [THEMES.md](./THEMES.md) for more info.\r\n\r\n### Added\r\n* due to github runner changes, the regular mac build is now arm64, so we added support for intel x86 apple build in nightlies and releases (via separat artifact)\r\n* support `BUILD_GIT_COMMIT_ID` enabling builds from `git archive` generated source tarballs or other outside a git repo [[@alerque](https://github.com/alerque)] ([#2187](https://github.com/extrawurst/gitui/pull/2187))\r\n\r\n### Fixes\r\n* update yanked dependency to `libc` to fix building with `--locked`.\r\n* document breaking change in theme file format.\r\n\r\n### Support\r\n\r\n[![github](https://img.shields.io/badge/-GitHub%20Sponsors-fafbfc?logo=GitHub%20Sponsors)](https://github.com/sponsors/extrawurst)",
   "created_at": "2024-06-02T12:49:32Z",
