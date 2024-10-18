@@ -29,7 +29,8 @@
         "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
         "type": "Bot",
-        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/bcpierce00/unison/releases/assets/166391264"
     },
@@ -62,7 +63,8 @@
         "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
         "type": "Bot",
-        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/bcpierce00/unison/releases/assets/166391222"
     },
@@ -95,7 +97,8 @@
         "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
         "type": "Bot",
-        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/bcpierce00/unison/releases/assets/166392183"
     },
@@ -128,7 +131,8 @@
         "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
         "type": "Bot",
-        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/bcpierce00/unison/releases/assets/166392122"
     },
@@ -161,7 +165,8 @@
         "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
         "type": "Bot",
-        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/bcpierce00/unison/releases/assets/166390719"
     },
@@ -194,7 +199,8 @@
         "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
         "type": "Bot",
-        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/bcpierce00/unison/releases/assets/166391165"
     },
@@ -227,7 +233,8 @@
         "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
         "type": "Bot",
-        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/bcpierce00/unison/releases/assets/166391505"
     },
@@ -260,7 +267,8 @@
         "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
         "type": "Bot",
-        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/bcpierce00/unison/releases/assets/166391497"
     }
@@ -284,7 +292,8 @@
     "starred_url": "https://api.github.com/users/gdt/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/gdt/subscriptions",
     "type": "User",
-    "url": "https://api.github.com/users/gdt"
+    "url": "https://api.github.com/users/gdt",
+    "user_view_type": "public"
   },
   "body": "# Changes in 2.53.5\r\n\r\nReleased 2024-05-06\r\n\r\n  * Various minor bugfixes.\r\n  * Recovery from errors during repeat mode (enabled in 2.53.1) is disabled\r\n    for time being.\r\n",
   "created_at": "2024-05-01T23:10:39Z",
