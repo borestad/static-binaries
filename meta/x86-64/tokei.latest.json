@@ -19,7 +19,8 @@
     "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
     "type": "Bot",
-    "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+    "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+    "user_view_type": "public"
   },
   "body": "### Added\n\n- add `mbti` extension for MoonBit ([#1168](https://github.com/XAMPPRocky/tokei/pull/1168))\n\n### Other\n\n- Add language definition for Lauterbach PRACTICE Script ([#1162](https://github.com/XAMPPRocky/tokei/pull/1162))\n- Add support for justfiles ([#1175](https://github.com/XAMPPRocky/tokei/pull/1175))\n- Add Virgil ([#1178](https://github.com/XAMPPRocky/tokei/pull/1178))\n- Add templ support ([#1122](https://github.com/XAMPPRocky/tokei/pull/1122))\n- Update README.md with HiCAD from d4a1814 ([#1143](https://github.com/XAMPPRocky/tokei/pull/1143))\n- Add BQN support ([#1151](https://github.com/XAMPPRocky/tokei/pull/1151))\n- add more extensions for `Hlsl` ([#1164](https://github.com/XAMPPRocky/tokei/pull/1164))\n- Add Phix ([#1167](https://github.com/XAMPPRocky/tokei/pull/1167))\n- Add APL support ([#1152](https://github.com/XAMPPRocky/tokei/pull/1152))\n- Add support for SIL ([#1153](https://github.com/XAMPPRocky/tokei/pull/1153))\n- Use `OR` operator in Cargo.toml `license` field ([#1165](https://github.com/XAMPPRocky/tokei/pull/1165))\n- Disable legacy Cargo features ([#1158](https://github.com/XAMPPRocky/tokei/pull/1158))\n- add slint language support ([#1054](https://github.com/XAMPPRocky/tokei/pull/1054))\n- Add Pyret support ([#1032](https://github.com/XAMPPRocky/tokei/pull/1032))\n- Recognize GNUmakefile ([#1021](https://github.com/XAMPPRocky/tokei/pull/1021))",
   "created_at": "2024-10-11T11:57:58Z",
