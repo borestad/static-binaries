@@ -29,7 +29,8 @@
         "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
         "type": "Bot",
-        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/containers/fuse-overlayfs/releases/assets/176456259"
     },
@@ -62,7 +63,8 @@
         "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
         "type": "Bot",
-        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/containers/fuse-overlayfs/releases/assets/176456256"
     },
@@ -95,7 +97,8 @@
         "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
         "type": "Bot",
-        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/containers/fuse-overlayfs/releases/assets/176456258"
     },
@@ -128,7 +131,8 @@
         "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
         "type": "Bot",
-        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/containers/fuse-overlayfs/releases/assets/176456255"
     },
@@ -161,7 +165,8 @@
         "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
         "type": "Bot",
-        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/containers/fuse-overlayfs/releases/assets/176456281"
     },
@@ -194,7 +199,8 @@
         "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
         "type": "Bot",
-        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/containers/fuse-overlayfs/releases/assets/176456286"
     },
@@ -227,7 +233,8 @@
         "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
         "type": "Bot",
-        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/containers/fuse-overlayfs/releases/assets/176456287"
     },
@@ -260,7 +267,8 @@
         "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
         "type": "Bot",
-        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/containers/fuse-overlayfs/releases/assets/176456257"
     }
@@ -284,7 +292,8 @@
     "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
     "type": "Bot",
-    "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+    "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+    "user_view_type": "public"
   },
   "body": "- isolate security xattrs for STAT_OVERRIDE_CONTAINERS.  Prefix all security xattrs with XATTR_CONTAINERS_OVERRIDE_PREFIX.\r\n- prefer user.containers.override_stat over user.fuseoverlayfs.\r\n- do not force -1 for owner overriding extended attributes.  Otherwise the value is written to the override extended attribute.\r\n- fix file owner retrieval for chmod.\r\n- honor umask with xattr_permissions.\r\n- honor mode for devices with xattr_permissions.\r\n- propagate extended attributes permissions with copyup.\r\n\r\n",
   "created_at": "2024-06-28T08:29:07Z",
