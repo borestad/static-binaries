@@ -29,7 +29,8 @@
         "starred_url": "https://api.github.com/users/jarun/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/jarun/subscriptions",
         "type": "User",
-        "url": "https://api.github.com/users/jarun"
+        "url": "https://api.github.com/users/jarun",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/jarun/nnn/releases/assets/188375510"
     },
@@ -62,7 +63,8 @@
         "starred_url": "https://api.github.com/users/jarun/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/jarun/subscriptions",
         "type": "User",
-        "url": "https://api.github.com/users/jarun"
+        "url": "https://api.github.com/users/jarun",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/jarun/nnn/releases/assets/188375543"
     },
@@ -95,7 +97,8 @@
         "starred_url": "https://api.github.com/users/jarun/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/jarun/subscriptions",
         "type": "User",
-        "url": "https://api.github.com/users/jarun"
+        "url": "https://api.github.com/users/jarun",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/jarun/nnn/releases/assets/188375525"
     },
@@ -128,7 +131,8 @@
         "starred_url": "https://api.github.com/users/jarun/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/jarun/subscriptions",
         "type": "User",
-        "url": "https://api.github.com/users/jarun"
+        "url": "https://api.github.com/users/jarun",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/jarun/nnn/releases/assets/188375550"
     },
@@ -161,7 +165,8 @@
         "starred_url": "https://api.github.com/users/jarun/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/jarun/subscriptions",
         "type": "User",
-        "url": "https://api.github.com/users/jarun"
+        "url": "https://api.github.com/users/jarun",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/jarun/nnn/releases/assets/188375535"
     },
@@ -194,7 +199,8 @@
         "starred_url": "https://api.github.com/users/jarun/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/jarun/subscriptions",
         "type": "User",
-        "url": "https://api.github.com/users/jarun"
+        "url": "https://api.github.com/users/jarun",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/jarun/nnn/releases/assets/188375519"
     },
@@ -227,7 +233,8 @@
         "starred_url": "https://api.github.com/users/jarun/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/jarun/subscriptions",
         "type": "User",
-        "url": "https://api.github.com/users/jarun"
+        "url": "https://api.github.com/users/jarun",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/jarun/nnn/releases/assets/188375091"
     }
@@ -251,7 +258,8 @@
     "starred_url": "https://api.github.com/users/jarun/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/jarun/subscriptions",
     "type": "User",
-    "url": "https://api.github.com/users/jarun"
+    "url": "https://api.github.com/users/jarun",
+    "user_view_type": "public"
   },
   "body": "nnn v5.0 [_Daiquiri_](https://en.wikipedia.org/wiki/Daiquiri) release notes.\r\n\r\n- [x] show relative line numbering when jumping (#1808)\r\n- [x] option `-N` to use native prompt when compiled with libreadline\r\n- [x] rm improvements\r\n    - log removed filename\r\n    - cancel on <kbd>n</kbd> or <kbd>N</kbd>\r\n    - show name of the hovered file to be removed\r\n    - show number of selected files to be removed\r\n- [x] new keybind <kbd>X</kbd> to force `rm -rf` always (#1811)\r\n- [x] fix sort order getting changed on context switch (#1757)\r\n- [x] fix current selection on new file creation, if symlinks exist (#1767)\r\n- [x] fix filter toggle with mouse click on last 2 rows (#1765)\r\n- [x] fix file creation (#1864)\r\n- [x] when handling bookmark, use readlink, not realpath\r\n- [x] set `$PWD` on directory switch\r\n- [x] add option `-0` to null-separate file paths in picker mode\r\n- [x] quitcd.nu (for nushell) now supports modular import (#1806)\r\n- [x] add _command as plugin_ example to cd to user input directory\r\n- [x] `cbcopy-mac`, `cbpaste-mac`: plugins for integration with macOS clipboard\r\n- [x] `fzhist` plugin: add support for zsh history\r\n- [x] `preview-tui` plugin: support eza as replacement for exa, multiple fixes\r\n- [x] `preview-tui` plugin: add full svg support (#1865)\r\n- [x] `preview-tabbed`: show (n)sxiv in thumbnail mode inside \"Pictures\" directory\r\n- [x] mpv sixel/kitty support for preview (#1590)\r\n\r\n<p>\r\n<a href=\"https://github.com/sponsors/jarun\"><img src=\"https://img.shields.io/badge/sponsor-jarun-1eb0fc.svg\" alt=\"Sponsor\" /></a>\r\n</p>",
   "created_at": "2024-08-26T13:20:37Z",
