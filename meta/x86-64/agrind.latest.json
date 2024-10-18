@@ -29,7 +29,8 @@
         "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
         "type": "Bot",
-        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/rcoh/angle-grinder/releases/assets/171352658"
     },
@@ -62,7 +63,8 @@
         "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
         "type": "Bot",
-        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/rcoh/angle-grinder/releases/assets/171352446"
     },
@@ -95,7 +97,8 @@
         "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
         "type": "Bot",
-        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/rcoh/angle-grinder/releases/assets/171352462"
     }
@@ -119,7 +122,8 @@
     "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
     "type": "Bot",
-    "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+    "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+    "user_view_type": "public"
   },
   "body": "## What's Changed\r\n* drop netbsd from CI, seems to be broken by @rcoh in https://github.com/rcoh/angle-grinder/pull/205\r\n* Handle missing optional matches by @ehaas in https://github.com/rcoh/angle-grinder/pull/204\r\n* Bump h2 from 0.3.22 to 0.3.26 by @dependabot in https://github.com/rcoh/angle-grinder/pull/201\r\n* Bump mio from 0.8.10 to 0.8.11 by @dependabot in https://github.com/rcoh/angle-grinder/pull/200\r\n* Bump rustls from 0.21.10 to 0.21.12 by @dependabot in https://github.com/rcoh/angle-grinder/pull/206\r\n\r\n## New Contributors\r\n* @ehaas made their first contribution in https://github.com/rcoh/angle-grinder/pull/204\r\n\r\n**Full Changelog**: https://github.com/rcoh/angle-grinder/compare/v0.19.3...v0.19.4",
   "created_at": "2024-06-01T18:27:02Z",
