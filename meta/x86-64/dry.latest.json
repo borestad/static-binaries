@@ -29,7 +29,8 @@
         "starred_url": "https://api.github.com/users/moncho/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/moncho/subscriptions",
         "type": "User",
-        "url": "https://api.github.com/users/moncho"
+        "url": "https://api.github.com/users/moncho",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/moncho/dry/releases/assets/154031397"
     },
@@ -62,7 +63,8 @@
         "starred_url": "https://api.github.com/users/moncho/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/moncho/subscriptions",
         "type": "User",
-        "url": "https://api.github.com/users/moncho"
+        "url": "https://api.github.com/users/moncho",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/moncho/dry/releases/assets/154031453"
     },
@@ -95,7 +97,8 @@
         "starred_url": "https://api.github.com/users/moncho/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/moncho/subscriptions",
         "type": "User",
-        "url": "https://api.github.com/users/moncho"
+        "url": "https://api.github.com/users/moncho",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/moncho/dry/releases/assets/154031477"
     },
@@ -128,7 +131,8 @@
         "starred_url": "https://api.github.com/users/moncho/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/moncho/subscriptions",
         "type": "User",
-        "url": "https://api.github.com/users/moncho"
+        "url": "https://api.github.com/users/moncho",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/moncho/dry/releases/assets/154031524"
     },
@@ -161,7 +165,8 @@
         "starred_url": "https://api.github.com/users/moncho/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/moncho/subscriptions",
         "type": "User",
-        "url": "https://api.github.com/users/moncho"
+        "url": "https://api.github.com/users/moncho",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/moncho/dry/releases/assets/154031564"
     },
@@ -194,7 +199,8 @@
         "starred_url": "https://api.github.com/users/moncho/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/moncho/subscriptions",
         "type": "User",
-        "url": "https://api.github.com/users/moncho"
+        "url": "https://api.github.com/users/moncho",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/moncho/dry/releases/assets/154031598"
     },
@@ -227,7 +233,8 @@
         "starred_url": "https://api.github.com/users/moncho/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/moncho/subscriptions",
         "type": "User",
-        "url": "https://api.github.com/users/moncho"
+        "url": "https://api.github.com/users/moncho",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/moncho/dry/releases/assets/154031634"
     },
@@ -260,7 +267,8 @@
         "starred_url": "https://api.github.com/users/moncho/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/moncho/subscriptions",
         "type": "User",
-        "url": "https://api.github.com/users/moncho"
+        "url": "https://api.github.com/users/moncho",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/moncho/dry/releases/assets/154031651"
     },
@@ -293,7 +301,8 @@
         "starred_url": "https://api.github.com/users/moncho/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/moncho/subscriptions",
         "type": "User",
-        "url": "https://api.github.com/users/moncho"
+        "url": "https://api.github.com/users/moncho",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/moncho/dry/releases/assets/154031677"
     },
@@ -326,7 +335,8 @@
         "starred_url": "https://api.github.com/users/moncho/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/moncho/subscriptions",
         "type": "User",
-        "url": "https://api.github.com/users/moncho"
+        "url": "https://api.github.com/users/moncho",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/moncho/dry/releases/assets/154031706"
     }
@@ -350,7 +360,8 @@
     "starred_url": "https://api.github.com/users/moncho/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/moncho/subscriptions",
     "type": "User",
-    "url": "https://api.github.com/users/moncho"
+    "url": "https://api.github.com/users/moncho",
+    "user_view_type": "public"
   },
   "body": "# Highlights\r\n\r\nMaintenance release. No new functionality has been added.\r\n\r\n## Go version\r\nBuild with **go version go version go1.22.0 darwin/arm64*\r\n\r\n## What's Changed\r\n* Fix github.com/docker/cli CVE-2021-41092 by @jauderho in https://github.com/moncho/dry/pull/144\r\n* Bump github.com/opencontainers/image-spec from 1.0.1 to 1.0.2 by @dependabot in https://github.com/moncho/dry/pull/145\r\n* Fix github.com/containerd/containerd CVE-2021-43816 by @jauderho in https://github.com/moncho/dry/pull/148\r\n* fix(containermenu): not panic on invalid selected index by @moncho in https://github.com/moncho/dry/pull/154\r\n* chore: update go version, go dependencies by @moncho in https://github.com/moncho/dry/pull/155\r\n* Bump github.com/containerd/containerd from 1.6.8 to 1.6.18 by @dependabot in https://github.com/moncho/dry/pull/156\r\n* Bump golang.org/x/net from 0.0.0-20220809012201-f428fae20770 to 0.7.0 by @dependabot in https://github.com/moncho/dry/pull/158\r\n* Bump github.com/opencontainers/image-spec from 1.0.3-0.20211202183452-c5a74bcca799 to 1.1.0-rc2 by @dependabot in https://github.com/moncho/dry/pull/160\r\n* Bump github.com/mitchellh/go-wordwrap from 1.0.0 to 1.0.1 by @dependabot in https://github.com/moncho/dry/pull/162\r\n* Bump github.com/jessevdk/go-flags from 1.4.0 to 1.5.0 by @dependabot in https://github.com/moncho/dry/pull/161\r\n* Bump golang.org/x/crypto from 0.0.0-20220315160706-3147a52a75dd to 0.7.0 by @dependabot in https://github.com/moncho/dry/pull/163\r\n* chore: remove refs to deprecated io/ioutil by @testwill in https://github.com/moncho/dry/pull/185\r\n* chore(deps): bump github.com/docker/cli from 20.10.10+incompatible to 24.0.2+incompatible by @dependabot in https://github.com/moncho/dry/pull/183\r\n* chore(deps): bump google.golang.org/grpc from 1.48.0 to 1.56.3 by @dependabot in https://github.com/moncho/dry/pull/193\r\n* chore(deps): bump github.com/containerd/containerd from 1.6.18 to 1.6.26 by @dependabot in https://github.com/moncho/dry/pull/192\r\n* chore: upgrade go version, cleanup code, update dependencies by @moncho in https://github.com/moncho/dry/pull/198\r\n* chore: run go fmt by @moncho in https://github.com/moncho/dry/pull/199\r\n* chore: remove unused workflows by @moncho in https://github.com/moncho/dry/pull/200\r\n* chore: run go fmt by @moncho in https://github.com/moncho/dry/pull/201\r\n* chore(deps): bump golang.org/x/crypto from 0.14.0 to 0.20.0 by @dependabot in https://github.com/moncho/dry/pull/195\r\n* chore: prepare release 0.11.2 by @moncho in https://github.com/moncho/dry/pull/202\r\n\r\n## New Contributors\r\n* @jauderho made their first contribution in https://github.com/moncho/dry/pull/144\r\n* @dependabot made their first contribution in https://github.com/moncho/dry/pull/145\r\n* @testwill made their first contribution in https://github.com/moncho/dry/pull/185\r\n\r\n**Full Changelog**: https://github.com/moncho/dry/compare/v0.11.1...v.0.11.2",
   "created_at": "2024-02-28T15:30:17Z",
