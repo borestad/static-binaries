@@ -29,7 +29,8 @@
         "starred_url": "https://api.github.com/users/hymkor/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/hymkor/subscriptions",
         "type": "User",
-        "url": "https://api.github.com/users/hymkor"
+        "url": "https://api.github.com/users/hymkor",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/hymkor/sponge/releases/assets/159540679"
     },
@@ -62,7 +63,8 @@
         "starred_url": "https://api.github.com/users/hymkor/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/hymkor/subscriptions",
         "type": "User",
-        "url": "https://api.github.com/users/hymkor"
+        "url": "https://api.github.com/users/hymkor",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/hymkor/sponge/releases/assets/159540680"
     },
@@ -95,7 +97,8 @@
         "starred_url": "https://api.github.com/users/hymkor/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/hymkor/subscriptions",
         "type": "User",
-        "url": "https://api.github.com/users/hymkor"
+        "url": "https://api.github.com/users/hymkor",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/hymkor/sponge/releases/assets/159540678"
     },
@@ -128,7 +131,8 @@
         "starred_url": "https://api.github.com/users/hymkor/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/hymkor/subscriptions",
         "type": "User",
-        "url": "https://api.github.com/users/hymkor"
+        "url": "https://api.github.com/users/hymkor",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/hymkor/sponge/releases/assets/159540681"
     }
@@ -152,7 +156,8 @@
     "starred_url": "https://api.github.com/users/hymkor/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/hymkor/subscriptions",
     "type": "User",
-    "url": "https://api.github.com/users/hymkor"
+    "url": "https://api.github.com/users/hymkor",
+    "user_view_type": "public"
   },
   "body": "+ Fix error occurred on Windows when `cat -n < FILE | sponge FILE` was executed because the shell did not close FILE.\r\n   (Just rename once and at least complete the replacement)\r\n+ Implement the new option: `-b SUFFIX` to rename and keep the original file with suffix.\r\n+ Now terminates with an error when a file with the same name as a temporary file exists\r\n+ The permission of new files are set same as original files now.\r\n+ Use `(original-name)-sponge(process-id)` as the format for temporary filenames\r\n+ Zero byte files are not created even when errors or interrupts stop\r\n+ `-h`: print args[0], version, GOOS, GOARCH to the standard error output\r\n\r\n---\r\n\r\n+ Windows で `cat -n < FILE | sponge FILE` 形式で実行した時、シェルが FILE をクローズしていないため、エラーになる不具合を修正   (一旦、リネームだけして、少なくとも差し替えだけは完了させるようにした)\r\n+ 元ファイルを別名で残すオプションを用意(`-b 接尾語`)\r\n+ 一時ファイルと同名のファイルが存在している時、エラー終了させるようにした\r\n+ 新ファイルのパーミッションを旧ファイルと同じになるようにした。\r\n+ 一時ファイルのフォーマットとして `(original-name)-sponge(process-id)` を使うようにした\r\n+ エラーや Ctrl-C で中断された時、ゼロバイトのファイルを作成しないようにした\r\n+ `-h` で、args[0], バージョン, OS, GOARCH を標準エラー出力に表示するようにした。\r\n",
   "created_at": "2024-03-31T11:30:06Z",
