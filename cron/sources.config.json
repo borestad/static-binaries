@@ -18,6 +18,7 @@
 
 
 
+  { "name": "dagu",             "eget_url": "dagu-org/dagu",                      "eget_args": "-a linux_amd64.tar.gz",                        "verify": "version", "upx": false },
   { "name": "dco",              "eget_url": "devemio/docker-color-output",        "eget_args": "-a linux-amd64",                               "verify": "-h | head -1", "upx": true },
   { "name": "aria2c",           "eget_url": "abcfy2/aria2-static-build",          "eget_args": "-a x86_64-linux-musl_static.zip",              "verify": "--version", "upx": true },
   { "name": "curl",             "eget_url": "stunnel/static-curl",                "eget_args": "-a linux -a musl -a x86 -f curl",              "verify": "--version", "upx": true },
