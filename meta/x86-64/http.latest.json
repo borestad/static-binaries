@@ -19,7 +19,8 @@
     "starred_url": "https://api.github.com/users/jkbrzt/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/jkbrzt/subscriptions",
     "type": "User",
-    "url": "https://api.github.com/users/jkbrzt"
+    "url": "https://api.github.com/users/jkbrzt",
+    "user_view_type": "public"
   },
   "body": "- Fix SSL connections by pinning the `requests` version to `2.31.0`. (#1583, #1581)\r\n- Make it possible to [unset](https://httpie.io/docs/cli/default-request-headers) the `User-Agent` and `Accept-Encoding` request headers. ([#1502](https://github.com/httpie/cli/issues/1502))",
   "created_at": "2024-07-10T14:20:38Z",
