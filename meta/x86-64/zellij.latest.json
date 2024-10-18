@@ -29,7 +29,8 @@
         "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
         "type": "Bot",
-        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/zellij-org/zellij/releases/assets/165529108"
     },
@@ -62,7 +63,8 @@
         "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
         "type": "Bot",
-        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/zellij-org/zellij/releases/assets/165529100"
     },
@@ -95,7 +97,8 @@
         "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
         "type": "Bot",
-        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/zellij-org/zellij/releases/assets/165529266"
     },
@@ -128,7 +131,8 @@
         "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
         "type": "Bot",
-        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/zellij-org/zellij/releases/assets/165529264"
     },
@@ -161,7 +165,8 @@
         "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
         "type": "Bot",
-        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/zellij-org/zellij/releases/assets/165529066"
     },
@@ -194,7 +199,8 @@
         "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
         "type": "Bot",
-        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/zellij-org/zellij/releases/assets/165529065"
     },
@@ -227,7 +233,8 @@
         "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
         "type": "Bot",
-        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/zellij-org/zellij/releases/assets/165529234"
     },
@@ -260,7 +267,8 @@
         "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
         "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
         "type": "Bot",
-        "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "user_view_type": "public"
       },
       "url": "https://api.github.com/repos/zellij-org/zellij/releases/assets/165529232"
     }
@@ -284,7 +292,8 @@
     "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
     "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
     "type": "Bot",
-    "url": "https://api.github.com/users/github-actions%5Bbot%5D"
+    "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+    "user_view_type": "public"
   },
   "body": "This is a patch release mainly aimed at fixing some issues mostly introduced or exposed in the latest `0.40.0` release.\r\n\r\nHowever, this version also introduces two exciting new features:\r\n1. `Ctrl j` is now bindable thanks to a community contribution (thanks @hiasr !) - you can [read more](https://github.com/zellij-org/zellij/pull/3307) about the technical details of the implementation.\r\n2. A new `zellij action list-clients` command was added for tools wishing to integrate with Zellij through the command line (this should facilitate interaction with other nested multiplexers such as neovim).\r\n\r\n## All changes\r\n* fix(sessions): issue where sessions would occasionally become unresponsive (https://github.com/zellij-org/zellij/pull/3281)\r\n* fix(cli): respect all options (eg. `default-layout`) when creating a session in the background from the CLI (https://github.com/zellij-org/zellij/pull/3288)\r\n* fix(cli): rename tab and pane from cli (https://github.com/zellij-org/zellij/pull/3295)\r\n* fix(plugins): respect $SHELL when opening a terminal from plugins (eg. from the filepicker strider) (https://github.com/zellij-org/zellij/pull/3296)\r\n* fix(tabs): closing a tab no longer breaks tab movement (https://github.com/zellij-org/zellij/pull/3299)\r\n* feat(plugins): add API to open new tabs with a LayoutInfo (https://github.com/zellij-org/zellij/pull/3305)\r\n* feat(cli): add `zellij action list-clients` to allow listing the connected clients as well as their pane_id and running command (https://github.com/zellij-org/zellij/pull/3314)\r\n* feat(cli): allow binding Ctrl J (https://github.com/zellij-org/zellij/pull/3307)\r\n\r\n## Do you like Zellij :heart: ?\r\nMe too! So much so that I spend 100% of my time developing and maintaining it and have no other income.\r\n\r\nZellij will always be free and open-source. Zellij will never contain ads or collect your data.\r\n\r\nSo if the tool gives you value and you are able, please consider a recurring monthly donation of 5-10$ to help me pay my bills. There are Zellij stickers in it for you! https://github.com/sponsors/imsnif ",
   "created_at": "2024-05-02T07:02:11Z",
