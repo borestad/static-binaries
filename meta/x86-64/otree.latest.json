@@ -1,16 +1,16 @@
 {
   "assets": [
     {
-      "browser_download_url": "https://github.com/fioncat/otree/releases/download/v0.2.0/otree-aarch64-apple-darwin.tar.gz",
+      "browser_download_url": "https://github.com/fioncat/otree/releases/download/v0.3.0/otree-aarch64-apple-darwin.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2024-06-28T02:24:49Z",
-      "id": 176407913,
+      "created_at": "2024-10-28T10:56:50Z",
+      "id": 202311319,
       "label": "",
       "name": "otree-aarch64-apple-darwin.tar.gz",
-      "node_id": "RA_kwDOL6I8pc4Kg8Vp",
-      "size": 1372846,
+      "node_id": "RA_kwDOL6I8pc4MDwaX",
+      "size": 1424535,
       "state": "uploaded",
-      "updated_at": "2024-06-28T02:24:50Z",
+      "updated_at": "2024-10-28T10:56:50Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -32,19 +32,19 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fioncat/otree/releases/assets/176407913"
+      "url": "https://api.github.com/repos/fioncat/otree/releases/assets/202311319"
     },
     {
-      "browser_download_url": "https://github.com/fioncat/otree/releases/download/v0.2.0/otree-x86_64-unknown-linux-musl.tar.gz",
+      "browser_download_url": "https://github.com/fioncat/otree/releases/download/v0.3.0/otree-x86_64-unknown-linux-musl.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2024-06-28T02:25:49Z",
-      "id": 176408069,
+      "created_at": "2024-10-28T10:57:29Z",
+      "id": 202311398,
       "label": "",
       "name": "otree-x86_64-unknown-linux-musl.tar.gz",
-      "node_id": "RA_kwDOL6I8pc4Kg8YF",
-      "size": 1623673,
+      "node_id": "RA_kwDOL6I8pc4MDwbm",
+      "size": 1651647,
       "state": "uploaded",
-      "updated_at": "2024-06-28T02:25:50Z",
+      "updated_at": "2024-10-28T10:57:29Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -66,10 +66,10 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fioncat/otree/releases/assets/176408069"
+      "url": "https://api.github.com/repos/fioncat/otree/releases/assets/202311398"
     }
   ],
-  "assets_url": "https://api.github.com/repos/fioncat/otree/releases/162903235/assets",
+  "assets_url": "https://api.github.com/repos/fioncat/otree/releases/182222228/assets",
   "author": {
     "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
     "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -91,19 +91,19 @@
     "url": "https://api.github.com/users/github-actions%5Bbot%5D",
     "user_view_type": "public"
   },
-  "body": "## Features\r\n\r\n- UI: Add footer to show current root and identify.\r\n- UI: Support popup widget to show error messages.\r\n- UI: Syntax highlighting in data block widget (allow customization).\r\n- New Action: Open current selected item's content in default editor (readonly).\r\n- New Action: Copy current selected item's name or content to system clipboard.\r\n\r\n## Fixes\r\n\r\n- Fixed some typos.\r\n- Allow building without git repository, gather and integrate git build information only if the `BUILD_OTREE_WITH_GIT_INFO` is set.\r\n\r\n## What's Changed\r\n* typos by @ccoVeille in https://github.com/fioncat/otree/pull/10\r\n* style: use match replace long if/else by @fioncat in https://github.com/fioncat/otree/pull/11\r\n* fix(build): don't always execute git commands by @fioncat in https://github.com/fioncat/otree/pull/14\r\n* docs(readme): add AUR instructions by @orhun in https://github.com/fioncat/otree/pull/12\r\n* build(deps): bump the all group across 1 directory with 3 updates by @dependabot in https://github.com/fioncat/otree/pull/16\r\n* refactor: use tui-rs-tree-widget TreeData trait by @fioncat in https://github.com/fioncat/otree/pull/18\r\n* Support syntax highlighting by @fioncat in https://github.com/fioncat/otree/pull/17\r\n* feat(config): support colors palette by @fioncat in https://github.com/fioncat/otree/pull/19\r\n* Support popup a widget to show error message by @fioncat in https://github.com/fioncat/otree/pull/21\r\n* feat(actions): add edit action by @fioncat in https://github.com/fioncat/otree/pull/22\r\n* feat: support clipboard copy action by @fioncat in https://github.com/fioncat/otree/pull/24\r\n* feat(ui): add footer to display root and identify by @fioncat in https://github.com/fioncat/otree/pull/26\r\n\r\n## New Contributors\r\n* @ccoVeille made their first contribution in https://github.com/fioncat/otree/pull/10\r\n* @orhun made their first contribution in https://github.com/fioncat/otree/pull/12\r\n\r\n**Full Changelog**: https://github.com/fioncat/otree/compare/v0.1.0...v0.2.0",
-  "created_at": "2024-06-28T02:20:36Z",
+  "body": "## New Features\r\n\r\n- Support [jsonl](https://jsonlines.org/).\r\n- Add Homebrew instructions.\r\n\r\n## Bug Fixes\r\n\r\n- Allow reading from stdin on macOS.\r\n\r\n## What's Changed\r\n* docs(readme): add Homebrew instructions by @FnControlOption in https://github.com/fioncat/otree/pull/27\r\n* refactor: migrate ratatui to 0.27.0 by @fioncat in https://github.com/fioncat/otree/pull/31\r\n* build(deps): bump the all group with 2 updates by @dependabot in https://github.com/fioncat/otree/pull/33\r\n* build(deps): bump the all group with 3 updates by @dependabot in https://github.com/fioncat/otree/pull/34\r\n* build(deps): bump the all group with 5 updates by @dependabot in https://github.com/fioncat/otree/pull/35\r\n* build(deps): bump the all group with 5 updates by @dependabot in https://github.com/fioncat/otree/pull/36\r\n* build(deps): bump the all group across 1 directory with 6 updates by @dependabot in https://github.com/fioncat/otree/pull/39\r\n* fix: allow reading from stdin on macOS by @tangowithfoxtrot in https://github.com/fioncat/otree/pull/42\r\n* build(deps): bump the all group across 1 directory with 5 updates by @dependabot in https://github.com/fioncat/otree/pull/43\r\n* build(deps): bump the all group across 1 directory with 4 updates by @dependabot in https://github.com/fioncat/otree/pull/46\r\n* feat(parse): support jsonl format by @fioncat in https://github.com/fioncat/otree/pull/49\r\n\r\n## New Contributors\r\n* @FnControlOption made their first contribution in https://github.com/fioncat/otree/pull/27\r\n* @tangowithfoxtrot made their first contribution in https://github.com/fioncat/otree/pull/42\r\n\r\n**Full Changelog**: https://github.com/fioncat/otree/compare/v0.2.0...v0.3.0",
+  "created_at": "2024-10-28T10:53:56Z",
   "draft": false,
-  "html_url": "https://github.com/fioncat/otree/releases/tag/v0.2.0",
-  "id": 162903235,
-  "name": "v0.2.0",
-  "node_id": "RE_kwDOL6I8pc4JtbTD",
+  "html_url": "https://github.com/fioncat/otree/releases/tag/v0.3.0",
+  "id": 182222228,
+  "name": "v0.3.0",
+  "node_id": "RE_kwDOL6I8pc4K3H2U",
   "prerelease": false,
-  "published_at": "2024-06-28T02:28:07Z",
-  "tag_name": "v0.2.0",
-  "tarball_url": "https://api.github.com/repos/fioncat/otree/tarball/v0.2.0",
+  "published_at": "2024-10-28T10:59:41Z",
+  "tag_name": "v0.3.0",
+  "tarball_url": "https://api.github.com/repos/fioncat/otree/tarball/v0.3.0",
   "target_commitish": "main",
-  "upload_url": "https://uploads.github.com/repos/fioncat/otree/releases/162903235/assets{?name,label}",
-  "url": "https://api.github.com/repos/fioncat/otree/releases/162903235",
-  "zipball_url": "https://api.github.com/repos/fioncat/otree/zipball/v0.2.0"
+  "upload_url": "https://uploads.github.com/repos/fioncat/otree/releases/182222228/assets{?name,label}",
+  "url": "https://api.github.com/repos/fioncat/otree/releases/182222228",
+  "zipball_url": "https://api.github.com/repos/fioncat/otree/zipball/v0.3.0"
 }
