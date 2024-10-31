@@ -18,7 +18,7 @@
 
 
 
-  { "name": "mise",             "eget_url": "jdx/mise",                           "eget_args": "-a linux-arm64-musl.tar.gz",                   "verify": "--version", "upx": true },
+  { "name": "mise",             "eget_url": "jdx/mise",                           "eget_args": "-a linux-x64-musl.tar.gz",                     "verify": "--version", "upx": true },
   { "name": "pspy",             "eget_url": "DominicBreuker/pspy",                "eget_args": "-a pspy64",                                    "verify": "-h | head -1", "upx": true },
   { "name": "dagu",             "eget_url": "dagu-org/dagu",                      "eget_args": "-a linux_amd64.tar.gz",                        "verify": "version", "upx": false },
   { "name": "dco",              "eget_url": "devemio/docker-color-output",        "eget_args": "-a linux-amd64",                               "verify": "-h | head -1", "upx": true },
