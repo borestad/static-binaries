@@ -18,6 +18,7 @@
 
 
 
+  { "name": "lurk",             "eget_url": "JakWai01/lurk",                      "eget_args": "-a unknown-linux-gnu.tar.gz",                  "verify": "--version", "upx": true },
   { "name": "agrind",           "eget_url": "rcoh/angle-grinder",                 "eget_args": "-a unknown-linux-musl",                        "verify": "--version &> /dev/null || true", "upx": true },
   { "name": "aria2c",           "eget_url": "abcfy2/aria2-static-build",          "eget_args": "-a x86_64-linux-musl_static.zip",              "verify": "--version", "upx": true },
   { "name": "bat",              "eget_url": "sharkdp/bat",                        "eget_args": "-a x86_64-unknown-linux-musl",                 "verify": "--version", "upx": true },
