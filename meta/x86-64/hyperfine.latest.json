@@ -1,16 +1,16 @@
 {
   "assets": [
     {
-      "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.18.0/hyperfine-musl_1.18.0_amd64.deb",
+      "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.19.0/hyperfine-musl_1.19.0_amd64.deb",
       "content_type": "application/octet-stream",
-      "created_at": "2023-10-05T08:10:50Z",
-      "id": 129136268,
+      "created_at": "2024-11-11T21:45:22Z",
+      "id": 205765205,
       "label": "",
-      "name": "hyperfine-musl_1.18.0_amd64.deb",
-      "node_id": "RA_kwDOBv62x84HsnaM",
-      "size": 554468,
+      "name": "hyperfine-musl_1.19.0_amd64.deb",
+      "node_id": "RA_kwDOBv62x84MQ7pV",
+      "size": 563596,
       "state": "uploaded",
-      "updated_at": "2023-10-05T08:10:50Z",
+      "updated_at": "2024-11-11T21:45:22Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -32,19 +32,19 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/hyperfine/releases/assets/129136268"
+      "url": "https://api.github.com/repos/sharkdp/hyperfine/releases/assets/205765205"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.18.0/hyperfine-musl_1.18.0_i686.deb",
+      "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.19.0/hyperfine-musl_1.19.0_armhf.deb",
       "content_type": "application/octet-stream",
-      "created_at": "2023-10-05T08:09:55Z",
-      "id": 129136033,
+      "created_at": "2024-11-11T21:44:43Z",
+      "id": 205765079,
       "label": "",
-      "name": "hyperfine-musl_1.18.0_i686.deb",
-      "node_id": "RA_kwDOBv62x84HsnWh",
-      "size": 570024,
+      "name": "hyperfine-musl_1.19.0_armhf.deb",
+      "node_id": "RA_kwDOBv62x84MQ7nX",
+      "size": 500588,
       "state": "uploaded",
-      "updated_at": "2023-10-05T08:09:55Z",
+      "updated_at": "2024-11-11T21:44:43Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -66,19 +66,53 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/hyperfine/releases/assets/129136033"
+      "url": "https://api.github.com/repos/sharkdp/hyperfine/releases/assets/205765079"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.18.0/hyperfine-v1.18.0-aarch64-unknown-linux-gnu.tar.gz",
+      "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.19.0/hyperfine-musl_1.19.0_i686.deb",
+      "content_type": "application/octet-stream",
+      "created_at": "2024-11-11T21:45:11Z",
+      "id": 205765159,
+      "label": "",
+      "name": "hyperfine-musl_1.19.0_i686.deb",
+      "node_id": "RA_kwDOBv62x84MQ7on",
+      "size": 578472,
+      "state": "uploaded",
+      "updated_at": "2024-11-11T21:45:11Z",
+      "uploader": {
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+        "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+        "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+        "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/apps/github-actions",
+        "id": 41898282,
+        "login": "github-actions[bot]",
+        "node_id": "MDM6Qm90NDE4OTgyODI=",
+        "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+        "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+        "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+        "type": "Bot",
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "user_view_type": "public"
+      },
+      "url": "https://api.github.com/repos/sharkdp/hyperfine/releases/assets/205765159"
+    },
+    {
+      "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.19.0/hyperfine-v1.19.0-aarch64-apple-darwin.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2023-10-05T08:11:30Z",
-      "id": 129136452,
+      "created_at": "2024-11-11T21:44:25Z",
+      "id": 205764932,
       "label": "",
-      "name": "hyperfine-v1.18.0-aarch64-unknown-linux-gnu.tar.gz",
-      "node_id": "RA_kwDOBv62x84HsndE",
-      "size": 598999,
+      "name": "hyperfine-v1.19.0-aarch64-apple-darwin.tar.gz",
+      "node_id": "RA_kwDOBv62x84MQ7lE",
+      "size": 582918,
       "state": "uploaded",
-      "updated_at": "2023-10-05T08:11:31Z",
+      "updated_at": "2024-11-11T21:44:25Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -100,19 +134,19 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/hyperfine/releases/assets/129136452"
+      "url": "https://api.github.com/repos/sharkdp/hyperfine/releases/assets/205764932"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.18.0/hyperfine-v1.18.0-arm-unknown-linux-gnueabihf.tar.gz",
+      "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.19.0/hyperfine-v1.19.0-aarch64-unknown-linux-gnu.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2023-10-05T08:10:23Z",
-      "id": 129136140,
+      "created_at": "2024-11-11T21:44:50Z",
+      "id": 205765093,
       "label": "",
-      "name": "hyperfine-v1.18.0-arm-unknown-linux-gnueabihf.tar.gz",
-      "node_id": "RA_kwDOBv62x84HsnYM",
-      "size": 626661,
+      "name": "hyperfine-v1.19.0-aarch64-unknown-linux-gnu.tar.gz",
+      "node_id": "RA_kwDOBv62x84MQ7nl",
+      "size": 605877,
       "state": "uploaded",
-      "updated_at": "2023-10-05T08:10:23Z",
+      "updated_at": "2024-11-11T21:44:50Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -134,19 +168,19 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/hyperfine/releases/assets/129136140"
+      "url": "https://api.github.com/repos/sharkdp/hyperfine/releases/assets/205765093"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.18.0/hyperfine-v1.18.0-arm-unknown-linux-musleabihf.tar.gz",
+      "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.19.0/hyperfine-v1.19.0-arm-unknown-linux-gnueabihf.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2023-10-05T08:11:07Z",
-      "id": 129136386,
+      "created_at": "2024-11-11T21:44:54Z",
+      "id": 205765102,
       "label": "",
-      "name": "hyperfine-v1.18.0-arm-unknown-linux-musleabihf.tar.gz",
-      "node_id": "RA_kwDOBv62x84HsncC",
-      "size": 655748,
+      "name": "hyperfine-v1.19.0-arm-unknown-linux-gnueabihf.tar.gz",
+      "node_id": "RA_kwDOBv62x84MQ7nu",
+      "size": 636392,
       "state": "uploaded",
-      "updated_at": "2023-10-05T08:11:08Z",
+      "updated_at": "2024-11-11T21:44:54Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -168,19 +202,53 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/hyperfine/releases/assets/129136386"
+      "url": "https://api.github.com/repos/sharkdp/hyperfine/releases/assets/205765102"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.18.0/hyperfine-v1.18.0-i686-pc-windows-msvc.zip",
+      "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.19.0/hyperfine-v1.19.0-arm-unknown-linux-musleabihf.tar.gz",
+      "content_type": "application/gzip",
+      "created_at": "2024-11-11T21:44:43Z",
+      "id": 205765080,
+      "label": "",
+      "name": "hyperfine-v1.19.0-arm-unknown-linux-musleabihf.tar.gz",
+      "node_id": "RA_kwDOBv62x84MQ7nY",
+      "size": 668955,
+      "state": "uploaded",
+      "updated_at": "2024-11-11T21:44:43Z",
+      "uploader": {
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+        "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+        "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+        "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/apps/github-actions",
+        "id": 41898282,
+        "login": "github-actions[bot]",
+        "node_id": "MDM6Qm90NDE4OTgyODI=",
+        "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+        "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+        "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+        "type": "Bot",
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "user_view_type": "public"
+      },
+      "url": "https://api.github.com/repos/sharkdp/hyperfine/releases/assets/205765080"
+    },
+    {
+      "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.19.0/hyperfine-v1.19.0-i686-pc-windows-msvc.zip",
       "content_type": "application/zip",
-      "created_at": "2023-10-05T08:13:22Z",
-      "id": 129136657,
+      "created_at": "2024-11-11T21:46:36Z",
+      "id": 205765377,
       "label": "",
-      "name": "hyperfine-v1.18.0-i686-pc-windows-msvc.zip",
-      "node_id": "RA_kwDOBv62x84HsngR",
-      "size": 544129,
+      "name": "hyperfine-v1.19.0-i686-pc-windows-msvc.zip",
+      "node_id": "RA_kwDOBv62x84MQ7sB",
+      "size": 553401,
       "state": "uploaded",
-      "updated_at": "2023-10-05T08:13:22Z",
+      "updated_at": "2024-11-11T21:46:36Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -202,19 +270,19 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/hyperfine/releases/assets/129136657"
+      "url": "https://api.github.com/repos/sharkdp/hyperfine/releases/assets/205765377"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.18.0/hyperfine-v1.18.0-i686-unknown-linux-gnu.tar.gz",
+      "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.19.0/hyperfine-v1.19.0-i686-unknown-linux-gnu.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2023-10-05T08:10:22Z",
-      "id": 129136138,
+      "created_at": "2024-11-11T21:44:25Z",
+      "id": 205764930,
       "label": "",
-      "name": "hyperfine-v1.18.0-i686-unknown-linux-gnu.tar.gz",
-      "node_id": "RA_kwDOBv62x84HsnYK",
-      "size": 659952,
+      "name": "hyperfine-v1.19.0-i686-unknown-linux-gnu.tar.gz",
+      "node_id": "RA_kwDOBv62x84MQ7lC",
+      "size": 675952,
       "state": "uploaded",
-      "updated_at": "2023-10-05T08:10:23Z",
+      "updated_at": "2024-11-11T21:44:25Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -236,19 +304,19 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/hyperfine/releases/assets/129136138"
+      "url": "https://api.github.com/repos/sharkdp/hyperfine/releases/assets/205764930"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.18.0/hyperfine-v1.18.0-i686-unknown-linux-musl.tar.gz",
+      "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.19.0/hyperfine-v1.19.0-i686-unknown-linux-musl.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2023-10-05T08:09:55Z",
-      "id": 129136032,
+      "created_at": "2024-11-11T21:45:11Z",
+      "id": 205765157,
       "label": "",
-      "name": "hyperfine-v1.18.0-i686-unknown-linux-musl.tar.gz",
-      "node_id": "RA_kwDOBv62x84HsnWg",
-      "size": 692610,
+      "name": "hyperfine-v1.19.0-i686-unknown-linux-musl.tar.gz",
+      "node_id": "RA_kwDOBv62x84MQ7ol",
+      "size": 708790,
       "state": "uploaded",
-      "updated_at": "2023-10-05T08:09:55Z",
+      "updated_at": "2024-11-11T21:45:11Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -270,19 +338,19 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/hyperfine/releases/assets/129136032"
+      "url": "https://api.github.com/repos/sharkdp/hyperfine/releases/assets/205765157"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.18.0/hyperfine-v1.18.0-x86_64-apple-darwin.tar.gz",
+      "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.19.0/hyperfine-v1.19.0-x86_64-apple-darwin.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2023-10-05T08:10:37Z",
-      "id": 129136202,
+      "created_at": "2024-11-11T21:44:58Z",
+      "id": 205765136,
       "label": "",
-      "name": "hyperfine-v1.18.0-x86_64-apple-darwin.tar.gz",
-      "node_id": "RA_kwDOBv62x84HsnZK",
-      "size": 592580,
+      "name": "hyperfine-v1.19.0-x86_64-apple-darwin.tar.gz",
+      "node_id": "RA_kwDOBv62x84MQ7oQ",
+      "size": 618281,
       "state": "uploaded",
-      "updated_at": "2023-10-05T08:10:37Z",
+      "updated_at": "2024-11-11T21:44:58Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -304,19 +372,19 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/hyperfine/releases/assets/129136202"
+      "url": "https://api.github.com/repos/sharkdp/hyperfine/releases/assets/205765136"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.18.0/hyperfine-v1.18.0-x86_64-pc-windows-msvc.zip",
+      "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.19.0/hyperfine-v1.19.0-x86_64-pc-windows-msvc.zip",
       "content_type": "application/zip",
-      "created_at": "2023-10-05T08:11:55Z",
-      "id": 129136514,
+      "created_at": "2024-11-11T21:47:30Z",
+      "id": 205765474,
       "label": "",
-      "name": "hyperfine-v1.18.0-x86_64-pc-windows-msvc.zip",
-      "node_id": "RA_kwDOBv62x84HsneC",
-      "size": 582727,
+      "name": "hyperfine-v1.19.0-x86_64-pc-windows-msvc.zip",
+      "node_id": "RA_kwDOBv62x84MQ7ti",
+      "size": 588834,
       "state": "uploaded",
-      "updated_at": "2023-10-05T08:11:55Z",
+      "updated_at": "2024-11-11T21:47:31Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -338,19 +406,19 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/hyperfine/releases/assets/129136514"
+      "url": "https://api.github.com/repos/sharkdp/hyperfine/releases/assets/205765474"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.18.0/hyperfine-v1.18.0-x86_64-unknown-linux-gnu.tar.gz",
+      "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.19.0/hyperfine-v1.19.0-x86_64-unknown-linux-gnu.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2023-10-05T08:11:46Z",
-      "id": 129136486,
+      "created_at": "2024-11-11T21:45:24Z",
+      "id": 205765208,
       "label": "",
-      "name": "hyperfine-v1.18.0-x86_64-unknown-linux-gnu.tar.gz",
-      "node_id": "RA_kwDOBv62x84Hsndm",
-      "size": 641859,
+      "name": "hyperfine-v1.19.0-x86_64-unknown-linux-gnu.tar.gz",
+      "node_id": "RA_kwDOBv62x84MQ7pY",
+      "size": 651491,
       "state": "uploaded",
-      "updated_at": "2023-10-05T08:11:47Z",
+      "updated_at": "2024-11-11T21:45:24Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -372,19 +440,19 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/hyperfine/releases/assets/129136486"
+      "url": "https://api.github.com/repos/sharkdp/hyperfine/releases/assets/205765208"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.18.0/hyperfine-v1.18.0-x86_64-unknown-linux-musl.tar.gz",
+      "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.19.0/hyperfine-v1.19.0-x86_64-unknown-linux-musl.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2023-10-05T08:10:50Z",
-      "id": 129136269,
+      "created_at": "2024-11-11T21:45:22Z",
+      "id": 205765204,
       "label": "",
-      "name": "hyperfine-v1.18.0-x86_64-unknown-linux-musl.tar.gz",
-      "node_id": "RA_kwDOBv62x84HsnaN",
-      "size": 694152,
+      "name": "hyperfine-v1.19.0-x86_64-unknown-linux-musl.tar.gz",
+      "node_id": "RA_kwDOBv62x84MQ7pU",
+      "size": 705846,
       "state": "uploaded",
-      "updated_at": "2023-10-05T08:10:50Z",
+      "updated_at": "2024-11-11T21:45:22Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -406,19 +474,19 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/hyperfine/releases/assets/129136269"
+      "url": "https://api.github.com/repos/sharkdp/hyperfine/releases/assets/205765204"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.18.0/hyperfine_1.18.0_amd64.deb",
+      "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.19.0/hyperfine_1.19.0_amd64.deb",
       "content_type": "application/octet-stream",
-      "created_at": "2023-10-05T08:11:46Z",
-      "id": 129136487,
+      "created_at": "2024-11-11T21:45:24Z",
+      "id": 205765209,
       "label": "",
-      "name": "hyperfine_1.18.0_amd64.deb",
-      "node_id": "RA_kwDOBv62x84Hsndn",
-      "size": 511336,
+      "name": "hyperfine_1.19.0_amd64.deb",
+      "node_id": "RA_kwDOBv62x84MQ7pZ",
+      "size": 518712,
       "state": "uploaded",
-      "updated_at": "2023-10-05T08:11:47Z",
+      "updated_at": "2024-11-11T21:45:24Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -440,19 +508,19 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/hyperfine/releases/assets/129136487"
+      "url": "https://api.github.com/repos/sharkdp/hyperfine/releases/assets/205765209"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.18.0/hyperfine_1.18.0_arm64.deb",
+      "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.19.0/hyperfine_1.19.0_arm64.deb",
       "content_type": "application/octet-stream",
-      "created_at": "2023-10-05T08:11:30Z",
-      "id": 129136451,
+      "created_at": "2024-11-11T21:44:50Z",
+      "id": 205765094,
       "label": "",
-      "name": "hyperfine_1.18.0_arm64.deb",
-      "node_id": "RA_kwDOBv62x84HsndD",
-      "size": 448112,
+      "name": "hyperfine_1.19.0_arm64.deb",
+      "node_id": "RA_kwDOBv62x84MQ7nm",
+      "size": 450256,
       "state": "uploaded",
-      "updated_at": "2023-10-05T08:11:31Z",
+      "updated_at": "2024-11-11T21:44:50Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -474,19 +542,19 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/hyperfine/releases/assets/129136451"
+      "url": "https://api.github.com/repos/sharkdp/hyperfine/releases/assets/205765094"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.18.0/hyperfine_1.18.0_armhf.deb",
+      "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.19.0/hyperfine_1.19.0_armhf.deb",
       "content_type": "application/octet-stream",
-      "created_at": "2023-10-05T08:11:08Z",
-      "id": 129136389,
+      "created_at": "2024-11-11T21:44:54Z",
+      "id": 205765103,
       "label": "",
-      "name": "hyperfine_1.18.0_armhf.deb",
-      "node_id": "RA_kwDOBv62x84HsncF",
-      "size": 493324,
+      "name": "hyperfine_1.19.0_armhf.deb",
+      "node_id": "RA_kwDOBv62x84MQ7nv",
+      "size": 472528,
       "state": "uploaded",
-      "updated_at": "2023-10-05T08:11:08Z",
+      "updated_at": "2024-11-11T21:44:54Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -508,19 +576,19 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/hyperfine/releases/assets/129136389"
+      "url": "https://api.github.com/repos/sharkdp/hyperfine/releases/assets/205765103"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.18.0/hyperfine_1.18.0_i686.deb",
+      "browser_download_url": "https://github.com/sharkdp/hyperfine/releases/download/v1.19.0/hyperfine_1.19.0_i686.deb",
       "content_type": "application/octet-stream",
-      "created_at": "2023-10-05T08:10:22Z",
-      "id": 129136139,
+      "created_at": "2024-11-11T21:44:25Z",
+      "id": 205764931,
       "label": "",
-      "name": "hyperfine_1.18.0_i686.deb",
-      "node_id": "RA_kwDOBv62x84HsnYL",
-      "size": 536760,
+      "name": "hyperfine_1.19.0_i686.deb",
+      "node_id": "RA_kwDOBv62x84MQ7lD",
+      "size": 549884,
       "state": "uploaded",
-      "updated_at": "2023-10-05T08:10:23Z",
+      "updated_at": "2024-11-11T21:44:25Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -542,10 +610,10 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/hyperfine/releases/assets/129136139"
+      "url": "https://api.github.com/repos/sharkdp/hyperfine/releases/assets/205764931"
     }
   ],
-  "assets_url": "https://api.github.com/repos/sharkdp/hyperfine/releases/123814329/assets",
+  "assets_url": "https://api.github.com/repos/sharkdp/hyperfine/releases/184764470/assets",
   "author": {
     "avatar_url": "https://avatars.githubusercontent.com/u/4209276?v=4",
     "events_url": "https://api.github.com/users/sharkdp/events{/privacy}",
@@ -567,19 +635,19 @@
     "url": "https://api.github.com/users/sharkdp",
     "user_view_type": "public"
   },
-  "body": "## Features\r\n\r\n- Add support for microseconds via `--time-unit microsecond`, see #684 (@sharkdp)\r\n\r\n## Bugfixes\r\n\r\n- Proper argument quoting on Windows CMD, see #296 and #678 (@PedroWitzel)\r\n",
-  "created_at": "2023-10-05T07:58:16Z",
+  "body": "## Features\r\n\r\n- Add a new `--reference <cmd>` option to specify a reference command for the relative speed comparison, see #579, #577 and #744 (@JanEricNitschke)\r\n- Add `--conclude` argument (analog to `--prepare`), see #565 and #719 as well as the [docs here](https://github.com/sharkdp/hyperfine?tab=readme-ov-file#detailed-benchmark-flowchart) (@jackoconnordev)\r\n- Allow `--output=…` to appear once for each command, enabling use cases like `hyperfine --output=null my-cmd --output=./file.log my-cmd`, see #529 and #775 (@sharkdp)\r\n- The environment variable `$HYPERFINE_ITERATION` will now contain the current iteration number for each benchmarked command, see #775 (@sharkdp)\r\n- Add iteration information to failure error message, see #771 and #772 (@sharkdp)\r\n- Python scripts: \r\n  - legend modification parameters and output DPI, see #758 (@Spreadcat)\r\n  - Nicer whiskers plot, see #727 (@serpent7776)\r\n\r\n## Bugfixes\r\n\r\n- ETA not clearly visible on terminals with a block cursor, see #698 and #699 (@overclockworked64)\r\n- Fix zsh completions, see #717 (@xzfc)\r\n\r\n## Other\r\n\r\n- Build binaries for aarch64-apple-darwin, see #728 (@Phault)\r\n- Various cleanups (@hamirmahal, @one230six)",
+  "created_at": "2024-11-11T21:41:35Z",
   "draft": false,
-  "html_url": "https://github.com/sharkdp/hyperfine/releases/tag/v1.18.0",
-  "id": 123814329,
-  "name": "v1.18.0",
-  "node_id": "RE_kwDOBv62x84HYUG5",
+  "html_url": "https://github.com/sharkdp/hyperfine/releases/tag/v1.19.0",
+  "id": 184764470,
+  "name": "v1.19.0",
+  "node_id": "RE_kwDOBv62x84LA0g2",
   "prerelease": false,
-  "published_at": "2023-10-05T08:07:11Z",
-  "tag_name": "v1.18.0",
-  "tarball_url": "https://api.github.com/repos/sharkdp/hyperfine/tarball/v1.18.0",
+  "published_at": "2024-11-11T21:43:25Z",
+  "tag_name": "v1.19.0",
+  "tarball_url": "https://api.github.com/repos/sharkdp/hyperfine/tarball/v1.19.0",
   "target_commitish": "master",
-  "upload_url": "https://uploads.github.com/repos/sharkdp/hyperfine/releases/123814329/assets{?name,label}",
-  "url": "https://api.github.com/repos/sharkdp/hyperfine/releases/123814329",
-  "zipball_url": "https://api.github.com/repos/sharkdp/hyperfine/zipball/v1.18.0"
+  "upload_url": "https://uploads.github.com/repos/sharkdp/hyperfine/releases/184764470/assets{?name,label}",
+  "url": "https://api.github.com/repos/sharkdp/hyperfine/releases/184764470",
+  "zipball_url": "https://api.github.com/repos/sharkdp/hyperfine/zipball/v1.19.0"
 }
