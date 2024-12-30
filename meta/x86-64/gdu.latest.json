@@ -1,118 +1,16 @@
 {
   "assets": [
     {
-      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.29.0/gdu-5.29.0-1.aarch64.rpm",
-      "content_type": "application/x-rpm",
-      "created_at": "2024-07-01T12:55:45Z",
-      "id": 176987167,
-      "label": null,
-      "name": "gdu-5.29.0-1.aarch64.rpm",
-      "node_id": "RA_kwDOB1EGJs4KjJwf",
-      "size": 4237963,
-      "state": "uploaded",
-      "updated_at": "2024-07-01T12:55:47Z",
-      "uploader": {
-        "avatar_url": "https://avatars.githubusercontent.com/u/13314239?v=4",
-        "events_url": "https://api.github.com/users/danie-dejager/events{/privacy}",
-        "followers_url": "https://api.github.com/users/danie-dejager/followers",
-        "following_url": "https://api.github.com/users/danie-dejager/following{/other_user}",
-        "gists_url": "https://api.github.com/users/danie-dejager/gists{/gist_id}",
-        "gravatar_id": "",
-        "html_url": "https://github.com/danie-dejager",
-        "id": 13314239,
-        "login": "danie-dejager",
-        "node_id": "MDQ6VXNlcjEzMzE0MjM5",
-        "organizations_url": "https://api.github.com/users/danie-dejager/orgs",
-        "received_events_url": "https://api.github.com/users/danie-dejager/received_events",
-        "repos_url": "https://api.github.com/users/danie-dejager/repos",
-        "site_admin": false,
-        "starred_url": "https://api.github.com/users/danie-dejager/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/danie-dejager/subscriptions",
-        "type": "User",
-        "url": "https://api.github.com/users/danie-dejager",
-        "user_view_type": "public"
-      },
-      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/176987167"
-    },
-    {
-      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.29.0/gdu-5.29.0-1.src.rpm",
-      "content_type": "application/x-rpm",
-      "created_at": "2024-07-01T12:55:41Z",
-      "id": 176987153,
-      "label": null,
-      "name": "gdu-5.29.0-1.src.rpm",
-      "node_id": "RA_kwDOB1EGJs4KjJwR",
-      "size": 3700338,
-      "state": "uploaded",
-      "updated_at": "2024-07-01T12:55:45Z",
-      "uploader": {
-        "avatar_url": "https://avatars.githubusercontent.com/u/13314239?v=4",
-        "events_url": "https://api.github.com/users/danie-dejager/events{/privacy}",
-        "followers_url": "https://api.github.com/users/danie-dejager/followers",
-        "following_url": "https://api.github.com/users/danie-dejager/following{/other_user}",
-        "gists_url": "https://api.github.com/users/danie-dejager/gists{/gist_id}",
-        "gravatar_id": "",
-        "html_url": "https://github.com/danie-dejager",
-        "id": 13314239,
-        "login": "danie-dejager",
-        "node_id": "MDQ6VXNlcjEzMzE0MjM5",
-        "organizations_url": "https://api.github.com/users/danie-dejager/orgs",
-        "received_events_url": "https://api.github.com/users/danie-dejager/received_events",
-        "repos_url": "https://api.github.com/users/danie-dejager/repos",
-        "site_admin": false,
-        "starred_url": "https://api.github.com/users/danie-dejager/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/danie-dejager/subscriptions",
-        "type": "User",
-        "url": "https://api.github.com/users/danie-dejager",
-        "user_view_type": "public"
-      },
-      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/176987153"
-    },
-    {
-      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.29.0/gdu-5.29.0-1.x86_64.rpm",
-      "content_type": "application/x-rpm",
-      "created_at": "2024-07-01T12:48:49Z",
-      "id": 176986036,
-      "label": null,
-      "name": "gdu-5.29.0-1.x86_64.rpm",
-      "node_id": "RA_kwDOB1EGJs4KjJe0",
-      "size": 4795440,
-      "state": "uploaded",
-      "updated_at": "2024-07-01T12:48:53Z",
-      "uploader": {
-        "avatar_url": "https://avatars.githubusercontent.com/u/13314239?v=4",
-        "events_url": "https://api.github.com/users/danie-dejager/events{/privacy}",
-        "followers_url": "https://api.github.com/users/danie-dejager/followers",
-        "following_url": "https://api.github.com/users/danie-dejager/following{/other_user}",
-        "gists_url": "https://api.github.com/users/danie-dejager/gists{/gist_id}",
-        "gravatar_id": "",
-        "html_url": "https://github.com/danie-dejager",
-        "id": 13314239,
-        "login": "danie-dejager",
-        "node_id": "MDQ6VXNlcjEzMzE0MjM5",
-        "organizations_url": "https://api.github.com/users/danie-dejager/orgs",
-        "received_events_url": "https://api.github.com/users/danie-dejager/received_events",
-        "repos_url": "https://api.github.com/users/danie-dejager/repos",
-        "site_admin": false,
-        "starred_url": "https://api.github.com/users/danie-dejager/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/danie-dejager/subscriptions",
-        "type": "User",
-        "url": "https://api.github.com/users/danie-dejager",
-        "user_view_type": "public"
-      },
-      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/176986036"
-    },
-    {
-      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.29.0/gdu-5.29.0.tgz",
+      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.30.1/gdu-5.30.1.tgz",
       "content_type": "application/x-gtar",
-      "created_at": "2024-06-17T10:20:17Z",
-      "id": 174260307,
+      "created_at": "2024-12-30T21:26:09Z",
+      "id": 216816665,
       "label": "",
-      "name": "gdu-5.29.0.tgz",
-      "node_id": "RA_kwDOB1EGJs4KYwBT",
-      "size": 4794507,
+      "name": "gdu-5.30.1.tgz",
+      "node_id": "RA_kwDOB1EGJs4M7FwZ",
+      "size": 4801122,
       "state": "uploaded",
-      "updated_at": "2024-06-17T10:20:30Z",
+      "updated_at": "2024-12-30T21:26:11Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/27106?v=4",
         "events_url": "https://api.github.com/users/dundee/events{/privacy}",
@@ -134,19 +32,19 @@
         "url": "https://api.github.com/users/dundee",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/174260307"
+      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/216816665"
     },
     {
-      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.29.0/gdu.1.tgz",
+      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.30.1/gdu.1.tgz",
       "content_type": "application/x-gtar",
-      "created_at": "2024-06-17T10:20:16Z",
-      "id": 174260305,
+      "created_at": "2024-12-30T21:26:08Z",
+      "id": 216816663,
       "label": "",
       "name": "gdu.1.tgz",
-      "node_id": "RA_kwDOB1EGJs4KYwBR",
-      "size": 1609,
+      "node_id": "RA_kwDOB1EGJs4M7FwX",
+      "size": 1660,
       "state": "uploaded",
-      "updated_at": "2024-06-17T10:20:16Z",
+      "updated_at": "2024-12-30T21:26:08Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/27106?v=4",
         "events_url": "https://api.github.com/users/dundee/events{/privacy}",
@@ -168,19 +66,19 @@
         "url": "https://api.github.com/users/dundee",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/174260305"
+      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/216816663"
     },
     {
-      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.29.0/gdu_android_arm64.tgz",
+      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.30.1/gdu_android_arm64.tgz",
       "content_type": "application/x-gtar",
-      "created_at": "2024-06-17T10:17:59Z",
-      "id": 174259905,
+      "created_at": "2024-12-30T21:25:37Z",
+      "id": 216816595,
       "label": "",
       "name": "gdu_android_arm64.tgz",
-      "node_id": "RA_kwDOB1EGJs4KYv7B",
-      "size": 5300661,
+      "node_id": "RA_kwDOB1EGJs4M7FvT",
+      "size": 5454206,
       "state": "uploaded",
-      "updated_at": "2024-06-17T10:18:25Z",
+      "updated_at": "2024-12-30T21:25:44Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/27106?v=4",
         "events_url": "https://api.github.com/users/dundee/events{/privacy}",
@@ -202,19 +100,19 @@
         "url": "https://api.github.com/users/dundee",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/174259905"
+      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/216816595"
     },
     {
-      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.29.0/gdu_darwin_amd64.tgz",
+      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.30.1/gdu_darwin_amd64.tgz",
       "content_type": "application/x-gtar",
-      "created_at": "2024-06-17T10:17:59Z",
-      "id": 174259903,
+      "created_at": "2024-12-30T21:25:37Z",
+      "id": 216816593,
       "label": "",
       "name": "gdu_darwin_amd64.tgz",
-      "node_id": "RA_kwDOB1EGJs4KYv6_",
-      "size": 5628429,
+      "node_id": "RA_kwDOB1EGJs4M7FvR",
+      "size": 5792222,
       "state": "uploaded",
-      "updated_at": "2024-06-17T10:18:39Z",
+      "updated_at": "2024-12-30T21:25:45Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/27106?v=4",
         "events_url": "https://api.github.com/users/dundee/events{/privacy}",
@@ -236,19 +134,19 @@
         "url": "https://api.github.com/users/dundee",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/174259903"
+      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/216816593"
     },
     {
-      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.29.0/gdu_darwin_arm64.tgz",
+      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.30.1/gdu_darwin_arm64.tgz",
       "content_type": "application/x-gtar",
-      "created_at": "2024-06-17T10:17:59Z",
-      "id": 174259906,
+      "created_at": "2024-12-30T21:25:37Z",
+      "id": 216816592,
       "label": "",
       "name": "gdu_darwin_arm64.tgz",
-      "node_id": "RA_kwDOB1EGJs4KYv7C",
-      "size": 5281630,
+      "node_id": "RA_kwDOB1EGJs4M7FvQ",
+      "size": 5427794,
       "state": "uploaded",
-      "updated_at": "2024-06-17T10:18:23Z",
+      "updated_at": "2024-12-30T21:25:44Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/27106?v=4",
         "events_url": "https://api.github.com/users/dundee/events{/privacy}",
@@ -270,19 +168,19 @@
         "url": "https://api.github.com/users/dundee",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/174259906"
+      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/216816592"
     },
     {
-      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.29.0/gdu_freebsd_386.tgz",
+      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.30.1/gdu_freebsd_386.tgz",
       "content_type": "application/x-gtar",
-      "created_at": "2024-06-17T10:18:24Z",
-      "id": 174259983,
+      "created_at": "2024-12-30T21:25:45Z",
+      "id": 216816608,
       "label": "",
       "name": "gdu_freebsd_386.tgz",
-      "node_id": "RA_kwDOB1EGJs4KYv8P",
-      "size": 5218479,
+      "node_id": "RA_kwDOB1EGJs4M7Fvg",
+      "size": 5372819,
       "state": "uploaded",
-      "updated_at": "2024-06-17T10:18:44Z",
+      "updated_at": "2024-12-30T21:25:48Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/27106?v=4",
         "events_url": "https://api.github.com/users/dundee/events{/privacy}",
@@ -304,19 +202,19 @@
         "url": "https://api.github.com/users/dundee",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/174259983"
+      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/216816608"
     },
     {
-      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.29.0/gdu_freebsd_amd64.tgz",
+      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.30.1/gdu_freebsd_amd64.tgz",
       "content_type": "application/x-gtar",
-      "created_at": "2024-06-17T10:17:59Z",
-      "id": 174259902,
+      "created_at": "2024-12-30T21:25:37Z",
+      "id": 216816590,
       "label": "",
       "name": "gdu_freebsd_amd64.tgz",
-      "node_id": "RA_kwDOB1EGJs4KYv6-",
-      "size": 5530172,
+      "node_id": "RA_kwDOB1EGJs4M7FvO",
+      "size": 5686430,
       "state": "uploaded",
-      "updated_at": "2024-06-17T10:18:24Z",
+      "updated_at": "2024-12-30T21:25:45Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/27106?v=4",
         "events_url": "https://api.github.com/users/dundee/events{/privacy}",
@@ -338,19 +236,19 @@
         "url": "https://api.github.com/users/dundee",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/174259902"
+      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/216816590"
     },
     {
-      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.29.0/gdu_freebsd_arm.tgz",
+      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.30.1/gdu_freebsd_arm.tgz",
       "content_type": "application/x-gtar",
-      "created_at": "2024-06-17T10:17:59Z",
-      "id": 174259904,
+      "created_at": "2024-12-30T21:25:37Z",
+      "id": 216816591,
       "label": "",
       "name": "gdu_freebsd_arm.tgz",
-      "node_id": "RA_kwDOB1EGJs4KYv7A",
-      "size": 5158635,
+      "node_id": "RA_kwDOB1EGJs4M7FvP",
+      "size": 5298615,
       "state": "uploaded",
-      "updated_at": "2024-06-17T10:18:32Z",
+      "updated_at": "2024-12-30T21:25:45Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/27106?v=4",
         "events_url": "https://api.github.com/users/dundee/events{/privacy}",
@@ -372,19 +270,19 @@
         "url": "https://api.github.com/users/dundee",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/174259904"
+      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/216816591"
     },
     {
-      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.29.0/gdu_linux_386.tgz",
+      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.30.1/gdu_linux_386.tgz",
       "content_type": "application/x-gtar",
-      "created_at": "2024-06-17T10:19:46Z",
-      "id": 174260203,
+      "created_at": "2024-12-30T21:25:59Z",
+      "id": 216816646,
       "label": "",
       "name": "gdu_linux_386.tgz",
-      "node_id": "RA_kwDOB1EGJs4KYv_r",
-      "size": 5233664,
+      "node_id": "RA_kwDOB1EGJs4M7FwG",
+      "size": 5392465,
       "state": "uploaded",
-      "updated_at": "2024-06-17T10:20:08Z",
+      "updated_at": "2024-12-30T21:26:02Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/27106?v=4",
         "events_url": "https://api.github.com/users/dundee/events{/privacy}",
@@ -406,19 +304,19 @@
         "url": "https://api.github.com/users/dundee",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/174260203"
+      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/216816646"
     },
     {
-      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.29.0/gdu_linux_amd64-x.tgz",
+      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.30.1/gdu_linux_amd64-x.tgz",
       "content_type": "application/x-gtar",
-      "created_at": "2024-06-17T10:18:34Z",
-      "id": 174260014,
+      "created_at": "2024-12-30T21:25:46Z",
+      "id": 216816612,
       "label": "",
       "name": "gdu_linux_amd64-x.tgz",
-      "node_id": "RA_kwDOB1EGJs4KYv8u",
-      "size": 5834507,
+      "node_id": "RA_kwDOB1EGJs4M7Fvk",
+      "size": 6001349,
       "state": "uploaded",
-      "updated_at": "2024-06-17T10:19:03Z",
+      "updated_at": "2024-12-30T21:25:50Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/27106?v=4",
         "events_url": "https://api.github.com/users/dundee/events{/privacy}",
@@ -440,19 +338,19 @@
         "url": "https://api.github.com/users/dundee",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/174260014"
+      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/216816612"
     },
     {
-      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.29.0/gdu_linux_amd64.tgz",
+      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.30.1/gdu_linux_amd64.tgz",
       "content_type": "application/x-gtar",
-      "created_at": "2024-06-17T10:18:26Z",
-      "id": 174259988,
+      "created_at": "2024-12-30T21:25:46Z",
+      "id": 216816611,
       "label": "",
       "name": "gdu_linux_amd64.tgz",
-      "node_id": "RA_kwDOB1EGJs4KYv8U",
-      "size": 5532129,
+      "node_id": "RA_kwDOB1EGJs4M7Fvj",
+      "size": 5697180,
       "state": "uploaded",
-      "updated_at": "2024-06-17T10:18:51Z",
+      "updated_at": "2024-12-30T21:25:50Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/27106?v=4",
         "events_url": "https://api.github.com/users/dundee/events{/privacy}",
@@ -474,19 +372,19 @@
         "url": "https://api.github.com/users/dundee",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/174259988"
+      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/216816611"
     },
     {
-      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.29.0/gdu_linux_amd64_static.tgz",
+      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.30.1/gdu_linux_amd64_static.tgz",
       "content_type": "application/x-gtar",
-      "created_at": "2024-06-17T10:18:25Z",
-      "id": 174259984,
+      "created_at": "2024-12-30T21:25:45Z",
+      "id": 216816610,
       "label": "",
       "name": "gdu_linux_amd64_static.tgz",
-      "node_id": "RA_kwDOB1EGJs4KYv8Q",
-      "size": 5589740,
+      "node_id": "RA_kwDOB1EGJs4M7Fvi",
+      "size": 5744966,
       "state": "uploaded",
-      "updated_at": "2024-06-17T10:18:51Z",
+      "updated_at": "2024-12-30T21:25:50Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/27106?v=4",
         "events_url": "https://api.github.com/users/dundee/events{/privacy}",
@@ -508,19 +406,19 @@
         "url": "https://api.github.com/users/dundee",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/174259984"
+      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/216816610"
     },
     {
-      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.29.0/gdu_linux_arm.tgz",
+      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.30.1/gdu_linux_arm.tgz",
       "content_type": "application/x-gtar",
-      "created_at": "2024-06-17T10:18:41Z",
-      "id": 174260032,
+      "created_at": "2024-12-30T21:25:46Z",
+      "id": 216816613,
       "label": "",
       "name": "gdu_linux_arm.tgz",
-      "node_id": "RA_kwDOB1EGJs4KYv9A",
-      "size": 5167298,
+      "node_id": "RA_kwDOB1EGJs4M7Fvl",
+      "size": 5308325,
       "state": "uploaded",
-      "updated_at": "2024-06-17T10:19:07Z",
+      "updated_at": "2024-12-30T21:25:50Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/27106?v=4",
         "events_url": "https://api.github.com/users/dundee/events{/privacy}",
@@ -542,19 +440,19 @@
         "url": "https://api.github.com/users/dundee",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/174260032"
+      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/216816613"
     },
     {
-      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.29.0/gdu_linux_arm64.tgz",
+      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.30.1/gdu_linux_arm64.tgz",
       "content_type": "application/x-gtar",
-      "created_at": "2024-06-17T10:19:05Z",
-      "id": 174260102,
+      "created_at": "2024-12-30T21:25:51Z",
+      "id": 216816630,
       "label": "",
       "name": "gdu_linux_arm64.tgz",
-      "node_id": "RA_kwDOB1EGJs4KYv-G",
-      "size": 5077230,
+      "node_id": "RA_kwDOB1EGJs4M7Fv2",
+      "size": 5223299,
       "state": "uploaded",
-      "updated_at": "2024-06-17T10:19:33Z",
+      "updated_at": "2024-12-30T21:25:55Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/27106?v=4",
         "events_url": "https://api.github.com/users/dundee/events{/privacy}",
@@ -576,19 +474,19 @@
         "url": "https://api.github.com/users/dundee",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/174260102"
+      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/216816630"
     },
     {
-      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.29.0/gdu_linux_armv5l.tgz",
+      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.30.1/gdu_linux_armv5l.tgz",
       "content_type": "application/x-gtar",
-      "created_at": "2024-06-17T10:18:46Z",
-      "id": 174260043,
+      "created_at": "2024-12-30T21:25:49Z",
+      "id": 216816620,
       "label": "",
       "name": "gdu_linux_armv5l.tgz",
-      "node_id": "RA_kwDOB1EGJs4KYv9L",
-      "size": 5184490,
+      "node_id": "RA_kwDOB1EGJs4M7Fvs",
+      "size": 5326365,
       "state": "uploaded",
-      "updated_at": "2024-06-17T10:19:12Z",
+      "updated_at": "2024-12-30T21:25:52Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/27106?v=4",
         "events_url": "https://api.github.com/users/dundee/events{/privacy}",
@@ -610,19 +508,19 @@
         "url": "https://api.github.com/users/dundee",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/174260043"
+      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/216816620"
     },
     {
-      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.29.0/gdu_linux_armv6l.tgz",
+      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.30.1/gdu_linux_armv6l.tgz",
       "content_type": "application/x-gtar",
-      "created_at": "2024-06-17T10:18:52Z",
-      "id": 174260062,
+      "created_at": "2024-12-30T21:25:50Z",
+      "id": 216816627,
       "label": "",
       "name": "gdu_linux_armv6l.tgz",
-      "node_id": "RA_kwDOB1EGJs4KYv9e",
-      "size": 5174347,
+      "node_id": "RA_kwDOB1EGJs4M7Fvz",
+      "size": 5319190,
       "state": "uploaded",
-      "updated_at": "2024-06-17T10:19:21Z",
+      "updated_at": "2024-12-30T21:25:54Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/27106?v=4",
         "events_url": "https://api.github.com/users/dundee/events{/privacy}",
@@ -644,19 +542,19 @@
         "url": "https://api.github.com/users/dundee",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/174260062"
+      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/216816627"
     },
     {
-      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.29.0/gdu_linux_armv7l.tgz",
+      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.30.1/gdu_linux_armv7l.tgz",
       "content_type": "application/x-gtar",
-      "created_at": "2024-06-17T10:18:53Z",
-      "id": 174260065,
+      "created_at": "2024-12-30T21:25:51Z",
+      "id": 216816628,
       "label": "",
       "name": "gdu_linux_armv7l.tgz",
-      "node_id": "RA_kwDOB1EGJs4KYv9h",
-      "size": 5162319,
+      "node_id": "RA_kwDOB1EGJs4M7Fv0",
+      "size": 5308345,
       "state": "uploaded",
-      "updated_at": "2024-06-17T10:19:23Z",
+      "updated_at": "2024-12-30T21:25:55Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/27106?v=4",
         "events_url": "https://api.github.com/users/dundee/events{/privacy}",
@@ -678,19 +576,19 @@
         "url": "https://api.github.com/users/dundee",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/174260065"
+      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/216816628"
     },
     {
-      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.29.0/gdu_linux_mips.tgz",
+      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.30.1/gdu_linux_mips.tgz",
       "content_type": "application/x-gtar",
-      "created_at": "2024-06-17T10:19:13Z",
-      "id": 174260116,
+      "created_at": "2024-12-30T21:25:52Z",
+      "id": 216816633,
       "label": "",
       "name": "gdu_linux_mips.tgz",
-      "node_id": "RA_kwDOB1EGJs4KYv-U",
-      "size": 4994061,
+      "node_id": "RA_kwDOB1EGJs4M7Fv5",
+      "size": 5132161,
       "state": "uploaded",
-      "updated_at": "2024-06-17T10:19:39Z",
+      "updated_at": "2024-12-30T21:25:56Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/27106?v=4",
         "events_url": "https://api.github.com/users/dundee/events{/privacy}",
@@ -712,19 +610,19 @@
         "url": "https://api.github.com/users/dundee",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/174260116"
+      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/216816633"
     },
     {
-      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.29.0/gdu_linux_mips64.tgz",
+      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.30.1/gdu_linux_mips64.tgz",
       "content_type": "application/x-gtar",
-      "created_at": "2024-06-17T10:19:25Z",
-      "id": 174260146,
+      "created_at": "2024-12-30T21:25:55Z",
+      "id": 216816640,
       "label": "",
       "name": "gdu_linux_mips64.tgz",
-      "node_id": "RA_kwDOB1EGJs4KYv-y",
-      "size": 4861059,
+      "node_id": "RA_kwDOB1EGJs4M7FwA",
+      "size": 5002842,
       "state": "uploaded",
-      "updated_at": "2024-06-17T10:19:47Z",
+      "updated_at": "2024-12-30T21:25:59Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/27106?v=4",
         "events_url": "https://api.github.com/users/dundee/events{/privacy}",
@@ -746,19 +644,19 @@
         "url": "https://api.github.com/users/dundee",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/174260146"
+      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/216816640"
     },
     {
-      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.29.0/gdu_linux_mips64le.tgz",
+      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.30.1/gdu_linux_mips64le.tgz",
       "content_type": "application/x-gtar",
-      "created_at": "2024-06-17T10:19:23Z",
-      "id": 174260142,
+      "created_at": "2024-12-30T21:25:55Z",
+      "id": 216816637,
       "label": "",
       "name": "gdu_linux_mips64le.tgz",
-      "node_id": "RA_kwDOB1EGJs4KYv-u",
-      "size": 4760258,
+      "node_id": "RA_kwDOB1EGJs4M7Fv9",
+      "size": 4900485,
       "state": "uploaded",
-      "updated_at": "2024-06-17T10:19:45Z",
+      "updated_at": "2024-12-30T21:25:58Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/27106?v=4",
         "events_url": "https://api.github.com/users/dundee/events{/privacy}",
@@ -780,19 +678,19 @@
         "url": "https://api.github.com/users/dundee",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/174260142"
+      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/216816637"
     },
     {
-      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.29.0/gdu_linux_mipsle.tgz",
+      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.30.1/gdu_linux_mipsle.tgz",
       "content_type": "application/x-gtar",
-      "created_at": "2024-06-17T10:19:09Z",
-      "id": 174260109,
+      "created_at": "2024-12-30T21:25:51Z",
+      "id": 216816631,
       "label": "",
       "name": "gdu_linux_mipsle.tgz",
-      "node_id": "RA_kwDOB1EGJs4KYv-N",
-      "size": 4905030,
+      "node_id": "RA_kwDOB1EGJs4M7Fv3",
+      "size": 5038817,
       "state": "uploaded",
-      "updated_at": "2024-06-17T10:19:34Z",
+      "updated_at": "2024-12-30T21:25:55Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/27106?v=4",
         "events_url": "https://api.github.com/users/dundee/events{/privacy}",
@@ -814,19 +712,19 @@
         "url": "https://api.github.com/users/dundee",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/174260109"
+      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/216816631"
     },
     {
-      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.29.0/gdu_linux_ppc64.tgz",
+      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.30.1/gdu_linux_ppc64.tgz",
       "content_type": "application/x-gtar",
-      "created_at": "2024-06-17T10:19:35Z",
-      "id": 174260189,
+      "created_at": "2024-12-30T21:25:56Z",
+      "id": 216816641,
       "label": "",
       "name": "gdu_linux_ppc64.tgz",
-      "node_id": "RA_kwDOB1EGJs4KYv_d",
-      "size": 4996235,
+      "node_id": "RA_kwDOB1EGJs4M7FwB",
+      "size": 5137158,
       "state": "uploaded",
-      "updated_at": "2024-06-17T10:19:53Z",
+      "updated_at": "2024-12-30T21:26:00Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/27106?v=4",
         "events_url": "https://api.github.com/users/dundee/events{/privacy}",
@@ -848,19 +746,19 @@
         "url": "https://api.github.com/users/dundee",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/174260189"
+      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/216816641"
     },
     {
-      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.29.0/gdu_linux_ppc64le.tgz",
+      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.30.1/gdu_linux_ppc64le.tgz",
       "content_type": "application/x-gtar",
-      "created_at": "2024-06-17T10:19:34Z",
-      "id": 174260188,
+      "created_at": "2024-12-30T21:25:56Z",
+      "id": 216816642,
       "label": "",
       "name": "gdu_linux_ppc64le.tgz",
-      "node_id": "RA_kwDOB1EGJs4KYv_c",
-      "size": 5046745,
+      "node_id": "RA_kwDOB1EGJs4M7FwC",
+      "size": 5193301,
       "state": "uploaded",
-      "updated_at": "2024-06-17T10:19:55Z",
+      "updated_at": "2024-12-30T21:26:00Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/27106?v=4",
         "events_url": "https://api.github.com/users/dundee/events{/privacy}",
@@ -882,19 +780,19 @@
         "url": "https://api.github.com/users/dundee",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/174260188"
+      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/216816642"
     },
     {
-      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.29.0/gdu_linux_s390x.tgz",
+      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.30.1/gdu_linux_s390x.tgz",
       "content_type": "application/x-gtar",
-      "created_at": "2024-06-17T10:19:40Z",
-      "id": 174260196,
+      "created_at": "2024-12-30T21:25:56Z",
+      "id": 216816644,
       "label": "",
       "name": "gdu_linux_s390x.tgz",
-      "node_id": "RA_kwDOB1EGJs4KYv_k",
-      "size": 5437453,
+      "node_id": "RA_kwDOB1EGJs4M7FwE",
+      "size": 5594788,
       "state": "uploaded",
-      "updated_at": "2024-06-17T10:20:03Z",
+      "updated_at": "2024-12-30T21:26:01Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/27106?v=4",
         "events_url": "https://api.github.com/users/dundee/events{/privacy}",
@@ -916,19 +814,19 @@
         "url": "https://api.github.com/users/dundee",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/174260196"
+      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/216816644"
     },
     {
-      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.29.0/gdu_netbsd_386.tgz",
+      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.30.1/gdu_netbsd_386.tgz",
       "content_type": "application/x-gtar",
-      "created_at": "2024-06-17T10:19:56Z",
-      "id": 174260252,
+      "created_at": "2024-12-30T21:26:01Z",
+      "id": 216816650,
       "label": "",
       "name": "gdu_netbsd_386.tgz",
-      "node_id": "RA_kwDOB1EGJs4KYwAc",
-      "size": 5210497,
+      "node_id": "RA_kwDOB1EGJs4M7FwK",
+      "size": 5366972,
       "state": "uploaded",
-      "updated_at": "2024-06-17T10:20:15Z",
+      "updated_at": "2024-12-30T21:26:08Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/27106?v=4",
         "events_url": "https://api.github.com/users/dundee/events{/privacy}",
@@ -950,19 +848,19 @@
         "url": "https://api.github.com/users/dundee",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/174260252"
+      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/216816650"
     },
     {
-      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.29.0/gdu_netbsd_amd64.tgz",
+      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.30.1/gdu_netbsd_amd64.tgz",
       "content_type": "application/x-gtar",
-      "created_at": "2024-06-17T10:19:48Z",
-      "id": 174260211,
+      "created_at": "2024-12-30T21:26:00Z",
+      "id": 216816648,
       "label": "",
       "name": "gdu_netbsd_amd64.tgz",
-      "node_id": "RA_kwDOB1EGJs4KYv_z",
-      "size": 5521099,
+      "node_id": "RA_kwDOB1EGJs4M7FwI",
+      "size": 5677844,
       "state": "uploaded",
-      "updated_at": "2024-06-17T10:20:12Z",
+      "updated_at": "2024-12-30T21:26:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/27106?v=4",
         "events_url": "https://api.github.com/users/dundee/events{/privacy}",
@@ -984,19 +882,19 @@
         "url": "https://api.github.com/users/dundee",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/174260211"
+      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/216816648"
     },
     {
-      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.29.0/gdu_netbsd_arm.tgz",
+      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.30.1/gdu_netbsd_arm.tgz",
       "content_type": "application/x-gtar",
-      "created_at": "2024-06-17T10:19:55Z",
-      "id": 174260246,
+      "created_at": "2024-12-30T21:26:01Z",
+      "id": 216816649,
       "label": "",
       "name": "gdu_netbsd_arm.tgz",
-      "node_id": "RA_kwDOB1EGJs4KYwAW",
-      "size": 5152188,
+      "node_id": "RA_kwDOB1EGJs4M7FwJ",
+      "size": 5288953,
       "state": "uploaded",
-      "updated_at": "2024-06-17T10:20:15Z",
+      "updated_at": "2024-12-30T21:26:07Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/27106?v=4",
         "events_url": "https://api.github.com/users/dundee/events{/privacy}",
@@ -1018,19 +916,19 @@
         "url": "https://api.github.com/users/dundee",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/174260246"
+      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/216816649"
     },
     {
-      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.29.0/gdu_openbsd_386.tgz",
+      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.30.1/gdu_openbsd_386.tgz",
       "content_type": "application/x-gtar",
-      "created_at": "2024-06-17T10:20:09Z",
-      "id": 174260292,
+      "created_at": "2024-12-30T21:26:03Z",
+      "id": 216816655,
       "label": "",
       "name": "gdu_openbsd_386.tgz",
-      "node_id": "RA_kwDOB1EGJs4KYwBE",
-      "size": 5221148,
+      "node_id": "RA_kwDOB1EGJs4M7FwP",
+      "size": 5377428,
       "state": "uploaded",
-      "updated_at": "2024-06-17T10:20:28Z",
+      "updated_at": "2024-12-30T21:26:10Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/27106?v=4",
         "events_url": "https://api.github.com/users/dundee/events{/privacy}",
@@ -1052,19 +950,19 @@
         "url": "https://api.github.com/users/dundee",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/174260292"
+      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/216816655"
     },
     {
-      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.29.0/gdu_openbsd_amd64.tgz",
+      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.30.1/gdu_openbsd_amd64.tgz",
       "content_type": "application/x-gtar",
-      "created_at": "2024-06-17T10:20:05Z",
-      "id": 174260281,
+      "created_at": "2024-12-30T21:26:02Z",
+      "id": 216816651,
       "label": "",
       "name": "gdu_openbsd_amd64.tgz",
-      "node_id": "RA_kwDOB1EGJs4KYwA5",
-      "size": 5528914,
+      "node_id": "RA_kwDOB1EGJs4M7FwL",
+      "size": 5689873,
       "state": "uploaded",
-      "updated_at": "2024-06-17T10:20:25Z",
+      "updated_at": "2024-12-30T21:26:09Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/27106?v=4",
         "events_url": "https://api.github.com/users/dundee/events{/privacy}",
@@ -1086,19 +984,19 @@
         "url": "https://api.github.com/users/dundee",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/174260281"
+      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/216816651"
     },
     {
-      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.29.0/gdu_windows_amd64.exe.zip",
+      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.30.1/gdu_windows_amd64.exe.zip",
       "content_type": "application/zip",
-      "created_at": "2024-06-17T10:20:14Z",
-      "id": 174260301,
+      "created_at": "2024-12-30T21:26:06Z",
+      "id": 216816657,
       "label": "",
       "name": "gdu_windows_amd64.exe.zip",
-      "node_id": "RA_kwDOB1EGJs4KYwBN",
-      "size": 5640074,
+      "node_id": "RA_kwDOB1EGJs4M7FwR",
+      "size": 5807213,
       "state": "uploaded",
-      "updated_at": "2024-06-17T10:20:30Z",
+      "updated_at": "2024-12-30T21:26:11Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/27106?v=4",
         "events_url": "https://api.github.com/users/dundee/events{/privacy}",
@@ -1120,19 +1018,19 @@
         "url": "https://api.github.com/users/dundee",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/174260301"
+      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/216816657"
     },
     {
-      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.29.0/sha256sums.txt",
+      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.30.1/sha256sums.txt",
       "content_type": "text/plain; charset=utf-8",
-      "created_at": "2024-06-17T10:20:18Z",
-      "id": 174260309,
+      "created_at": "2024-12-30T21:26:09Z",
+      "id": 216816667,
       "label": "",
       "name": "sha256sums.txt",
-      "node_id": "RA_kwDOB1EGJs4KYwBV",
+      "node_id": "RA_kwDOB1EGJs4M7Fwb",
       "size": 2592,
       "state": "uploaded",
-      "updated_at": "2024-06-17T10:20:18Z",
+      "updated_at": "2024-12-30T21:26:10Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/27106?v=4",
         "events_url": "https://api.github.com/users/dundee/events{/privacy}",
@@ -1154,19 +1052,19 @@
         "url": "https://api.github.com/users/dundee",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/174260309"
+      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/216816667"
     },
     {
-      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.29.0/sha256sums.txt.asc",
+      "browser_download_url": "https://github.com/dundee/gdu/releases/download/v5.30.1/sha256sums.txt.asc",
       "content_type": "text/plain; charset=utf-8",
-      "created_at": "2024-06-17T10:20:19Z",
-      "id": 174260312,
+      "created_at": "2024-12-30T21:26:10Z",
+      "id": 216816671,
       "label": "",
       "name": "sha256sums.txt.asc",
-      "node_id": "RA_kwDOB1EGJs4KYwBY",
+      "node_id": "RA_kwDOB1EGJs4M7Fwf",
       "size": 833,
       "state": "uploaded",
-      "updated_at": "2024-06-17T10:20:20Z",
+      "updated_at": "2024-12-30T21:26:10Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/27106?v=4",
         "events_url": "https://api.github.com/users/dundee/events{/privacy}",
@@ -1188,10 +1086,10 @@
         "url": "https://api.github.com/users/dundee",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/174260312"
+      "url": "https://api.github.com/repos/dundee/gdu/releases/assets/216816671"
     }
   ],
-  "assets_url": "https://api.github.com/repos/dundee/gdu/releases/160812649/assets",
+  "assets_url": "https://api.github.com/repos/dundee/gdu/releases/192731729/assets",
   "author": {
     "avatar_url": "https://avatars.githubusercontent.com/u/27106?v=4",
     "events_url": "https://api.github.com/users/dundee/events{/privacy}",
@@ -1213,20 +1111,19 @@
     "url": "https://api.github.com/users/dundee",
     "user_view_type": "public"
   },
-  "body": "## What's Changed\r\n* feat: support for reading gzip, bzip2 and xz files by @dundee in https://github.com/dundee/gdu/pull/363\r\n* feat: add `--show-mtime` (`-M`) option by @dundee in https://github.com/dundee/gdu/pull/350\r\n* feat: add option `--no-unicode` to disable unicode symbols by @dundee in https://github.com/dundee/gdu/pull/362\r\n* fix: division by zero error in formatFileRow by @xroberx in https://github.com/dundee/gdu/pull/359\r\n\r\n## New Contributors\r\n* @xroberx made their first contribution in https://github.com/dundee/gdu/pull/359\r\n\r\n**Full Changelog**: https://github.com/dundee/gdu/compare/v5.28.0...v5.29.0",
-  "created_at": "2024-06-17T10:06:50Z",
-  "discussion_url": "https://github.com/dundee/gdu/discussions/369",
+  "body": "fix: set default colors when config file does not exist\n",
+  "created_at": "2024-12-30T21:17:38Z",
   "draft": false,
-  "html_url": "https://github.com/dundee/gdu/releases/tag/v5.29.0",
-  "id": 160812649,
-  "name": "gdu v5.29.0",
-  "node_id": "RE_kwDOB1EGJs4Jlc5p",
+  "html_url": "https://github.com/dundee/gdu/releases/tag/v5.30.1",
+  "id": 192731729,
+  "name": "gdu v5.30.1",
+  "node_id": "RE_kwDOB1EGJs4LfNpR",
   "prerelease": false,
-  "published_at": "2024-06-17T10:32:03Z",
-  "tag_name": "v5.29.0",
-  "tarball_url": "https://api.github.com/repos/dundee/gdu/tarball/v5.29.0",
+  "published_at": "2024-12-30T21:26:12Z",
+  "tag_name": "v5.30.1",
+  "tarball_url": "https://api.github.com/repos/dundee/gdu/tarball/v5.30.1",
   "target_commitish": "master",
-  "upload_url": "https://uploads.github.com/repos/dundee/gdu/releases/160812649/assets{?name,label}",
-  "url": "https://api.github.com/repos/dundee/gdu/releases/160812649",
-  "zipball_url": "https://api.github.com/repos/dundee/gdu/zipball/v5.29.0"
+  "upload_url": "https://uploads.github.com/repos/dundee/gdu/releases/192731729/assets{?name,label}",
+  "url": "https://api.github.com/repos/dundee/gdu/releases/192731729",
+  "zipball_url": "https://api.github.com/repos/dundee/gdu/zipball/v5.30.1"
 }
