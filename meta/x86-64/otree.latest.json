@@ -1,16 +1,16 @@
 {
   "assets": [
     {
-      "browser_download_url": "https://github.com/fioncat/otree/releases/download/v0.3.0/otree-aarch64-apple-darwin.tar.gz",
+      "browser_download_url": "https://github.com/fioncat/otree/releases/download/v0.3.1/otree-aarch64-apple-darwin.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2024-10-28T10:56:50Z",
-      "id": 202311319,
+      "created_at": "2025-01-21T03:13:40Z",
+      "id": 222006031,
       "label": "",
       "name": "otree-aarch64-apple-darwin.tar.gz",
-      "node_id": "RA_kwDOL6I8pc4MDwaX",
-      "size": 1424535,
+      "node_id": "RA_kwDOL6I8pc4NO4sP",
+      "size": 1419174,
       "state": "uploaded",
-      "updated_at": "2024-10-28T10:56:50Z",
+      "updated_at": "2025-01-21T03:13:40Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -32,19 +32,19 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fioncat/otree/releases/assets/202311319"
+      "url": "https://api.github.com/repos/fioncat/otree/releases/assets/222006031"
     },
     {
-      "browser_download_url": "https://github.com/fioncat/otree/releases/download/v0.3.0/otree-x86_64-unknown-linux-musl.tar.gz",
+      "browser_download_url": "https://github.com/fioncat/otree/releases/download/v0.3.1/otree-aarch64-unknown-linux-musl.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2024-10-28T10:57:29Z",
-      "id": 202311398,
+      "created_at": "2025-01-21T03:14:42Z",
+      "id": 222006246,
       "label": "",
-      "name": "otree-x86_64-unknown-linux-musl.tar.gz",
-      "node_id": "RA_kwDOL6I8pc4MDwbm",
-      "size": 1651647,
+      "name": "otree-aarch64-unknown-linux-musl.tar.gz",
+      "node_id": "RA_kwDOL6I8pc4NO4vm",
+      "size": 1482856,
       "state": "uploaded",
-      "updated_at": "2024-10-28T10:57:29Z",
+      "updated_at": "2025-01-21T03:14:42Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -66,10 +66,44 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fioncat/otree/releases/assets/202311398"
+      "url": "https://api.github.com/repos/fioncat/otree/releases/assets/222006246"
+    },
+    {
+      "browser_download_url": "https://github.com/fioncat/otree/releases/download/v0.3.1/otree-x86_64-unknown-linux-musl.tar.gz",
+      "content_type": "application/x-gtar",
+      "created_at": "2025-01-21T03:14:47Z",
+      "id": 222006257,
+      "label": "",
+      "name": "otree-x86_64-unknown-linux-musl.tar.gz",
+      "node_id": "RA_kwDOL6I8pc4NO4vx",
+      "size": 1655963,
+      "state": "uploaded",
+      "updated_at": "2025-01-21T03:14:47Z",
+      "uploader": {
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+        "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+        "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+        "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/apps/github-actions",
+        "id": 41898282,
+        "login": "github-actions[bot]",
+        "node_id": "MDM6Qm90NDE4OTgyODI=",
+        "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+        "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+        "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+        "type": "Bot",
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "user_view_type": "public"
+      },
+      "url": "https://api.github.com/repos/fioncat/otree/releases/assets/222006257"
     }
   ],
-  "assets_url": "https://api.github.com/repos/fioncat/otree/releases/182222228/assets",
+  "assets_url": "https://api.github.com/repos/fioncat/otree/releases/195746797/assets",
   "author": {
     "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
     "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -91,19 +125,19 @@
     "url": "https://api.github.com/users/github-actions%5Bbot%5D",
     "user_view_type": "public"
   },
-  "body": "## New Features\r\n\r\n- Support [jsonl](https://jsonlines.org/).\r\n- Add Homebrew instructions.\r\n\r\n## Bug Fixes\r\n\r\n- Allow reading from stdin on macOS.\r\n\r\n## What's Changed\r\n* docs(readme): add Homebrew instructions by @FnControlOption in https://github.com/fioncat/otree/pull/27\r\n* refactor: migrate ratatui to 0.27.0 by @fioncat in https://github.com/fioncat/otree/pull/31\r\n* build(deps): bump the all group with 2 updates by @dependabot in https://github.com/fioncat/otree/pull/33\r\n* build(deps): bump the all group with 3 updates by @dependabot in https://github.com/fioncat/otree/pull/34\r\n* build(deps): bump the all group with 5 updates by @dependabot in https://github.com/fioncat/otree/pull/35\r\n* build(deps): bump the all group with 5 updates by @dependabot in https://github.com/fioncat/otree/pull/36\r\n* build(deps): bump the all group across 1 directory with 6 updates by @dependabot in https://github.com/fioncat/otree/pull/39\r\n* fix: allow reading from stdin on macOS by @tangowithfoxtrot in https://github.com/fioncat/otree/pull/42\r\n* build(deps): bump the all group across 1 directory with 5 updates by @dependabot in https://github.com/fioncat/otree/pull/43\r\n* build(deps): bump the all group across 1 directory with 4 updates by @dependabot in https://github.com/fioncat/otree/pull/46\r\n* feat(parse): support jsonl format by @fioncat in https://github.com/fioncat/otree/pull/49\r\n\r\n## New Contributors\r\n* @FnControlOption made their first contribution in https://github.com/fioncat/otree/pull/27\r\n* @tangowithfoxtrot made their first contribution in https://github.com/fioncat/otree/pull/42\r\n\r\n**Full Changelog**: https://github.com/fioncat/otree/compare/v0.2.0...v0.3.0",
-  "created_at": "2024-10-28T10:53:56Z",
+  "body": "1. Updated dependencies.\r\n2. Added linux/arm64 binary in release.",
+  "created_at": "2025-01-21T03:09:38Z",
   "draft": false,
-  "html_url": "https://github.com/fioncat/otree/releases/tag/v0.3.0",
-  "id": 182222228,
-  "name": "v0.3.0",
-  "node_id": "RE_kwDOL6I8pc4K3H2U",
+  "html_url": "https://github.com/fioncat/otree/releases/tag/v0.3.1",
+  "id": 195746797,
+  "name": "v0.3.1",
+  "node_id": "RE_kwDOL6I8pc4Lqtvt",
   "prerelease": false,
-  "published_at": "2024-10-28T10:59:41Z",
-  "tag_name": "v0.3.0",
-  "tarball_url": "https://api.github.com/repos/fioncat/otree/tarball/v0.3.0",
+  "published_at": "2025-01-21T03:16:21Z",
+  "tag_name": "v0.3.1",
+  "tarball_url": "https://api.github.com/repos/fioncat/otree/tarball/v0.3.1",
   "target_commitish": "main",
-  "upload_url": "https://uploads.github.com/repos/fioncat/otree/releases/182222228/assets{?name,label}",
-  "url": "https://api.github.com/repos/fioncat/otree/releases/182222228",
-  "zipball_url": "https://api.github.com/repos/fioncat/otree/zipball/v0.3.0"
+  "upload_url": "https://uploads.github.com/repos/fioncat/otree/releases/195746797/assets{?name,label}",
+  "url": "https://api.github.com/repos/fioncat/otree/releases/195746797",
+  "zipball_url": "https://api.github.com/repos/fioncat/otree/zipball/v0.3.1"
 }
