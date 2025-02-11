@@ -873,7 +873,7 @@
     "url": "https://api.github.com/users/yohamta",
     "user_view_type": "public"
   },
-  "body": "## Changelog\n* 6cd013e81cf814e0f4356dc85050fd40cef8b38a [#821] Support Snapcraft distribution (#824)\n\n",
+  "body": "## Changelog\r\n* 6cd013e81cf814e0f4356dc85050fd40cef8b38a [#821] Support Snapcraft distribution (#824)\r\n\r\n## Summary\r\n* Bugfixes (#796 #799 #810)\r\n* Support `/health` endpoint\r\n* Support headless mode\r\n* Enhance YAML Editor with field completion and schema validation\r\n\r\n## What's Changed\r\n* support for headless mode as mentioned in #800 by @kriyanshii in https://github.com/dagu-org/dagu/pull/805\r\n* chore: Update docker examples (Fixes #638) by @arky in https://github.com/dagu-org/dagu/pull/818\r\n* chore: Email attachment testcase (Fixes #812) by @arky in https://github.com/dagu-org/dagu/pull/814\r\n* [#820] Add `/health` endpoint for health check by @yohamta in https://github.com/dagu-org/dagu/pull/823\r\n* digraph: update node.go by @eltociear in https://github.com/dagu-org/dagu/pull/788\r\n\r\n## New Contributors\r\n* @eltociear made their first contribution in https://github.com/dagu-org/dagu/pull/788\r\n* @kennethpjdyer made their first contribution in https://github.com/dagu-org/dagu/pull/791\r\n* @arky made their first contribution in https://github.com/dagu-org/dagu/pull/808\r\n* @vhespanha made their first contribution in https://github.com/dagu-org/dagu/pull/659\r\n\r\n**Full Changelog**: https://github.com/dagu-org/dagu/compare/v1.16.0...v1.16.1",
   "created_at": "2025-02-11T11:48:51Z",
   "draft": false,
   "html_url": "https://github.com/dagu-org/dagu/releases/tag/v1.16.1",
