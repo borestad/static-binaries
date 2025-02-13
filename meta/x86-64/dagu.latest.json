@@ -873,7 +873,7 @@
     "url": "https://api.github.com/users/yohamta",
     "user_view_type": "public"
   },
-  "body": "## Changelog\n* 28105028cda8cca147a8e8b8c30d642bbc982787 [#830] executor/docker: support network configuration (#835)\n\n",
+  "body": "## Changelog\r\n* 28105028cda8cca147a8e8b8c30d642bbc982787 [#830] executor/docker: support network configuration (#835)\r\n\r\n## What's Changed\r\n* system version fix by @dayne in https://github.com/dagu-org/dagu/pull/829\r\n* [#827] executor/docker: Fix: command arguments are not evaluated by @yohamta in https://github.com/dagu-org/dagu/pull/832\r\n* [#831] cmd: fix: `--config` parameter handling by @yohamta in https://github.com/dagu-org/dagu/pull/834\r\n* [#830] executor/docker: support network configuration by @yohamta in https://github.com/dagu-org/dagu/pull/835\r\n\r\n## New Contributors\r\n* @dayne made their first contribution in https://github.com/dagu-org/dagu/pull/829\r\n* @dependabot made their first contribution in https://github.com/dagu-org/dagu/pull/833\r\n\r\n**Full Changelog**: https://github.com/dagu-org/dagu/compare/v1.16.1...v1.16.2",
   "created_at": "2025-02-13T11:55:17Z",
   "draft": false,
   "html_url": "https://github.com/dagu-org/dagu/releases/tag/v1.16.2",
