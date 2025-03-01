@@ -83,7 +83,7 @@ for row in $(ndjson $ROOT/cron/sources.config.json); do
   ###
   echo "🚀 Downloading $NAME ..."
   eget "$EGET_URL" ${EGET_ARGS} \
-      --to=$NAME \
+      --to=./$NAME \
       -a '^sha' \
       -a '^b3' \
       2> >(tee "eget-$NAME".log) | grep -v '==' | grep -v 'Extracted'
