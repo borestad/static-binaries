@@ -124,7 +124,7 @@ for row in $(ndjson $ROOT/cron/sources.config.json); do
   if [ ! -z "$VERIFY" ]; then
     echo "Verify version:"
     CMD="./$NAME $VERIFY"
-    VERIFY_RESULT=$(eval $CMD)
+    VERIFY_RESULT=$(eval $CMD) || true
     echo $VERIFY_RESULT
   fi
 
