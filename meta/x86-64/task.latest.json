@@ -907,7 +907,7 @@
     "url": "https://api.github.com/users/task-bot",
     "user_view_type": "public"
   },
-  "body": "- Fixed a bug where some special variables caused a type error when used global variables (#2106, #2107 by @pd93).\r\n",
+  "body": "- Fixed a bug where some special variables caused a type error when used in global variables (#2106, #2107 by @pd93).\r\n",
   "created_at": "2025-03-10T20:18:58Z",
   "draft": false,
   "html_url": "https://github.com/go-task/task/releases/tag/v3.42.1",
