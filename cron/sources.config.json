@@ -18,6 +18,7 @@
 
 
 
+  { "name": "dops",             "eget_url": "Mikescher/better-docker-ps",         "eget_args": "-a linux-amd64-static",                        "verify": "--version", "upx": true },
   { "name": "ipinfo",           "eget_url": "ipinfo/cli",                         "eget_args": "-a linux_amd64.tar.gz",                        "verify": "--version", "upx": true },
   { "name": "lurk",             "eget_url": "JakWai01/lurk",                      "eget_args": "-a unknown-linux-gnu.tar.gz",                  "verify": "--version", "upx": true },
   { "name": "agrind",           "eget_url": "rcoh/angle-grinder",                 "eget_args": "-a unknown-linux-musl",                        "verify": "--version &> /dev/null || true", "upx": true },
