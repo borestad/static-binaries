@@ -873,7 +873,7 @@
     "url": "https://api.github.com/users/yottahmd",
     "user_view_type": "public"
   },
-  "body": "## Changelog\n* f0578849351b808eb353d2d7c8f58e1eb8148366 executor/mail: fix: line breaks in email body are not properly converted to `<br />` (#888)\n\n",
+  "body": "## Changelog\r\n* f0578849351b808eb353d2d7c8f58e1eb8148366 executor/mail: fix: line breaks in email body are not properly converted to `<br />` (#888)\r\n\r\n## What's Changed\r\n* docs: bump python version for docs to 3.11.9 by @Lewiscowles1986 in https://github.com/dagu-org/dagu/pull/865\r\n* chore: add CHANGELOG.md by @yottahmd in https://github.com/dagu-org/dagu/pull/866\r\n* fix: snapshot deprecated warning (Fixes #869) by @arky in https://github.com/dagu-org/dagu/pull/870\r\n* docs: fixed incorrect command syntax in slack notification example by @david-waterworth in https://github.com/dagu-org/dagu/pull/874\r\n* [#877] ui: fix: base path is not working on web by @yottahmd in https://github.com/dagu-org/dagu/pull/878\r\n* [#882] Fix context handling issue by @yottahmd in https://github.com/dagu-org/dagu/pull/883\r\n* [#880] config: fix: auth token issue by @yottahmd in https://github.com/dagu-org/dagu/pull/884\r\n* executor/mail: fix: line breaks in email body are not properly converted to `<br />` by @yottahmd in https://github.com/dagu-org/dagu/pull/888\r\n\r\n## New Contributors\r\n* @david-waterworth made their first contribution in https://github.com/dagu-org/dagu/pull/874\r\n\r\n**Full Changelog**: https://github.com/dagu-org/dagu/compare/v1.16.4...v1.16.5",
   "created_at": "2025-03-22T13:50:09Z",
   "draft": false,
   "html_url": "https://github.com/dagu-org/dagu/releases/tag/v1.16.5",
