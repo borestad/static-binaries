@@ -91,13 +91,13 @@ for row in $(ndjson $ROOT/cron/sources.config.json); do
       2> >(tee "eget-$NAME".log) | grep -v '==' | grep -v 'Extracted'
 
   # Check for the case of a faulty download, causing the binary to be a text/html file
-  if is-binary ./$NAME; then
+  if is-binary /tmp/static-binaries/$NAME; then
     echo "✅ $NAME is binary"
     mv /tmp/static-binaries/$NAME ./$NAME
   else
-    echo "❌ $NAME is not a binary"
-    grep -m1 '' ./$NAME || true
-    stat ./$NAME || true
+    echo "❌ /tmp/static-binaries/$NAME is not a binary"
+    grep -m1 '' /tmp/static-binaries/$NAME || true
+    stat /tmp/static-binaries/$NAME || true
     continue
   fi
 
