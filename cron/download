@@ -96,6 +96,7 @@ for row in $(ndjson $ROOT/cron/sources.config.json); do
     mv /tmp/static-binaries/$NAME ./$NAME
   else
     echo "❌ $NAME is not a binary"
+    grep -m1 '' $NAME
     continue
   fi
 
