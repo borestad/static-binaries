@@ -13,9 +13,8 @@
   { "name": "dfrs",             "eget_url": "https://raw.githubusercontent.com/borestad/filedump/main/binaries/x86_64-linux/dfrs",             "verify": " --version | head -1", "upx": true },
   { "name": "serf",             "eget_url": "https://raw.githubusercontent.com/borestad/filedump/main/binaries/x86_64-linux/serf",             "verify": "version | head -1", "upx": true },
   { "name": "grc-rs",           "eget_url": "https://raw.githubusercontent.com/borestad/filedump/main/binaries/x86_64-linux/grc-rs",           "verify": "&>/dev/null || true && echo 'v0.3.2'", "upx": true },
-  { "name": "dig",              "eget_url": "https://raw.githubusercontent.com/borestad/filedump/main/binaries/x86_64-linux/dig",                                                 "verify": "-v", "upx": true },
+  { "name": "dig",              "eget_url": "https://raw.githubusercontent.com/borestad/filedump/main/binaries/x86_64-linux/dig",              "verify": "-v", "upx": true },
   { "name": "speedtest",        "eget_url": "https://install.speedtest.net/app/cli/ookla-speedtest-1.2.0-linux-x86_64.tgz",                    "verify": "-V", "upx": true },
-
 
 
   { "name": "dops",             "eget_url": "Mikescher/better-docker-ps",         "eget_args": "-a linux-amd64-static",                        "verify": "--version", "upx": true },
