@@ -1,16 +1,16 @@
 {
   "assets": [
     {
-      "browser_download_url": "https://github.com/rcoh/angle-grinder/releases/download/v0.19.4/agrind-x86_64-apple-darwin.tar.gz",
+      "browser_download_url": "https://github.com/rcoh/angle-grinder/releases/download/v0.19.6/agrind-x86_64-apple-darwin.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2024-06-01T18:33:07Z",
-      "id": 171352658,
+      "created_at": "2025-03-29T19:43:50Z",
+      "id": 241883552,
       "label": "",
       "name": "agrind-x86_64-apple-darwin.tar.gz",
-      "node_id": "RA_kwDOB1pnbM4KNqJS",
-      "size": 4143453,
+      "node_id": "RA_kwDOB1pnbM4Oatmg",
+      "size": 1861068,
       "state": "uploaded",
-      "updated_at": "2024-06-01T18:33:08Z",
+      "updated_at": "2025-03-29T19:43:51Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -32,19 +32,19 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rcoh/angle-grinder/releases/assets/171352658"
+      "url": "https://api.github.com/repos/rcoh/angle-grinder/releases/assets/241883552"
     },
     {
-      "browser_download_url": "https://github.com/rcoh/angle-grinder/releases/download/v0.19.4/agrind-x86_64-unknown-linux-gnu.tar.gz",
+      "browser_download_url": "https://github.com/rcoh/angle-grinder/releases/download/v0.19.6/agrind-x86_64-unknown-linux-gnu.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2024-06-01T18:30:56Z",
-      "id": 171352446,
+      "created_at": "2025-03-29T19:44:09Z",
+      "id": 241883561,
       "label": "",
       "name": "agrind-x86_64-unknown-linux-gnu.tar.gz",
-      "node_id": "RA_kwDOB1pnbM4KNqF-",
-      "size": 32994802,
+      "node_id": "RA_kwDOB1pnbM4Oatmp",
+      "size": 2075402,
       "state": "uploaded",
-      "updated_at": "2024-06-01T18:30:57Z",
+      "updated_at": "2025-03-29T19:44:09Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -66,19 +66,19 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rcoh/angle-grinder/releases/assets/171352446"
+      "url": "https://api.github.com/repos/rcoh/angle-grinder/releases/assets/241883561"
     },
     {
-      "browser_download_url": "https://github.com/rcoh/angle-grinder/releases/download/v0.19.4/agrind-x86_64-unknown-linux-musl.tar.gz",
+      "browser_download_url": "https://github.com/rcoh/angle-grinder/releases/download/v0.19.6/agrind-x86_64-unknown-linux-musl.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2024-06-01T18:31:20Z",
-      "id": 171352462,
+      "created_at": "2025-03-29T19:44:25Z",
+      "id": 241883582,
       "label": "",
       "name": "agrind-x86_64-unknown-linux-musl.tar.gz",
-      "node_id": "RA_kwDOB1pnbM4KNqGO",
-      "size": 33749324,
+      "node_id": "RA_kwDOB1pnbM4Oatm-",
+      "size": 2139243,
       "state": "uploaded",
-      "updated_at": "2024-06-01T18:31:22Z",
+      "updated_at": "2025-03-29T19:44:25Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -100,10 +100,10 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rcoh/angle-grinder/releases/assets/171352462"
+      "url": "https://api.github.com/repos/rcoh/angle-grinder/releases/assets/241883582"
     }
   ],
-  "assets_url": "https://api.github.com/repos/rcoh/angle-grinder/releases/158466845/assets",
+  "assets_url": "https://api.github.com/repos/rcoh/angle-grinder/releases/209170666/assets",
   "author": {
     "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
     "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -125,19 +125,19 @@
     "url": "https://api.github.com/users/github-actions%5Bbot%5D",
     "user_view_type": "public"
   },
-  "body": "## What's Changed\r\n* drop netbsd from CI, seems to be broken by @rcoh in https://github.com/rcoh/angle-grinder/pull/205\r\n* Handle missing optional matches by @ehaas in https://github.com/rcoh/angle-grinder/pull/204\r\n* Bump h2 from 0.3.22 to 0.3.26 by @dependabot in https://github.com/rcoh/angle-grinder/pull/201\r\n* Bump mio from 0.8.10 to 0.8.11 by @dependabot in https://github.com/rcoh/angle-grinder/pull/200\r\n* Bump rustls from 0.21.10 to 0.21.12 by @dependabot in https://github.com/rcoh/angle-grinder/pull/206\r\n\r\n## New Contributors\r\n* @ehaas made their first contribution in https://github.com/rcoh/angle-grinder/pull/204\r\n\r\n**Full Changelog**: https://github.com/rcoh/angle-grinder/compare/v0.19.3...v0.19.4",
-  "created_at": "2024-06-01T18:27:02Z",
+  "body": "## What's Changed\n* Update release.yml by @rcoh in https://github.com/rcoh/angle-grinder/pull/220\n* add noconvert test by @rcoh in https://github.com/rcoh/angle-grinder/pull/221\n\n\n**Full Changelog**: https://github.com/rcoh/angle-grinder/compare/v0.19.5...v0.19.6",
+  "created_at": "2025-03-29T19:40:08Z",
   "draft": false,
-  "html_url": "https://github.com/rcoh/angle-grinder/releases/tag/v0.19.4",
-  "id": 158466845,
-  "name": "v0.19.4",
-  "node_id": "RE_kwDOB1pnbM4JcgMd",
+  "html_url": "https://github.com/rcoh/angle-grinder/releases/tag/v0.19.6",
+  "id": 209170666,
+  "name": "v0.19.6",
+  "node_id": "RE_kwDOB1pnbM4Md7Dq",
   "prerelease": false,
-  "published_at": "2024-06-01T18:30:55Z",
-  "tag_name": "v0.19.4",
-  "tarball_url": "https://api.github.com/repos/rcoh/angle-grinder/tarball/v0.19.4",
+  "published_at": "2025-03-29T19:43:50Z",
+  "tag_name": "v0.19.6",
+  "tarball_url": "https://api.github.com/repos/rcoh/angle-grinder/tarball/v0.19.6",
   "target_commitish": "main",
-  "upload_url": "https://uploads.github.com/repos/rcoh/angle-grinder/releases/158466845/assets{?name,label}",
-  "url": "https://api.github.com/repos/rcoh/angle-grinder/releases/158466845",
-  "zipball_url": "https://api.github.com/repos/rcoh/angle-grinder/zipball/v0.19.4"
+  "upload_url": "https://uploads.github.com/repos/rcoh/angle-grinder/releases/209170666/assets{?name,label}",
+  "url": "https://api.github.com/repos/rcoh/angle-grinder/releases/209170666",
+  "zipball_url": "https://api.github.com/repos/rcoh/angle-grinder/zipball/v0.19.6"
 }
