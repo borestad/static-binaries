@@ -1,16 +1,16 @@
 {
   "assets": [
     {
-      "browser_download_url": "https://github.com/fioncat/otree/releases/download/v0.3.1/otree-aarch64-apple-darwin.tar.gz",
+      "browser_download_url": "https://github.com/fioncat/otree/releases/download/v0.4.0/otree-aarch64-apple-darwin.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2025-01-21T03:13:40Z",
-      "id": 222006031,
+      "created_at": "2025-03-31T03:34:32Z",
+      "id": 242194532,
       "label": "",
       "name": "otree-aarch64-apple-darwin.tar.gz",
-      "node_id": "RA_kwDOL6I8pc4NO4sP",
-      "size": 1419174,
+      "node_id": "RA_kwDOL6I8pc4Ob5hk",
+      "size": 1485771,
       "state": "uploaded",
-      "updated_at": "2025-01-21T03:13:40Z",
+      "updated_at": "2025-03-31T03:34:33Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -32,19 +32,19 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fioncat/otree/releases/assets/222006031"
+      "url": "https://api.github.com/repos/fioncat/otree/releases/assets/242194532"
     },
     {
-      "browser_download_url": "https://github.com/fioncat/otree/releases/download/v0.3.1/otree-aarch64-unknown-linux-musl.tar.gz",
+      "browser_download_url": "https://github.com/fioncat/otree/releases/download/v0.4.0/otree-aarch64-unknown-linux-musl.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2025-01-21T03:14:42Z",
-      "id": 222006246,
+      "created_at": "2025-03-31T03:35:42Z",
+      "id": 242194765,
       "label": "",
       "name": "otree-aarch64-unknown-linux-musl.tar.gz",
-      "node_id": "RA_kwDOL6I8pc4NO4vm",
-      "size": 1482856,
+      "node_id": "RA_kwDOL6I8pc4Ob5lN",
+      "size": 1595596,
       "state": "uploaded",
-      "updated_at": "2025-01-21T03:14:42Z",
+      "updated_at": "2025-03-31T03:35:42Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -66,19 +66,19 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fioncat/otree/releases/assets/222006246"
+      "url": "https://api.github.com/repos/fioncat/otree/releases/assets/242194765"
     },
     {
-      "browser_download_url": "https://github.com/fioncat/otree/releases/download/v0.3.1/otree-x86_64-unknown-linux-musl.tar.gz",
-      "content_type": "application/x-gtar",
-      "created_at": "2025-01-21T03:14:47Z",
-      "id": 222006257,
+      "browser_download_url": "https://github.com/fioncat/otree/releases/download/v0.4.0/otree-x86_64-pc-windows-msvc.zip",
+      "content_type": "application/zip",
+      "created_at": "2025-03-31T03:38:02Z",
+      "id": 242195287,
       "label": "",
-      "name": "otree-x86_64-unknown-linux-musl.tar.gz",
-      "node_id": "RA_kwDOL6I8pc4NO4vx",
-      "size": 1655963,
+      "name": "otree-x86_64-pc-windows-msvc.zip",
+      "node_id": "RA_kwDOL6I8pc4Ob5tX",
+      "size": 1604072,
       "state": "uploaded",
-      "updated_at": "2025-01-21T03:14:47Z",
+      "updated_at": "2025-03-31T03:38:02Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -100,10 +100,44 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fioncat/otree/releases/assets/222006257"
+      "url": "https://api.github.com/repos/fioncat/otree/releases/assets/242195287"
+    },
+    {
+      "browser_download_url": "https://github.com/fioncat/otree/releases/download/v0.4.0/otree-x86_64-unknown-linux-musl.tar.gz",
+      "content_type": "application/x-gtar",
+      "created_at": "2025-03-31T03:35:31Z",
+      "id": 242194703,
+      "label": "",
+      "name": "otree-x86_64-unknown-linux-musl.tar.gz",
+      "node_id": "RA_kwDOL6I8pc4Ob5kP",
+      "size": 1782461,
+      "state": "uploaded",
+      "updated_at": "2025-03-31T03:35:31Z",
+      "uploader": {
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+        "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+        "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+        "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/apps/github-actions",
+        "id": 41898282,
+        "login": "github-actions[bot]",
+        "node_id": "MDM6Qm90NDE4OTgyODI=",
+        "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+        "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+        "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+        "type": "Bot",
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "user_view_type": "public"
+      },
+      "url": "https://api.github.com/repos/fioncat/otree/releases/assets/242194703"
     }
   ],
-  "assets_url": "https://api.github.com/repos/fioncat/otree/releases/195746797/assets",
+  "assets_url": "https://api.github.com/repos/fioncat/otree/releases/209246287/assets",
   "author": {
     "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
     "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -125,19 +159,19 @@
     "url": "https://api.github.com/users/github-actions%5Bbot%5D",
     "user_view_type": "public"
   },
-  "body": "1. Updated dependencies.\r\n2. Added linux/arm64 binary in release.",
-  "created_at": "2025-01-21T03:09:38Z",
+  "body": "### Features\r\n\r\n- Command: Add new flag `--debug`, to write some debug logs to a file.\r\n- UI: Add `--live-reload` option, to watch file changes and update tui (#63).\r\n- Release: Add Windows prebuilt binary (**unstable**, require more testing).\r\n\r\n## What's Changed\r\n* feat(cmd): support `--debug` flag to write debug logs by @fioncat in https://github.com/fioncat/otree/pull/67\r\n* feat: support live-reload tui when file is changed by @fioncat in https://github.com/fioncat/otree/pull/68\r\n\r\n\r\n**Full Changelog**: https://github.com/fioncat/otree/compare/v0.3.1...v0.4.0",
+  "created_at": "2025-03-31T03:24:52Z",
   "draft": false,
-  "html_url": "https://github.com/fioncat/otree/releases/tag/v0.3.1",
-  "id": 195746797,
-  "name": "v0.3.1",
-  "node_id": "RE_kwDOL6I8pc4Lqtvt",
+  "html_url": "https://github.com/fioncat/otree/releases/tag/v0.4.0",
+  "id": 209246287,
+  "name": "v0.4.0",
+  "node_id": "RE_kwDOL6I8pc4MeNhP",
   "prerelease": false,
-  "published_at": "2025-01-21T03:16:21Z",
-  "tag_name": "v0.3.1",
-  "tarball_url": "https://api.github.com/repos/fioncat/otree/tarball/v0.3.1",
+  "published_at": "2025-03-31T03:40:14Z",
+  "tag_name": "v0.4.0",
+  "tarball_url": "https://api.github.com/repos/fioncat/otree/tarball/v0.4.0",
   "target_commitish": "main",
-  "upload_url": "https://uploads.github.com/repos/fioncat/otree/releases/195746797/assets{?name,label}",
-  "url": "https://api.github.com/repos/fioncat/otree/releases/195746797",
-  "zipball_url": "https://api.github.com/repos/fioncat/otree/zipball/v0.3.1"
+  "upload_url": "https://uploads.github.com/repos/fioncat/otree/releases/209246287/assets{?name,label}",
+  "url": "https://api.github.com/repos/fioncat/otree/releases/209246287",
+  "zipball_url": "https://api.github.com/repos/fioncat/otree/zipball/v0.4.0"
 }
