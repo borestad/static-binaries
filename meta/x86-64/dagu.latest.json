@@ -873,7 +873,7 @@
     "url": "https://api.github.com/users/yottahmd",
     "user_view_type": "public"
   },
-  "body": "## Changelog\n* 557874ae8f969fe41369587b52ada8e95295f913 [#926] fix: set basicauth flag correctly when legacy config key specified (#929)\n\n",
+  "body": "This is a release to fix an issue in loading legacy basic authentication configurations.\r\n\r\n## Changelog\r\n* 557874ae8f969fe41369587b52ada8e95295f913 [#926] fix: set basicauth flag correctly when legacy config key specified (#929)\r\n\r\n## What's Changed\r\n* ci: add docker-next workflow and docs for next preview image by @yottahmd in https://github.com/dagu-org/dagu/pull/928\r\n* [#926] fix: set basicauth flag correctly when legacy config key specified by @yottahmd in https://github.com/dagu-org/dagu/pull/929\r\n\r\n\r\n**Full Changelog**: https://github.com/dagu-org/dagu/compare/v1.16.8...v1.16.9",
   "created_at": "2025-05-11T21:48:58Z",
   "draft": false,
   "html_url": "https://github.com/dagu-org/dagu/releases/tag/v1.16.9",
