@@ -793,7 +793,7 @@
     "url": "https://api.github.com/users/github-actions%5Bbot%5D",
     "user_view_type": "public"
   },
-  "body": "### 2.3.5 / 2025.05.30\r\n\r\n- fix(ext/node): Buffer write OOB checks (#29524)\r\n- fix(ext/node): correct `kMaxLength` value of `node:buffer` (#29504)\r\n- fix(ext/node): fix function error message in `invalidArgTypeHelper` (#29526)\r\n- fix(ext/node): stub `getFipsCrypto` to `false` (#29485)\r\n- fix(otel): flush data when terminating signal is received (#29515)\r\n- fix(vendor): store remote version metadata checksum in vendor folder to ensure\r\n  lockfile uses that (#29433)",
+  "body": "### 2.3.5 / 2025.05.30\r\n\r\nUpgrade to 2.3.5:\r\n\r\n```\r\ndeno upgrade\r\n```\r\n\r\nOr install for the first time\r\n\r\n```\r\ncurl -fsSL https://deno.land/install.sh | sh\r\n```\r\n\r\n- fix(ext/node): Buffer write OOB checks (#29524)\r\n- fix(ext/node): correct `kMaxLength` value of `node:buffer` (#29504)\r\n- fix(ext/node): fix function error message in `invalidArgTypeHelper` (#29526)\r\n- fix(ext/node): stub `getFipsCrypto` to `false` (#29485)\r\n- fix(otel): flush data when terminating signal is received (#29515)\r\n- fix(vendor): store remote version metadata checksum in vendor folder to ensure\r\n  lockfile uses that (#29433)",
   "created_at": "2025-05-30T11:01:49Z",
   "draft": false,
   "html_url": "https://github.com/denoland/deno/releases/tag/v2.3.5",
