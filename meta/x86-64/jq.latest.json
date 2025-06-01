@@ -1,17 +1,17 @@
 {
   "assets": [
     {
-      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.7.1/jq-1.7.1.tar.gz",
+      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.8.0/jq-1.8.0.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2023-12-13T19:37:53Z",
-      "digest": null,
-      "id": 140520983,
+      "created_at": "2025-06-01T06:03:53Z",
+      "digest": "sha256:91811577f91d9a6195ff50c2bffec9b72c8429dc05ec3ea022fd95c06d2b319c",
+      "id": 259873645,
       "label": "",
-      "name": "jq-1.7.1.tar.gz",
-      "node_id": "RA_kwDOAE3WVc4IYC4X",
-      "size": 1950645,
+      "name": "jq-1.8.0.tar.gz",
+      "node_id": "RA_kwDOAE3WVc4PfVtt",
+      "size": 1908285,
       "state": "uploaded",
-      "updated_at": "2023-12-13T19:37:53Z",
+      "updated_at": "2025-06-01T06:03:53Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -33,20 +33,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/140520983"
+      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/259873645"
     },
     {
-      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.7.1/jq-1.7.1.zip",
+      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.8.0/jq-1.8.0.zip",
       "content_type": "application/zip",
-      "created_at": "2023-12-13T19:37:53Z",
-      "digest": null,
-      "id": 140520985,
+      "created_at": "2025-06-01T06:03:53Z",
+      "digest": "sha256:894744a9f69f18f8552b5beaf755c77145ac2d76311400e23aee43df488e9c4a",
+      "id": 259873644,
       "label": "",
-      "name": "jq-1.7.1.zip",
-      "node_id": "RA_kwDOAE3WVc4IYC4Z",
-      "size": 2122908,
+      "name": "jq-1.8.0.zip",
+      "node_id": "RA_kwDOAE3WVc4PfVts",
+      "size": 2119845,
       "state": "uploaded",
-      "updated_at": "2023-12-13T19:37:53Z",
+      "updated_at": "2025-06-01T06:03:53Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -68,20 +68,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/140520985"
+      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/259873644"
     },
     {
-      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.7.1/jq-linux-amd64",
+      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.8.0/jq-linux-amd64",
       "content_type": "application/octet-stream",
-      "created_at": "2023-12-13T19:37:53Z",
-      "digest": null,
-      "id": 140520984,
+      "created_at": "2025-06-01T06:03:53Z",
+      "digest": "sha256:8926c33326111bcd67a47a970b5a5db933ef9194ad925994934c639c76a0605c",
+      "id": 259873642,
       "label": "",
       "name": "jq-linux-amd64",
-      "node_id": "RA_kwDOAE3WVc4IYC4Y",
-      "size": 2319424,
+      "node_id": "RA_kwDOAE3WVc4PfVtq",
+      "size": 2255816,
       "state": "uploaded",
-      "updated_at": "2023-12-13T19:37:53Z",
+      "updated_at": "2025-06-01T06:03:53Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -103,20 +103,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/140520984"
+      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/259873642"
     },
     {
-      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.7.1/jq-linux-arm64",
+      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.8.0/jq-linux-arm64",
       "content_type": "application/octet-stream",
-      "created_at": "2023-12-13T19:37:53Z",
-      "digest": null,
-      "id": 140520982,
+      "created_at": "2025-06-01T06:03:53Z",
+      "digest": "sha256:1084e6bf5060a463daf77193888d326c83e56bcfbc18a52e6eaa99dbe82a8b54",
+      "id": 259873641,
       "label": "",
       "name": "jq-linux-arm64",
-      "node_id": "RA_kwDOAE3WVc4IYC4W",
-      "size": 1709616,
+      "node_id": "RA_kwDOAE3WVc4PfVtp",
+      "size": 1797872,
       "state": "uploaded",
-      "updated_at": "2023-12-13T19:37:53Z",
+      "updated_at": "2025-06-01T06:03:53Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -138,20 +138,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/140520982"
+      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/259873641"
     },
     {
-      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.7.1/jq-linux-armel",
+      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.8.0/jq-linux-armel",
       "content_type": "application/octet-stream",
-      "created_at": "2023-12-13T19:37:53Z",
-      "digest": null,
-      "id": 140520981,
+      "created_at": "2025-06-01T06:03:53Z",
+      "digest": "sha256:aa52ed2f930b46c21ecd95c793d7aa75fd4ce2c63ff1423c4f19c948280ce978",
+      "id": 259873643,
       "label": "",
       "name": "jq-linux-armel",
-      "node_id": "RA_kwDOAE3WVc4IYC4V",
-      "size": 1680824,
+      "node_id": "RA_kwDOAE3WVc4PfVtr",
+      "size": 1692212,
       "state": "uploaded",
-      "updated_at": "2023-12-13T19:37:53Z",
+      "updated_at": "2025-06-01T06:03:53Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -173,20 +173,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/140520981"
+      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/259873643"
     },
     {
-      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.7.1/jq-linux-armhf",
+      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.8.0/jq-linux-armhf",
       "content_type": "application/octet-stream",
-      "created_at": "2023-12-13T19:37:53Z",
-      "digest": null,
-      "id": 140520988,
+      "created_at": "2025-06-01T06:03:53Z",
+      "digest": "sha256:4bebc752981c879d0b4656236a122b23f45051e992d6d2bf23ad4126c71e9e55",
+      "id": 259873648,
       "label": "",
       "name": "jq-linux-armhf",
-      "node_id": "RA_kwDOAE3WVc4IYC4c",
-      "size": 1324676,
+      "node_id": "RA_kwDOAE3WVc4PfVtw",
+      "size": 1331968,
       "state": "uploaded",
-      "updated_at": "2023-12-13T19:37:54Z",
+      "updated_at": "2025-06-01T06:03:53Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -208,20 +208,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/140520988"
+      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/259873648"
     },
     {
-      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.7.1/jq-linux-i386",
+      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.8.0/jq-linux-i386",
       "content_type": "application/octet-stream",
-      "created_at": "2023-12-13T19:37:54Z",
-      "digest": null,
-      "id": 140520989,
+      "created_at": "2025-06-01T06:03:53Z",
+      "digest": "sha256:5cf3ad973411275d27313a96d6f8e01acfef205515964490072f31812cbb9979",
+      "id": 259873649,
       "label": "",
       "name": "jq-linux-i386",
-      "node_id": "RA_kwDOAE3WVc4IYC4d",
-      "size": 2111236,
+      "node_id": "RA_kwDOAE3WVc4PfVtx",
+      "size": 2136100,
       "state": "uploaded",
-      "updated_at": "2023-12-13T19:37:54Z",
+      "updated_at": "2025-06-01T06:03:54Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -243,20 +243,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/140520989"
+      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/259873649"
     },
     {
-      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.7.1/jq-linux-mips",
+      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.8.0/jq-linux-mips",
       "content_type": "application/octet-stream",
-      "created_at": "2023-12-13T19:37:54Z",
-      "digest": null,
-      "id": 140520990,
+      "created_at": "2025-06-01T06:03:53Z",
+      "digest": "sha256:34069dfcaee4168fdced283e5732de8c558d696cad1910e607d9b68f80211a16",
+      "id": 259873650,
       "label": "",
       "name": "jq-linux-mips",
-      "node_id": "RA_kwDOAE3WVc4IYC4e",
-      "size": 1973496,
+      "node_id": "RA_kwDOAE3WVc4PfVty",
+      "size": 2007176,
       "state": "uploaded",
-      "updated_at": "2023-12-13T19:37:54Z",
+      "updated_at": "2025-06-01T06:03:54Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -278,20 +278,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/140520990"
+      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/259873650"
     },
     {
-      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.7.1/jq-linux-mips64",
+      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.8.0/jq-linux-mips64",
       "content_type": "application/octet-stream",
-      "created_at": "2023-12-13T19:37:54Z",
-      "digest": null,
-      "id": 140520991,
+      "created_at": "2025-06-01T06:03:54Z",
+      "digest": "sha256:8a966bf92aca0641b500792599a715f4a126b537a3a2409c4fe2bc7c741e8b78",
+      "id": 259873651,
       "label": "",
       "name": "jq-linux-mips64",
-      "node_id": "RA_kwDOAE3WVc4IYC4f",
-      "size": 2011736,
+      "node_id": "RA_kwDOAE3WVc4PfVtz",
+      "size": 2081312,
       "state": "uploaded",
-      "updated_at": "2023-12-13T19:37:54Z",
+      "updated_at": "2025-06-01T06:03:54Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -313,20 +313,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/140520991"
+      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/259873651"
     },
     {
-      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.7.1/jq-linux-mips64el",
+      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.8.0/jq-linux-mips64el",
       "content_type": "application/octet-stream",
-      "created_at": "2023-12-13T19:37:54Z",
-      "digest": null,
-      "id": 140520992,
+      "created_at": "2025-06-01T06:03:54Z",
+      "digest": "sha256:373d5c84bdb4ececde6dbb37483c323470e9baae1e329aec8470533ff93482e7",
+      "id": 259873653,
       "label": "",
       "name": "jq-linux-mips64el",
-      "node_id": "RA_kwDOAE3WVc4IYC4g",
-      "size": 2015832,
+      "node_id": "RA_kwDOAE3WVc4PfVt1",
+      "size": 2081312,
       "state": "uploaded",
-      "updated_at": "2023-12-13T19:37:55Z",
+      "updated_at": "2025-06-01T06:03:54Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -348,20 +348,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/140520992"
+      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/259873653"
     },
     {
-      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.7.1/jq-linux-mips64r6",
+      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.8.0/jq-linux-mips64r6",
       "content_type": "application/octet-stream",
-      "created_at": "2023-12-13T19:37:54Z",
-      "digest": null,
-      "id": 140520996,
+      "created_at": "2025-06-01T06:03:54Z",
+      "digest": "sha256:118ad1e0a4a9bfc5a6677dd25822affd0ffb4990bce1ebe77b819505c4a75bea",
+      "id": 259873654,
       "label": "",
       "name": "jq-linux-mips64r6",
-      "node_id": "RA_kwDOAE3WVc4IYC4k",
-      "size": 1942016,
+      "node_id": "RA_kwDOAE3WVc4PfVt2",
+      "size": 1950136,
       "state": "uploaded",
-      "updated_at": "2023-12-13T19:37:55Z",
+      "updated_at": "2025-06-01T06:03:54Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -383,20 +383,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/140520996"
+      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/259873654"
     },
     {
-      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.7.1/jq-linux-mips64r6el",
+      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.8.0/jq-linux-mips64r6el",
       "content_type": "application/octet-stream",
-      "created_at": "2023-12-13T19:37:54Z",
-      "digest": null,
-      "id": 140520997,
+      "created_at": "2025-06-01T06:03:54Z",
+      "digest": "sha256:cdd99b2b76dbc025a9d475873f65e85d02d357a68be1f2935d7c9cd7e2f49ad0",
+      "id": 259873655,
       "label": "",
       "name": "jq-linux-mips64r6el",
-      "node_id": "RA_kwDOAE3WVc4IYC4l",
-      "size": 1942016,
+      "node_id": "RA_kwDOAE3WVc4PfVt3",
+      "size": 1950136,
       "state": "uploaded",
-      "updated_at": "2023-12-13T19:37:55Z",
+      "updated_at": "2025-06-01T06:03:54Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -418,20 +418,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/140520997"
+      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/259873655"
     },
     {
-      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.7.1/jq-linux-mipsel",
+      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.8.0/jq-linux-mipsel",
       "content_type": "application/octet-stream",
-      "created_at": "2023-12-13T19:37:55Z",
-      "digest": null,
-      "id": 140520999,
+      "created_at": "2025-06-01T06:03:54Z",
+      "digest": "sha256:015fe63efe32802ab57823236f704b18a9d1c4ba89b3cce7bf620613b21abcb4",
+      "id": 259873656,
       "label": "",
       "name": "jq-linux-mipsel",
-      "node_id": "RA_kwDOAE3WVc4IYC4n",
-      "size": 1977592,
+      "node_id": "RA_kwDOAE3WVc4PfVt4",
+      "size": 2007180,
       "state": "uploaded",
-      "updated_at": "2023-12-13T19:37:55Z",
+      "updated_at": "2025-06-01T06:03:54Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -453,20 +453,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/140520999"
+      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/259873656"
     },
     {
-      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.7.1/jq-linux-mipsr6",
+      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.8.0/jq-linux-mipsr6",
       "content_type": "application/octet-stream",
-      "created_at": "2023-12-13T19:37:55Z",
-      "digest": null,
-      "id": 140521000,
+      "created_at": "2025-06-01T06:03:54Z",
+      "digest": "sha256:cb003f147e53c7dcb8ab81745ef6da4b60015b0dbf2122470d0f3965d5e47895",
+      "id": 259873658,
       "label": "",
       "name": "jq-linux-mipsr6",
-      "node_id": "RA_kwDOAE3WVc4IYC4o",
-      "size": 1907776,
+      "node_id": "RA_kwDOAE3WVc4PfVt6",
+      "size": 1941444,
       "state": "uploaded",
-      "updated_at": "2023-12-13T19:37:55Z",
+      "updated_at": "2025-06-01T06:03:54Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -488,20 +488,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/140521000"
+      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/259873658"
     },
     {
-      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.7.1/jq-linux-mipsr6el",
+      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.8.0/jq-linux-mipsr6el",
       "content_type": "application/octet-stream",
-      "created_at": "2023-12-13T19:37:55Z",
-      "digest": null,
-      "id": 140521002,
+      "created_at": "2025-06-01T06:03:54Z",
+      "digest": "sha256:4b6dd650a13f9ad1c3f4148423fb10a6f25c2b1383854039938f21072f5d59a3",
+      "id": 259873659,
       "label": "",
       "name": "jq-linux-mipsr6el",
-      "node_id": "RA_kwDOAE3WVc4IYC4q",
-      "size": 1907776,
+      "node_id": "RA_kwDOAE3WVc4PfVt7",
+      "size": 1941444,
       "state": "uploaded",
-      "updated_at": "2023-12-13T19:37:55Z",
+      "updated_at": "2025-06-01T06:03:54Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -523,20 +523,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/140521002"
+      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/259873659"
     },
     {
-      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.7.1/jq-linux-powerpc",
+      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.8.0/jq-linux-powerpc",
       "content_type": "application/octet-stream",
-      "created_at": "2023-12-13T19:37:55Z",
-      "digest": null,
-      "id": 140521003,
+      "created_at": "2025-06-01T06:03:54Z",
+      "digest": "sha256:76368bb2e54d8fe0cbf6b3dbaf1c83c30e238b2b93a5ddf5403b7333cf7bfc0f",
+      "id": 259873660,
       "label": "",
       "name": "jq-linux-powerpc",
-      "node_id": "RA_kwDOAE3WVc4IYC4r",
-      "size": 2188468,
+      "node_id": "RA_kwDOAE3WVc4PfVt8",
+      "size": 2187520,
       "state": "uploaded",
-      "updated_at": "2023-12-13T19:37:55Z",
+      "updated_at": "2025-06-01T06:03:55Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -558,20 +558,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/140521003"
+      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/259873660"
     },
     {
-      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.7.1/jq-linux-ppc64el",
+      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.8.0/jq-linux-ppc64el",
       "content_type": "application/octet-stream",
-      "created_at": "2023-12-13T19:37:55Z",
-      "digest": null,
-      "id": 140521005,
+      "created_at": "2025-06-01T06:03:54Z",
+      "digest": "sha256:55a70db3bc817a0ab03f33d6e0df2cffc32a45a22b51bbc5d46424383016719e",
+      "id": 259873661,
       "label": "",
       "name": "jq-linux-ppc64el",
-      "node_id": "RA_kwDOAE3WVc4IYC4t",
-      "size": 2389992,
+      "node_id": "RA_kwDOAE3WVc4PfVt9",
+      "size": 2453544,
       "state": "uploaded",
-      "updated_at": "2023-12-13T19:37:56Z",
+      "updated_at": "2025-06-01T06:03:55Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -593,20 +593,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/140521005"
+      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/259873661"
     },
     {
-      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.7.1/jq-linux-riscv64",
+      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.8.0/jq-linux-riscv64",
       "content_type": "application/octet-stream",
-      "created_at": "2023-12-13T19:37:55Z",
-      "digest": null,
-      "id": 140521006,
+      "created_at": "2025-06-01T06:03:54Z",
+      "digest": "sha256:c8410cf481a2129bfcd323f6b4355583413e75a49c8a88c82bbf406d07401142",
+      "id": 259873663,
       "label": "",
       "name": "jq-linux-riscv64",
-      "node_id": "RA_kwDOAE3WVc4IYC4u",
-      "size": 1374992,
+      "node_id": "RA_kwDOAE3WVc4PfVt_",
+      "size": 1601192,
       "state": "uploaded",
-      "updated_at": "2023-12-13T19:37:56Z",
+      "updated_at": "2025-06-01T06:03:55Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -628,20 +628,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/140521006"
+      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/259873663"
     },
     {
-      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.7.1/jq-linux-s390x",
+      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.8.0/jq-linux-s390x",
       "content_type": "application/octet-stream",
-      "created_at": "2023-12-13T19:37:56Z",
-      "digest": null,
-      "id": 140521007,
+      "created_at": "2025-06-01T06:03:55Z",
+      "digest": "sha256:1f377575f90fa323d57eaa38532bddb7d6563236c83cbb27b558b3ea09574a55",
+      "id": 259873664,
       "label": "",
       "name": "jq-linux-s390x",
-      "node_id": "RA_kwDOAE3WVc4IYC4v",
-      "size": 1877608,
+      "node_id": "RA_kwDOAE3WVc4PfVuA",
+      "size": 1977976,
       "state": "uploaded",
-      "updated_at": "2023-12-13T19:37:56Z",
+      "updated_at": "2025-06-01T06:03:55Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -663,20 +663,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/140521007"
+      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/259873664"
     },
     {
-      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.7.1/jq-linux64",
+      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.8.0/jq-linux64",
       "content_type": "application/octet-stream",
-      "created_at": "2023-12-13T19:37:56Z",
-      "digest": null,
-      "id": 140521008,
+      "created_at": "2025-06-01T06:03:55Z",
+      "digest": "sha256:8926c33326111bcd67a47a970b5a5db933ef9194ad925994934c639c76a0605c",
+      "id": 259873665,
       "label": "",
       "name": "jq-linux64",
-      "node_id": "RA_kwDOAE3WVc4IYC4w",
-      "size": 2319424,
+      "node_id": "RA_kwDOAE3WVc4PfVuB",
+      "size": 2255816,
       "state": "uploaded",
-      "updated_at": "2023-12-13T19:37:56Z",
+      "updated_at": "2025-06-01T06:03:55Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -698,20 +698,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/140521008"
+      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/259873665"
     },
     {
-      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.7.1/jq-macos-amd64",
+      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.8.0/jq-macos-amd64",
       "content_type": "application/octet-stream",
-      "created_at": "2023-12-13T19:37:56Z",
-      "digest": null,
-      "id": 140521009,
+      "created_at": "2025-06-01T06:03:55Z",
+      "digest": "sha256:a594f3740bf570f0dbc43ff102a9034c17719d1bb5b40f0192751234d67f172a",
+      "id": 259873667,
       "label": "",
       "name": "jq-macos-amd64",
-      "node_id": "RA_kwDOAE3WVc4IYC4x",
-      "size": 851328,
+      "node_id": "RA_kwDOAE3WVc4PfVuD",
+      "size": 855248,
       "state": "uploaded",
-      "updated_at": "2023-12-13T19:37:56Z",
+      "updated_at": "2025-06-01T06:03:55Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -733,20 +733,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/140521009"
+      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/259873667"
     },
     {
-      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.7.1/jq-macos-arm64",
+      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.8.0/jq-macos-arm64",
       "content_type": "application/octet-stream",
-      "created_at": "2023-12-13T19:37:56Z",
-      "digest": null,
-      "id": 140521010,
+      "created_at": "2025-06-01T06:03:55Z",
+      "digest": "sha256:aaf1efbb376d6e3eaf61f63807c32c1df519f5857dfc4f581826fa2df4b715ae",
+      "id": 259873669,
       "label": "",
       "name": "jq-macos-arm64",
-      "node_id": "RA_kwDOAE3WVc4IYC4y",
-      "size": 807984,
+      "node_id": "RA_kwDOAE3WVc4PfVuF",
+      "size": 841376,
       "state": "uploaded",
-      "updated_at": "2023-12-13T19:37:56Z",
+      "updated_at": "2025-06-01T06:03:55Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -768,20 +768,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/140521010"
+      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/259873669"
     },
     {
-      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.7.1/jq-osx-amd64",
+      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.8.0/jq-osx-amd64",
       "content_type": "application/octet-stream",
-      "created_at": "2023-12-13T19:37:56Z",
-      "digest": null,
-      "id": 140521011,
+      "created_at": "2025-06-01T06:03:55Z",
+      "digest": "sha256:a594f3740bf570f0dbc43ff102a9034c17719d1bb5b40f0192751234d67f172a",
+      "id": 259873670,
       "label": "",
       "name": "jq-osx-amd64",
-      "node_id": "RA_kwDOAE3WVc4IYC4z",
-      "size": 851328,
+      "node_id": "RA_kwDOAE3WVc4PfVuG",
+      "size": 855248,
       "state": "uploaded",
-      "updated_at": "2023-12-13T19:37:56Z",
+      "updated_at": "2025-06-01T06:03:55Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -803,20 +803,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/140521011"
+      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/259873670"
     },
     {
-      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.7.1/jq-win64.exe",
-      "content_type": "application/x-ms-dos-executable",
-      "created_at": "2023-12-13T19:37:56Z",
-      "digest": null,
-      "id": 140521014,
+      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.8.0/jq-win64.exe",
+      "content_type": "application/x-msdownload",
+      "created_at": "2025-06-01T06:03:55Z",
+      "digest": "sha256:b45fcbb27dcb9e9848ac39889a8bf86457b8d9d31e7c56387c6eab80008fd1f4",
+      "id": 259873671,
       "label": "",
       "name": "jq-win64.exe",
-      "node_id": "RA_kwDOAE3WVc4IYC42",
-      "size": 985088,
+      "node_id": "RA_kwDOAE3WVc4PfVuH",
+      "size": 1026048,
       "state": "uploaded",
-      "updated_at": "2023-12-13T19:37:57Z",
+      "updated_at": "2025-06-01T06:03:55Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -838,20 +838,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/140521014"
+      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/259873671"
     },
     {
-      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.7.1/jq-windows-amd64.exe",
-      "content_type": "application/x-ms-dos-executable",
-      "created_at": "2023-12-13T19:37:56Z",
-      "digest": null,
-      "id": 140521015,
+      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.8.0/jq-windows-amd64.exe",
+      "content_type": "application/x-msdownload",
+      "created_at": "2025-06-01T06:03:55Z",
+      "digest": "sha256:b45fcbb27dcb9e9848ac39889a8bf86457b8d9d31e7c56387c6eab80008fd1f4",
+      "id": 259873673,
       "label": "",
       "name": "jq-windows-amd64.exe",
-      "node_id": "RA_kwDOAE3WVc4IYC43",
-      "size": 985088,
+      "node_id": "RA_kwDOAE3WVc4PfVuJ",
+      "size": 1026048,
       "state": "uploaded",
-      "updated_at": "2023-12-13T19:37:57Z",
+      "updated_at": "2025-06-01T06:03:56Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -873,20 +873,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/140521015"
+      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/259873673"
     },
     {
-      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.7.1/jq-windows-i386.exe",
-      "content_type": "application/x-ms-dos-executable",
-      "created_at": "2023-12-13T19:37:56Z",
-      "digest": null,
-      "id": 140521016,
+      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.8.0/jq-windows-i386.exe",
+      "content_type": "application/x-msdownload",
+      "created_at": "2025-06-01T06:03:55Z",
+      "digest": "sha256:47e2bcc9c3526ec72fe588136dcd592afaa139bdfb9be1d64244c9dc501b1e34",
+      "id": 259873674,
       "label": "",
       "name": "jq-windows-i386.exe",
-      "node_id": "RA_kwDOAE3WVc4IYC44",
-      "size": 1027584,
+      "node_id": "RA_kwDOAE3WVc4PfVuK",
+      "size": 1049600,
       "state": "uploaded",
-      "updated_at": "2023-12-13T19:37:57Z",
+      "updated_at": "2025-06-01T06:03:56Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -908,20 +908,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/140521016"
+      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/259873674"
     },
     {
-      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.7.1/sha256sum.txt",
+      "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.8.0/sha256sum.txt",
       "content_type": "text/plain; charset=utf-8",
-      "created_at": "2023-12-13T19:37:57Z",
-      "digest": null,
-      "id": 140521017,
+      "created_at": "2025-06-01T06:03:56Z",
+      "digest": "sha256:3c63a037b51633e536afa6712163c69e64063998a69b864458293b8ce24cafa9",
+      "id": 259873675,
       "label": "",
       "name": "sha256sum.txt",
-      "node_id": "RA_kwDOAE3WVc4IYC45",
+      "node_id": "RA_kwDOAE3WVc4PfVuL",
       "size": 2129,
       "state": "uploaded",
-      "updated_at": "2023-12-13T19:37:57Z",
+      "updated_at": "2025-06-01T06:03:56Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -943,10 +943,10 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/140521017"
+      "url": "https://api.github.com/repos/jqlang/jq/releases/assets/259873675"
     }
   ],
-  "assets_url": "https://api.github.com/repos/jqlang/jq/releases/133804159/assets",
+  "assets_url": "https://api.github.com/repos/jqlang/jq/releases/222262711/assets",
   "author": {
     "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
     "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -968,19 +968,18 @@
     "url": "https://api.github.com/users/github-actions%5Bbot%5D",
     "user_view_type": "public"
   },
-  "body": "## Security\r\n\r\n- CVE-2023-50246: Fix heap buffer overflow in jvp\\_literal\\_number\\_literal\r\n- CVE-2023-50268: fix stack-buffer-overflow if comparing nan with payload\r\n\r\n## CLI changes\r\n\r\n- Make the default background color more suitable for bright backgrounds. @mjarosie @taoky @nicowilliams @itchyny #2904\r\n- Allow passing the inline jq script after `--`. @emanuele6 #2919\r\n- Restrict systems operations on OpenBSD and remove unused `mkstemp`. @klemensn #2934\r\n- Fix possible uninitialised value dereference if `jq_init()` fails. @emanuele6 @nicowilliams #2935\r\n\r\n## Language changes\r\n\r\n- Simplify `paths/0` and `paths/1`. @asheiduk @emanuele6 #2946\r\n- Reject `U+001F` in string literals. @torsten-schenk @itchyny @wader #2911\r\n- Remove unused nref accumulator in `block_bind_library`. @emanuele6 #2914\r\n- Remove a bunch of unused variables, and useless assignments. @emanuele6 #2914\r\n- main.c: Remove unused EXIT\\_STATUS\\_EXACT option. @emanuele6 #2915\r\n- Actually use the number correctly casted from double to int as index. @emanuele6 #2916\r\n- src/builtin.c: remove unnecessary jv\\_copy-s in type\\_error/type\\_error2. @emanuele6 #2937\r\n- Remove undefined behavior caught by LLVM 10 UBSAN. @Gaelan @emanuele6 #2926\r\n- Convert decnum to binary64 (double) instead of decimal64. This makes jq behave like the JSON specification suggests and more similar to other languages. @wader @leonid-s-usov #2949\r\n- Fix memory leaks on invalid input for `ltrimstr/1` and `rtrimstr/1`. @emanuele6 #2977\r\n- Fix memory leak on failed get for `setpath/2`. @emanuele6 #2970\r\n- Fix nan from json parsing also for nans with payload that start with 'n'. @emanuele6 #2985\r\n- Allow carriage return characters in comments. @emanuele6 #2942 #2984\r\n\r\n## Documentation changes\r\n\r\n- Generate links in the man page. @emanuele6 #2931\r\n- Standardize arch types to AMD64 & ARM64 from index page download dropdown. @owenthereal #2884\r\n\r\n## libjq\r\n\r\n- Add extern C for C++. @rockwotj #2953\r\n\r\n## Build and test changes\r\n\r\n- Fix incorrect syntax for checksum file. @kamontat @wader #2899\r\n- Remove `-dirty` version suffix for windows release build. @itchyny #2888\r\n- Make use of `od` in tests more compatible. @nabijaczleweli @emanuele6 @nicowilliams #2922\r\n- Add dependabot. @yeikel #2889\r\n- Extend fuzzing setup to fuzz parser and and JSON serializer. @DavidKorczynski @emanuele6 #2952\r\n- Keep releasing executables with legacy names. @itchyny #2951\r\n\r\n## New Contributors\r\n* @yeikel made their first contribution in https://github.com/jqlang/jq/pull/2889\r\n* @dependabot made their first contribution in https://github.com/jqlang/jq/pull/2894\r\n* @kamontat made their first contribution in https://github.com/jqlang/jq/pull/2899\r\n* @taoky made their first contribution in https://github.com/jqlang/jq/pull/2904\r\n* @tboz203 made their first contribution in https://github.com/jqlang/jq/pull/2920\r\n* @nabijaczleweli made their first contribution in https://github.com/jqlang/jq/pull/2922\r\n* @klemensn made their first contribution in https://github.com/jqlang/jq/pull/2934\r\n* @asheiduk made their first contribution in https://github.com/jqlang/jq/pull/2946\r\n* @rockwotj made their first contribution in https://github.com/jqlang/jq/pull/2953\r\n* @jesperronn made their first contribution in https://github.com/jqlang/jq/pull/2898\r\n\r\n**Full Changelog**: https://github.com/jqlang/jq/compare/jq-1.7...jq-1.7.1",
-  "created_at": "2023-12-13T19:20:22Z",
+  "created_at": "2025-06-01T05:51:21Z",
   "draft": false,
-  "html_url": "https://github.com/jqlang/jq/releases/tag/jq-1.7.1",
-  "id": 133804159,
-  "name": "jq 1.7.1",
-  "node_id": "RE_kwDOAE3WVc4H-bB_",
+  "html_url": "https://github.com/jqlang/jq/releases/tag/jq-1.8.0",
+  "id": 222262711,
+  "name": "jq 1.8.0",
+  "node_id": "RE_kwDOAE3WVc4NP3W3",
   "prerelease": false,
-  "published_at": "2023-12-13T19:56:17Z",
-  "tag_name": "jq-1.7.1",
-  "tarball_url": "https://api.github.com/repos/jqlang/jq/tarball/jq-1.7.1",
+  "published_at": "2025-06-01T06:05:01Z",
+  "tag_name": "jq-1.8.0",
+  "tarball_url": "https://api.github.com/repos/jqlang/jq/tarball/jq-1.8.0",
   "target_commitish": "master",
-  "upload_url": "https://uploads.github.com/repos/jqlang/jq/releases/133804159/assets{?name,label}",
-  "url": "https://api.github.com/repos/jqlang/jq/releases/133804159",
-  "zipball_url": "https://api.github.com/repos/jqlang/jq/zipball/jq-1.7.1"
+  "upload_url": "https://uploads.github.com/repos/jqlang/jq/releases/222262711/assets{?name,label}",
+  "url": "https://api.github.com/repos/jqlang/jq/releases/222262711",
+  "zipball_url": "https://api.github.com/repos/jqlang/jq/zipball/jq-1.8.0"
 }
