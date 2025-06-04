@@ -1,17 +1,17 @@
 {
   "assets": [
     {
-      "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.0/du-dust_1.2.0-1_amd64.deb",
+      "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.1/du-dust_1.2.1-1_amd64.deb",
       "content_type": "application/octet-stream",
-      "created_at": "2025-04-01T22:35:59Z",
-      "digest": null,
-      "id": 242726696,
+      "created_at": "2025-06-04T19:16:35Z",
+      "digest": "sha256:9db285a3434b772ab268f312f176b3feec9c7b3092eff553c0f09a069de6cd49",
+      "id": 260992147,
       "label": "",
-      "name": "du-dust_1.2.0-1_amd64.deb",
-      "node_id": "RA_kwDOB3vwtc4Od7co",
-      "size": 992060,
+      "name": "du-dust_1.2.1-1_amd64.deb",
+      "node_id": "RA_kwDOB3vwtc4PjmyT",
+      "size": 1007916,
       "state": "uploaded",
-      "updated_at": "2025-04-01T22:36:00Z",
+      "updated_at": "2025-06-04T19:16:35Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -33,20 +33,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/bootandy/dust/releases/assets/242726696"
+      "url": "https://api.github.com/repos/bootandy/dust/releases/assets/260992147"
     },
     {
-      "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.0/du-dust_1.2.0-1_i386.deb",
+      "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.1/du-dust_1.2.1-1_i386.deb",
       "content_type": "application/octet-stream",
-      "created_at": "2025-04-01T22:35:43Z",
-      "digest": null,
-      "id": 242726671,
+      "created_at": "2025-06-04T19:16:48Z",
+      "digest": "sha256:d33c35f092a551f28d37cf80ff31086ccf2fd5d79b3c34d2a5af5e7b09a7ac51",
+      "id": 260992229,
       "label": "",
-      "name": "du-dust_1.2.0-1_i386.deb",
-      "node_id": "RA_kwDOB3vwtc4Od7cP",
-      "size": 915416,
+      "name": "du-dust_1.2.1-1_i386.deb",
+      "node_id": "RA_kwDOB3vwtc4Pjmzl",
+      "size": 929372,
       "state": "uploaded",
-      "updated_at": "2025-04-01T22:35:43Z",
+      "updated_at": "2025-06-04T19:16:48Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -68,20 +68,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/bootandy/dust/releases/assets/242726671"
+      "url": "https://api.github.com/repos/bootandy/dust/releases/assets/260992229"
     },
     {
-      "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.0/dust-v1.2.0-aarch64-unknown-linux-gnu.tar.gz",
+      "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.1/dust-v1.2.1-aarch64-unknown-linux-gnu.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-04-01T22:34:46Z",
-      "digest": null,
-      "id": 242726561,
+      "created_at": "2025-06-04T19:16:10Z",
+      "digest": "sha256:331ca615f1e3df1b7a68cd165e1bde8f4752703f01ecb83ce2cada6f8787e47b",
+      "id": 260992005,
       "label": "",
-      "name": "dust-v1.2.0-aarch64-unknown-linux-gnu.tar.gz",
-      "node_id": "RA_kwDOB3vwtc4Od7ah",
-      "size": 1146117,
+      "name": "dust-v1.2.1-aarch64-unknown-linux-gnu.tar.gz",
+      "node_id": "RA_kwDOB3vwtc4PjmwF",
+      "size": 1171599,
       "state": "uploaded",
-      "updated_at": "2025-04-01T22:34:46Z",
+      "updated_at": "2025-06-04T19:16:10Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -103,20 +103,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/bootandy/dust/releases/assets/242726561"
+      "url": "https://api.github.com/repos/bootandy/dust/releases/assets/260992005"
     },
     {
-      "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.0/dust-v1.2.0-aarch64-unknown-linux-musl.tar.gz",
+      "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.1/dust-v1.2.1-aarch64-unknown-linux-musl.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-04-01T22:34:42Z",
-      "digest": null,
-      "id": 242726553,
+      "created_at": "2025-06-04T19:15:47Z",
+      "digest": "sha256:9d0577a30df143e39759098a264d51d1c5ecb5181cee2bb9078fe4fdefed4084",
+      "id": 260991809,
       "label": "",
-      "name": "dust-v1.2.0-aarch64-unknown-linux-musl.tar.gz",
-      "node_id": "RA_kwDOB3vwtc4Od7aZ",
-      "size": 1175275,
+      "name": "dust-v1.2.1-aarch64-unknown-linux-musl.tar.gz",
+      "node_id": "RA_kwDOB3vwtc4PjmtB",
+      "size": 1200890,
       "state": "uploaded",
-      "updated_at": "2025-04-01T22:34:42Z",
+      "updated_at": "2025-06-04T19:15:47Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -138,20 +138,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/bootandy/dust/releases/assets/242726553"
+      "url": "https://api.github.com/repos/bootandy/dust/releases/assets/260991809"
     },
     {
-      "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.0/dust-v1.2.0-arm-unknown-linux-gnueabihf.tar.gz",
+      "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.1/dust-v1.2.1-arm-unknown-linux-gnueabihf.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-04-01T22:35:02Z",
-      "digest": null,
-      "id": 242726585,
+      "created_at": "2025-06-04T19:16:32Z",
+      "digest": "sha256:45b55162034d78b63a114d2c0563c019db40faa318762a57eaccaf090cdb6e51",
+      "id": 260992135,
       "label": "",
-      "name": "dust-v1.2.0-arm-unknown-linux-gnueabihf.tar.gz",
-      "node_id": "RA_kwDOB3vwtc4Od7a5",
-      "size": 1106228,
+      "name": "dust-v1.2.1-arm-unknown-linux-gnueabihf.tar.gz",
+      "node_id": "RA_kwDOB3vwtc4PjmyH",
+      "size": 1132633,
       "state": "uploaded",
-      "updated_at": "2025-04-01T22:35:03Z",
+      "updated_at": "2025-06-04T19:16:32Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -173,20 +173,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/bootandy/dust/releases/assets/242726585"
+      "url": "https://api.github.com/repos/bootandy/dust/releases/assets/260992135"
     },
     {
-      "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.0/dust-v1.2.0-arm-unknown-linux-musleabi.tar.gz",
+      "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.1/dust-v1.2.1-arm-unknown-linux-musleabi.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-04-01T22:34:34Z",
-      "digest": null,
-      "id": 242726543,
+      "created_at": "2025-06-04T19:15:47Z",
+      "digest": "sha256:3bf26e7e431fa1f7ad530af7a857cbaabb0ef63cbf9046f0836524fb820bf538",
+      "id": 260991807,
       "label": "",
-      "name": "dust-v1.2.0-arm-unknown-linux-musleabi.tar.gz",
-      "node_id": "RA_kwDOB3vwtc4Od7aP",
-      "size": 1116786,
+      "name": "dust-v1.2.1-arm-unknown-linux-musleabi.tar.gz",
+      "node_id": "RA_kwDOB3vwtc4Pjms_",
+      "size": 1144838,
       "state": "uploaded",
-      "updated_at": "2025-04-01T22:34:34Z",
+      "updated_at": "2025-06-04T19:15:47Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -208,20 +208,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/bootandy/dust/releases/assets/242726543"
+      "url": "https://api.github.com/repos/bootandy/dust/releases/assets/260991807"
     },
     {
-      "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.0/dust-v1.2.0-i686-pc-windows-gnu.zip",
+      "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.1/dust-v1.2.1-i686-pc-windows-gnu.zip",
       "content_type": "application/zip",
-      "created_at": "2025-04-01T22:35:18Z",
-      "digest": null,
-      "id": 242726622,
+      "created_at": "2025-06-04T19:17:08Z",
+      "digest": "sha256:e606035f6bb70c30525df774d4575805e4128ca5e72a9f52fc020d0487356b17",
+      "id": 260992352,
       "label": "",
-      "name": "dust-v1.2.0-i686-pc-windows-gnu.zip",
-      "node_id": "RA_kwDOB3vwtc4Od7be",
-      "size": 1116577,
+      "name": "dust-v1.2.1-i686-pc-windows-gnu.zip",
+      "node_id": "RA_kwDOB3vwtc4Pjm1g",
+      "size": 1136652,
       "state": "uploaded",
-      "updated_at": "2025-04-01T22:35:21Z",
+      "updated_at": "2025-06-04T19:17:08Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -243,20 +243,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/bootandy/dust/releases/assets/242726622"
+      "url": "https://api.github.com/repos/bootandy/dust/releases/assets/260992352"
     },
     {
-      "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.0/dust-v1.2.0-i686-pc-windows-msvc.zip",
+      "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.1/dust-v1.2.1-i686-pc-windows-msvc.zip",
       "content_type": "application/zip",
-      "created_at": "2025-04-01T22:35:43Z",
-      "digest": null,
-      "id": 242726672,
+      "created_at": "2025-06-04T19:17:03Z",
+      "digest": "sha256:acc067a3d0c266d6c940cfdf85221267a6cc967351cef9301e7f9167e7aecef7",
+      "id": 260992317,
       "label": "",
-      "name": "dust-v1.2.0-i686-pc-windows-msvc.zip",
-      "node_id": "RA_kwDOB3vwtc4Od7cQ",
-      "size": 976344,
+      "name": "dust-v1.2.1-i686-pc-windows-msvc.zip",
+      "node_id": "RA_kwDOB3vwtc4Pjm09",
+      "size": 987411,
       "state": "uploaded",
-      "updated_at": "2025-04-01T22:35:44Z",
+      "updated_at": "2025-06-04T19:17:03Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -278,20 +278,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/bootandy/dust/releases/assets/242726672"
+      "url": "https://api.github.com/repos/bootandy/dust/releases/assets/260992317"
     },
     {
-      "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.0/dust-v1.2.0-i686-unknown-linux-gnu.tar.gz",
+      "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.1/dust-v1.2.1-i686-unknown-linux-gnu.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-04-01T22:34:32Z",
-      "digest": null,
-      "id": 242726541,
+      "created_at": "2025-06-04T19:15:22Z",
+      "digest": "sha256:8c2e962fd970d4e229a3fe8e5465b398543748f88425647e1ab4313bf85a5745",
+      "id": 260991620,
       "label": "",
-      "name": "dust-v1.2.0-i686-unknown-linux-gnu.tar.gz",
-      "node_id": "RA_kwDOB3vwtc4Od7aN",
-      "size": 1167577,
+      "name": "dust-v1.2.1-i686-unknown-linux-gnu.tar.gz",
+      "node_id": "RA_kwDOB3vwtc4PjmqE",
+      "size": 1189937,
       "state": "uploaded",
-      "updated_at": "2025-04-01T22:34:32Z",
+      "updated_at": "2025-06-04T19:15:22Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -313,20 +313,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/bootandy/dust/releases/assets/242726541"
+      "url": "https://api.github.com/repos/bootandy/dust/releases/assets/260991620"
     },
     {
-      "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.0/dust-v1.2.0-i686-unknown-linux-musl.tar.gz",
+      "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.1/dust-v1.2.1-i686-unknown-linux-musl.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-04-01T22:35:43Z",
-      "digest": null,
-      "id": 242726670,
+      "created_at": "2025-06-04T19:16:48Z",
+      "digest": "sha256:8527f80579a68ba11046b57c4e46bc346b06e76c7b5c5f78cafe4a8468ece502",
+      "id": 260992228,
       "label": "",
-      "name": "dust-v1.2.0-i686-unknown-linux-musl.tar.gz",
-      "node_id": "RA_kwDOB3vwtc4Od7cO",
-      "size": 1178857,
+      "name": "dust-v1.2.1-i686-unknown-linux-musl.tar.gz",
+      "node_id": "RA_kwDOB3vwtc4Pjmzk",
+      "size": 1200378,
       "state": "uploaded",
-      "updated_at": "2025-04-01T22:35:43Z",
+      "updated_at": "2025-06-04T19:16:48Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -348,20 +348,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/bootandy/dust/releases/assets/242726670"
+      "url": "https://api.github.com/repos/bootandy/dust/releases/assets/260992228"
     },
     {
-      "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.0/dust-v1.2.0-x86_64-apple-darwin.tar.gz",
+      "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.1/dust-v1.2.1-x86_64-apple-darwin.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-04-01T22:33:34Z",
-      "digest": null,
-      "id": 242726451,
+      "created_at": "2025-06-04T19:14:29Z",
+      "digest": "sha256:dd1e013bba43394e73f2a12ce4c6bdf6023565623b66d77fea3472510449a8b1",
+      "id": 260991170,
       "label": "",
-      "name": "dust-v1.2.0-x86_64-apple-darwin.tar.gz",
-      "node_id": "RA_kwDOB3vwtc4Od7Yz",
-      "size": 1142431,
+      "name": "dust-v1.2.1-x86_64-apple-darwin.tar.gz",
+      "node_id": "RA_kwDOB3vwtc4PjmjC",
+      "size": 1166849,
       "state": "uploaded",
-      "updated_at": "2025-04-01T22:33:34Z",
+      "updated_at": "2025-06-04T19:14:30Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -383,20 +383,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/bootandy/dust/releases/assets/242726451"
+      "url": "https://api.github.com/repos/bootandy/dust/releases/assets/260991170"
     },
     {
-      "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.0/dust-v1.2.0-x86_64-pc-windows-gnu.zip",
+      "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.1/dust-v1.2.1-x86_64-pc-windows-gnu.zip",
       "content_type": "application/zip",
-      "created_at": "2025-04-01T22:35:30Z",
-      "digest": null,
-      "id": 242726656,
+      "created_at": "2025-06-04T19:16:31Z",
+      "digest": "sha256:1f031683f90a79516e8a124c468941e46530d18990eb2b7b6ee765c791ef0566",
+      "id": 260992125,
       "label": "",
-      "name": "dust-v1.2.0-x86_64-pc-windows-gnu.zip",
-      "node_id": "RA_kwDOB3vwtc4Od7cA",
-      "size": 1114433,
+      "name": "dust-v1.2.1-x86_64-pc-windows-gnu.zip",
+      "node_id": "RA_kwDOB3vwtc4Pjmx9",
+      "size": 1135490,
       "state": "uploaded",
-      "updated_at": "2025-04-01T22:35:31Z",
+      "updated_at": "2025-06-04T19:16:31Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -418,20 +418,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/bootandy/dust/releases/assets/242726656"
+      "url": "https://api.github.com/repos/bootandy/dust/releases/assets/260992125"
     },
     {
-      "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.0/dust-v1.2.0-x86_64-pc-windows-msvc.zip",
+      "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.1/dust-v1.2.1-x86_64-pc-windows-msvc.zip",
       "content_type": "application/zip",
-      "created_at": "2025-04-01T22:35:30Z",
-      "digest": null,
-      "id": 242726655,
+      "created_at": "2025-06-04T19:16:28Z",
+      "digest": "sha256:01c7cf0f5b70318eb25bec9b76328915b0c4546671da642d9fe9b244ac349136",
+      "id": 260992114,
       "label": "",
-      "name": "dust-v1.2.0-x86_64-pc-windows-msvc.zip",
-      "node_id": "RA_kwDOB3vwtc4Od7b_",
-      "size": 1107310,
+      "name": "dust-v1.2.1-x86_64-pc-windows-msvc.zip",
+      "node_id": "RA_kwDOB3vwtc4Pjmxy",
+      "size": 1134027,
       "state": "uploaded",
-      "updated_at": "2025-04-01T22:35:31Z",
+      "updated_at": "2025-06-04T19:16:29Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -453,20 +453,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/bootandy/dust/releases/assets/242726655"
+      "url": "https://api.github.com/repos/bootandy/dust/releases/assets/260992114"
     },
     {
-      "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.0/dust-v1.2.0-x86_64-unknown-linux-gnu.tar.gz",
+      "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.1/dust-v1.2.1-x86_64-unknown-linux-gnu.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-04-01T22:34:30Z",
-      "digest": null,
-      "id": 242726536,
+      "created_at": "2025-06-04T19:15:26Z",
+      "digest": "sha256:686d633d3120a80f563a52545b913e73b938ff8cf09a356ef689fbf867ea6aad",
+      "id": 260991652,
       "label": "",
-      "name": "dust-v1.2.0-x86_64-unknown-linux-gnu.tar.gz",
-      "node_id": "RA_kwDOB3vwtc4Od7aI",
-      "size": 1259592,
+      "name": "dust-v1.2.1-x86_64-unknown-linux-gnu.tar.gz",
+      "node_id": "RA_kwDOB3vwtc4Pjmqk",
+      "size": 1283962,
       "state": "uploaded",
-      "updated_at": "2025-04-01T22:34:30Z",
+      "updated_at": "2025-06-04T19:15:27Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -488,20 +488,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/bootandy/dust/releases/assets/242726536"
+      "url": "https://api.github.com/repos/bootandy/dust/releases/assets/260991652"
     },
     {
-      "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.0/dust-v1.2.0-x86_64-unknown-linux-musl.tar.gz",
+      "browser_download_url": "https://github.com/bootandy/dust/releases/download/v1.2.1/dust-v1.2.1-x86_64-unknown-linux-musl.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-04-01T22:36:00Z",
-      "digest": null,
-      "id": 242726697,
+      "created_at": "2025-06-04T19:16:35Z",
+      "digest": "sha256:15716b5c0df538f30025d2db7c509fc6d5540f4ecc1eaf555e0c639c67ed7abf",
+      "id": 260992148,
       "label": "",
-      "name": "dust-v1.2.0-x86_64-unknown-linux-musl.tar.gz",
-      "node_id": "RA_kwDOB3vwtc4Od7cp",
-      "size": 1317371,
+      "name": "dust-v1.2.1-x86_64-unknown-linux-musl.tar.gz",
+      "node_id": "RA_kwDOB3vwtc4PjmyU",
+      "size": 1341248,
       "state": "uploaded",
-      "updated_at": "2025-04-01T22:36:00Z",
+      "updated_at": "2025-06-04T19:16:35Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -523,10 +523,10 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/bootandy/dust/releases/assets/242726697"
+      "url": "https://api.github.com/repos/bootandy/dust/releases/assets/260992148"
     }
   ],
-  "assets_url": "https://api.github.com/repos/bootandy/dust/releases/209721111/assets",
+  "assets_url": "https://api.github.com/repos/bootandy/dust/releases/223174309/assets",
   "author": {
     "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
     "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -549,18 +549,18 @@
     "user_view_type": "public"
   },
   "body": "",
-  "created_at": "2025-04-01T22:19:59Z",
+  "created_at": "2025-06-04T19:07:23Z",
   "draft": false,
-  "html_url": "https://github.com/bootandy/dust/releases/tag/v1.2.0",
-  "id": 209721111,
-  "name": "v1.2.0",
-  "node_id": "RE_kwDOB3vwtc4MgBcX",
+  "html_url": "https://github.com/bootandy/dust/releases/tag/v1.2.1",
+  "id": 223174309,
+  "name": "v1.2.1",
+  "node_id": "RE_kwDOB3vwtc4NTV6l",
   "prerelease": false,
-  "published_at": "2025-04-01T22:33:33Z",
-  "tag_name": "v1.2.0",
-  "tarball_url": "https://api.github.com/repos/bootandy/dust/tarball/v1.2.0",
+  "published_at": "2025-06-04T19:14:29Z",
+  "tag_name": "v1.2.1",
+  "tarball_url": "https://api.github.com/repos/bootandy/dust/tarball/v1.2.1",
   "target_commitish": "master",
-  "upload_url": "https://uploads.github.com/repos/bootandy/dust/releases/209721111/assets{?name,label}",
-  "url": "https://api.github.com/repos/bootandy/dust/releases/209721111",
-  "zipball_url": "https://api.github.com/repos/bootandy/dust/zipball/v1.2.0"
+  "upload_url": "https://uploads.github.com/repos/bootandy/dust/releases/223174309/assets{?name,label}",
+  "url": "https://api.github.com/repos/bootandy/dust/releases/223174309",
+  "zipball_url": "https://api.github.com/repos/bootandy/dust/zipball/v1.2.1"
 }
