@@ -1,17 +1,17 @@
 {
   "assets": [
     {
-      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.43.3/task_checksums.txt",
+      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.44.0/task_checksums.txt",
       "content_type": "text/plain; charset=utf-8",
-      "created_at": "2025-04-27T22:34:58Z",
-      "digest": null,
-      "id": 249960132,
+      "created_at": "2025-06-09T00:39:25Z",
+      "digest": "sha256:e0d6b228f2dc690100688dacf1812d83eafa37bbf1c31a61ee50f1aaaf5ec095",
+      "id": 262165572,
       "label": "",
       "name": "task_checksums.txt",
-      "node_id": "RA_kwDOBPZW984O5hbE",
+      "node_id": "RA_kwDOBPZW984PoFRE",
       "size": 2212,
       "state": "uploaded",
-      "updated_at": "2025-04-27T22:34:58Z",
+      "updated_at": "2025-06-09T00:39:25Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/106601941?v=4",
         "events_url": "https://api.github.com/users/task-bot/events{/privacy}",
@@ -33,20 +33,20 @@
         "url": "https://api.github.com/users/task-bot",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/go-task/task/releases/assets/249960132"
+      "url": "https://api.github.com/repos/go-task/task/releases/assets/262165572"
     },
     {
-      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.43.3/task_darwin_amd64.tar.gz",
+      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.44.0/task_darwin_amd64.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-04-27T22:34:54Z",
-      "digest": null,
-      "id": 249960104,
+      "created_at": "2025-06-09T00:39:23Z",
+      "digest": "sha256:7bb354c0ceb01d9256373749cc7155d33de7234587fbbab4d985ee77c0414274",
+      "id": 262165560,
       "label": "",
       "name": "task_darwin_amd64.tar.gz",
-      "node_id": "RA_kwDOBPZW984O5hao",
-      "size": 6909717,
+      "node_id": "RA_kwDOBPZW984PoFQ4",
+      "size": 6934981,
       "state": "uploaded",
-      "updated_at": "2025-04-27T22:34:55Z",
+      "updated_at": "2025-06-09T00:39:24Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/106601941?v=4",
         "events_url": "https://api.github.com/users/task-bot/events{/privacy}",
@@ -68,20 +68,20 @@
         "url": "https://api.github.com/users/task-bot",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/go-task/task/releases/assets/249960104"
+      "url": "https://api.github.com/repos/go-task/task/releases/assets/262165560"
     },
     {
-      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.43.3/task_darwin_arm64.tar.gz",
+      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.44.0/task_darwin_arm64.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-04-27T22:34:56Z",
-      "digest": null,
-      "id": 249960116,
+      "created_at": "2025-06-09T00:39:22Z",
+      "digest": "sha256:cfbfe894ae1987a378af50230c9b60ec62a072093e96d217c1e5dd9f4b108fbe",
+      "id": 262165549,
       "label": "",
       "name": "task_darwin_arm64.tar.gz",
-      "node_id": "RA_kwDOBPZW984O5ha0",
-      "size": 6492573,
+      "node_id": "RA_kwDOBPZW984PoFQt",
+      "size": 6517010,
       "state": "uploaded",
-      "updated_at": "2025-04-27T22:34:57Z",
+      "updated_at": "2025-06-09T00:39:22Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/106601941?v=4",
         "events_url": "https://api.github.com/users/task-bot/events{/privacy}",
@@ -103,20 +103,20 @@
         "url": "https://api.github.com/users/task-bot",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/go-task/task/releases/assets/249960116"
+      "url": "https://api.github.com/repos/go-task/task/releases/assets/262165549"
     },
     {
-      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.43.3/task_freebsd_386.tar.gz",
+      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.44.0/task_freebsd_386.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-04-27T22:34:55Z",
-      "digest": null,
-      "id": 249960108,
+      "created_at": "2025-06-09T00:39:22Z",
+      "digest": "sha256:807f798543f97103b55d1f6014d1c96dacdfd30ca2cdff9fa586f367d4282787",
+      "id": 262165553,
       "label": "",
       "name": "task_freebsd_386.tar.gz",
-      "node_id": "RA_kwDOBPZW984O5has",
-      "size": 6458960,
+      "node_id": "RA_kwDOBPZW984PoFQx",
+      "size": 6484037,
       "state": "uploaded",
-      "updated_at": "2025-04-27T22:34:55Z",
+      "updated_at": "2025-06-09T00:39:23Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/106601941?v=4",
         "events_url": "https://api.github.com/users/task-bot/events{/privacy}",
@@ -138,20 +138,20 @@
         "url": "https://api.github.com/users/task-bot",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/go-task/task/releases/assets/249960108"
+      "url": "https://api.github.com/repos/go-task/task/releases/assets/262165553"
     },
     {
-      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.43.3/task_freebsd_amd64.tar.gz",
+      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.44.0/task_freebsd_amd64.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-04-27T22:34:56Z",
-      "digest": null,
-      "id": 249960113,
+      "created_at": "2025-06-09T00:39:23Z",
+      "digest": "sha256:5ede77f19054cd85039aada71bd5d4543543c4dc11ef9e8b112abd9b0132c326",
+      "id": 262165561,
       "label": "",
       "name": "task_freebsd_amd64.tar.gz",
-      "node_id": "RA_kwDOBPZW984O5hax",
-      "size": 6774170,
+      "node_id": "RA_kwDOBPZW984PoFQ5",
+      "size": 6800041,
       "state": "uploaded",
-      "updated_at": "2025-04-27T22:34:56Z",
+      "updated_at": "2025-06-09T00:39:24Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/106601941?v=4",
         "events_url": "https://api.github.com/users/task-bot/events{/privacy}",
@@ -173,20 +173,20 @@
         "url": "https://api.github.com/users/task-bot",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/go-task/task/releases/assets/249960113"
+      "url": "https://api.github.com/repos/go-task/task/releases/assets/262165561"
     },
     {
-      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.43.3/task_freebsd_arm.tar.gz",
+      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.44.0/task_freebsd_arm.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-04-27T22:34:56Z",
-      "digest": null,
-      "id": 249960111,
+      "created_at": "2025-06-09T00:39:22Z",
+      "digest": "sha256:3d07bedebd5d869ca566af7e99dbb5c33c1a31b7e3fe41aa415a8cc02d73c9d3",
+      "id": 262165554,
       "label": "",
       "name": "task_freebsd_arm.tar.gz",
-      "node_id": "RA_kwDOBPZW984O5hav",
-      "size": 6446248,
+      "node_id": "RA_kwDOBPZW984PoFQy",
+      "size": 6477701,
       "state": "uploaded",
-      "updated_at": "2025-04-27T22:34:56Z",
+      "updated_at": "2025-06-09T00:39:23Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/106601941?v=4",
         "events_url": "https://api.github.com/users/task-bot/events{/privacy}",
@@ -208,20 +208,20 @@
         "url": "https://api.github.com/users/task-bot",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/go-task/task/releases/assets/249960111"
+      "url": "https://api.github.com/repos/go-task/task/releases/assets/262165554"
     },
     {
-      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.43.3/task_freebsd_arm64.tar.gz",
+      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.44.0/task_freebsd_arm64.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-04-27T22:34:54Z",
-      "digest": null,
-      "id": 249960103,
+      "created_at": "2025-06-09T00:39:23Z",
+      "digest": "sha256:f8919951de7476be4a9d00d17c45ab242723809d5726d01108e299af97621c1e",
+      "id": 262165558,
       "label": "",
       "name": "task_freebsd_arm64.tar.gz",
-      "node_id": "RA_kwDOBPZW984O5han",
-      "size": 6224500,
+      "node_id": "RA_kwDOBPZW984PoFQ2",
+      "size": 6250737,
       "state": "uploaded",
-      "updated_at": "2025-04-27T22:34:55Z",
+      "updated_at": "2025-06-09T00:39:24Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/106601941?v=4",
         "events_url": "https://api.github.com/users/task-bot/events{/privacy}",
@@ -243,20 +243,20 @@
         "url": "https://api.github.com/users/task-bot",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/go-task/task/releases/assets/249960103"
+      "url": "https://api.github.com/repos/go-task/task/releases/assets/262165558"
     },
     {
-      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.43.3/task_linux_386.deb",
+      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.44.0/task_linux_386.deb",
       "content_type": "application/vnd.debian.binary-package",
-      "created_at": "2025-04-27T22:34:57Z",
-      "digest": null,
-      "id": 249960121,
+      "created_at": "2025-06-09T00:39:24Z",
+      "digest": "sha256:6c6b71b1e8cfcb7f3a665c62a84c2ef9e90b64d4a6165987aa6928789d062916",
+      "id": 262165564,
       "label": "",
       "name": "task_linux_386.deb",
-      "node_id": "RA_kwDOBPZW984O5ha5",
-      "size": 6496700,
+      "node_id": "RA_kwDOBPZW984PoFQ8",
+      "size": 6525760,
       "state": "uploaded",
-      "updated_at": "2025-04-27T22:34:57Z",
+      "updated_at": "2025-06-09T00:39:24Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/106601941?v=4",
         "events_url": "https://api.github.com/users/task-bot/events{/privacy}",
@@ -278,20 +278,20 @@
         "url": "https://api.github.com/users/task-bot",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/go-task/task/releases/assets/249960121"
+      "url": "https://api.github.com/repos/go-task/task/releases/assets/262165564"
     },
     {
-      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.43.3/task_linux_386.rpm",
+      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.44.0/task_linux_386.rpm",
       "content_type": "application/x-rpm",
-      "created_at": "2025-04-27T22:34:57Z",
-      "digest": null,
-      "id": 249960122,
+      "created_at": "2025-06-09T00:39:25Z",
+      "digest": "sha256:2375ac4ebaf457aa8a089ff292ae8dc8a86e594dd70101f670eae46c81073611",
+      "id": 262165566,
       "label": "",
       "name": "task_linux_386.rpm",
-      "node_id": "RA_kwDOBPZW984O5ha6",
-      "size": 6758022,
+      "node_id": "RA_kwDOBPZW984PoFQ-",
+      "size": 6768670,
       "state": "uploaded",
-      "updated_at": "2025-04-27T22:34:57Z",
+      "updated_at": "2025-06-09T00:39:25Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/106601941?v=4",
         "events_url": "https://api.github.com/users/task-bot/events{/privacy}",
@@ -313,20 +313,20 @@
         "url": "https://api.github.com/users/task-bot",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/go-task/task/releases/assets/249960122"
+      "url": "https://api.github.com/repos/go-task/task/releases/assets/262165566"
     },
     {
-      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.43.3/task_linux_386.tar.gz",
+      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.44.0/task_linux_386.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-04-27T22:34:55Z",
-      "digest": null,
-      "id": 249960107,
+      "created_at": "2025-06-09T00:39:22Z",
+      "digest": "sha256:83efddb7f0683e7da3709fa8cf634e6decc7cc2946ff3c03fb6f9409c6d385b5",
+      "id": 262165548,
       "label": "",
       "name": "task_linux_386.tar.gz",
-      "node_id": "RA_kwDOBPZW984O5har",
-      "size": 6482302,
+      "node_id": "RA_kwDOBPZW984PoFQs",
+      "size": 6510939,
       "state": "uploaded",
-      "updated_at": "2025-04-27T22:34:55Z",
+      "updated_at": "2025-06-09T00:39:22Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/106601941?v=4",
         "events_url": "https://api.github.com/users/task-bot/events{/privacy}",
@@ -348,20 +348,20 @@
         "url": "https://api.github.com/users/task-bot",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/go-task/task/releases/assets/249960107"
+      "url": "https://api.github.com/repos/go-task/task/releases/assets/262165548"
     },
     {
-      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.43.3/task_linux_amd64.deb",
+      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.44.0/task_linux_amd64.deb",
       "content_type": "application/vnd.debian.binary-package",
-      "created_at": "2025-04-27T22:34:57Z",
-      "digest": null,
-      "id": 249960124,
+      "created_at": "2025-06-09T00:39:24Z",
+      "digest": "sha256:cdd55b9908d3ef0889bb2270132f7bdb90e50d85b645c57434385cb8ea80cc42",
+      "id": 262165565,
       "label": "",
       "name": "task_linux_amd64.deb",
-      "node_id": "RA_kwDOBPZW984O5ha8",
-      "size": 6813838,
+      "node_id": "RA_kwDOBPZW984PoFQ9",
+      "size": 6842804,
       "state": "uploaded",
-      "updated_at": "2025-04-27T22:34:57Z",
+      "updated_at": "2025-06-09T00:39:25Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/106601941?v=4",
         "events_url": "https://api.github.com/users/task-bot/events{/privacy}",
@@ -383,20 +383,20 @@
         "url": "https://api.github.com/users/task-bot",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/go-task/task/releases/assets/249960124"
+      "url": "https://api.github.com/repos/go-task/task/releases/assets/262165565"
     },
     {
-      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.43.3/task_linux_amd64.rpm",
+      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.44.0/task_linux_amd64.rpm",
       "content_type": "application/x-rpm",
-      "created_at": "2025-04-27T22:34:58Z",
-      "digest": null,
-      "id": 249960127,
+      "created_at": "2025-06-09T00:39:25Z",
+      "digest": "sha256:9c4b02c1923d9392250547cb1e9ed3a5ff862381083612196985192e7b34ad84",
+      "id": 262165567,
       "label": "",
       "name": "task_linux_amd64.rpm",
-      "node_id": "RA_kwDOBPZW984O5ha_",
-      "size": 7073758,
+      "node_id": "RA_kwDOBPZW984PoFQ_",
+      "size": 7113611,
       "state": "uploaded",
-      "updated_at": "2025-04-27T22:34:58Z",
+      "updated_at": "2025-06-09T00:39:25Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/106601941?v=4",
         "events_url": "https://api.github.com/users/task-bot/events{/privacy}",
@@ -418,20 +418,20 @@
         "url": "https://api.github.com/users/task-bot",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/go-task/task/releases/assets/249960127"
+      "url": "https://api.github.com/repos/go-task/task/releases/assets/262165567"
     },
     {
-      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.43.3/task_linux_amd64.tar.gz",
+      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.44.0/task_linux_amd64.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-04-27T22:34:55Z",
-      "digest": null,
-      "id": 249960110,
+      "created_at": "2025-06-09T00:39:22Z",
+      "digest": "sha256:d6c9c0a14793659766ee0c06f9843452942ae6982a3151c6bbd78959c1682b82",
+      "id": 262165552,
       "label": "",
       "name": "task_linux_amd64.tar.gz",
-      "node_id": "RA_kwDOBPZW984O5hau",
-      "size": 6791837,
+      "node_id": "RA_kwDOBPZW984PoFQw",
+      "size": 6819185,
       "state": "uploaded",
-      "updated_at": "2025-04-27T22:34:56Z",
+      "updated_at": "2025-06-09T00:39:23Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/106601941?v=4",
         "events_url": "https://api.github.com/users/task-bot/events{/privacy}",
@@ -453,20 +453,20 @@
         "url": "https://api.github.com/users/task-bot",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/go-task/task/releases/assets/249960110"
+      "url": "https://api.github.com/repos/go-task/task/releases/assets/262165552"
     },
     {
-      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.43.3/task_linux_arm.deb",
+      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.44.0/task_linux_arm.deb",
       "content_type": "application/vnd.debian.binary-package",
-      "created_at": "2025-04-27T22:34:57Z",
-      "digest": null,
-      "id": 249960123,
+      "created_at": "2025-06-09T00:39:25Z",
+      "digest": "sha256:558865995643bb1ad9bc0126d93b6a0230e011ad3106914ccfabf2d4c781593f",
+      "id": 262165570,
       "label": "",
       "name": "task_linux_arm.deb",
-      "node_id": "RA_kwDOBPZW984O5ha7",
-      "size": 6480338,
+      "node_id": "RA_kwDOBPZW984PoFRC",
+      "size": 6504406,
       "state": "uploaded",
-      "updated_at": "2025-04-27T22:34:57Z",
+      "updated_at": "2025-06-09T00:39:26Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/106601941?v=4",
         "events_url": "https://api.github.com/users/task-bot/events{/privacy}",
@@ -488,20 +488,20 @@
         "url": "https://api.github.com/users/task-bot",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/go-task/task/releases/assets/249960123"
+      "url": "https://api.github.com/repos/go-task/task/releases/assets/262165570"
     },
     {
-      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.43.3/task_linux_arm.rpm",
+      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.44.0/task_linux_arm.rpm",
       "content_type": "application/x-rpm",
-      "created_at": "2025-04-27T22:34:58Z",
-      "digest": null,
-      "id": 249960129,
+      "created_at": "2025-06-09T00:39:25Z",
+      "digest": "sha256:1f60368dc4e866fbcd07b090c21fb0aa95f85ce2262a5fff997a4a0cdd30baf7",
+      "id": 262165568,
       "label": "",
       "name": "task_linux_arm.rpm",
-      "node_id": "RA_kwDOBPZW984O5hbB",
-      "size": 6701605,
+      "node_id": "RA_kwDOBPZW984PoFRA",
+      "size": 6714157,
       "state": "uploaded",
-      "updated_at": "2025-04-27T22:34:58Z",
+      "updated_at": "2025-06-09T00:39:25Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/106601941?v=4",
         "events_url": "https://api.github.com/users/task-bot/events{/privacy}",
@@ -523,20 +523,20 @@
         "url": "https://api.github.com/users/task-bot",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/go-task/task/releases/assets/249960129"
+      "url": "https://api.github.com/repos/go-task/task/releases/assets/262165568"
     },
     {
-      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.43.3/task_linux_arm.tar.gz",
+      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.44.0/task_linux_arm.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-04-27T22:34:56Z",
-      "digest": null,
-      "id": 249960115,
+      "created_at": "2025-06-09T00:39:21Z",
+      "digest": "sha256:659c3a55654c9438dbb399f33b955c834162ce99b43275df66e3b8f17559107c",
+      "id": 262165542,
       "label": "",
       "name": "task_linux_arm.tar.gz",
-      "node_id": "RA_kwDOBPZW984O5haz",
-      "size": 6465798,
+      "node_id": "RA_kwDOBPZW984PoFQm",
+      "size": 6490574,
       "state": "uploaded",
-      "updated_at": "2025-04-27T22:34:57Z",
+      "updated_at": "2025-06-09T00:39:22Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/106601941?v=4",
         "events_url": "https://api.github.com/users/task-bot/events{/privacy}",
@@ -558,20 +558,20 @@
         "url": "https://api.github.com/users/task-bot",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/go-task/task/releases/assets/249960115"
+      "url": "https://api.github.com/repos/go-task/task/releases/assets/262165542"
     },
     {
-      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.43.3/task_linux_arm64.deb",
+      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.44.0/task_linux_arm64.deb",
       "content_type": "application/vnd.debian.binary-package",
-      "created_at": "2025-04-27T22:34:56Z",
-      "digest": null,
-      "id": 249960118,
+      "created_at": "2025-06-09T00:39:24Z",
+      "digest": "sha256:13d82f9194b3d2f9b601a29501e53adc5c7f151e181b93d6858404f35da0295f",
+      "id": 262165562,
       "label": "",
       "name": "task_linux_arm64.deb",
-      "node_id": "RA_kwDOBPZW984O5ha2",
-      "size": 6265670,
+      "node_id": "RA_kwDOBPZW984PoFQ6",
+      "size": 6289228,
       "state": "uploaded",
-      "updated_at": "2025-04-27T22:34:57Z",
+      "updated_at": "2025-06-09T00:39:24Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/106601941?v=4",
         "events_url": "https://api.github.com/users/task-bot/events{/privacy}",
@@ -593,20 +593,20 @@
         "url": "https://api.github.com/users/task-bot",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/go-task/task/releases/assets/249960118"
+      "url": "https://api.github.com/repos/go-task/task/releases/assets/262165562"
     },
     {
-      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.43.3/task_linux_arm64.rpm",
+      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.44.0/task_linux_arm64.rpm",
       "content_type": "application/x-rpm",
-      "created_at": "2025-04-27T22:34:58Z",
-      "digest": null,
-      "id": 249960128,
+      "created_at": "2025-06-09T00:39:25Z",
+      "digest": "sha256:9be93c92cc8be9fcdc0711dc8ee7eacd8ff34023fd3b44f74c6d0765a4867985",
+      "id": 262165569,
       "label": "",
       "name": "task_linux_arm64.rpm",
-      "node_id": "RA_kwDOBPZW984O5hbA",
-      "size": 6481024,
+      "node_id": "RA_kwDOBPZW984PoFRB",
+      "size": 6527314,
       "state": "uploaded",
-      "updated_at": "2025-04-27T22:34:58Z",
+      "updated_at": "2025-06-09T00:39:25Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/106601941?v=4",
         "events_url": "https://api.github.com/users/task-bot/events{/privacy}",
@@ -628,20 +628,20 @@
         "url": "https://api.github.com/users/task-bot",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/go-task/task/releases/assets/249960128"
+      "url": "https://api.github.com/repos/go-task/task/releases/assets/262165569"
     },
     {
-      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.43.3/task_linux_arm64.tar.gz",
+      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.44.0/task_linux_arm64.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-04-27T22:34:56Z",
-      "digest": null,
-      "id": 249960112,
+      "created_at": "2025-06-09T00:39:22Z",
+      "digest": "sha256:3b2a79a5372e3806c4b345bdfb4a1a1a93a287a58804986bb57b16665db5db22",
+      "id": 262165550,
       "label": "",
       "name": "task_linux_arm64.tar.gz",
-      "node_id": "RA_kwDOBPZW984O5haw",
-      "size": 6245648,
+      "node_id": "RA_kwDOBPZW984PoFQu",
+      "size": 6267852,
       "state": "uploaded",
-      "updated_at": "2025-04-27T22:34:56Z",
+      "updated_at": "2025-06-09T00:39:22Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/106601941?v=4",
         "events_url": "https://api.github.com/users/task-bot/events{/privacy}",
@@ -663,20 +663,20 @@
         "url": "https://api.github.com/users/task-bot",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/go-task/task/releases/assets/249960112"
+      "url": "https://api.github.com/repos/go-task/task/releases/assets/262165550"
     },
     {
-      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.43.3/task_linux_riscv64.deb",
+      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.44.0/task_linux_riscv64.deb",
       "content_type": "application/vnd.debian.binary-package",
-      "created_at": "2025-04-27T22:34:58Z",
-      "digest": null,
-      "id": 249960131,
+      "created_at": "2025-06-09T00:39:24Z",
+      "digest": "sha256:4cec08defa2529718f62a4994239dce2bfc5bffe2f62dd8daa878dc9854a2490",
+      "id": 262165563,
       "label": "",
       "name": "task_linux_riscv64.deb",
-      "node_id": "RA_kwDOBPZW984O5hbD",
-      "size": 6445914,
+      "node_id": "RA_kwDOBPZW984PoFQ7",
+      "size": 6472934,
       "state": "uploaded",
-      "updated_at": "2025-04-27T22:34:59Z",
+      "updated_at": "2025-06-09T00:39:24Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/106601941?v=4",
         "events_url": "https://api.github.com/users/task-bot/events{/privacy}",
@@ -698,20 +698,20 @@
         "url": "https://api.github.com/users/task-bot",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/go-task/task/releases/assets/249960131"
+      "url": "https://api.github.com/repos/go-task/task/releases/assets/262165563"
     },
     {
-      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.43.3/task_linux_riscv64.rpm",
+      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.44.0/task_linux_riscv64.rpm",
       "content_type": "application/x-rpm",
-      "created_at": "2025-04-27T22:34:58Z",
-      "digest": null,
-      "id": 249960130,
+      "created_at": "2025-06-09T00:39:25Z",
+      "digest": "sha256:c71d76178afa2b111f63e3f72e1007cb1968bb9f48d1cf553db2da5d10fb5ca0",
+      "id": 262165571,
       "label": "",
       "name": "task_linux_riscv64.rpm",
-      "node_id": "RA_kwDOBPZW984O5hbC",
-      "size": 6708112,
+      "node_id": "RA_kwDOBPZW984PoFRD",
+      "size": 6724838,
       "state": "uploaded",
-      "updated_at": "2025-04-27T22:34:58Z",
+      "updated_at": "2025-06-09T00:39:26Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/106601941?v=4",
         "events_url": "https://api.github.com/users/task-bot/events{/privacy}",
@@ -733,20 +733,20 @@
         "url": "https://api.github.com/users/task-bot",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/go-task/task/releases/assets/249960130"
+      "url": "https://api.github.com/repos/go-task/task/releases/assets/262165571"
     },
     {
-      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.43.3/task_linux_riscv64.tar.gz",
+      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.44.0/task_linux_riscv64.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-04-27T22:34:56Z",
-      "digest": null,
-      "id": 249960117,
+      "created_at": "2025-06-09T00:39:21Z",
+      "digest": "sha256:53eef2367ad2f0240d5b7402961b09f29eae069ce4b8d3e2d2e2589cc52d9050",
+      "id": 262165544,
       "label": "",
       "name": "task_linux_riscv64.tar.gz",
-      "node_id": "RA_kwDOBPZW984O5ha1",
-      "size": 6426187,
+      "node_id": "RA_kwDOBPZW984PoFQo",
+      "size": 6453735,
       "state": "uploaded",
-      "updated_at": "2025-04-27T22:34:57Z",
+      "updated_at": "2025-06-09T00:39:22Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/106601941?v=4",
         "events_url": "https://api.github.com/users/task-bot/events{/privacy}",
@@ -768,20 +768,20 @@
         "url": "https://api.github.com/users/task-bot",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/go-task/task/releases/assets/249960117"
+      "url": "https://api.github.com/repos/go-task/task/releases/assets/262165544"
     },
     {
-      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.43.3/task_windows_386.zip",
+      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.44.0/task_windows_386.zip",
       "content_type": "application/zip",
-      "created_at": "2025-04-27T22:34:54Z",
-      "digest": null,
-      "id": 249960102,
+      "created_at": "2025-06-09T00:39:21Z",
+      "digest": "sha256:94190fcb14463c03d0f0e3785eee7db6b942532ef81b7fbdb6cc838c0717d460",
+      "id": 262165545,
       "label": "",
       "name": "task_windows_386.zip",
-      "node_id": "RA_kwDOBPZW984O5ham",
-      "size": 6774765,
+      "node_id": "RA_kwDOBPZW984PoFQp",
+      "size": 6805863,
       "state": "uploaded",
-      "updated_at": "2025-04-27T22:34:55Z",
+      "updated_at": "2025-06-09T00:39:22Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/106601941?v=4",
         "events_url": "https://api.github.com/users/task-bot/events{/privacy}",
@@ -803,20 +803,20 @@
         "url": "https://api.github.com/users/task-bot",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/go-task/task/releases/assets/249960102"
+      "url": "https://api.github.com/repos/go-task/task/releases/assets/262165545"
     },
     {
-      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.43.3/task_windows_amd64.zip",
+      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.44.0/task_windows_amd64.zip",
       "content_type": "application/zip",
-      "created_at": "2025-04-27T22:34:55Z",
-      "digest": null,
-      "id": 249960109,
+      "created_at": "2025-06-09T00:39:21Z",
+      "digest": "sha256:db39c209f677c8f1513bec1b22c0997131d56e252db0a2d57208414c96ad9056",
+      "id": 262165543,
       "label": "",
       "name": "task_windows_amd64.zip",
-      "node_id": "RA_kwDOBPZW984O5hat",
-      "size": 7002997,
+      "node_id": "RA_kwDOBPZW984PoFQn",
+      "size": 7029837,
       "state": "uploaded",
-      "updated_at": "2025-04-27T22:34:56Z",
+      "updated_at": "2025-06-09T00:39:22Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/106601941?v=4",
         "events_url": "https://api.github.com/users/task-bot/events{/privacy}",
@@ -838,20 +838,20 @@
         "url": "https://api.github.com/users/task-bot",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/go-task/task/releases/assets/249960109"
+      "url": "https://api.github.com/repos/go-task/task/releases/assets/262165543"
     },
     {
-      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.43.3/task_windows_arm.zip",
+      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.44.0/task_windows_arm.zip",
       "content_type": "application/zip",
-      "created_at": "2025-04-27T22:34:55Z",
-      "digest": null,
-      "id": 249960106,
+      "created_at": "2025-06-09T00:39:23Z",
+      "digest": "sha256:30bfdaee1eb1bd91f4e063c8fcdf383cdf64329b3eedae440f4ac3c96e7966f1",
+      "id": 262165555,
       "label": "",
       "name": "task_windows_arm.zip",
-      "node_id": "RA_kwDOBPZW984O5haq",
-      "size": 6637627,
+      "node_id": "RA_kwDOBPZW984PoFQz",
+      "size": 6665711,
       "state": "uploaded",
-      "updated_at": "2025-04-27T22:34:55Z",
+      "updated_at": "2025-06-09T00:39:23Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/106601941?v=4",
         "events_url": "https://api.github.com/users/task-bot/events{/privacy}",
@@ -873,20 +873,20 @@
         "url": "https://api.github.com/users/task-bot",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/go-task/task/releases/assets/249960106"
+      "url": "https://api.github.com/repos/go-task/task/releases/assets/262165555"
     },
     {
-      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.43.3/task_windows_arm64.zip",
+      "browser_download_url": "https://github.com/go-task/task/releases/download/v3.44.0/task_windows_arm64.zip",
       "content_type": "application/zip",
-      "created_at": "2025-04-27T22:34:54Z",
-      "digest": null,
-      "id": 249960101,
+      "created_at": "2025-06-09T00:39:23Z",
+      "digest": "sha256:e2cf946b4352626b4635e87ec8f2d65734b7f08a4eef2187e02f1d99cb2f1012",
+      "id": 262165559,
       "label": "",
       "name": "task_windows_arm64.zip",
-      "node_id": "RA_kwDOBPZW984O5hal",
-      "size": 6354932,
+      "node_id": "RA_kwDOBPZW984PoFQ3",
+      "size": 6379581,
       "state": "uploaded",
-      "updated_at": "2025-04-27T22:34:55Z",
+      "updated_at": "2025-06-09T00:39:24Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/106601941?v=4",
         "events_url": "https://api.github.com/users/task-bot/events{/privacy}",
@@ -908,10 +908,10 @@
         "url": "https://api.github.com/users/task-bot",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/go-task/task/releases/assets/249960101"
+      "url": "https://api.github.com/repos/go-task/task/releases/assets/262165559"
     }
   ],
-  "assets_url": "https://api.github.com/repos/go-task/task/releases/215052438/assets",
+  "assets_url": "https://api.github.com/repos/go-task/task/releases/223892153/assets",
   "author": {
     "avatar_url": "https://avatars.githubusercontent.com/u/106601941?v=4",
     "events_url": "https://api.github.com/users/task-bot/events{/privacy}",
@@ -933,19 +933,19 @@
     "url": "https://api.github.com/users/task-bot",
     "user_view_type": "public"
   },
-  "body": "Reverted the changes made in #2113 and #2186 that affected the `USER_WORKING_DIR` and built-in variables. This fixes #2206, #2195, #2207 and #2208.",
-  "created_at": "2025-04-27T22:29:34Z",
+  "body": "- Added `uuid`, `randInt` and `randIntN` template functions (#1346, #2225 by @pd93).\r\n- Added new `CLI_ARGS_LIST` array variable which contains the arguments passed to Task after the `--` (the same as `CLI_ARGS`, but an array instead of a string). (#2138, #2139, #2140 by @pd93).\r\n- Added `toYaml` and `fromYaml` templating functions (#2217, #2219 by @pd93).\r\n- Added `task` field the `--list --json` output (#2256 by @aleksandersh).\r\n- Added the ability to [pin included taskfiles](https://taskfile.dev/next/experiments/remote-taskfiles/#manual-checksum-pinning) by specifying a checksum. This works with both local and remote Taskfiles (#2222, #2223 by @pd93).\r\n- When using the [Remote Taskfiles experiment](https://github.com/go-task/task/issues/1317), any credentials used in the URL will now be redacted in Task's output (#2100, #2220 by @pd93).\r\n- Fixed fuzzy suggestions not working when misspelling a task name (#2192, #2200 by @vmaerten).\r\n- Fixed a bug where taskfiles in directories containing spaces created directories in the wrong location (#2208, #2216 by @pd93).\r\n- Added support for dual JSON schema files, allowing changes without affecting the current schema. The current schemas will only be updated during releases. (#2211 by @vmaerten).\r\n- Improved fingerprint documentation by specifying that the method can be set at the root level to apply to all tasks (#2233 by @vmaerten).\r\n- Fixed some watcher regressions after #2048 (#2199, #2202, #2241, #2196 by @wazazaby, #2271 by @andreynering).",
+  "created_at": "2025-06-09T00:34:13Z",
   "draft": false,
-  "html_url": "https://github.com/go-task/task/releases/tag/v3.43.3",
-  "id": 215052438,
-  "name": "v3.43.3",
-  "node_id": "RE_kwDOBPZW984M0XCW",
+  "html_url": "https://github.com/go-task/task/releases/tag/v3.44.0",
+  "id": 223892153,
+  "name": "v3.44.0",
+  "node_id": "RE_kwDOBPZW984NWFK5",
   "prerelease": false,
-  "published_at": "2025-04-27T22:37:31Z",
-  "tag_name": "v3.43.3",
-  "tarball_url": "https://api.github.com/repos/go-task/task/tarball/v3.43.3",
+  "published_at": "2025-06-09T00:41:30Z",
+  "tag_name": "v3.44.0",
+  "tarball_url": "https://api.github.com/repos/go-task/task/tarball/v3.44.0",
   "target_commitish": "main",
-  "upload_url": "https://uploads.github.com/repos/go-task/task/releases/215052438/assets{?name,label}",
-  "url": "https://api.github.com/repos/go-task/task/releases/215052438",
-  "zipball_url": "https://api.github.com/repos/go-task/task/zipball/v3.43.3"
+  "upload_url": "https://uploads.github.com/repos/go-task/task/releases/223892153/assets{?name,label}",
+  "url": "https://api.github.com/repos/go-task/task/releases/223892153",
+  "zipball_url": "https://api.github.com/repos/go-task/task/zipball/v3.44.0"
 }
