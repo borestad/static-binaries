@@ -1,17 +1,17 @@
 {
   "assets": [
     {
-      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.10/checksums.txt",
+      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.11/checksums.txt",
       "content_type": "text/plain; charset=utf-8",
-      "created_at": "2025-06-09T15:48:32Z",
-      "digest": "sha256:ddc47b36b393c049618ded90ae94a2bbc351be0a070d2ab5740d4425efcef6d8",
-      "id": 262356650,
+      "created_at": "2025-06-11T12:17:27Z",
+      "digest": "sha256:5951744ace41c9b46e435442e794ffd8889625a4d573fb01acd34f1cedb6235e",
+      "id": 262931463,
       "label": "",
       "name": "checksums.txt",
-      "node_id": "RA_kwDOHN_kH84Poz6q",
+      "node_id": "RA_kwDOHN_kH84PrAQH",
       "size": 2541,
       "state": "uploaded",
-      "updated_at": "2025-06-09T15:48:32Z",
+      "updated_at": "2025-06-11T12:17:27Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/1475839?v=4",
         "events_url": "https://api.github.com/users/yottahmd/events{/privacy}",
@@ -33,20 +33,20 @@
         "url": "https://api.github.com/users/yottahmd",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262356650"
+      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262931463"
     },
     {
-      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.10/dagu_1.17.0-beta.10_darwin_amd64.tar.gz",
+      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.11/dagu_1.17.0-beta.11_darwin_amd64.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-06-09T15:48:26Z",
-      "digest": "sha256:efae76bfba9c1c826a4d291d705a99bd8379e14b064fcbf02502078545deae8a",
-      "id": 262356601,
+      "created_at": "2025-06-11T12:17:22Z",
+      "digest": "sha256:091020fa1b2efdd4e0a7bc93d069a752e629d8f4fcc106a5d464621abbe18e35",
+      "id": 262931425,
       "label": "",
-      "name": "dagu_1.17.0-beta.10_darwin_amd64.tar.gz",
-      "node_id": "RA_kwDOHN_kH84Poz55",
-      "size": 10945668,
+      "name": "dagu_1.17.0-beta.11_darwin_amd64.tar.gz",
+      "node_id": "RA_kwDOHN_kH84PrAPh",
+      "size": 10963375,
       "state": "uploaded",
-      "updated_at": "2025-06-09T15:48:27Z",
+      "updated_at": "2025-06-11T12:17:23Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/1475839?v=4",
         "events_url": "https://api.github.com/users/yottahmd/events{/privacy}",
@@ -68,20 +68,20 @@
         "url": "https://api.github.com/users/yottahmd",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262356601"
+      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262931425"
     },
     {
-      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.10/dagu_1.17.0-beta.10_darwin_arm64.tar.gz",
+      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.11/dagu_1.17.0-beta.11_darwin_arm64.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-06-09T15:48:28Z",
-      "digest": "sha256:f668c7b94078a2d79e05ea476e585672665b3bb88a1a7f77f52233d5f7f8bfab",
-      "id": 262356612,
+      "created_at": "2025-06-11T12:17:24Z",
+      "digest": "sha256:1d5ebacb413848f8064514b7ac6a7fc725a8e023223a5900d181b19b6cdc4c3e",
+      "id": 262931448,
       "label": "",
-      "name": "dagu_1.17.0-beta.10_darwin_arm64.tar.gz",
-      "node_id": "RA_kwDOHN_kH84Poz6E",
-      "size": 10490944,
+      "name": "dagu_1.17.0-beta.11_darwin_arm64.tar.gz",
+      "node_id": "RA_kwDOHN_kH84PrAP4",
+      "size": 10511937,
       "state": "uploaded",
-      "updated_at": "2025-06-09T15:48:29Z",
+      "updated_at": "2025-06-11T12:17:25Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/1475839?v=4",
         "events_url": "https://api.github.com/users/yottahmd/events{/privacy}",
@@ -103,20 +103,20 @@
         "url": "https://api.github.com/users/yottahmd",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262356612"
+      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262931448"
     },
     {
-      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.10/dagu_1.17.0-beta.10_freebsd_386.tar.gz",
+      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.11/dagu_1.17.0-beta.11_freebsd_386.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-06-09T15:48:28Z",
-      "digest": "sha256:11e2ea0c5c6a29e3a87d899c17617d81d6e679278f16ea492855ed909a8d2d23",
-      "id": 262356613,
+      "created_at": "2025-06-11T12:17:25Z",
+      "digest": "sha256:e8905695810a4560be2ceb0d27f150f25a5003835be6cc0deda0e5422ed99b63",
+      "id": 262931451,
       "label": "",
-      "name": "dagu_1.17.0-beta.10_freebsd_386.tar.gz",
-      "node_id": "RA_kwDOHN_kH84Poz6F",
-      "size": 10318286,
+      "name": "dagu_1.17.0-beta.11_freebsd_386.tar.gz",
+      "node_id": "RA_kwDOHN_kH84PrAP7",
+      "size": 10334950,
       "state": "uploaded",
-      "updated_at": "2025-06-09T15:48:29Z",
+      "updated_at": "2025-06-11T12:17:26Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/1475839?v=4",
         "events_url": "https://api.github.com/users/yottahmd/events{/privacy}",
@@ -138,20 +138,20 @@
         "url": "https://api.github.com/users/yottahmd",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262356613"
+      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262931451"
     },
     {
-      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.10/dagu_1.17.0-beta.10_freebsd_amd64.tar.gz",
+      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.11/dagu_1.17.0-beta.11_freebsd_amd64.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-06-09T15:48:31Z",
-      "digest": "sha256:73c6e11517aec5a24e6b0ed1ca68d752e15b341c64684aead14e69f1aae16aa1",
-      "id": 262356640,
+      "created_at": "2025-06-11T12:17:22Z",
+      "digest": "sha256:29a3e264b2f1f82438257192e3b48f3b4ab96ca1816c14c22be2c02e70e7b1de",
+      "id": 262931429,
       "label": "",
-      "name": "dagu_1.17.0-beta.10_freebsd_amd64.tar.gz",
-      "node_id": "RA_kwDOHN_kH84Poz6g",
-      "size": 10782904,
+      "name": "dagu_1.17.0-beta.11_freebsd_amd64.tar.gz",
+      "node_id": "RA_kwDOHN_kH84PrAPl",
+      "size": 10808116,
       "state": "uploaded",
-      "updated_at": "2025-06-09T15:48:31Z",
+      "updated_at": "2025-06-11T12:17:23Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/1475839?v=4",
         "events_url": "https://api.github.com/users/yottahmd/events{/privacy}",
@@ -173,20 +173,20 @@
         "url": "https://api.github.com/users/yottahmd",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262356640"
+      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262931429"
     },
     {
-      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.10/dagu_1.17.0-beta.10_freebsd_arm64.tar.gz",
+      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.11/dagu_1.17.0-beta.11_freebsd_arm64.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-06-09T15:48:29Z",
-      "digest": "sha256:33ecd08c9ca74e73d3ce3a672592696e4e4f9b3676f3bb305735b4920b7843fd",
-      "id": 262356621,
+      "created_at": "2025-06-11T12:17:23Z",
+      "digest": "sha256:d124e444ef72cba90eb7b3a99054186a85fbfaa53909b1b7f69965e5b72052a6",
+      "id": 262931439,
       "label": "",
-      "name": "dagu_1.17.0-beta.10_freebsd_arm64.tar.gz",
-      "node_id": "RA_kwDOHN_kH84Poz6N",
-      "size": 10097341,
+      "name": "dagu_1.17.0-beta.11_freebsd_arm64.tar.gz",
+      "node_id": "RA_kwDOHN_kH84PrAPv",
+      "size": 10119753,
       "state": "uploaded",
-      "updated_at": "2025-06-09T15:48:30Z",
+      "updated_at": "2025-06-11T12:17:24Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/1475839?v=4",
         "events_url": "https://api.github.com/users/yottahmd/events{/privacy}",
@@ -208,20 +208,20 @@
         "url": "https://api.github.com/users/yottahmd",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262356621"
+      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262931439"
     },
     {
-      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.10/dagu_1.17.0-beta.10_freebsd_armv6.tar.gz",
+      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.11/dagu_1.17.0-beta.11_freebsd_armv6.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-06-09T15:48:26Z",
-      "digest": "sha256:03bb7c4d0635c243fcbf314088dde42ae55f09e573e5c1f362a32247df9b4a1b",
-      "id": 262356600,
+      "created_at": "2025-06-11T12:17:20Z",
+      "digest": "sha256:98b21e914fdbdda4a8c081e033aac9cec30234f57dd1e9643defb4c903651eb5",
+      "id": 262931410,
       "label": "",
-      "name": "dagu_1.17.0-beta.10_freebsd_armv6.tar.gz",
-      "node_id": "RA_kwDOHN_kH84Poz54",
-      "size": 10331875,
+      "name": "dagu_1.17.0-beta.11_freebsd_armv6.tar.gz",
+      "node_id": "RA_kwDOHN_kH84PrAPS",
+      "size": 10348379,
       "state": "uploaded",
-      "updated_at": "2025-06-09T15:48:27Z",
+      "updated_at": "2025-06-11T12:17:20Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/1475839?v=4",
         "events_url": "https://api.github.com/users/yottahmd/events{/privacy}",
@@ -243,20 +243,20 @@
         "url": "https://api.github.com/users/yottahmd",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262356600"
+      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262931410"
     },
     {
-      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.10/dagu_1.17.0-beta.10_freebsd_armv7.tar.gz",
+      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.11/dagu_1.17.0-beta.11_freebsd_armv7.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-06-09T15:48:29Z",
-      "digest": "sha256:4f3066223c3f6051b1591ec8f2a030f0e3493c85800eb3c6a0fcb722700c1957",
-      "id": 262356618,
+      "created_at": "2025-06-11T12:17:21Z",
+      "digest": "sha256:dd5eb7dee24aa5007d36dd9045c65b34f48339e0dd4148dedb17562cf8ccc686",
+      "id": 262931418,
       "label": "",
-      "name": "dagu_1.17.0-beta.10_freebsd_armv7.tar.gz",
-      "node_id": "RA_kwDOHN_kH84Poz6K",
-      "size": 10314883,
+      "name": "dagu_1.17.0-beta.11_freebsd_armv7.tar.gz",
+      "node_id": "RA_kwDOHN_kH84PrAPa",
+      "size": 10340238,
       "state": "uploaded",
-      "updated_at": "2025-06-09T15:48:30Z",
+      "updated_at": "2025-06-11T12:17:22Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/1475839?v=4",
         "events_url": "https://api.github.com/users/yottahmd/events{/privacy}",
@@ -278,20 +278,20 @@
         "url": "https://api.github.com/users/yottahmd",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262356618"
+      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262931418"
     },
     {
-      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.10/dagu_1.17.0-beta.10_linux_386.tar.gz",
+      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.11/dagu_1.17.0-beta.11_linux_386.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-06-09T15:48:27Z",
-      "digest": "sha256:588c4b860d5e7f90a29a2c978da82c00ad43c10065c028c11645547561fc5b01",
-      "id": 262356607,
+      "created_at": "2025-06-11T12:17:20Z",
+      "digest": "sha256:e524aeae2216c4082ad2f931c72d2ac8ab991fd66262e69bc8e52549c2d8c327",
+      "id": 262931412,
       "label": "",
-      "name": "dagu_1.17.0-beta.10_linux_386.tar.gz",
-      "node_id": "RA_kwDOHN_kH84Poz5_",
-      "size": 10329502,
+      "name": "dagu_1.17.0-beta.11_linux_386.tar.gz",
+      "node_id": "RA_kwDOHN_kH84PrAPU",
+      "size": 10352557,
       "state": "uploaded",
-      "updated_at": "2025-06-09T15:48:28Z",
+      "updated_at": "2025-06-11T12:17:20Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/1475839?v=4",
         "events_url": "https://api.github.com/users/yottahmd/events{/privacy}",
@@ -313,20 +313,20 @@
         "url": "https://api.github.com/users/yottahmd",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262356607"
+      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262931412"
     },
     {
-      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.10/dagu_1.17.0-beta.10_linux_amd64.tar.gz",
+      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.11/dagu_1.17.0-beta.11_linux_amd64.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-06-09T15:48:27Z",
-      "digest": "sha256:b7e3e86b70f872b61848aff7398537ed7f84c70be70d3160c02b302b0b237bdc",
-      "id": 262356610,
+      "created_at": "2025-06-11T12:17:20Z",
+      "digest": "sha256:14064cec3b01f34fde66df8739b9c26540171f057a495b5ecba07bfd6465a112",
+      "id": 262931411,
       "label": "",
-      "name": "dagu_1.17.0-beta.10_linux_amd64.tar.gz",
-      "node_id": "RA_kwDOHN_kH84Poz6C",
-      "size": 10791249,
+      "name": "dagu_1.17.0-beta.11_linux_amd64.tar.gz",
+      "node_id": "RA_kwDOHN_kH84PrAPT",
+      "size": 10815061,
       "state": "uploaded",
-      "updated_at": "2025-06-09T15:48:28Z",
+      "updated_at": "2025-06-11T12:17:20Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/1475839?v=4",
         "events_url": "https://api.github.com/users/yottahmd/events{/privacy}",
@@ -348,20 +348,20 @@
         "url": "https://api.github.com/users/yottahmd",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262356610"
+      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262931411"
     },
     {
-      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.10/dagu_1.17.0-beta.10_linux_arm64.tar.gz",
+      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.11/dagu_1.17.0-beta.11_linux_arm64.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-06-09T15:48:29Z",
-      "digest": "sha256:1e59bb169e7888718ad02700363a4e4601d33a7b440d20392325fec3e1e27005",
-      "id": 262356623,
+      "created_at": "2025-06-11T12:17:22Z",
+      "digest": "sha256:d25cee23ffe903141e18569301c2ca68d2550bd8a7ef372244b18122c3236253",
+      "id": 262931427,
       "label": "",
-      "name": "dagu_1.17.0-beta.10_linux_arm64.tar.gz",
-      "node_id": "RA_kwDOHN_kH84Poz6P",
-      "size": 10109125,
+      "name": "dagu_1.17.0-beta.11_linux_arm64.tar.gz",
+      "node_id": "RA_kwDOHN_kH84PrAPj",
+      "size": 10129531,
       "state": "uploaded",
-      "updated_at": "2025-06-09T15:48:30Z",
+      "updated_at": "2025-06-11T12:17:23Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/1475839?v=4",
         "events_url": "https://api.github.com/users/yottahmd/events{/privacy}",
@@ -383,20 +383,20 @@
         "url": "https://api.github.com/users/yottahmd",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262356623"
+      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262931427"
     },
     {
-      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.10/dagu_1.17.0-beta.10_linux_armv6.tar.gz",
+      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.11/dagu_1.17.0-beta.11_linux_armv6.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-06-09T15:48:27Z",
-      "digest": "sha256:60d305a7248b9519d84e116efadd64e82838551896f669a4ac0e635536b5af81",
-      "id": 262356608,
+      "created_at": "2025-06-11T12:17:26Z",
+      "digest": "sha256:c263e8def9eaca1c7813ae9c27289c01c3989260d61275d0fa92ae90cf43ce17",
+      "id": 262931459,
       "label": "",
-      "name": "dagu_1.17.0-beta.10_linux_armv6.tar.gz",
-      "node_id": "RA_kwDOHN_kH84Poz6A",
-      "size": 10338787,
+      "name": "dagu_1.17.0-beta.11_linux_armv6.tar.gz",
+      "node_id": "RA_kwDOHN_kH84PrAQD",
+      "size": 10360438,
       "state": "uploaded",
-      "updated_at": "2025-06-09T15:48:28Z",
+      "updated_at": "2025-06-11T12:17:27Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/1475839?v=4",
         "events_url": "https://api.github.com/users/yottahmd/events{/privacy}",
@@ -418,20 +418,20 @@
         "url": "https://api.github.com/users/yottahmd",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262356608"
+      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262931459"
     },
     {
-      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.10/dagu_1.17.0-beta.10_linux_armv7.tar.gz",
+      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.11/dagu_1.17.0-beta.11_linux_armv7.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-06-09T15:48:31Z",
-      "digest": "sha256:444921d1117e5170a8fd8e69710d6b9d1809e087bab822160ab338b2ae0883ef",
-      "id": 262356641,
+      "created_at": "2025-06-11T12:17:22Z",
+      "digest": "sha256:06f32b0a01b2a092ffc38c1e69e6eacccbc19bd90558337749dda82021a7b315",
+      "id": 262931424,
       "label": "",
-      "name": "dagu_1.17.0-beta.10_linux_armv7.tar.gz",
-      "node_id": "RA_kwDOHN_kH84Poz6h",
-      "size": 10326469,
+      "name": "dagu_1.17.0-beta.11_linux_armv7.tar.gz",
+      "node_id": "RA_kwDOHN_kH84PrAPg",
+      "size": 10346281,
       "state": "uploaded",
-      "updated_at": "2025-06-09T15:48:31Z",
+      "updated_at": "2025-06-11T12:17:23Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/1475839?v=4",
         "events_url": "https://api.github.com/users/yottahmd/events{/privacy}",
@@ -453,20 +453,20 @@
         "url": "https://api.github.com/users/yottahmd",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262356641"
+      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262931424"
     },
     {
-      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.10/dagu_1.17.0-beta.10_linux_ppc64le.tar.gz",
+      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.11/dagu_1.17.0-beta.11_linux_ppc64le.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-06-09T15:48:31Z",
-      "digest": "sha256:4f853809784f88672f3330b1851581f65744bb9841da3a857ba426b93a12ff9d",
-      "id": 262356647,
+      "created_at": "2025-06-11T12:17:25Z",
+      "digest": "sha256:1f62c03248d6c336bfa7bfe20a9e29b1a1a89a1c5e063bf269e10088226d448a",
+      "id": 262931450,
       "label": "",
-      "name": "dagu_1.17.0-beta.10_linux_ppc64le.tar.gz",
-      "node_id": "RA_kwDOHN_kH84Poz6n",
-      "size": 10050549,
+      "name": "dagu_1.17.0-beta.11_linux_ppc64le.tar.gz",
+      "node_id": "RA_kwDOHN_kH84PrAP6",
+      "size": 10065693,
       "state": "uploaded",
-      "updated_at": "2025-06-09T15:48:32Z",
+      "updated_at": "2025-06-11T12:17:26Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/1475839?v=4",
         "events_url": "https://api.github.com/users/yottahmd/events{/privacy}",
@@ -488,20 +488,20 @@
         "url": "https://api.github.com/users/yottahmd",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262356647"
+      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262931450"
     },
     {
-      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.10/dagu_1.17.0-beta.10_linux_s390x.tar.gz",
+      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.11/dagu_1.17.0-beta.11_linux_s390x.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-06-09T15:48:28Z",
-      "digest": "sha256:56283ae35894d79d08956b2849367c58c9781e54147dcff2fcd223aa7988851a",
-      "id": 262356616,
+      "created_at": "2025-06-11T12:17:20Z",
+      "digest": "sha256:7b881d157ce164ad6aae79423d094a97bd9a3f2a0ff0d7685c5c7fd2cb8a90a7",
+      "id": 262931413,
       "label": "",
-      "name": "dagu_1.17.0-beta.10_linux_s390x.tar.gz",
-      "node_id": "RA_kwDOHN_kH84Poz6I",
-      "size": 10506556,
+      "name": "dagu_1.17.0-beta.11_linux_s390x.tar.gz",
+      "node_id": "RA_kwDOHN_kH84PrAPV",
+      "size": 10522854,
       "state": "uploaded",
-      "updated_at": "2025-06-09T15:48:29Z",
+      "updated_at": "2025-06-11T12:17:20Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/1475839?v=4",
         "events_url": "https://api.github.com/users/yottahmd/events{/privacy}",
@@ -523,20 +523,20 @@
         "url": "https://api.github.com/users/yottahmd",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262356616"
+      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262931413"
     },
     {
-      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.10/dagu_1.17.0-beta.10_netbsd_386.tar.gz",
+      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.11/dagu_1.17.0-beta.11_netbsd_386.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-06-09T15:48:27Z",
-      "digest": "sha256:26eab9782cb873ef9b6587b8c5bdbe1a78ffcaefc470e99977bd3500bb6d9ff1",
-      "id": 262356605,
+      "created_at": "2025-06-11T12:17:26Z",
+      "digest": "sha256:a40d3de5ee50df267b2f6e511158862006cf4010ae1ee1974df3c49fce55e6c7",
+      "id": 262931458,
       "label": "",
-      "name": "dagu_1.17.0-beta.10_netbsd_386.tar.gz",
-      "node_id": "RA_kwDOHN_kH84Poz59",
-      "size": 10301992,
+      "name": "dagu_1.17.0-beta.11_netbsd_386.tar.gz",
+      "node_id": "RA_kwDOHN_kH84PrAQC",
+      "size": 10325868,
       "state": "uploaded",
-      "updated_at": "2025-06-09T15:48:28Z",
+      "updated_at": "2025-06-11T12:17:26Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/1475839?v=4",
         "events_url": "https://api.github.com/users/yottahmd/events{/privacy}",
@@ -558,20 +558,20 @@
         "url": "https://api.github.com/users/yottahmd",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262356605"
+      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262931458"
     },
     {
-      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.10/dagu_1.17.0-beta.10_netbsd_amd64.tar.gz",
+      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.11/dagu_1.17.0-beta.11_netbsd_amd64.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-06-09T15:48:26Z",
-      "digest": "sha256:2b635e7dfe7cce8937fb09680bd19f4f754a1b1c54d186a80eda361ee446b1a4",
-      "id": 262356599,
+      "created_at": "2025-06-11T12:17:21Z",
+      "digest": "sha256:e19db284acca898d365a1481f65125c536c20ebce4703a77228bf2caff5df666",
+      "id": 262931422,
       "label": "",
-      "name": "dagu_1.17.0-beta.10_netbsd_amd64.tar.gz",
-      "node_id": "RA_kwDOHN_kH84Poz53",
-      "size": 10775819,
+      "name": "dagu_1.17.0-beta.11_netbsd_amd64.tar.gz",
+      "node_id": "RA_kwDOHN_kH84PrAPe",
+      "size": 10789483,
       "state": "uploaded",
-      "updated_at": "2025-06-09T15:48:27Z",
+      "updated_at": "2025-06-11T12:17:22Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/1475839?v=4",
         "events_url": "https://api.github.com/users/yottahmd/events{/privacy}",
@@ -593,20 +593,20 @@
         "url": "https://api.github.com/users/yottahmd",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262356599"
+      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262931422"
     },
     {
-      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.10/dagu_1.17.0-beta.10_netbsd_arm64.tar.gz",
+      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.11/dagu_1.17.0-beta.11_netbsd_arm64.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-06-09T15:48:31Z",
-      "digest": "sha256:ac0349b88cf9a6b2086e0669a47f3edef52e982a60c59a8b266a91c3520a643d",
-      "id": 262356645,
+      "created_at": "2025-06-11T12:17:26Z",
+      "digest": "sha256:7c9d7ba73d4b4857de1037a6f8822fbf43f386ab0af07e812884a56b4aaca622",
+      "id": 262931461,
       "label": "",
-      "name": "dagu_1.17.0-beta.10_netbsd_arm64.tar.gz",
-      "node_id": "RA_kwDOHN_kH84Poz6l",
-      "size": 10090437,
+      "name": "dagu_1.17.0-beta.11_netbsd_arm64.tar.gz",
+      "node_id": "RA_kwDOHN_kH84PrAQF",
+      "size": 10106177,
       "state": "uploaded",
-      "updated_at": "2025-06-09T15:48:32Z",
+      "updated_at": "2025-06-11T12:17:27Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/1475839?v=4",
         "events_url": "https://api.github.com/users/yottahmd/events{/privacy}",
@@ -628,20 +628,20 @@
         "url": "https://api.github.com/users/yottahmd",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262356645"
+      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262931461"
     },
     {
-      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.10/dagu_1.17.0-beta.10_netbsd_armv6.tar.gz",
+      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.11/dagu_1.17.0-beta.11_netbsd_armv6.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-06-09T15:48:30Z",
-      "digest": "sha256:a4f9c2be510d91af078d3af247dcb5dd4a19c3f6628b9dfdfdf5f6654c129964",
-      "id": 262356636,
+      "created_at": "2025-06-11T12:17:23Z",
+      "digest": "sha256:209a88c6986c40317c807b3030bfc56d96e4a4c0ee4b8f618e218a63a17d5c04",
+      "id": 262931440,
       "label": "",
-      "name": "dagu_1.17.0-beta.10_netbsd_armv6.tar.gz",
-      "node_id": "RA_kwDOHN_kH84Poz6c",
-      "size": 10314308,
+      "name": "dagu_1.17.0-beta.11_netbsd_armv6.tar.gz",
+      "node_id": "RA_kwDOHN_kH84PrAPw",
+      "size": 10337181,
       "state": "uploaded",
-      "updated_at": "2025-06-09T15:48:31Z",
+      "updated_at": "2025-06-11T12:17:24Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/1475839?v=4",
         "events_url": "https://api.github.com/users/yottahmd/events{/privacy}",
@@ -663,20 +663,20 @@
         "url": "https://api.github.com/users/yottahmd",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262356636"
+      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262931440"
     },
     {
-      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.10/dagu_1.17.0-beta.10_netbsd_armv7.tar.gz",
+      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.11/dagu_1.17.0-beta.11_netbsd_armv7.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-06-09T15:48:30Z",
-      "digest": "sha256:386f2377ac526d26f5c24b6dfade2b9e36c0ecbfee6f595b61ca21af428eb001",
-      "id": 262356637,
+      "created_at": "2025-06-11T12:17:21Z",
+      "digest": "sha256:46dbd477c0cb57280dda0c050e9db0bdd0053aac88f280aa0cbbff93e47ad74f",
+      "id": 262931420,
       "label": "",
-      "name": "dagu_1.17.0-beta.10_netbsd_armv7.tar.gz",
-      "node_id": "RA_kwDOHN_kH84Poz6d",
-      "size": 10306206,
+      "name": "dagu_1.17.0-beta.11_netbsd_armv7.tar.gz",
+      "node_id": "RA_kwDOHN_kH84PrAPc",
+      "size": 10327003,
       "state": "uploaded",
-      "updated_at": "2025-06-09T15:48:31Z",
+      "updated_at": "2025-06-11T12:17:22Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/1475839?v=4",
         "events_url": "https://api.github.com/users/yottahmd/events{/privacy}",
@@ -698,20 +698,20 @@
         "url": "https://api.github.com/users/yottahmd",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262356637"
+      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262931420"
     },
     {
-      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.10/dagu_1.17.0-beta.10_openbsd_386.tar.gz",
+      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.11/dagu_1.17.0-beta.11_openbsd_386.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-06-09T15:48:29Z",
-      "digest": "sha256:d3940bd3c7f250fe48fb372d4bd870cf3b461d9cb2fb87da8ef95834f5fca675",
-      "id": 262356619,
+      "created_at": "2025-06-11T12:17:21Z",
+      "digest": "sha256:b0780ab1b27087e6f600d9d179b118acd0420337022fff7980f127335cf447e9",
+      "id": 262931419,
       "label": "",
-      "name": "dagu_1.17.0-beta.10_openbsd_386.tar.gz",
-      "node_id": "RA_kwDOHN_kH84Poz6L",
-      "size": 10314210,
+      "name": "dagu_1.17.0-beta.11_openbsd_386.tar.gz",
+      "node_id": "RA_kwDOHN_kH84PrAPb",
+      "size": 10334466,
       "state": "uploaded",
-      "updated_at": "2025-06-09T15:48:30Z",
+      "updated_at": "2025-06-11T12:17:22Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/1475839?v=4",
         "events_url": "https://api.github.com/users/yottahmd/events{/privacy}",
@@ -733,20 +733,20 @@
         "url": "https://api.github.com/users/yottahmd",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262356619"
+      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262931419"
     },
     {
-      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.10/dagu_1.17.0-beta.10_openbsd_amd64.tar.gz",
+      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.11/dagu_1.17.0-beta.11_openbsd_amd64.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-06-09T15:48:30Z",
-      "digest": "sha256:83b31577e16568ff9d1cf283fd097fd9ce59c83a189fa6147a9fb292fedbf531",
-      "id": 262356639,
+      "created_at": "2025-06-11T12:17:26Z",
+      "digest": "sha256:16587d2b899f66104dc98f58cbb2520c4c83bc3ac999ac36496cb90f5a47fb41",
+      "id": 262931460,
       "label": "",
-      "name": "dagu_1.17.0-beta.10_openbsd_amd64.tar.gz",
-      "node_id": "RA_kwDOHN_kH84Poz6f",
-      "size": 10784151,
+      "name": "dagu_1.17.0-beta.11_openbsd_amd64.tar.gz",
+      "node_id": "RA_kwDOHN_kH84PrAQE",
+      "size": 10802442,
       "state": "uploaded",
-      "updated_at": "2025-06-09T15:48:31Z",
+      "updated_at": "2025-06-11T12:17:27Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/1475839?v=4",
         "events_url": "https://api.github.com/users/yottahmd/events{/privacy}",
@@ -768,20 +768,20 @@
         "url": "https://api.github.com/users/yottahmd",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262356639"
+      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262931460"
     },
     {
-      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.10/dagu_1.17.0-beta.10_openbsd_arm64.tar.gz",
+      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.11/dagu_1.17.0-beta.11_openbsd_arm64.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-06-09T15:48:31Z",
-      "digest": "sha256:594ac466c6205b7f4ee3b84b622d7dc1f183bc1b7eb3b93791b3fe3c3833a685",
-      "id": 262356643,
+      "created_at": "2025-06-11T12:17:23Z",
+      "digest": "sha256:a36208d4fde6b87d96917caa78f9d3c347093761143be17402611567e6db4e1c",
+      "id": 262931441,
       "label": "",
-      "name": "dagu_1.17.0-beta.10_openbsd_arm64.tar.gz",
-      "node_id": "RA_kwDOHN_kH84Poz6j",
-      "size": 10098924,
+      "name": "dagu_1.17.0-beta.11_openbsd_arm64.tar.gz",
+      "node_id": "RA_kwDOHN_kH84PrAPx",
+      "size": 10120404,
       "state": "uploaded",
-      "updated_at": "2025-06-09T15:48:32Z",
+      "updated_at": "2025-06-11T12:17:24Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/1475839?v=4",
         "events_url": "https://api.github.com/users/yottahmd/events{/privacy}",
@@ -803,20 +803,20 @@
         "url": "https://api.github.com/users/yottahmd",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262356643"
+      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262931441"
     },
     {
-      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.10/dagu_1.17.0-beta.10_openbsd_armv6.tar.gz",
+      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.11/dagu_1.17.0-beta.11_openbsd_armv6.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-06-09T15:48:28Z",
-      "digest": "sha256:9ecb43e111bc07c133cc6e9c5fcfdf60a4d6c941f8076c15db235c1826d92e54",
-      "id": 262356615,
+      "created_at": "2025-06-11T12:17:25Z",
+      "digest": "sha256:c516c388c37d0848d60b2c3f9525ecb6fe86d2b0162112164347d4bb5b76aeaa",
+      "id": 262931452,
       "label": "",
-      "name": "dagu_1.17.0-beta.10_openbsd_armv6.tar.gz",
-      "node_id": "RA_kwDOHN_kH84Poz6H",
-      "size": 10324908,
+      "name": "dagu_1.17.0-beta.11_openbsd_armv6.tar.gz",
+      "node_id": "RA_kwDOHN_kH84PrAP8",
+      "size": 10346495,
       "state": "uploaded",
-      "updated_at": "2025-06-09T15:48:29Z",
+      "updated_at": "2025-06-11T12:17:25Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/1475839?v=4",
         "events_url": "https://api.github.com/users/yottahmd/events{/privacy}",
@@ -838,20 +838,20 @@
         "url": "https://api.github.com/users/yottahmd",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262356615"
+      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262931452"
     },
     {
-      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.10/dagu_1.17.0-beta.10_openbsd_armv7.tar.gz",
+      "browser_download_url": "https://github.com/dagu-org/dagu/releases/download/v1.17.0-beta.11/dagu_1.17.0-beta.11_openbsd_armv7.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-06-09T15:48:26Z",
-      "digest": "sha256:9e59da361cd733d245e765b51fa0972c876233c32f3f1af2b36519838a8bddd4",
-      "id": 262356602,
+      "created_at": "2025-06-11T12:17:23Z",
+      "digest": "sha256:f575374f52b7f3a8cbcca70e888b1191196492ad06d2e7dccb0699332102b0b4",
+      "id": 262931437,
       "label": "",
-      "name": "dagu_1.17.0-beta.10_openbsd_armv7.tar.gz",
-      "node_id": "RA_kwDOHN_kH84Poz56",
-      "size": 10317384,
+      "name": "dagu_1.17.0-beta.11_openbsd_armv7.tar.gz",
+      "node_id": "RA_kwDOHN_kH84PrAPt",
+      "size": 10340000,
       "state": "uploaded",
-      "updated_at": "2025-06-09T15:48:27Z",
+      "updated_at": "2025-06-11T12:17:24Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/1475839?v=4",
         "events_url": "https://api.github.com/users/yottahmd/events{/privacy}",
@@ -873,10 +873,10 @@
         "url": "https://api.github.com/users/yottahmd",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262356602"
+      "url": "https://api.github.com/repos/dagu-org/dagu/releases/assets/262931437"
     }
   ],
-  "assets_url": "https://api.github.com/repos/dagu-org/dagu/releases/224077258/assets",
+  "assets_url": "https://api.github.com/repos/dagu-org/dagu/releases/224589055/assets",
   "author": {
     "avatar_url": "https://avatars.githubusercontent.com/u/1475839?v=4",
     "events_url": "https://api.github.com/users/yottahmd/events{/privacy}",
@@ -898,19 +898,19 @@
     "url": "https://api.github.com/users/yottahmd",
     "user_view_type": "public"
   },
-  "body": "## Changelog\n* de9d6d24007ae86bc48c86b10c437c0bd380fc51 [#992] feat: implement queue configuration (#1001)\n\n",
-  "created_at": "2025-06-09T15:36:15Z",
+  "body": "## Changelog\n* 96be9c0118008588542b050a2ef7ea624507e5ee [#994] support multiple DAGs in single YAML file (#1005)\n\n",
+  "created_at": "2025-06-11T12:03:44Z",
   "draft": false,
-  "html_url": "https://github.com/dagu-org/dagu/releases/tag/v1.17.0-beta.10",
-  "id": 224077258,
-  "name": "v1.17.0-beta.10",
-  "node_id": "RE_kwDOHN_kH84NWyXK",
+  "html_url": "https://github.com/dagu-org/dagu/releases/tag/v1.17.0-beta.11",
+  "id": 224589055,
+  "name": "v1.17.0-beta.11",
+  "node_id": "RE_kwDOHN_kH84NYvT_",
   "prerelease": false,
-  "published_at": "2025-06-09T15:48:32Z",
-  "tag_name": "v1.17.0-beta.10",
-  "tarball_url": "https://api.github.com/repos/dagu-org/dagu/tarball/v1.17.0-beta.10",
+  "published_at": "2025-06-11T12:17:27Z",
+  "tag_name": "v1.17.0-beta.11",
+  "tarball_url": "https://api.github.com/repos/dagu-org/dagu/tarball/v1.17.0-beta.11",
   "target_commitish": "main",
-  "upload_url": "https://uploads.github.com/repos/dagu-org/dagu/releases/224077258/assets{?name,label}",
-  "url": "https://api.github.com/repos/dagu-org/dagu/releases/224077258",
-  "zipball_url": "https://api.github.com/repos/dagu-org/dagu/zipball/v1.17.0-beta.10"
+  "upload_url": "https://uploads.github.com/repos/dagu-org/dagu/releases/224589055/assets{?name,label}",
+  "url": "https://api.github.com/repos/dagu-org/dagu/releases/224589055",
+  "zipball_url": "https://api.github.com/repos/dagu-org/dagu/zipball/v1.17.0-beta.11"
 }
