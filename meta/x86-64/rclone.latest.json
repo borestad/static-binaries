@@ -1,17 +1,17 @@
 {
   "assets": [
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/MD5SUMS",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/MD5SUMS",
       "content_type": "application/octet-stream",
-      "created_at": "2025-05-21T20:53:34Z",
-      "digest": null,
-      "id": 256822402,
+      "created_at": "2025-06-18T10:21:13Z",
+      "digest": "sha256:deb2afb680cc1e2c8b5e1c2f4baa1b77b6a0492d787d89552b2203bf067868af",
+      "id": 265044550,
       "label": "",
       "name": "MD5SUMS",
-      "node_id": "RA_kwDOAQ-n5M4PTsyC",
+      "node_id": "RA_kwDOAQ-n5M4PzEJG",
       "size": 3228,
       "state": "uploaded",
-      "updated_at": "2025-05-21T20:53:34Z",
+      "updated_at": "2025-06-18T10:21:13Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -33,20 +33,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256822402"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265044550"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3-freebsd-386.zip",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-freebsd-386.zip",
       "content_type": "application/zip",
-      "created_at": "2025-05-21T20:53:35Z",
-      "digest": null,
-      "id": 256822406,
+      "created_at": "2025-06-18T10:21:14Z",
+      "digest": "sha256:3e77069922b82bd28ec3205d5f617f15047a02cd64bc8ed7ebb2f3ca716d1e07",
+      "id": 265044568,
       "label": "",
-      "name": "rclone-v1.69.3-freebsd-386.zip",
-      "node_id": "RA_kwDOAQ-n5M4PTsyG",
-      "size": 21546389,
+      "name": "rclone-v1.70.0-freebsd-386.zip",
+      "node_id": "RA_kwDOAQ-n5M4PzEJY",
+      "size": 22939031,
       "state": "uploaded",
-      "updated_at": "2025-05-21T20:53:46Z",
+      "updated_at": "2025-06-18T10:21:26Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -68,20 +68,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256822406"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265044568"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3-freebsd-amd64.zip",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-freebsd-amd64.zip",
       "content_type": "application/zip",
-      "created_at": "2025-05-21T20:53:47Z",
-      "digest": null,
-      "id": 256822440,
+      "created_at": "2025-06-18T10:21:28Z",
+      "digest": "sha256:39510556eafb9d8a0d7a2e8dc482d421d5f5be69762f659a642066900d5af056",
+      "id": 265044645,
       "label": "",
-      "name": "rclone-v1.69.3-freebsd-amd64.zip",
-      "node_id": "RA_kwDOAQ-n5M4PTsyo",
-      "size": 22984340,
+      "name": "rclone-v1.70.0-freebsd-amd64.zip",
+      "node_id": "RA_kwDOAQ-n5M4PzEKl",
+      "size": 24502262,
       "state": "uploaded",
-      "updated_at": "2025-05-21T20:53:59Z",
+      "updated_at": "2025-06-18T10:21:40Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -103,20 +103,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256822440"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265044645"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3-freebsd-arm-v6.zip",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-freebsd-arm-v6.zip",
       "content_type": "application/zip",
-      "created_at": "2025-05-21T20:54:00Z",
-      "digest": null,
-      "id": 256822494,
+      "created_at": "2025-06-18T10:21:42Z",
+      "digest": "sha256:794a8ad9926b83d8074251ae32289d87c12457abcd29538ddfe45bfff0900e63",
+      "id": 265044706,
       "label": "",
-      "name": "rclone-v1.69.3-freebsd-arm-v6.zip",
-      "node_id": "RA_kwDOAQ-n5M4PTsze",
-      "size": 21426995,
+      "name": "rclone-v1.70.0-freebsd-arm-v6.zip",
+      "node_id": "RA_kwDOAQ-n5M4PzELi",
+      "size": 22849594,
       "state": "uploaded",
-      "updated_at": "2025-05-21T20:54:11Z",
+      "updated_at": "2025-06-18T10:21:54Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -138,20 +138,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256822494"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265044706"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3-freebsd-arm-v7.zip",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-freebsd-arm-v7.zip",
       "content_type": "application/zip",
-      "created_at": "2025-05-21T20:54:13Z",
-      "digest": null,
-      "id": 256822524,
+      "created_at": "2025-06-18T10:21:55Z",
+      "digest": "sha256:5f0ab8a4995425ccf56aba18038d012987d3c8cf5dc9c2b7bd25281fa30566cf",
+      "id": 265044785,
       "label": "",
-      "name": "rclone-v1.69.3-freebsd-arm-v7.zip",
-      "node_id": "RA_kwDOAQ-n5M4PTsz8",
-      "size": 21411816,
+      "name": "rclone-v1.70.0-freebsd-arm-v7.zip",
+      "node_id": "RA_kwDOAQ-n5M4PzEMx",
+      "size": 22833254,
       "state": "uploaded",
-      "updated_at": "2025-05-21T20:54:24Z",
+      "updated_at": "2025-06-18T10:22:11Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -173,20 +173,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256822524"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265044785"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3-freebsd-arm.zip",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-freebsd-arm.zip",
       "content_type": "application/zip",
-      "created_at": "2025-05-21T20:54:25Z",
-      "digest": null,
-      "id": 256822572,
+      "created_at": "2025-06-18T10:22:12Z",
+      "digest": "sha256:26432a0ba0a44b20bbf14bc56943399c111e20f1e61eaef780034ecaa2916eb1",
+      "id": 265044873,
       "label": "",
-      "name": "rclone-v1.69.3-freebsd-arm.zip",
-      "node_id": "RA_kwDOAQ-n5M4PTs0s",
-      "size": 21428252,
+      "name": "rclone-v1.70.0-freebsd-arm.zip",
+      "node_id": "RA_kwDOAQ-n5M4PzEOJ",
+      "size": 22853072,
       "state": "uploaded",
-      "updated_at": "2025-05-21T20:54:36Z",
+      "updated_at": "2025-06-18T10:22:24Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -208,20 +208,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256822572"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265044873"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3-linux-386.deb",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-linux-386.deb",
       "content_type": "application/x-debian-package",
-      "created_at": "2025-05-21T20:54:37Z",
-      "digest": null,
-      "id": 256822711,
+      "created_at": "2025-06-18T10:22:25Z",
+      "digest": "sha256:683321687b9311614529ce112c0683e11a15385df7e4ec479689d18b8922d27f",
+      "id": 265044943,
       "label": "",
-      "name": "rclone-v1.69.3-linux-386.deb",
-      "node_id": "RA_kwDOAQ-n5M4PTs23",
-      "size": 22396378,
+      "name": "rclone-v1.70.0-linux-386.deb",
+      "node_id": "RA_kwDOAQ-n5M4PzEPP",
+      "size": 23791044,
       "state": "uploaded",
-      "updated_at": "2025-05-21T20:54:49Z",
+      "updated_at": "2025-06-18T10:22:38Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -243,20 +243,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256822711"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265044943"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3-linux-386.rpm",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-linux-386.rpm",
       "content_type": "application/x-rpm",
-      "created_at": "2025-05-21T20:54:50Z",
-      "digest": null,
-      "id": 256822739,
+      "created_at": "2025-06-18T10:22:39Z",
+      "digest": "sha256:ec822dc01c6e63e8f4f0c79f740f9d936898287f3d42165142d40284a4c21874",
+      "id": 265045016,
       "label": "",
-      "name": "rclone-v1.69.3-linux-386.rpm",
-      "node_id": "RA_kwDOAQ-n5M4PTs3T",
-      "size": 23264238,
+      "name": "rclone-v1.70.0-linux-386.rpm",
+      "node_id": "RA_kwDOAQ-n5M4PzEQY",
+      "size": 24654797,
       "state": "uploaded",
-      "updated_at": "2025-05-21T20:55:02Z",
+      "updated_at": "2025-06-18T10:22:52Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -278,20 +278,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256822739"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265045016"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3-linux-386.zip",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-linux-386.zip",
       "content_type": "application/zip",
-      "created_at": "2025-05-21T20:55:03Z",
-      "digest": null,
-      "id": 256822771,
+      "created_at": "2025-06-18T10:22:53Z",
+      "digest": "sha256:266c82abe5ea07688e1f725401589145cd24d1d0008cb0bde0db94cfcbc3d87e",
+      "id": 265045083,
       "label": "",
-      "name": "rclone-v1.69.3-linux-386.zip",
-      "node_id": "RA_kwDOAQ-n5M4PTs3z",
-      "size": 21896852,
+      "name": "rclone-v1.70.0-linux-386.zip",
+      "node_id": "RA_kwDOAQ-n5M4PzERb",
+      "size": 23289125,
       "state": "uploaded",
-      "updated_at": "2025-05-21T20:55:15Z",
+      "updated_at": "2025-06-18T10:23:05Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -313,20 +313,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256822771"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265045083"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3-linux-amd64.deb",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-linux-amd64.deb",
       "content_type": "application/x-debian-package",
-      "created_at": "2025-05-21T20:55:16Z",
-      "digest": null,
-      "id": 256822799,
+      "created_at": "2025-06-18T10:23:06Z",
+      "digest": "sha256:fd4f67255f3cc6b5a90d0f61bad2fa77e1a410ac3ba8bb382da24bba95cd9ddf",
+      "id": 265045177,
       "label": "",
-      "name": "rclone-v1.69.3-linux-amd64.deb",
-      "node_id": "RA_kwDOAQ-n5M4PTs4P",
-      "size": 23842110,
+      "name": "rclone-v1.70.0-linux-amd64.deb",
+      "node_id": "RA_kwDOAQ-n5M4PzES5",
+      "size": 25365964,
       "state": "uploaded",
-      "updated_at": "2025-05-21T20:55:28Z",
+      "updated_at": "2025-06-18T10:23:19Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -348,20 +348,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256822799"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265045177"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3-linux-amd64.rpm",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-linux-amd64.rpm",
       "content_type": "application/x-rpm",
-      "created_at": "2025-05-21T20:55:30Z",
-      "digest": null,
-      "id": 256822840,
+      "created_at": "2025-06-18T10:23:21Z",
+      "digest": "sha256:c7a89138e54e707185f3d69799897e161a02ae3a9b7f48e9095a7b2ddacb0f1c",
+      "id": 265045249,
       "label": "",
-      "name": "rclone-v1.69.3-linux-amd64.rpm",
-      "node_id": "RA_kwDOAQ-n5M4PTs44",
-      "size": 24747191,
+      "name": "rclone-v1.70.0-linux-amd64.rpm",
+      "node_id": "RA_kwDOAQ-n5M4PzEUB",
+      "size": 26345340,
       "state": "uploaded",
-      "updated_at": "2025-05-21T20:55:43Z",
+      "updated_at": "2025-06-18T10:23:34Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -383,20 +383,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256822840"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265045249"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3-linux-amd64.zip",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-linux-amd64.zip",
       "content_type": "application/zip",
-      "created_at": "2025-05-21T20:55:43Z",
-      "digest": null,
-      "id": 256822878,
+      "created_at": "2025-06-18T10:23:35Z",
+      "digest": "sha256:bc6ae0c3f19ea4bf24fa265804fd38a4ad8cf4e5013db228d3d6e09ca20bf6cf",
+      "id": 265045287,
       "label": "",
-      "name": "rclone-v1.69.3-linux-amd64.zip",
-      "node_id": "RA_kwDOAQ-n5M4PTs5e",
-      "size": 23331220,
+      "name": "rclone-v1.70.0-linux-amd64.zip",
+      "node_id": "RA_kwDOAQ-n5M4PzEUn",
+      "size": 24848209,
       "state": "uploaded",
-      "updated_at": "2025-05-21T20:55:56Z",
+      "updated_at": "2025-06-18T10:23:48Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -418,20 +418,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256822878"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265045287"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3-linux-arm-v6.deb",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-linux-arm-v6.deb",
       "content_type": "application/x-debian-package",
-      "created_at": "2025-05-21T20:57:06Z",
-      "digest": null,
-      "id": 256823172,
+      "created_at": "2025-06-18T10:24:57Z",
+      "digest": "sha256:9c0f14f44827f19e6f1d39e83994d66711fd902c9c768cff083532a961731555",
+      "id": 265045518,
       "label": "",
-      "name": "rclone-v1.69.3-linux-arm-v6.deb",
-      "node_id": "RA_kwDOAQ-n5M4PTs-E",
-      "size": 22355752,
+      "name": "rclone-v1.70.0-linux-arm-v6.deb",
+      "node_id": "RA_kwDOAQ-n5M4PzEYO",
+      "size": 23786546,
       "state": "uploaded",
-      "updated_at": "2025-05-21T20:57:17Z",
+      "updated_at": "2025-06-18T10:25:09Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -453,20 +453,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256823172"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265045518"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3-linux-arm-v6.rpm",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-linux-arm-v6.rpm",
       "content_type": "application/x-rpm",
-      "created_at": "2025-05-21T20:57:18Z",
-      "digest": null,
-      "id": 256823206,
+      "created_at": "2025-06-18T10:25:10Z",
+      "digest": "sha256:cdd47248c41628ebfe1c4b2644024f1b9b4308c1d5673abdddedb2d7cda8066f",
+      "id": 265045557,
       "label": "",
-      "name": "rclone-v1.69.3-linux-arm-v6.rpm",
-      "node_id": "RA_kwDOAQ-n5M4PTs-m",
-      "size": 23173094,
+      "name": "rclone-v1.70.0-linux-arm-v6.rpm",
+      "node_id": "RA_kwDOAQ-n5M4PzEY1",
+      "size": 24595105,
       "state": "uploaded",
-      "updated_at": "2025-05-21T20:57:35Z",
+      "updated_at": "2025-06-18T10:25:23Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -488,20 +488,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256823206"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265045557"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3-linux-arm-v6.zip",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-linux-arm-v6.zip",
       "content_type": "application/zip",
-      "created_at": "2025-05-21T20:57:36Z",
-      "digest": null,
-      "id": 256823259,
+      "created_at": "2025-06-18T10:25:24Z",
+      "digest": "sha256:7936ec91cee648c76710f88aeb1c6ec6470b63c4991b4f02ed2e5c1ad5662e20",
+      "id": 265045591,
       "label": "",
-      "name": "rclone-v1.69.3-linux-arm-v6.zip",
-      "node_id": "RA_kwDOAQ-n5M4PTs_b",
-      "size": 21746489,
+      "name": "rclone-v1.70.0-linux-arm-v6.zip",
+      "node_id": "RA_kwDOAQ-n5M4PzEZX",
+      "size": 23169633,
       "state": "uploaded",
-      "updated_at": "2025-05-21T20:57:48Z",
+      "updated_at": "2025-06-18T10:25:36Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -523,20 +523,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256823259"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265045591"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3-linux-arm-v7.deb",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-linux-arm-v7.deb",
       "content_type": "application/x-debian-package",
-      "created_at": "2025-05-21T20:57:48Z",
-      "digest": null,
-      "id": 256823302,
+      "created_at": "2025-06-18T10:25:37Z",
+      "digest": "sha256:c48dd5cdb1fc4bb7542b6c633d8bb613cc2d2bc26a7af6b1cd644eba6987cd90",
+      "id": 265045626,
       "label": "",
-      "name": "rclone-v1.69.3-linux-arm-v7.deb",
-      "node_id": "RA_kwDOAQ-n5M4PTtAG",
-      "size": 22334730,
+      "name": "rclone-v1.70.0-linux-arm-v7.deb",
+      "node_id": "RA_kwDOAQ-n5M4PzEZ6",
+      "size": 23767332,
       "state": "uploaded",
-      "updated_at": "2025-05-21T20:58:00Z",
+      "updated_at": "2025-06-18T10:25:50Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -558,20 +558,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256823302"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265045626"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3-linux-arm-v7.rpm",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-linux-arm-v7.rpm",
       "content_type": "application/x-rpm",
-      "created_at": "2025-05-21T20:58:01Z",
-      "digest": null,
-      "id": 256823347,
+      "created_at": "2025-06-18T10:25:51Z",
+      "digest": "sha256:f525e771a41e98fc58d8fc5da172317c2cee8107a601d039725008e8d8729c06",
+      "id": 265045666,
       "label": "",
-      "name": "rclone-v1.69.3-linux-arm-v7.rpm",
-      "node_id": "RA_kwDOAQ-n5M4PTtAz",
-      "size": 23140031,
+      "name": "rclone-v1.70.0-linux-arm-v7.rpm",
+      "node_id": "RA_kwDOAQ-n5M4PzEai",
+      "size": 24598534,
       "state": "uploaded",
-      "updated_at": "2025-05-21T20:58:13Z",
+      "updated_at": "2025-06-18T10:26:03Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -593,20 +593,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256823347"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265045666"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3-linux-arm-v7.zip",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-linux-arm-v7.zip",
       "content_type": "application/zip",
-      "created_at": "2025-05-21T20:58:15Z",
-      "digest": null,
-      "id": 256823403,
+      "created_at": "2025-06-18T10:26:04Z",
+      "digest": "sha256:4d26498b10508b192f7ff29025bd02fe961b14cae116e35baf22dd2231c2c58b",
+      "id": 265045697,
       "label": "",
-      "name": "rclone-v1.69.3-linux-arm-v7.zip",
-      "node_id": "RA_kwDOAQ-n5M4PTtBr",
-      "size": 21727899,
+      "name": "rclone-v1.70.0-linux-arm-v7.zip",
+      "node_id": "RA_kwDOAQ-n5M4PzEbB",
+      "size": 23149161,
       "state": "uploaded",
-      "updated_at": "2025-05-21T20:58:26Z",
+      "updated_at": "2025-06-18T10:26:17Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -628,20 +628,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256823403"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265045697"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3-linux-arm.deb",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-linux-arm.deb",
       "content_type": "application/x-debian-package",
-      "created_at": "2025-05-21T20:56:39Z",
-      "digest": null,
-      "id": 256823083,
+      "created_at": "2025-06-18T10:24:30Z",
+      "digest": "sha256:382bdba21f7b70616c472d54e44153223cf6eb7b880f66eb778d6b0450745b41",
+      "id": 265045447,
       "label": "",
-      "name": "rclone-v1.69.3-linux-arm.deb",
-      "node_id": "RA_kwDOAQ-n5M4PTs8r",
-      "size": 22359310,
+      "name": "rclone-v1.70.0-linux-arm.deb",
+      "node_id": "RA_kwDOAQ-n5M4PzEXH",
+      "size": 23788024,
       "state": "uploaded",
-      "updated_at": "2025-05-21T20:56:51Z",
+      "updated_at": "2025-06-18T10:24:42Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -663,20 +663,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256823083"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265045447"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3-linux-arm.rpm",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-linux-arm.rpm",
       "content_type": "application/x-rpm",
-      "created_at": "2025-05-21T20:56:53Z",
-      "digest": null,
-      "id": 256823137,
+      "created_at": "2025-06-18T10:24:43Z",
+      "digest": "sha256:0af58fa4666c24b63bfb892eb64ba7cddbd0bc524f3a03c0c80e035b5ffa1fd7",
+      "id": 265045485,
       "label": "",
-      "name": "rclone-v1.69.3-linux-arm.rpm",
-      "node_id": "RA_kwDOAQ-n5M4PTs9h",
-      "size": 23157647,
+      "name": "rclone-v1.70.0-linux-arm.rpm",
+      "node_id": "RA_kwDOAQ-n5M4PzEXt",
+      "size": 24666692,
       "state": "uploaded",
-      "updated_at": "2025-05-21T20:57:04Z",
+      "updated_at": "2025-06-18T10:24:56Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -698,20 +698,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256823137"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265045485"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3-linux-arm.zip",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-linux-arm.zip",
       "content_type": "application/zip",
-      "created_at": "2025-05-21T20:58:27Z",
-      "digest": null,
-      "id": 256823416,
+      "created_at": "2025-06-18T10:26:17Z",
+      "digest": "sha256:6356547a628df07d8b2f1ed666045c8b093a4cd6be079cc56af1fb6601b96acf",
+      "id": 265045743,
       "label": "",
-      "name": "rclone-v1.69.3-linux-arm.zip",
-      "node_id": "RA_kwDOAQ-n5M4PTtB4",
-      "size": 21752315,
+      "name": "rclone-v1.70.0-linux-arm.zip",
+      "node_id": "RA_kwDOAQ-n5M4PzEbv",
+      "size": 23170666,
       "state": "uploaded",
-      "updated_at": "2025-05-21T20:58:38Z",
+      "updated_at": "2025-06-18T10:26:30Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -733,20 +733,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256823416"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265045743"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3-linux-arm64.deb",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-linux-arm64.deb",
       "content_type": "application/x-debian-package",
-      "created_at": "2025-05-21T20:55:56Z",
-      "digest": null,
-      "id": 256822916,
+      "created_at": "2025-06-18T10:23:49Z",
+      "digest": "sha256:08ea28e8677ee8eac5e45b2f61ae3e3ea7d5f18b500b39dca47f4c7e046cb138",
+      "id": 265045315,
       "label": "",
-      "name": "rclone-v1.69.3-linux-arm64.deb",
-      "node_id": "RA_kwDOAQ-n5M4PTs6E",
-      "size": 22127836,
+      "name": "rclone-v1.70.0-linux-arm64.deb",
+      "node_id": "RA_kwDOAQ-n5M4PzEVD",
+      "size": 23537786,
       "state": "uploaded",
-      "updated_at": "2025-05-21T20:56:08Z",
+      "updated_at": "2025-06-18T10:24:02Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -768,20 +768,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256822916"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265045315"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3-linux-arm64.rpm",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-linux-arm64.rpm",
       "content_type": "application/x-rpm",
-      "created_at": "2025-05-21T20:56:10Z",
-      "digest": null,
-      "id": 256822982,
+      "created_at": "2025-06-18T10:24:03Z",
+      "digest": "sha256:06ecafc156fcf1ad9a1d44dd640e288701e998326ea0fa58d153bfc73e686432",
+      "id": 265045372,
       "label": "",
-      "name": "rclone-v1.69.3-linux-arm64.rpm",
-      "node_id": "RA_kwDOAQ-n5M4PTs7G",
-      "size": 22880681,
+      "name": "rclone-v1.70.0-linux-arm64.rpm",
+      "node_id": "RA_kwDOAQ-n5M4PzEV8",
+      "size": 24324512,
       "state": "uploaded",
-      "updated_at": "2025-05-21T20:56:26Z",
+      "updated_at": "2025-06-18T10:24:16Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -803,20 +803,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256822982"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265045372"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3-linux-arm64.zip",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-linux-arm64.zip",
       "content_type": "application/zip",
-      "created_at": "2025-05-21T20:56:27Z",
-      "digest": null,
-      "id": 256823056,
+      "created_at": "2025-06-18T10:24:16Z",
+      "digest": "sha256:3d27c6c30a6fa34fe99bcaa021de0c948059af4e76486fb022b24315d5c2841e",
+      "id": 265045405,
       "label": "",
-      "name": "rclone-v1.69.3-linux-arm64.zip",
-      "node_id": "RA_kwDOAQ-n5M4PTs8Q",
-      "size": 21540806,
+      "name": "rclone-v1.70.0-linux-arm64.zip",
+      "node_id": "RA_kwDOAQ-n5M4PzEWd",
+      "size": 22933167,
       "state": "uploaded",
-      "updated_at": "2025-05-21T20:56:38Z",
+      "updated_at": "2025-06-18T10:24:29Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -838,20 +838,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256823056"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265045405"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3-linux-mips.deb",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-linux-mips.deb",
       "content_type": "application/x-debian-package",
-      "created_at": "2025-05-21T20:58:39Z",
-      "digest": null,
-      "id": 256823448,
+      "created_at": "2025-06-18T10:26:31Z",
+      "digest": "sha256:842c4f232f83d61fc9a523acecf565432337c01937c04d202d131350af49f8aa",
+      "id": 265045792,
       "label": "",
-      "name": "rclone-v1.69.3-linux-mips.deb",
-      "node_id": "RA_kwDOAQ-n5M4PTtCY",
-      "size": 20823396,
+      "name": "rclone-v1.70.0-linux-mips.deb",
+      "node_id": "RA_kwDOAQ-n5M4PzEcg",
+      "size": 22134056,
       "state": "uploaded",
-      "updated_at": "2025-05-21T20:58:50Z",
+      "updated_at": "2025-06-18T10:26:43Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -873,20 +873,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256823448"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265045792"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3-linux-mips.rpm",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-linux-mips.rpm",
       "content_type": "application/x-rpm",
-      "created_at": "2025-05-21T20:59:28Z",
-      "digest": null,
-      "id": 256823540,
+      "created_at": "2025-06-18T10:27:21Z",
+      "digest": "sha256:ebbca115133731516962b8056f8fcb3cc3210184c7325474e286f7cc6ede518d",
+      "id": 265045972,
       "label": "",
-      "name": "rclone-v1.69.3-linux-mips.rpm",
-      "node_id": "RA_kwDOAQ-n5M4PTtD0",
-      "size": 21873915,
+      "name": "rclone-v1.70.0-linux-mips.rpm",
+      "node_id": "RA_kwDOAQ-n5M4PzEfU",
+      "size": 23232701,
       "state": "uploaded",
-      "updated_at": "2025-05-21T20:59:40Z",
+      "updated_at": "2025-06-18T10:27:34Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -908,20 +908,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256823540"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265045972"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3-linux-mips.zip",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-linux-mips.zip",
       "content_type": "application/zip",
-      "created_at": "2025-05-21T20:59:40Z",
-      "digest": null,
-      "id": 256823569,
+      "created_at": "2025-06-18T10:27:35Z",
+      "digest": "sha256:989901f3d612f7f25ee6acfc3325693baaa9cac65cf3985a938e352717a9e46c",
+      "id": 265046025,
       "label": "",
-      "name": "rclone-v1.69.3-linux-mips.zip",
-      "node_id": "RA_kwDOAQ-n5M4PTtER",
-      "size": 20432694,
+      "name": "rclone-v1.70.0-linux-mips.zip",
+      "node_id": "RA_kwDOAQ-n5M4PzEgJ",
+      "size": 21758041,
       "state": "uploaded",
-      "updated_at": "2025-05-21T20:59:52Z",
+      "updated_at": "2025-06-18T10:27:46Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -943,20 +943,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256823569"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265046025"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3-linux-mipsle.deb",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-linux-mipsle.deb",
       "content_type": "application/x-debian-package",
-      "created_at": "2025-05-21T20:58:52Z",
-      "digest": null,
-      "id": 256823478,
+      "created_at": "2025-06-18T10:26:44Z",
+      "digest": "sha256:cd8c1fdbbd6d677de5a384620fa5f58420a995501df465eab653ca7b978b0be6",
+      "id": 265045835,
       "label": "",
-      "name": "rclone-v1.69.3-linux-mipsle.deb",
-      "node_id": "RA_kwDOAQ-n5M4PTtC2",
-      "size": 20684282,
+      "name": "rclone-v1.70.0-linux-mipsle.deb",
+      "node_id": "RA_kwDOAQ-n5M4PzEdL",
+      "size": 21978014,
       "state": "uploaded",
-      "updated_at": "2025-05-21T20:59:03Z",
+      "updated_at": "2025-06-18T10:26:55Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -978,20 +978,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256823478"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265045835"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3-linux-mipsle.rpm",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-linux-mipsle.rpm",
       "content_type": "application/x-rpm",
-      "created_at": "2025-05-21T20:59:03Z",
-      "digest": null,
-      "id": 256823499,
+      "created_at": "2025-06-18T10:26:56Z",
+      "digest": "sha256:ae8939fba1685af8c73bfae907c75c76607eca746edda8d308adda2e65b6a62b",
+      "id": 265045883,
       "label": "",
-      "name": "rclone-v1.69.3-linux-mipsle.rpm",
-      "node_id": "RA_kwDOAQ-n5M4PTtDL",
-      "size": 21523401,
+      "name": "rclone-v1.70.0-linux-mipsle.rpm",
+      "node_id": "RA_kwDOAQ-n5M4PzEd7",
+      "size": 22824825,
       "state": "uploaded",
-      "updated_at": "2025-05-21T20:59:15Z",
+      "updated_at": "2025-06-18T10:27:08Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -1013,20 +1013,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256823499"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265045883"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3-linux-mipsle.zip",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-linux-mipsle.zip",
       "content_type": "application/zip",
-      "created_at": "2025-05-21T20:59:16Z",
-      "digest": null,
-      "id": 256823519,
+      "created_at": "2025-06-18T10:27:09Z",
+      "digest": "sha256:be74e2d85a1ddaf849b9871b768d34ede4b33b7449442eb23de323118234f5f8",
+      "id": 265045938,
       "label": "",
-      "name": "rclone-v1.69.3-linux-mipsle.zip",
-      "node_id": "RA_kwDOAQ-n5M4PTtDf",
-      "size": 20263791,
+      "name": "rclone-v1.70.0-linux-mipsle.zip",
+      "node_id": "RA_kwDOAQ-n5M4PzEey",
+      "size": 21566812,
       "state": "uploaded",
-      "updated_at": "2025-05-21T20:59:26Z",
+      "updated_at": "2025-06-18T10:27:20Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -1048,20 +1048,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256823519"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265045938"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3-netbsd-386.zip",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-netbsd-386.zip",
       "content_type": "application/zip",
-      "created_at": "2025-05-21T20:59:52Z",
-      "digest": null,
-      "id": 256823594,
+      "created_at": "2025-06-18T10:27:47Z",
+      "digest": "sha256:ff7b07869efa5a9fc6ec5bd38c5d4d1b3f391a30b0c85b19a974a5c3ddea1440",
+      "id": 265046064,
       "label": "",
-      "name": "rclone-v1.69.3-netbsd-386.zip",
-      "node_id": "RA_kwDOAQ-n5M4PTtEq",
-      "size": 21519748,
+      "name": "rclone-v1.70.0-netbsd-386.zip",
+      "node_id": "RA_kwDOAQ-n5M4PzEgw",
+      "size": 22918115,
       "state": "uploaded",
-      "updated_at": "2025-05-21T21:00:09Z",
+      "updated_at": "2025-06-18T10:27:59Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -1083,20 +1083,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256823594"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265046064"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3-netbsd-amd64.zip",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-netbsd-amd64.zip",
       "content_type": "application/zip",
-      "created_at": "2025-05-21T21:00:10Z",
-      "digest": null,
-      "id": 256823650,
+      "created_at": "2025-06-18T10:28:00Z",
+      "digest": "sha256:8d11b4b3235542e7295a63afcf388502350a7628bba30c6a1b11ca4701025bd6",
+      "id": 265046097,
       "label": "",
-      "name": "rclone-v1.69.3-netbsd-amd64.zip",
-      "node_id": "RA_kwDOAQ-n5M4PTtFi",
-      "size": 22967565,
+      "name": "rclone-v1.70.0-netbsd-amd64.zip",
+      "node_id": "RA_kwDOAQ-n5M4PzEhR",
+      "size": 24479738,
       "state": "uploaded",
-      "updated_at": "2025-05-21T21:00:23Z",
+      "updated_at": "2025-06-18T10:28:14Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -1118,20 +1118,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256823650"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265046097"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3-netbsd-arm-v6.zip",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-netbsd-arm-v6.zip",
       "content_type": "application/zip",
-      "created_at": "2025-05-21T21:00:23Z",
-      "digest": null,
-      "id": 256823694,
+      "created_at": "2025-06-18T10:28:15Z",
+      "digest": "sha256:3fc507c9ad944b3a3f018f83ebe35aa9abe92af52cb44e80c612220708db127d",
+      "id": 265046152,
       "label": "",
-      "name": "rclone-v1.69.3-netbsd-arm-v6.zip",
-      "node_id": "RA_kwDOAQ-n5M4PTtGO",
-      "size": 21405754,
+      "name": "rclone-v1.70.0-netbsd-arm-v6.zip",
+      "node_id": "RA_kwDOAQ-n5M4PzEiI",
+      "size": 22828885,
       "state": "uploaded",
-      "updated_at": "2025-05-21T21:00:35Z",
+      "updated_at": "2025-06-18T10:28:27Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -1153,20 +1153,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256823694"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265046152"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3-netbsd-arm-v7.zip",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-netbsd-arm-v7.zip",
       "content_type": "application/zip",
-      "created_at": "2025-05-21T21:00:36Z",
-      "digest": null,
-      "id": 256823749,
+      "created_at": "2025-06-18T10:28:28Z",
+      "digest": "sha256:80a589b680355fd8ff6197613db39c54383f9c0377864282ec79588734d52dea",
+      "id": 265046195,
       "label": "",
-      "name": "rclone-v1.69.3-netbsd-arm-v7.zip",
-      "node_id": "RA_kwDOAQ-n5M4PTtHF",
-      "size": 21385894,
+      "name": "rclone-v1.70.0-netbsd-arm-v7.zip",
+      "node_id": "RA_kwDOAQ-n5M4PzEiz",
+      "size": 22813862,
       "state": "uploaded",
-      "updated_at": "2025-05-21T21:00:47Z",
+      "updated_at": "2025-06-18T10:28:40Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -1188,20 +1188,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256823749"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265046195"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3-netbsd-arm.zip",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-netbsd-arm.zip",
       "content_type": "application/zip",
-      "created_at": "2025-05-21T21:00:48Z",
-      "digest": null,
-      "id": 256823855,
+      "created_at": "2025-06-18T10:28:41Z",
+      "digest": "sha256:98943dd8e69288f497af3f30b088322ad12f7b7b837cef162e82dd0c1d5e718a",
+      "id": 265046271,
       "label": "",
-      "name": "rclone-v1.69.3-netbsd-arm.zip",
-      "node_id": "RA_kwDOAQ-n5M4PTtIv",
-      "size": 21406765,
+      "name": "rclone-v1.70.0-netbsd-arm.zip",
+      "node_id": "RA_kwDOAQ-n5M4PzEj_",
+      "size": 22832286,
       "state": "uploaded",
-      "updated_at": "2025-05-21T21:01:00Z",
+      "updated_at": "2025-06-18T10:28:53Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -1223,20 +1223,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256823855"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265046271"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3-openbsd-386.zip",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-openbsd-386.zip",
       "content_type": "application/zip",
-      "created_at": "2025-05-21T21:01:00Z",
-      "digest": null,
-      "id": 256823903,
+      "created_at": "2025-06-18T10:28:54Z",
+      "digest": "sha256:9b47626899cb3690ae95b31284a29e4fff389db0b9be4ecd3092110d95165d3b",
+      "id": 265046355,
       "label": "",
-      "name": "rclone-v1.69.3-openbsd-386.zip",
-      "node_id": "RA_kwDOAQ-n5M4PTtJf",
-      "size": 21535838,
+      "name": "rclone-v1.70.0-openbsd-386.zip",
+      "node_id": "RA_kwDOAQ-n5M4PzElT",
+      "size": 22931581,
       "state": "uploaded",
-      "updated_at": "2025-05-21T21:01:12Z",
+      "updated_at": "2025-06-18T10:29:06Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -1258,20 +1258,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256823903"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265046355"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3-openbsd-amd64.zip",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-openbsd-amd64.zip",
       "content_type": "application/zip",
-      "created_at": "2025-05-21T21:01:12Z",
-      "digest": null,
-      "id": 256823938,
+      "created_at": "2025-06-18T10:29:07Z",
+      "digest": "sha256:032f046769869d0ddbabaa79d038c99e4090faa1aee6c1067cea137b656d627f",
+      "id": 265046408,
       "label": "",
-      "name": "rclone-v1.69.3-openbsd-amd64.zip",
-      "node_id": "RA_kwDOAQ-n5M4PTtKC",
-      "size": 22979831,
+      "name": "rclone-v1.70.0-openbsd-amd64.zip",
+      "node_id": "RA_kwDOAQ-n5M4PzEmI",
+      "size": 24493099,
       "state": "uploaded",
-      "updated_at": "2025-05-21T21:01:24Z",
+      "updated_at": "2025-06-18T10:29:19Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -1293,20 +1293,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256823938"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265046408"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3-osx-amd64.zip",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-osx-amd64.zip",
       "content_type": "application/zip",
-      "created_at": "2025-05-21T21:01:26Z",
-      "digest": null,
-      "id": 256823982,
+      "created_at": "2025-06-18T10:29:20Z",
+      "digest": "sha256:cf02d719ac04c9aba63d53494ee13c2c1dde31fbed0d89163a27b38c3851e174",
+      "id": 265046477,
       "label": "",
-      "name": "rclone-v1.69.3-osx-amd64.zip",
-      "node_id": "RA_kwDOAQ-n5M4PTtKu",
-      "size": 26370469,
+      "name": "rclone-v1.70.0-osx-amd64.zip",
+      "node_id": "RA_kwDOAQ-n5M4PzEnN",
+      "size": 27890782,
       "state": "uploaded",
-      "updated_at": "2025-05-21T21:01:40Z",
+      "updated_at": "2025-06-18T10:29:35Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -1328,20 +1328,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256823982"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265046477"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3-osx-arm64.zip",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-osx-arm64.zip",
       "content_type": "application/zip",
-      "created_at": "2025-05-21T21:01:41Z",
-      "digest": null,
-      "id": 256824089,
+      "created_at": "2025-06-18T10:29:36Z",
+      "digest": "sha256:2357aac1ae7bfd76532306bf11cd139fc4609467820b91c7517b25de2ceb018e",
+      "id": 265046556,
       "label": "",
-      "name": "rclone-v1.69.3-osx-arm64.zip",
-      "node_id": "RA_kwDOAQ-n5M4PTtMZ",
-      "size": 24845894,
+      "name": "rclone-v1.70.0-osx-arm64.zip",
+      "node_id": "RA_kwDOAQ-n5M4PzEoc",
+      "size": 26280520,
       "state": "uploaded",
-      "updated_at": "2025-05-21T21:01:54Z",
+      "updated_at": "2025-06-18T10:29:49Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -1363,20 +1363,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256824089"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265046556"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3-plan9-386.zip",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-plan9-386.zip",
       "content_type": "application/zip",
-      "created_at": "2025-05-21T21:01:55Z",
-      "digest": null,
-      "id": 256824179,
+      "created_at": "2025-06-18T10:29:50Z",
+      "digest": "sha256:b3be33be6e8143a198520d97a78a9807a0384cf3f08058f4f13432af95c36f22",
+      "id": 265046615,
       "label": "",
-      "name": "rclone-v1.69.3-plan9-386.zip",
-      "node_id": "RA_kwDOAQ-n5M4PTtNz",
-      "size": 16772499,
+      "name": "rclone-v1.70.0-plan9-386.zip",
+      "node_id": "RA_kwDOAQ-n5M4PzEpX",
+      "size": 18226812,
       "state": "uploaded",
-      "updated_at": "2025-05-21T21:02:04Z",
+      "updated_at": "2025-06-18T10:30:00Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -1398,20 +1398,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256824179"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265046615"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3-plan9-amd64.zip",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-plan9-amd64.zip",
       "content_type": "application/zip",
-      "created_at": "2025-05-21T21:02:05Z",
-      "digest": null,
-      "id": 256824205,
+      "created_at": "2025-06-18T10:30:01Z",
+      "digest": "sha256:b3e9e2cff92a1486d0920832bed660b46fbc6ecb34a83915782529683cf13bc4",
+      "id": 265046651,
       "label": "",
-      "name": "rclone-v1.69.3-plan9-amd64.zip",
-      "node_id": "RA_kwDOAQ-n5M4PTtON",
-      "size": 17750353,
+      "name": "rclone-v1.70.0-plan9-amd64.zip",
+      "node_id": "RA_kwDOAQ-n5M4PzEp7",
+      "size": 19354220,
       "state": "uploaded",
-      "updated_at": "2025-05-21T21:02:15Z",
+      "updated_at": "2025-06-18T10:30:11Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -1433,20 +1433,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256824205"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265046651"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3-solaris-amd64.zip",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-solaris-amd64.zip",
       "content_type": "application/zip",
-      "created_at": "2025-05-21T21:02:16Z",
-      "digest": null,
-      "id": 256824318,
+      "created_at": "2025-06-18T10:30:12Z",
+      "digest": "sha256:7dc811c60e4800b69ab60aa820128d9b97a8013f5599ececb2185a2ac0a40c2e",
+      "id": 265046699,
       "label": "",
-      "name": "rclone-v1.69.3-solaris-amd64.zip",
-      "node_id": "RA_kwDOAQ-n5M4PTtP-",
-      "size": 22026308,
+      "name": "rclone-v1.70.0-solaris-amd64.zip",
+      "node_id": "RA_kwDOAQ-n5M4PzEqr",
+      "size": 23520663,
       "state": "uploaded",
-      "updated_at": "2025-05-21T21:02:28Z",
+      "updated_at": "2025-06-18T10:30:25Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -1468,20 +1468,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256824318"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265046699"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3-vendor.tar.gz",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-vendor.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2025-05-21T21:02:39Z",
-      "digest": null,
-      "id": 256824412,
+      "created_at": "2025-06-18T10:30:36Z",
+      "digest": "sha256:90337948d702524b3ca246db7c2e129d802fdda5d8a61cf17f4076c5db8c116b",
+      "id": 265046782,
       "label": "",
-      "name": "rclone-v1.69.3-vendor.tar.gz",
-      "node_id": "RA_kwDOAQ-n5M4PTtRc",
-      "size": 13810497,
+      "name": "rclone-v1.70.0-vendor.tar.gz",
+      "node_id": "RA_kwDOAQ-n5M4PzEr-",
+      "size": 14434685,
       "state": "uploaded",
-      "updated_at": "2025-05-21T21:02:46Z",
+      "updated_at": "2025-06-18T10:30:44Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -1503,20 +1503,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256824412"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265046782"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3-windows-386.zip",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-windows-386.zip",
       "content_type": "application/zip",
-      "created_at": "2025-05-21T21:02:47Z",
-      "digest": null,
-      "id": 256824434,
+      "created_at": "2025-06-18T10:30:45Z",
+      "digest": "sha256:847b80198d6772fa264e0e3d540312e193445186350b3b364d3ce25f6b0a29ce",
+      "id": 265046820,
       "label": "",
-      "name": "rclone-v1.69.3-windows-386.zip",
-      "node_id": "RA_kwDOAQ-n5M4PTtRy",
-      "size": 21537563,
+      "name": "rclone-v1.70.0-windows-386.zip",
+      "node_id": "RA_kwDOAQ-n5M4PzEsk",
+      "size": 22933522,
       "state": "uploaded",
-      "updated_at": "2025-05-21T21:03:03Z",
+      "updated_at": "2025-06-18T10:30:57Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -1538,20 +1538,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256824434"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265046820"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3-windows-amd64.zip",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-windows-amd64.zip",
       "content_type": "application/zip",
-      "created_at": "2025-05-21T21:03:04Z",
-      "digest": null,
-      "id": 256824504,
+      "created_at": "2025-06-18T10:30:58Z",
+      "digest": "sha256:34b0a43502e508708f279108114e7e77a0a2ad94b41b27f02264b2a934201746",
+      "id": 265046866,
       "label": "",
-      "name": "rclone-v1.69.3-windows-amd64.zip",
-      "node_id": "RA_kwDOAQ-n5M4PTtS4",
-      "size": 23256666,
+      "name": "rclone-v1.70.0-windows-amd64.zip",
+      "node_id": "RA_kwDOAQ-n5M4PzEtS",
+      "size": 24799358,
       "state": "uploaded",
-      "updated_at": "2025-05-21T21:03:20Z",
+      "updated_at": "2025-06-18T10:31:10Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -1573,20 +1573,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256824504"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265046866"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3-windows-arm64.zip",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0-windows-arm64.zip",
       "content_type": "application/zip",
-      "created_at": "2025-05-21T21:03:22Z",
-      "digest": null,
-      "id": 256824585,
+      "created_at": "2025-06-18T10:31:12Z",
+      "digest": "sha256:4b0ef37414c3ee5ad4a1e2577078263b44385a8073b450234c63023344ff3f32",
+      "id": 265046913,
       "label": "",
-      "name": "rclone-v1.69.3-windows-arm64.zip",
-      "node_id": "RA_kwDOAQ-n5M4PTtUJ",
-      "size": 21284034,
+      "name": "rclone-v1.70.0-windows-arm64.zip",
+      "node_id": "RA_kwDOAQ-n5M4PzEuB",
+      "size": 22694753,
       "state": "uploaded",
-      "updated_at": "2025-05-21T21:03:33Z",
+      "updated_at": "2025-06-18T10:31:23Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -1608,20 +1608,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256824585"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265046913"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/rclone-v1.69.3.tar.gz",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/rclone-v1.70.0.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2025-05-21T21:02:29Z",
-      "digest": null,
-      "id": 256824384,
+      "created_at": "2025-06-18T10:30:26Z",
+      "digest": "sha256:d151d9b969dc0e000e3019c82599f53252b63fe1e63fad3c7031b718af0d0e88",
+      "id": 265046745,
       "label": "",
-      "name": "rclone-v1.69.3.tar.gz",
-      "node_id": "RA_kwDOAQ-n5M4PTtRA",
-      "size": 16914655,
+      "name": "rclone-v1.70.0.tar.gz",
+      "node_id": "RA_kwDOAQ-n5M4PzErZ",
+      "size": 17156855,
       "state": "uploaded",
-      "updated_at": "2025-05-21T21:02:38Z",
+      "updated_at": "2025-06-18T10:30:35Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -1643,20 +1643,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256824384"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265046745"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/SHA1SUMS",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/SHA1SUMS",
       "content_type": "application/octet-stream",
-      "created_at": "2025-05-21T21:03:34Z",
-      "digest": null,
-      "id": 256824707,
+      "created_at": "2025-06-18T10:31:25Z",
+      "digest": "sha256:cac4099ab7cfe17663248df696716de248dcd51976e68e67566aafd3a8121efe",
+      "id": 265046965,
       "label": "",
       "name": "SHA1SUMS",
-      "node_id": "RA_kwDOAQ-n5M4PTtWD",
+      "node_id": "RA_kwDOAQ-n5M4PzEu1",
       "size": 3596,
       "state": "uploaded",
-      "updated_at": "2025-05-21T21:03:34Z",
+      "updated_at": "2025-06-18T10:31:25Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -1678,20 +1678,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256824707"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265046965"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/SHA256SUMS",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/SHA256SUMS",
       "content_type": "application/octet-stream",
-      "created_at": "2025-05-21T21:03:35Z",
-      "digest": null,
-      "id": 256824710,
+      "created_at": "2025-06-18T10:31:26Z",
+      "digest": "sha256:562620fcedd0392d2e777035275948203340e7bb4be7186b0385057c0cfe8726",
+      "id": 265046971,
       "label": "",
       "name": "SHA256SUMS",
-      "node_id": "RA_kwDOAQ-n5M4PTtWG",
+      "node_id": "RA_kwDOAQ-n5M4PzEu7",
       "size": 4700,
       "state": "uploaded",
-      "updated_at": "2025-05-21T21:03:35Z",
+      "updated_at": "2025-06-18T10:31:26Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -1713,20 +1713,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256824710"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265046971"
     },
     {
-      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.69.3/version.txt",
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.70.0/version.txt",
       "content_type": "text/plain; charset=utf-8",
-      "created_at": "2025-05-21T21:03:36Z",
-      "digest": null,
-      "id": 256824715,
+      "created_at": "2025-06-18T10:31:27Z",
+      "digest": "sha256:5c6b22338505435bc145b6950b22102a7c1eead66a83db11eb50a3362778c796",
+      "id": 265046977,
       "label": "",
       "name": "version.txt",
-      "node_id": "RA_kwDOAQ-n5M4PTtWL",
+      "node_id": "RA_kwDOAQ-n5M4PzEvB",
       "size": 15,
       "state": "uploaded",
-      "updated_at": "2025-05-21T21:03:36Z",
+      "updated_at": "2025-06-18T10:31:27Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -1748,10 +1748,10 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/256824715"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/265046977"
     }
   ],
-  "assets_url": "https://api.github.com/repos/rclone/rclone/releases/220191411/assets",
+  "assets_url": "https://api.github.com/repos/rclone/rclone/releases/225987794/assets",
   "author": {
     "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
     "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -1773,19 +1773,19 @@
     "url": "https://api.github.com/users/ncw",
     "user_view_type": "public"
   },
-  "body": "This is the v1.69.3 release of rclone.\n\nFull details of the changes can be found in [the changelog](https://rclone.org/changelog/#v1-69-3-2025-05-21).\n",
-  "created_at": "2025-05-21T20:15:30Z",
+  "body": "This is the v1.70.0 release of rclone.\n\nFull details of the changes can be found in [the changelog](https://rclone.org/changelog/#v1-70-0-2025-06-17).\n",
+  "created_at": "2025-06-17T16:53:42Z",
   "draft": false,
-  "html_url": "https://github.com/rclone/rclone/releases/tag/v1.69.3",
-  "id": 220191411,
-  "name": "rclone v1.69.3",
-  "node_id": "RE_kwDOAQ-n5M4NH9qz",
+  "html_url": "https://github.com/rclone/rclone/releases/tag/v1.70.0",
+  "id": 225987794,
+  "name": "rclone v1.70.0",
+  "node_id": "RE_kwDOAQ-n5M4NeEzS",
   "prerelease": false,
-  "published_at": "2025-05-21T21:03:37Z",
-  "tag_name": "v1.69.3",
-  "tarball_url": "https://api.github.com/repos/rclone/rclone/tarball/v1.69.3",
+  "published_at": "2025-06-18T10:31:28Z",
+  "tag_name": "v1.70.0",
+  "tarball_url": "https://api.github.com/repos/rclone/rclone/tarball/v1.70.0",
   "target_commitish": "master",
-  "upload_url": "https://uploads.github.com/repos/rclone/rclone/releases/220191411/assets{?name,label}",
-  "url": "https://api.github.com/repos/rclone/rclone/releases/220191411",
-  "zipball_url": "https://api.github.com/repos/rclone/rclone/zipball/v1.69.3"
+  "upload_url": "https://uploads.github.com/repos/rclone/rclone/releases/225987794/assets{?name,label}",
+  "url": "https://api.github.com/repos/rclone/rclone/releases/225987794",
+  "zipball_url": "https://api.github.com/repos/rclone/rclone/zipball/v1.70.0"
 }
