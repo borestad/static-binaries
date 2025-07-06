@@ -1,17 +1,17 @@
 {
   "assets": [
     {
-      "browser_download_url": "https://github.com/mvdan/sh/releases/download/v3.11.0/sha256sums.txt",
+      "browser_download_url": "https://github.com/mvdan/sh/releases/download/v3.12.0/sha256sums.txt",
       "content_type": "text/plain",
-      "created_at": "2025-03-05T22:30:08Z",
-      "digest": null,
-      "id": 234953230,
+      "created_at": "2025-07-06T21:15:03Z",
+      "digest": "sha256:e73748c967174992d396585b31ef7cd2e0f38b7b091b511b7dc8f1f1a8b96c70",
+      "id": 270490127,
       "label": null,
       "name": "sha256sums.txt",
-      "node_id": "RA_kwDOAvdehM4OARoO",
+      "node_id": "RA_kwDOAvdehM4QH1oP",
       "size": 744,
       "state": "uploaded",
-      "updated_at": "2025-03-05T22:30:08Z",
+      "updated_at": "2025-07-06T21:15:03Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/3576549?v=4",
         "events_url": "https://api.github.com/users/mvdan/events{/privacy}",
@@ -33,20 +33,20 @@
         "url": "https://api.github.com/users/mvdan",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/mvdan/sh/releases/assets/234953230"
+      "url": "https://api.github.com/repos/mvdan/sh/releases/assets/270490127"
     },
     {
-      "browser_download_url": "https://github.com/mvdan/sh/releases/download/v3.11.0/shfmt_v3.11.0_darwin_amd64",
+      "browser_download_url": "https://github.com/mvdan/sh/releases/download/v3.12.0/shfmt_v3.12.0_darwin_amd64",
       "content_type": "application/octet-stream",
-      "created_at": "2025-03-05T22:30:11Z",
-      "digest": null,
-      "id": 234953237,
+      "created_at": "2025-07-06T21:15:06Z",
+      "digest": "sha256:c31548693de6584e6164b7ed5fbb7b4a083f2d937ca94b4e0ddf59aa461a85e4",
+      "id": 270490139,
       "label": null,
-      "name": "shfmt_v3.11.0_darwin_amd64",
-      "node_id": "RA_kwDOAvdehM4OARoV",
-      "size": 2946896,
+      "name": "shfmt_v3.12.0_darwin_amd64",
+      "node_id": "RA_kwDOAvdehM4QH1ob",
+      "size": 2950992,
       "state": "uploaded",
-      "updated_at": "2025-03-05T22:30:11Z",
+      "updated_at": "2025-07-06T21:15:06Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/3576549?v=4",
         "events_url": "https://api.github.com/users/mvdan/events{/privacy}",
@@ -68,20 +68,20 @@
         "url": "https://api.github.com/users/mvdan",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/mvdan/sh/releases/assets/234953237"
+      "url": "https://api.github.com/repos/mvdan/sh/releases/assets/270490139"
     },
     {
-      "browser_download_url": "https://github.com/mvdan/sh/releases/download/v3.11.0/shfmt_v3.11.0_darwin_arm64",
+      "browser_download_url": "https://github.com/mvdan/sh/releases/download/v3.12.0/shfmt_v3.12.0_darwin_arm64",
       "content_type": "application/octet-stream",
-      "created_at": "2025-03-05T22:30:11Z",
-      "digest": null,
-      "id": 234953239,
+      "created_at": "2025-07-06T21:15:04Z",
+      "digest": "sha256:d903802e0ce3ecbc82b98512f55ba370b0d37a93f3f78de394f5b657052b33dd",
+      "id": 270490132,
       "label": null,
-      "name": "shfmt_v3.11.0_darwin_arm64",
-      "node_id": "RA_kwDOAvdehM4OARoX",
-      "size": 2891842,
+      "name": "shfmt_v3.12.0_darwin_arm64",
+      "node_id": "RA_kwDOAvdehM4QH1oU",
+      "size": 2891858,
       "state": "uploaded",
-      "updated_at": "2025-03-05T22:30:12Z",
+      "updated_at": "2025-07-06T21:15:05Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/3576549?v=4",
         "events_url": "https://api.github.com/users/mvdan/events{/privacy}",
@@ -103,20 +103,20 @@
         "url": "https://api.github.com/users/mvdan",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/mvdan/sh/releases/assets/234953239"
+      "url": "https://api.github.com/repos/mvdan/sh/releases/assets/270490132"
     },
     {
-      "browser_download_url": "https://github.com/mvdan/sh/releases/download/v3.11.0/shfmt_v3.11.0_linux_386",
+      "browser_download_url": "https://github.com/mvdan/sh/releases/download/v3.12.0/shfmt_v3.12.0_linux_386",
       "content_type": "application/octet-stream",
-      "created_at": "2025-03-05T22:30:12Z",
-      "digest": null,
-      "id": 234953249,
+      "created_at": "2025-07-06T21:15:05Z",
+      "digest": "sha256:6b67da16834a215cc8c565bfbcfaa0303809456d8cafad28cb2eeea35a88904d",
+      "id": 270490136,
       "label": null,
-      "name": "shfmt_v3.11.0_linux_386",
-      "node_id": "RA_kwDOAvdehM4OARoh",
-      "size": 2736312,
+      "name": "shfmt_v3.12.0_linux_386",
+      "node_id": "RA_kwDOAvdehM4QH1oY",
+      "size": 2740408,
       "state": "uploaded",
-      "updated_at": "2025-03-05T22:30:12Z",
+      "updated_at": "2025-07-06T21:15:06Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/3576549?v=4",
         "events_url": "https://api.github.com/users/mvdan/events{/privacy}",
@@ -138,20 +138,20 @@
         "url": "https://api.github.com/users/mvdan",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/mvdan/sh/releases/assets/234953249"
+      "url": "https://api.github.com/repos/mvdan/sh/releases/assets/270490136"
     },
     {
-      "browser_download_url": "https://github.com/mvdan/sh/releases/download/v3.11.0/shfmt_v3.11.0_linux_amd64",
+      "browser_download_url": "https://github.com/mvdan/sh/releases/download/v3.12.0/shfmt_v3.12.0_linux_amd64",
       "content_type": "application/octet-stream",
-      "created_at": "2025-03-05T22:30:10Z",
-      "digest": null,
-      "id": 234953235,
+      "created_at": "2025-07-06T21:15:06Z",
+      "digest": "sha256:d9fbb2a9c33d13f47e7618cf362a914d029d02a6df124064fff04fd688a745ea",
+      "id": 270490140,
       "label": null,
-      "name": "shfmt_v3.11.0_linux_amd64",
-      "node_id": "RA_kwDOAvdehM4OARoT",
+      "name": "shfmt_v3.12.0_linux_amd64",
+      "node_id": "RA_kwDOAvdehM4QH1oc",
       "size": 2916536,
       "state": "uploaded",
-      "updated_at": "2025-03-05T22:30:10Z",
+      "updated_at": "2025-07-06T21:15:06Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/3576549?v=4",
         "events_url": "https://api.github.com/users/mvdan/events{/privacy}",
@@ -173,20 +173,20 @@
         "url": "https://api.github.com/users/mvdan",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/mvdan/sh/releases/assets/234953235"
+      "url": "https://api.github.com/repos/mvdan/sh/releases/assets/270490140"
     },
     {
-      "browser_download_url": "https://github.com/mvdan/sh/releases/download/v3.11.0/shfmt_v3.11.0_linux_arm",
+      "browser_download_url": "https://github.com/mvdan/sh/releases/download/v3.12.0/shfmt_v3.12.0_linux_arm",
       "content_type": "application/octet-stream",
-      "created_at": "2025-03-05T22:30:12Z",
-      "digest": null,
-      "id": 234953251,
+      "created_at": "2025-07-06T21:15:07Z",
+      "digest": "sha256:a93c1ed5be25ce9dd0fd62c4cf0af7453740d234725877b973e6c6a8c7598500",
+      "id": 270490142,
       "label": null,
-      "name": "shfmt_v3.11.0_linux_arm",
-      "node_id": "RA_kwDOAvdehM4OARoj",
+      "name": "shfmt_v3.12.0_linux_arm",
+      "node_id": "RA_kwDOAvdehM4QH1oe",
       "size": 2949304,
       "state": "uploaded",
-      "updated_at": "2025-03-05T22:30:13Z",
+      "updated_at": "2025-07-06T21:15:07Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/3576549?v=4",
         "events_url": "https://api.github.com/users/mvdan/events{/privacy}",
@@ -208,20 +208,20 @@
         "url": "https://api.github.com/users/mvdan",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/mvdan/sh/releases/assets/234953251"
+      "url": "https://api.github.com/repos/mvdan/sh/releases/assets/270490142"
     },
     {
-      "browser_download_url": "https://github.com/mvdan/sh/releases/download/v3.11.0/shfmt_v3.11.0_linux_arm64",
+      "browser_download_url": "https://github.com/mvdan/sh/releases/download/v3.12.0/shfmt_v3.12.0_linux_arm64",
       "content_type": "application/octet-stream",
-      "created_at": "2025-03-05T22:30:10Z",
-      "digest": null,
-      "id": 234953236,
+      "created_at": "2025-07-06T21:15:06Z",
+      "digest": "sha256:5f3fe3fa6a9f766e6a182ba79a94bef8afedafc57db0b1ad32b0f67fae971ba4",
+      "id": 270490141,
       "label": null,
-      "name": "shfmt_v3.11.0_linux_arm64",
-      "node_id": "RA_kwDOAvdehM4OARoU",
+      "name": "shfmt_v3.12.0_linux_arm64",
+      "node_id": "RA_kwDOAvdehM4QH1od",
       "size": 2883768,
       "state": "uploaded",
-      "updated_at": "2025-03-05T22:30:11Z",
+      "updated_at": "2025-07-06T21:15:07Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/3576549?v=4",
         "events_url": "https://api.github.com/users/mvdan/events{/privacy}",
@@ -243,20 +243,20 @@
         "url": "https://api.github.com/users/mvdan",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/mvdan/sh/releases/assets/234953236"
+      "url": "https://api.github.com/repos/mvdan/sh/releases/assets/270490141"
     },
     {
-      "browser_download_url": "https://github.com/mvdan/sh/releases/download/v3.11.0/shfmt_v3.11.0_windows_386.exe",
-      "content_type": "application/x-msdownload",
-      "created_at": "2025-03-05T22:30:09Z",
-      "digest": null,
-      "id": 234953232,
+      "browser_download_url": "https://github.com/mvdan/sh/releases/download/v3.12.0/shfmt_v3.12.0_windows_386.exe",
+      "content_type": "application/x-ms-dos-executable",
+      "created_at": "2025-07-06T21:15:05Z",
+      "digest": "sha256:92c1ef0af344a10f2cefe3ce4bc6793ae8b3719ac08fc01802bbd8eae105e534",
+      "id": 270490133,
       "label": null,
-      "name": "shfmt_v3.11.0_windows_386.exe",
-      "node_id": "RA_kwDOAvdehM4OARoQ",
-      "size": 2955264,
+      "name": "shfmt_v3.12.0_windows_386.exe",
+      "node_id": "RA_kwDOAvdehM4QH1oV",
+      "size": 2957312,
       "state": "uploaded",
-      "updated_at": "2025-03-05T22:30:10Z",
+      "updated_at": "2025-07-06T21:15:05Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/3576549?v=4",
         "events_url": "https://api.github.com/users/mvdan/events{/privacy}",
@@ -278,20 +278,20 @@
         "url": "https://api.github.com/users/mvdan",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/mvdan/sh/releases/assets/234953232"
+      "url": "https://api.github.com/repos/mvdan/sh/releases/assets/270490133"
     },
     {
-      "browser_download_url": "https://github.com/mvdan/sh/releases/download/v3.11.0/shfmt_v3.11.0_windows_amd64.exe",
-      "content_type": "application/x-msdownload",
-      "created_at": "2025-03-05T22:30:08Z",
-      "digest": null,
-      "id": 234953231,
+      "browser_download_url": "https://github.com/mvdan/sh/releases/download/v3.12.0/shfmt_v3.12.0_windows_amd64.exe",
+      "content_type": "application/x-ms-dos-executable",
+      "created_at": "2025-07-06T21:15:03Z",
+      "digest": "sha256:c8bda517ba1c640ce4a715c0fa665439ddbe4357ba5e9b77b0e51e70e2b9c94b",
+      "id": 270490128,
       "label": null,
-      "name": "shfmt_v3.11.0_windows_amd64.exe",
-      "node_id": "RA_kwDOAvdehM4OARoP",
-      "size": 3166720,
+      "name": "shfmt_v3.12.0_windows_amd64.exe",
+      "node_id": "RA_kwDOAvdehM4QH1oQ",
+      "size": 3169792,
       "state": "uploaded",
-      "updated_at": "2025-03-05T22:30:09Z",
+      "updated_at": "2025-07-06T21:15:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/3576549?v=4",
         "events_url": "https://api.github.com/users/mvdan/events{/privacy}",
@@ -313,10 +313,10 @@
         "url": "https://api.github.com/users/mvdan",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/mvdan/sh/releases/assets/234953231"
+      "url": "https://api.github.com/repos/mvdan/sh/releases/assets/270490128"
     }
   ],
-  "assets_url": "https://api.github.com/repos/mvdan/sh/releases/203975620/assets",
+  "assets_url": "https://api.github.com/repos/mvdan/sh/releases/230311117/assets",
   "author": {
     "avatar_url": "https://avatars.githubusercontent.com/u/3576549?v=4",
     "events_url": "https://api.github.com/users/mvdan/events{/privacy}",
@@ -338,19 +338,19 @@
     "url": "https://api.github.com/users/mvdan",
     "user_view_type": "public"
   },
-  "body": "This release drops support for Go 1.22 and includes many enhancements.\r\n\r\n- **cmd/shfmt**\r\n  - Support `-l=0` and `-f=0` to split filenames with null bytes - #1096\r\n- **syntax**\r\n  - New iterator API: `Parser.WordsSeq`\r\n  - Fix `Parser.Incomplete` and `IsIncomplete` to work well with `Parser.Words` - #937\r\n  - Initial support for parsing incomplete shell via `RecoverErrors`\r\n  - Expand `LangError` to include which language was used when parsing\r\n- **interp**\r\n  - Refactor setting variables to fix array declaration edge cases - #1108\r\n  - Fix `test` read/write/exec operators to work correctly on directories - #1116\r\n  - Replace the `cancelreader` dependency with `os.File.SetReadDeadline`\r\n  - Avoid waiting for process substitutions, matching Bash\r\n  - Skip `OpenHandler` when opening named pipes for process substitutions - #1120\r\n  - Use `TMPDIR` if set via `Env` to create temporary files such as named pipes\r\n- **expand**\r\n  - New iterator API: `FieldsSeq`\r\n  - Correctly handle repeated backslashes in double quotes - #1106\r\n  - Don't expand backslashes inside here-documents - #1070\r\n  - Replace the `Unset` kind with a new `Variable.Set` boolean field\r\n\r\nConsider [becoming a sponsor](https://github.com/sponsors/mvdan) if you benefit from the work that went into this release!\r\n\r\nBinaries built on `go version go1.24.0 linux/amd64` with:\r\n\r\n\tCGO_ENABLED=0 go build -trimpath -ldflags=\"-w -s -X=main.version=v3.11.0\"",
-  "created_at": "2025-03-05T22:27:25Z",
+  "body": "- The `mvdan-sh` JS package is discontinued in favor of `sh-syntax` - #1145\r\n- **cmd/shfmt**\r\n  - Support the \"simplify\" and \"minify\" flags via EditorConfig - #819\r\n  - Do not allow `--write` to replace non-regular files - #843\r\n- **interp**\r\n  - Add `IsBuiltin` to check if a command name is a shell built-in - #1164\r\n  - Add `HandlerContext.Builtin` to allow `ExecHandlerFunc` to call built-ins\r\n  - Initial support for `$!` and `wait PID` - #221\r\n  - Return non-fatal `ExecHandlerFunc` errors via the `Runner.Run` API\r\n  - Add `HandlerContext.Pos` to provide handlers with source positions\r\n  - Deprecate `NewExitStatus` and `IsExitStatus` in favor of `ExitStatus`\r\n  - Fix `wait` to always return the status of the last given job\r\n  - Copy all env vars for background subshells to avoid data races\r\n  - Support reading random numbers via `$RANDOM` and `$SRANDOM`\r\n  - Set `$BASH_REMATCH` when matching regular expressions via `=~`\r\n  - Support modifying local vars from the parent calling function\r\n- **expand**\r\n  - Adjust which backslash sequences are expanded in here-docs - #1138\r\n  - Tweak tilde expansions to match Bash semantics\r\n- **pattern**\r\n  - Remove the flawed and broken `Braces` mode; use `syntax.SplitBraces` instead\r\n  - Tweak `**` to only act as \"globstar\" when alone as a path element - #1149\r\n  - Tweak `*` and `**` to not match leading dots in basenames\r\n  - Add a `NoGlobStar` mode to match the POSIX semantics\r\n- **fileutil**\r\n  - Treat all non-regular files as definitely not shell scripts - #1089\r\n\r\nConsider [becoming a sponsor](https://github.com/sponsors/mvdan) if you benefit from the work that went into this release!\r\n\r\nBinaries built on `go version go1.24.4 linux/amd64` with:\r\n\r\n\tCGO_ENABLED=0 go build -trimpath -ldflags=\"-w -s -X=main.version=v3.12.0\"",
+  "created_at": "2025-07-06T21:11:24Z",
   "draft": false,
-  "html_url": "https://github.com/mvdan/sh/releases/tag/v3.11.0",
-  "id": 203975620,
+  "html_url": "https://github.com/mvdan/sh/releases/tag/v3.12.0",
+  "id": 230311117,
   "name": "",
-  "node_id": "RE_kwDOAvdehM4MKGvE",
+  "node_id": "RE_kwDOAvdehM4NukTN",
   "prerelease": false,
-  "published_at": "2025-03-05T22:30:17Z",
-  "tag_name": "v3.11.0",
-  "tarball_url": "https://api.github.com/repos/mvdan/sh/tarball/v3.11.0",
+  "published_at": "2025-07-06T21:14:39Z",
+  "tag_name": "v3.12.0",
+  "tarball_url": "https://api.github.com/repos/mvdan/sh/tarball/v3.12.0",
   "target_commitish": "master",
-  "upload_url": "https://uploads.github.com/repos/mvdan/sh/releases/203975620/assets{?name,label}",
-  "url": "https://api.github.com/repos/mvdan/sh/releases/203975620",
-  "zipball_url": "https://api.github.com/repos/mvdan/sh/zipball/v3.11.0"
+  "upload_url": "https://uploads.github.com/repos/mvdan/sh/releases/230311117/assets{?name,label}",
+  "url": "https://api.github.com/repos/mvdan/sh/releases/230311117",
+  "zipball_url": "https://api.github.com/repos/mvdan/sh/zipball/v3.12.0"
 }
