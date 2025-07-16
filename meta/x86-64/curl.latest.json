@@ -1,17 +1,17 @@
 {
   "assets": [
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-linux-aarch64-dev-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-linux-aarch64-dev-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:96bdba703c8692f48dbecb376e9bac9f83e7ac7d789a9c55482e9cbc2d3e764a",
-      "id": 260880560,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:aecd134dfc84ee3eb66d854fc12a78bb69165f84dd3ef87ba278c0173632f52c",
+      "id": 273471464,
       "label": "",
-      "name": "curl-linux-aarch64-dev-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLiw",
-      "size": 8147716,
+      "name": "curl-linux-aarch64-dev-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNfo",
+      "size": 8082444,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:17Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -33,20 +33,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880560"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471464"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-linux-aarch64-glibc-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-linux-aarch64-glibc-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:a51fcfa5de2aca0c49ac676b9cf93a84b077fe7239da0950995f35cf30f955b4",
-      "id": 260880545,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:b03157dee50f54c21a416646b4a2416e7c53590eeb2f026eae8094fe67e6cf36",
+      "id": 273471439,
       "label": "",
-      "name": "curl-linux-aarch64-glibc-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLih",
-      "size": 3297468,
+      "name": "curl-linux-aarch64-glibc-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNfP",
+      "size": 3300788,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:17Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -68,20 +68,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880545"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471439"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-linux-aarch64-musl-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-linux-aarch64-musl-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:e0fecb5ecaba101b4b560f1035835770e7d1c151416ee84e18c813ba32b9d1dd",
-      "id": 260880540,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:781aac12f0fc8738188e8cf990bb7ad1e9e4fca8fdce4bf4dfbde7756fffb796",
+      "id": 273471432,
       "label": "",
-      "name": "curl-linux-aarch64-musl-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLic",
-      "size": 3623640,
+      "name": "curl-linux-aarch64-musl-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNfI",
+      "size": 3620680,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:17Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -103,20 +103,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880540"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471432"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-linux-armv5-dev-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-linux-armv5-dev-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:e93f377217620651b58c376f9076f5df81a7b70a79934523e37cbb2d1f2421e0",
-      "id": 260880563,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:72ebc5ba76510100ab2ca875373b8b1bce962e7878a6c1df7421357e715d600e",
+      "id": 273471449,
       "label": "",
-      "name": "curl-linux-armv5-dev-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLiz",
-      "size": 6843320,
+      "name": "curl-linux-armv5-dev-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNfZ",
+      "size": 6777620,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:17Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -138,20 +138,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880563"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471449"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-linux-armv5-glibc-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-linux-armv5-glibc-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:060f96a1fe7ee6c3405d454b3947c546c7192b167ed5187fb5eb0a968cd67c97",
-      "id": 260880536,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:62e42b77f5b30323bf414ab1396853d58e01f736f1db368cc8dadde9257c915b",
+      "id": 273471452,
       "label": "",
-      "name": "curl-linux-armv5-glibc-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLiY",
-      "size": 2519476,
+      "name": "curl-linux-armv5-glibc-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNfc",
+      "size": 2522776,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:16Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -173,20 +173,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880536"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471452"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-linux-armv5-musl-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-linux-armv5-musl-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:1791e3fb10a314e4d74e958f5201a0b66996f4f14c5ab748ee9caac108f964f3",
-      "id": 260880543,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:270792f6c3fea78db90cdc6f9b41687f7f380fe895872076648dfc01b7664bec",
+      "id": 273471434,
       "label": "",
-      "name": "curl-linux-armv5-musl-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLif",
-      "size": 2771284,
+      "name": "curl-linux-armv5-musl-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNfK",
+      "size": 2770628,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:16Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -208,20 +208,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880543"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471434"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-linux-armv7-dev-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-linux-armv7-dev-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:544172621690a7f1e9f1ecede302059d36ac518f7f60acb411869f5c9c520756",
-      "id": 260880551,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:e1d6c6cf8d19a35d8825ebe5eb45838dddadeec2b1df70ae5dc9deeb1e1cb6f3",
+      "id": 273471461,
       "label": "",
-      "name": "curl-linux-armv7-dev-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLin",
-      "size": 6914196,
+      "name": "curl-linux-armv7-dev-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNfl",
+      "size": 6833268,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:17Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -243,20 +243,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880551"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471461"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-linux-armv7-glibc-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-linux-armv7-glibc-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:1dbbb8bebfa4b28db527fa22d410b58ccc840b86faf0dad7b5be8f29e818f313",
-      "id": 260880542,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:7de581d591daae98a013bbe0c1023f7167d1091345b1bca5f51a6a1ed096892b",
+      "id": 273471455,
       "label": "",
-      "name": "curl-linux-armv7-glibc-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLie",
-      "size": 2531048,
+      "name": "curl-linux-armv7-glibc-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNff",
+      "size": 2534492,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:16Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -278,20 +278,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880542"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471455"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-linux-armv7-musl-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-linux-armv7-musl-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:ee0e45b70d7d94d353e12cba8f952103cd4594201c160014fee9e98d9c0186fc",
-      "id": 260880537,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:a199209e92f412662699c520744f9af9c6bb8bc4438569b0aba51386f6eab42e",
+      "id": 273471427,
       "label": "",
-      "name": "curl-linux-armv7-musl-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLiZ",
-      "size": 2824612,
+      "name": "curl-linux-armv7-musl-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNfD",
+      "size": 2812608,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:16Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -313,20 +313,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880537"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471427"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-linux-i686-glibc-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-linux-i686-glibc-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:023bd832caae78002597b88e4f655be87a7fde42c3a148b6831d8cd37106d28d",
-      "id": 260880556,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:4be5e3fdbb886d4a3033d9a990ed6e9ed19aec0077ae221c9d34ff01fbb8baed",
+      "id": 273471441,
       "label": "",
-      "name": "curl-linux-i686-glibc-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLis",
-      "size": 3246152,
+      "name": "curl-linux-i686-glibc-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNfR",
+      "size": 3248396,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:17Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -348,20 +348,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880556"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471441"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-linux-loongarch64-dev-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-linux-loongarch64-dev-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:33c5bc849faeb10b6a47c5a9f9d96143174181891c153a55cd4b0a6f5e228f18",
-      "id": 260880567,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:127a3aea590ac25743a0c4007288c5c16ff141df229e8f96da7c41e099979693",
+      "id": 273471457,
       "label": "",
-      "name": "curl-linux-loongarch64-dev-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLi3",
-      "size": 10580616,
+      "name": "curl-linux-loongarch64-dev-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNfh",
+      "size": 10657256,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:17Z",
+      "updated_at": "2025-07-16T19:20:05Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -383,20 +383,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880567"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471457"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-linux-loongarch64-musl-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-linux-loongarch64-musl-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:7c4cba2c86f1761760f2872ca39da313fe014167bca5a439ec08a35c2006e126",
-      "id": 260880550,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:fb473e898ac0dbe4fa1e7739ac58a28d25c172bb7c55d072c674de65713b9637",
+      "id": 273471429,
       "label": "",
-      "name": "curl-linux-loongarch64-musl-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLim",
-      "size": 3074796,
+      "name": "curl-linux-loongarch64-musl-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNfF",
+      "size": 3074604,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:16Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -418,20 +418,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880550"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471429"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-linux-mips-dev-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-linux-mips-dev-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:605405cab7d8a6b122329d0e1d05ab786c587165906512b4b04d7c62ffc940aa",
-      "id": 260880554,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:edeefba421cfd0b88993f7136856adf747f774059b797cf60c07c289e43c3ebf",
+      "id": 273471460,
       "label": "",
-      "name": "curl-linux-mips-dev-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLiq",
-      "size": 7691964,
+      "name": "curl-linux-mips-dev-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNfk",
+      "size": 7622760,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:17Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -453,20 +453,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880554"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471460"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-linux-mips-musl-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-linux-mips-musl-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:6104a1af49df70b76870fb7b93674106017ac3f9d13510b49bbb4402bc5643cc",
-      "id": 260880541,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:305b1490da79cd88a827b6ff7229a3a4cdb7c4fb0fd740babba2fd75fe319015",
+      "id": 273471430,
       "label": "",
-      "name": "curl-linux-mips-musl-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLid",
-      "size": 2997812,
+      "name": "curl-linux-mips-musl-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNfG",
+      "size": 3001904,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:16Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -488,20 +488,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880541"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471430"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-linux-mips64-dev-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-linux-mips64-dev-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:75746ab99ed0d4eb5c330484c6960858718068433803a2e37a8e900189305ef2",
-      "id": 260880559,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:dbc0493ae5975c2ab72fc2a250587d077cd7cb7ceff501f931bdd26e690f79f9",
+      "id": 273471436,
       "label": "",
-      "name": "curl-linux-mips64-dev-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLiv",
-      "size": 7700812,
+      "name": "curl-linux-mips64-dev-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNfM",
+      "size": 7670752,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:17Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -523,20 +523,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880559"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471436"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-linux-mips64-glibc-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-linux-mips64-glibc-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:e5c72830de21ccec1c96a6deccba065007ec2cba6a8948adac0446ce170aa8ca",
-      "id": 260880528,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:5fee0f33126c9a7cbb2907c1468979be7f79176f02daec2d9c3cac4de4424adc",
+      "id": 273471433,
       "label": "",
-      "name": "curl-linux-mips64-glibc-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLiQ",
-      "size": 2485256,
+      "name": "curl-linux-mips64-glibc-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNfJ",
+      "size": 2488736,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:16Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -558,20 +558,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880528"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471433"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-linux-mips64-musl-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-linux-mips64-musl-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:7974c3767dafa6e21e0723dcf947245595208db16977a5481bfc6bd4d872fcb4",
-      "id": 260880548,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:b7bba175aa10725de4dcddeace3ffda0773f5630e7c9ec06cfb6948fe346d5d8",
+      "id": 273471437,
       "label": "",
-      "name": "curl-linux-mips64-musl-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLik",
-      "size": 2905040,
+      "name": "curl-linux-mips64-musl-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNfN",
+      "size": 2910980,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:16Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -593,20 +593,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880548"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471437"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-linux-mips64el-dev-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-linux-mips64el-dev-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:a18f315515d74b24a0235a1185cb60171c0afeca3a63464fa70bbb3ba9d7e6b4",
-      "id": 260880553,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:60f7071502d9d3c6159ca45bd18e0648beb609ccd4e738c6afcd14b246c148f6",
+      "id": 273471456,
       "label": "",
-      "name": "curl-linux-mips64el-dev-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLip",
-      "size": 7822152,
+      "name": "curl-linux-mips64el-dev-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNfg",
+      "size": 7744756,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:17Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -628,20 +628,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880553"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471456"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-linux-mips64el-glibc-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-linux-mips64el-glibc-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:3d638390fde56cdb10792d2beba1027bafbea96eb47d901677dc63ea844fe0b5",
-      "id": 260880539,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:c5c54f72e39194523cb32d7110e8e18aa285fe709e811aab01ab6c76e49b76f2",
+      "id": 273471446,
       "label": "",
-      "name": "curl-linux-mips64el-glibc-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLib",
-      "size": 2525060,
+      "name": "curl-linux-mips64el-glibc-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNfW",
+      "size": 2526692,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:16Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -663,20 +663,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880539"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471446"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-linux-mips64el-musl-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-linux-mips64el-musl-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:8e25a40238496f6cf8f48395c76dfc1545616663874a2a41d6b43891deba7fb7",
-      "id": 260880533,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:8fd7f7c7fb5f5720f8fcb0367d072fda7390f7acf005873d399bdfe865395ce4",
+      "id": 273471425,
       "label": "",
-      "name": "curl-linux-mips64el-musl-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLiV",
-      "size": 2979524,
+      "name": "curl-linux-mips64el-musl-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNfB",
+      "size": 2965384,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:16Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -698,20 +698,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880533"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471425"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-linux-mipsel-dev-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-linux-mipsel-dev-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:373dff45d9a6906b1c539bf9586bf1f1b579a6eee550554c0f4e5731c4244413",
-      "id": 260880557,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:576dfcb0b2d23dae30915a039de99bef48e0422138fe14593dce608ab38d59bc",
+      "id": 273471448,
       "label": "",
-      "name": "curl-linux-mipsel-dev-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLit",
-      "size": 7857180,
+      "name": "curl-linux-mipsel-dev-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNfY",
+      "size": 7804644,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:17Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -733,20 +733,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880557"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471448"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-linux-mipsel-glibc-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-linux-mipsel-glibc-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:22dfde2ff889de2845341345cb115592becb3e5f6cb3da4c7ba30b7e81c44896",
-      "id": 260880532,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:2a1a526b722bd219a4298c466e7eb9f8354c4caa711ae9ca0a4fbad88d53e8bf",
+      "id": 273471426,
       "label": "",
-      "name": "curl-linux-mipsel-glibc-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLiU",
-      "size": 2598408,
+      "name": "curl-linux-mipsel-glibc-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNfC",
+      "size": 2601656,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:16Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -768,20 +768,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880532"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471426"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-linux-mipsel-musl-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-linux-mipsel-musl-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:533f35ea5038e36f3f7ee8fb137e9179c76e117f2c691733426e5a5851092c34",
-      "id": 260880544,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:23880bef6c35a9da80e0a652581393a330fe299713e338f8ab1e399c62064236",
+      "id": 273471431,
       "label": "",
-      "name": "curl-linux-mipsel-musl-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLig",
-      "size": 3062904,
+      "name": "curl-linux-mipsel-musl-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNfH",
+      "size": 3063776,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:16Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -803,20 +803,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880544"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471431"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-linux-powerpc-dev-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-linux-powerpc-dev-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:2bc906d4e9749ca77fec3fdf0748886c9fcf8bb77e32b4925b1b89252892c84e",
-      "id": 260880565,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:474986b8a594f349688ab502b40e8101b1b03879604d8025e8d75cb8bc7cb343",
+      "id": 273471438,
       "label": "",
-      "name": "curl-linux-powerpc-dev-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLi1",
-      "size": 7373012,
+      "name": "curl-linux-powerpc-dev-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNfO",
+      "size": 7299972,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:17Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -838,20 +838,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880565"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471438"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-linux-powerpc-glibc-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-linux-powerpc-glibc-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:eecc40a086be89c30290c26b2e3be0fc4da413ff11d8b564b20da3ce4477d96f",
-      "id": 260880535,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:71ca9528fe655f03fb4997fa30006f579b6518263aca4a9369c2cb69041ef9ba",
+      "id": 273471422,
       "label": "",
-      "name": "curl-linux-powerpc-glibc-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLiX",
-      "size": 2622104,
+      "name": "curl-linux-powerpc-glibc-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNe-",
+      "size": 2625756,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:16Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -873,20 +873,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880535"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471422"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-linux-powerpc-musl-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-linux-powerpc-musl-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:38a7775069b5b8737b18fc36895a6022bd3e2f059a36fbe59e7fbd6136e46f6d",
-      "id": 260880538,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:81926c638b73c21b29ac0bcafd49aa470c5d5923f0f2c437d7f185baf2ccbd89",
+      "id": 273471424,
       "label": "",
-      "name": "curl-linux-powerpc-musl-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLia",
-      "size": 3117484,
+      "name": "curl-linux-powerpc-musl-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNfA",
+      "size": 3112560,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:16Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -908,20 +908,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880538"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471424"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-linux-powerpc64le-dev-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-linux-powerpc64le-dev-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:a79eb7ac81c627c0573d93c62524212f244d97e9507a17b7ee9f4530ec85dbbb",
-      "id": 260880566,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:92cd184fbe8db73b535ed57e2d5c7e950e2f03bdcb0849114dbf510e54ec1b76",
+      "id": 273471458,
       "label": "",
-      "name": "curl-linux-powerpc64le-dev-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLi2",
-      "size": 8249080,
+      "name": "curl-linux-powerpc64le-dev-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNfi",
+      "size": 8191744,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:17Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -943,20 +943,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880566"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471458"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-linux-powerpc64le-glibc-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-linux-powerpc64le-glibc-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:3e3fd90c6373bd2e8edfe515bb15e82903ac48a44617d69fd40d2d02de964ed9",
-      "id": 260880522,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:a14bd07eee642bf5861d33366a93099ca1d049a872774843aa2e770dc03aaf30",
+      "id": 273471423,
       "label": "",
-      "name": "curl-linux-powerpc64le-glibc-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLiK",
-      "size": 2972220,
+      "name": "curl-linux-powerpc64le-glibc-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNe_",
+      "size": 2975616,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:17Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -978,20 +978,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880522"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471423"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-linux-powerpc64le-musl-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-linux-powerpc64le-musl-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:f5e685669eb95563bb4e4cd5c68459e7b2c319461a24dc6487f5cff7a71f9488",
-      "id": 260880527,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:6ae3f13f23bc1eab52ecca3bb5455b5b7938ce0807aa0736cb4e497dc9b7c3f9",
+      "id": 273471428,
       "label": "",
-      "name": "curl-linux-powerpc64le-musl-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLiP",
-      "size": 3456984,
+      "name": "curl-linux-powerpc64le-musl-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNfE",
+      "size": 3435084,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:17Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1013,20 +1013,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880527"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471428"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-linux-riscv64-dev-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-linux-riscv64-dev-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:b5841984594c1e69b305d5d961f57f3faae75cbd0924bc3cca863438605e4671",
-      "id": 260880562,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:4cff25c1aea245f9279e9366215afa38f779f7f7834289af6eaf2cc9c94e3d40",
+      "id": 273471454,
       "label": "",
-      "name": "curl-linux-riscv64-dev-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLiy",
-      "size": 10741524,
+      "name": "curl-linux-riscv64-dev-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNfe",
+      "size": 10709240,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:17Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1048,20 +1048,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880562"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471454"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-linux-riscv64-glibc-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-linux-riscv64-glibc-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:49f64624ae1524a2ed04fbe2a50420504725b6d1dd3b9de8d010ac6143b48cbd",
-      "id": 260880530,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:0ce4b93664323460901cccc531d3955f6c11224bef530a3d4357ac2cf80a74ba",
+      "id": 273471420,
       "label": "",
-      "name": "curl-linux-riscv64-glibc-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLiS",
-      "size": 2692372,
+      "name": "curl-linux-riscv64-glibc-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNe8",
+      "size": 2696236,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:16Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1083,20 +1083,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880530"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471420"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-linux-riscv64-musl-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-linux-riscv64-musl-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:2938b4b949e473f6e590e996160ef9cdd84387e97b31e85a54610891e434a0f6",
-      "id": 260880520,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:92da0f590c54c70af9e7a0c967709eae9612d4bf3cd8d164c518996089d0afb4",
+      "id": 273471419,
       "label": "",
-      "name": "curl-linux-riscv64-musl-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLiI",
-      "size": 3340000,
+      "name": "curl-linux-riscv64-musl-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNe7",
+      "size": 3356108,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:17Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1118,20 +1118,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880520"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471419"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-linux-s390x-dev-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-linux-s390x-dev-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:1fc7622225a3385a0ba7f4387c71f7bdce7c45bc61b81142a4a8263bb489ce2a",
-      "id": 260880561,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:d40530ef884a10da8e29f6f338fa4bcb198973799600ec695292238cdef3a4a1",
+      "id": 273471440,
       "label": "",
-      "name": "curl-linux-s390x-dev-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLix",
-      "size": 7512348,
+      "name": "curl-linux-s390x-dev-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNfQ",
+      "size": 7477740,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:17Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1153,20 +1153,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880561"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471440"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-linux-s390x-glibc-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-linux-s390x-glibc-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:18c4db8c08744758155ce0f6e9e5c40d0bd784b73b4e9ef28119bdc446f1f0e2",
-      "id": 260880524,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:c889d4701c24979ca9547cf27cafa7d3a090484d50ffe52ead365373e6c8de90",
+      "id": 273471416,
       "label": "",
-      "name": "curl-linux-s390x-glibc-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLiM",
-      "size": 2650572,
+      "name": "curl-linux-s390x-glibc-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNe4",
+      "size": 2654144,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:16Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1188,20 +1188,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880524"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471416"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-linux-s390x-musl-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-linux-s390x-musl-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:c864c4d5e5d8bcf4dd2a1ae59eada4024cc0ddbba4d5e1ce1d87502fada85ac8",
-      "id": 260880531,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:dd41f7f25629994dec41172491ee748f048a6468b386269bd848b375f2466ca4",
+      "id": 273471414,
       "label": "",
-      "name": "curl-linux-s390x-musl-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLiT",
-      "size": 3026844,
+      "name": "curl-linux-s390x-musl-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNe2",
+      "size": 3033456,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:16Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1223,20 +1223,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880531"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471414"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-linux-x86_64-dev-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-linux-x86_64-dev-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:f33a41dcdfac0ea95e2a32bcbb4d2f10dadda48b728e632de69a5b9447ada3fb",
-      "id": 260880558,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:7f3b4401e5678d39211f6bf63685bf07c896a87248cc42cf5f3f858b23108c2b",
+      "id": 273471447,
       "label": "",
-      "name": "curl-linux-x86_64-dev-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLiu",
-      "size": 7971840,
+      "name": "curl-linux-x86_64-dev-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNfX",
+      "size": 7930432,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:17Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1258,20 +1258,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880558"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471447"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-linux-x86_64-glibc-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-linux-x86_64-glibc-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:cac45d633e947cc2f17f7b69c179ca366fcd5038c4c0ff0bc3cd62a5f25b16c9",
-      "id": 260880529,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:c82e7f8071484bf60daf38f76373a19d2e5e4d02b1c3dc69a3838c910cd09158",
+      "id": 273471417,
       "label": "",
-      "name": "curl-linux-x86_64-glibc-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLiR",
-      "size": 3172788,
+      "name": "curl-linux-x86_64-glibc-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNe5",
+      "size": 3176780,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:16Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1293,20 +1293,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880529"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471417"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-linux-x86_64-musl-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-linux-x86_64-musl-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:0b4622d9df4fd282b5a2d222e4e0146fc409053ee15ee1979784f6c8a56cf573",
-      "id": 260880521,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:a6e519f459e3c64984f821dd23e144a4657a045de1a4c89f2e4a80ab41b40ed1",
+      "id": 273471418,
       "label": "",
-      "name": "curl-linux-x86_64-musl-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLiJ",
-      "size": 3433880,
+      "name": "curl-linux-x86_64-musl-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNe6",
+      "size": 3440540,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:16Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1328,20 +1328,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880521"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471418"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-macos-arm64-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-macos-arm64-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:c6d7dbcb3d85ada79b0fd1bfc18a2d0d2a5076bc4a3ef9b7f4a6ad7e75def00b",
-      "id": 260880519,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:be85e0aa7cc3eb7da42026b6ea1f2a424de9ab5ec292d8d97206997e9f756110",
+      "id": 273471421,
       "label": "",
-      "name": "curl-macos-arm64-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLiH",
-      "size": 3057020,
+      "name": "curl-macos-arm64-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNe9",
+      "size": 3060776,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:16Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1363,20 +1363,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880519"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471421"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-macos-arm64-dev-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-macos-arm64-dev-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:3ccff8c82aa0bdda60b8ddd874a0731d1b709087e937633ef560f224d7ba6aea",
-      "id": 260880564,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:1153506969b1ceade7485f12aced2f4df1e7b3088ce2f40fa589ae9fcbfccb7a",
+      "id": 273471451,
       "label": "",
-      "name": "curl-macos-arm64-dev-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLi0",
-      "size": 13554520,
+      "name": "curl-macos-arm64-dev-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNfb",
+      "size": 13576596,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:17Z",
+      "updated_at": "2025-07-16T19:20:05Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1398,20 +1398,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880564"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471451"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-macos-x86_64-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-macos-x86_64-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:dbf7e91be8278c1ce279da107089b4d9bc8e2c10b73ce3cd3570e3fae04bfd26",
-      "id": 260880525,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:e543a66f0ea02e60050d6235a2df9b914eed585fd8ff55a73d253edb946b55bc",
+      "id": 273471412,
       "label": "",
-      "name": "curl-macos-x86_64-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLiN",
-      "size": 2919536,
+      "name": "curl-macos-x86_64-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNe0",
+      "size": 2922684,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:16Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1433,20 +1433,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880525"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471412"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-macos-x86_64-dev-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-macos-x86_64-dev-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:66be547a12ac13b518b1630959d1b17742ec5a78626ca1c455b00f7ec25a0179",
-      "id": 260880555,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:9a6724297f81158476bff04fe29b4ab6c539627e112ca6be7c65ad3e4de84f45",
+      "id": 273471444,
       "label": "",
-      "name": "curl-macos-x86_64-dev-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLir",
-      "size": 14098576,
+      "name": "curl-macos-x86_64-dev-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNfU",
+      "size": 14121240,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:17Z",
+      "updated_at": "2025-07-16T19:20:05Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1468,20 +1468,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880555"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471444"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-windows-aarch64-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-windows-aarch64-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:10802983da0ea33db16a77efd218454da61673f3c02620f271f03bbdd251d5d9",
-      "id": 260880518,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:dc89d1e6162d7fd73d56497618fbf5a1216b9c14807f20d61adc7aa50b332e85",
+      "id": 273471413,
       "label": "",
-      "name": "curl-windows-aarch64-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLiG",
-      "size": 2879024,
+      "name": "curl-windows-aarch64-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNe1",
+      "size": 2878440,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:17Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1503,20 +1503,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880518"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471413"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-windows-aarch64-dev-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-windows-aarch64-dev-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:5e024a2a050485acd370cab8d67f6654934f5d3e9e17745b06abc2a37dcf1437",
-      "id": 260880552,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:44cdf0361b2de095cec335eae6c85afb27470cb06b792b36db171ade8e49ae70",
+      "id": 273471443,
       "label": "",
-      "name": "curl-windows-aarch64-dev-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLio",
-      "size": 6853020,
+      "name": "curl-windows-aarch64-dev-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNfT",
+      "size": 6867684,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:17Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1538,20 +1538,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880552"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471443"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-windows-armv7-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-windows-armv7-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:611f89fcf070b324fbc2be9b87dd3831c75061b6168cfd5a32c18aa369e10db9",
-      "id": 260880526,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:d28ea326792ab5255954022d1b2c61a8cf07b2e2534b6562207968f6f88f1bd2",
+      "id": 273471415,
       "label": "",
-      "name": "curl-windows-armv7-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLiO",
-      "size": 2298272,
+      "name": "curl-windows-armv7-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNe3",
+      "size": 2302308,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:16Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1573,20 +1573,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880526"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471415"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-windows-armv7-dev-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-windows-armv7-dev-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:997fdbff631f41935ef55a4280a1951280f71bc9034ab30ad0285396b5424273",
-      "id": 260880546,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:fda4532efc0a5447125a4cbbb8b2efe248e57a694948d99fb3afb2d8272df76a",
+      "id": 273471442,
       "label": "",
-      "name": "curl-windows-armv7-dev-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLii",
-      "size": 6304328,
+      "name": "curl-windows-armv7-dev-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNfS",
+      "size": 6313152,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:17Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1608,20 +1608,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880546"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471442"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-windows-i686-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-windows-i686-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:cbdd8db7574e0d0823219354584c7b49e2dc31394eb295dd74f4da1ae05ec7cc",
-      "id": 260880534,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:f6ba482ee2264108c489d5b96eb6661396958ce110b9f95107a08b23d520fa1a",
+      "id": 273471411,
       "label": "",
-      "name": "curl-windows-i686-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLiW",
-      "size": 2551188,
+      "name": "curl-windows-i686-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNez",
+      "size": 2556024,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:16Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1643,20 +1643,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880534"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471411"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-windows-i686-dev-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-windows-i686-dev-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:c311bf49c617c457c68b413b5c10909bbe76fdb90c3aa1304b67a3f1edac039b",
-      "id": 260880549,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:31080f1b3421048eeec5556ca6148e7a5cc2bd7af80c121381521b5ee5425bec",
+      "id": 273471450,
       "label": "",
-      "name": "curl-windows-i686-dev-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLil",
-      "size": 6602092,
+      "name": "curl-windows-i686-dev-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNfa",
+      "size": 6612456,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:17Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1678,20 +1678,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880549"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471450"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-windows-x86_64-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-windows-x86_64-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:0558c9e40fc01f17ed1df2490247e5c5589d0f76913a4c1cdd88109bf5141069",
-      "id": 260880523,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:acd27040016d2a962131f58711c2d879878a734077f170497b9f6b639ff444d9",
+      "id": 273471410,
       "label": "",
-      "name": "curl-windows-x86_64-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLiL",
-      "size": 2792880,
+      "name": "curl-windows-x86_64-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNey",
+      "size": 2796300,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:16Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1713,20 +1713,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880523"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471410"
     },
     {
-      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.14.1/curl-windows-x86_64-dev-8.14.1.tar.xz",
+      "browser_download_url": "https://github.com/stunnel/static-curl/releases/download/8.15.0/curl-windows-x86_64-dev-8.15.0.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-06-04T11:46:16Z",
-      "digest": "sha256:8180643fb63ef6e2f1ddb071c121e784cd08c6d6f48174601835cffeea37951a",
-      "id": 260880547,
+      "created_at": "2025-07-16T19:20:03Z",
+      "digest": "sha256:e1a690edb91c416826d69149516123c52d23d9e6ab6805b91b0270d1558dd120",
+      "id": 273471445,
       "label": "",
-      "name": "curl-windows-x86_64-dev-8.14.1.tar.xz",
-      "node_id": "RA_kwDOH-OeYM4PjLij",
-      "size": 7030888,
+      "name": "curl-windows-x86_64-dev-8.15.0.tar.xz",
+      "node_id": "RA_kwDOH-OeYM4QTNfV",
+      "size": 7046556,
       "state": "uploaded",
-      "updated_at": "2025-06-04T11:46:17Z",
+      "updated_at": "2025-07-16T19:20:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1748,10 +1748,10 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/260880547"
+      "url": "https://api.github.com/repos/stunnel/static-curl/releases/assets/273471445"
     }
   ],
-  "assets_url": "https://api.github.com/repos/stunnel/static-curl/releases/223046897/assets",
+  "assets_url": "https://api.github.com/repos/stunnel/static-curl/releases/232957033/assets",
   "author": {
     "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
     "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1773,20 +1773,20 @@
     "url": "https://api.github.com/users/github-actions%5Bbot%5D",
     "user_view_type": "public"
   },
-  "body": "# Static cURL 8.14.1 with HTTP3\n\n## Components\n\n- libcurl/8.14.1\n- OpenSSL/3.5.0\n- zlib/1.3.1\n- brotli/1.1.0\n- zstd/1.5.7\n- c-ares/1.34.5\n- libidn2/2.3.8\n- libpsl/0.21.5\n- libssh2/1.11.1\n- nghttp2/1.65.0\n- nghttp3/1.10.1\n\n## Protocols\n\ndict file ftp ftps gopher gophers http https imap imaps ipfs ipns mqtt pop3 pop3s rtsp scp sftp smb smbs smtp smtps telnet tftp ws wss\n\n## Features\n\nalt-svc asyn-rr AsynchDNS brotli HSTS HTTP2 HTTP3 HTTPS-proxy HTTPSRR IDN IPv6 Largefile libz NTLM PSL SSL SSLS-EXPORT threadsafe TLS-SRP TrackMemory UnixSockets zstd\n\n## License\n\nThis binary includes various open-source software such as curl, openssl, zlib, brotli, zstd, libidn2, libssh2, nghttp2, ngtcp2, nghttp3. Their license information has been compiled and is included in the dev package.\n\n## Checksums\n\n| File | Platform | Arch | LibC | SHA256 |\n|------|------|------|--------|--------|\n| curl | linux | aarch64 | glibc | 90f84ac8036141f5c93dec56becb2611e46cb19abe6dcf592cbf73cc3f105822 |\n| curl | linux | aarch64 | musl | 01fe98afe720892f05e7bd69395b1369078dd5aa8dcaa97dce6a19060fda8c5e |\n| curl | linux | armv5 | glibc | 7e7cb880811d5ae5413a54618f26a809196d57bdb14050794a7ccc3ee38b57f0 |\n| curl | linux | armv5 | musl | 14f099d747fffb176a8c21244874d83078598a7ff1fc5ed9828204eae8af89cc |\n| curl | linux | armv7 | glibc | 8929789cc7d589803e658aa360e9273fbc8668a3ba8b93f670fbfae349e66b69 |\n| curl | linux | armv7 | musl | 6ee4eb19d78bd273406c75238c68765356ee0c6421745853724c395e76d56d66 |\n| curl | linux | i686 | glibc | 55be5f57433fec8830c7e930a8b8a0dd5742eaa990ee3515988001e735951aab |\n| curl | linux | loongarch64 | musl | 96115080e16fa3b7a1c6c80035c9ed0723c065b09e125741b24542ed7f856e40 |\n| curl | linux | mips | musl | 13ea68a4f09f3204c0f58714abc7d028489db13827bf2904d45b4e90095c1de6 |\n| curl | linux | mips64 | glibc | 842af407d75729b125efe99584ee806c2ce440270b4452bad7f72681e0ebf075 |\n| curl | linux | mips64 | musl | eda4b84d1a307b68aba3b2c8ed82b7c8b6cfa298b4c0675527a03fe874dcfde3 |\n| curl | linux | mips64el | glibc | 3760c14bcc3e2b0eea1ee2c1dee361e1cf72a0ebb62512ed9726f3cb28eab597 |\n| curl | linux | mips64el | musl | 020459f8693e036cc162374db56466c637d7eb058f0e704b10a023c0dd800625 |\n| curl | linux | mipsel | glibc | 446409736b852b72de2586d3e5436c276a39fddbd7017c3ea8ab5ecfffac2f08 |\n| curl | linux | mipsel | musl | 13d133c26ad8fc363870091c3ea9c3de354c96e7ed9ae2e4efbdb92d59d6bfaf |\n| curl | linux | powerpc | glibc | c5bf5f038775304c82aabf54dc6bd21133df7b9f643d9373f3264c2e50478dd3 |\n| curl | linux | powerpc | musl | 555789a4505dee754b2374240da9c13ef443792c217880d46c5d10fa37696bf3 |\n| curl | linux | powerpc64le | glibc | 857c89cd6205343e3a6006d84e6b37e41642b25f95750180a183d3f6bc0f3f14 |\n| curl | linux | powerpc64le | musl | 746fece775b541ec25828b2a00e05a5c0bf63bcb34557121a5340aac6109579f |\n| curl | linux | riscv64 | glibc | 10c7b4b12a8ba61814d62a02b0d96a0ac97ebca5ec552cf6e04cdc0ea9398199 |\n| curl | linux | riscv64 | musl | 3b3a01e0a5facd261b4a2dc8c485cb1b07bd5cddd9eff2ce5eaf7f9a20adb43e |\n| curl | linux | s390x | glibc | d2a0ddc7cb025af8981f4290fb1d2b9e7152320716b542fafe42793065c68808 |\n| curl | linux | s390x | musl | 461157e9e8054081eb83eed33f6ea81275008903c9faf75596624c788d905d4c |\n| curl | linux | x86_64 | glibc | f1964bc04a43cc8cc7b3dc94f22e2b871c7cefab9b0d0c9a5dfdc24bf6362230 |\n| curl | linux | x86_64 | musl | 02ade2b98e7e79515a895c5ffcf5c711846c953b06ca1fa24c316ea256ce20fc |\n| curl | macos | arm64 |  | 86793761ad1c087ebbe72817ca739199ddfd58948d2dacccbed1e1acbca8a29b |\n| curl | macos | x86_64 |  | f6779fe0b7dfbec717338f3724e1b411a773a0b08d65fde46e6500cee35042f3 |\n| curl | windows | aarch64 |  | 5ab28130012f4fc2895e2c2ee0127215dc57d4a6771b8ca890b971ec0155072d |\n| curl | windows | armv7 |  | 13993f3cd273398f3b1685ecab1c4f6487487aa30b46562a03646494443931e1 |\n| curl | windows | i686 |  | d9a2948d9560d901d808b097d248054d58e5227791515839a8c8af929d45912c |\n| curl | windows | x86_64 |  | ccaa702e74d7742f97de799dbe2973dec6de2afcee22c1a1c4cbd5327827139a |\n\n",
-  "created_at": "2025-05-29T03:21:42Z",
+  "body": "# Static cURL 8.15.0 with HTTP3\n\n## Components\n\n- libcurl/8.15.0\n- OpenSSL/3.5.1\n- zlib/1.3.1\n- brotli/1.1.0\n- zstd/1.5.7\n- c-ares/1.34.5\n- libidn2/2.3.8\n- libpsl/0.21.5\n- libssh2/1.11.1\n- nghttp2/1.66.0\n- nghttp3/1.10.1\n\n## Protocols\n\ndict file ftp ftps gopher gophers http https imap imaps ipfs ipns mqtt pop3 pop3s rtsp scp sftp smb smbs smtp smtps telnet tftp ws wss\n\n## Features\n\nalt-svc asyn-rr AsynchDNS brotli HSTS HTTP2 HTTP3 HTTPS-proxy HTTPSRR IDN IPv6 Largefile libz NTLM PSL SSL SSLS-EXPORT threadsafe TLS-SRP TrackMemory UnixSockets zstd\n\n## License\n\nThis binary includes various open-source software such as curl, openssl, zlib, brotli, zstd, libidn2, libssh2, nghttp2, ngtcp2, nghttp3. Their license information has been compiled and is included in the dev package.\n\n## Checksums\n\n| File | Platform | Arch | LibC | SHA256 |\n|------|------|------|--------|--------|\n| curl | linux | aarch64 | glibc | 3e62a3a7b19a06600223553c9388617b327de8ea19f6bda436286c865f4553e5 |\n| curl | linux | aarch64 | musl | 62f8c78a72a42d7cee79d87cbe30c9d793b648c695c20c5b8c44783a1a672421 |\n| curl | linux | armv5 | glibc | a702263671be06d8a19b8d7c872771fb0ba7acefc0c499ae0b9ebd5780123aed |\n| curl | linux | armv5 | musl | ce3bc6013ef5759c2ad613052a1f568149228872e8253b69505345e1b9903f9a |\n| curl | linux | armv7 | glibc | 93d24f8496dbd314d401c9689165b53307ac7180cdb8990b36b7e45cdc2793f5 |\n| curl | linux | armv7 | musl | e21df6c4639c2a6e39c991f1e749bbab400d51e24c3c9d21b394e282ab5294f5 |\n| curl | linux | i686 | glibc | 9732d95a66f8347fc6b33ba504056a327abf289dabc51b16ee12f448a6f1ccac |\n| curl | linux | loongarch64 | musl | 1b0e69f9f409d5ac49feec4b2322f782bd37b9c665e8e3a6019de5ba02136e37 |\n| curl | linux | mips | musl | 2298301a6ba958dae0e05023a14b92726c297db39ac3e6389fb3f9e550b80995 |\n| curl | linux | mips64 | glibc | f682e4d15eed26a7e827bd8a4bd7fb93ec5581e36399b1a54799f9bf8af4a160 |\n| curl | linux | mips64 | musl | d2d1e6a6b064af1e0c3d55a10c0875b8b3235e7c052113fc1cf44fcb87cb9e7d |\n| curl | linux | mips64el | glibc | 268f50c7ea9daaa3dbf08a2bd1bfbdc49cbd3bf0336994984b5a866a422f4079 |\n| curl | linux | mips64el | musl | 4de81f1d7836e9032ee47233639b3e24ab4aae1aa68bf9cd2188c18f84ff2636 |\n| curl | linux | mipsel | glibc | 1be0d8d6423f98ace26126a836999a0dc96daa9ee210b7ede7da2471f3c41e46 |\n| curl | linux | mipsel | musl | 45cdd00de7e812b5c51641b7a59f0bdf7b3d54e42f87ceca5612b2694ff7d3f5 |\n| curl | linux | powerpc | glibc | 97077d70f3979fc79e773f5751b96e997fe5d9ecebabcc7b8c20cf656f50ca92 |\n| curl | linux | powerpc | musl | d3c7bf942458365e1e85828a66850fe6092906b6e7f7d7daccdc34837af54675 |\n| curl | linux | powerpc64le | glibc | b01a4af543b65c4160cf9b14455be09d95b4957a5b080f89570ce729d070e926 |\n| curl | linux | powerpc64le | musl | e6a7409a31bd61888802cfc0b883286645e668bd42a2c6d53dc4c0ade8ef7cbc |\n| curl | linux | riscv64 | glibc | f8caba89a2ce1c8c0ef7cc7ca7b469eda531f35ae66ad173bae3f9dd4e1d06ac |\n| curl | linux | riscv64 | musl | 05e05e0be3bb0b445cac74372d4adc047b6b49784e771dc209dd87313c54a8ff |\n| curl | linux | s390x | glibc | c58ffa848037b41972d5597fcd55119f9c446c692b13a63f287bd517cca80b88 |\n| curl | linux | s390x | musl | e6b2f2635bcd60753ea3834cc486dbd96a257bae27591561da2b8bc669fafa94 |\n| curl | linux | x86_64 | glibc | 781ed286e6085546738e052caf203bb14c8bcf733e1775c8d5980d0744a6df57 |\n| curl | linux | x86_64 | musl | a7546929eb3b38dff96f5feeae43a84b83c5c85e0ca7a95490f36b575bdf329c |\n| curl | macos | arm64 |  | 9ac9019572adfcfbe30f001f2509c040e139817eda60659d03faa296bd6ad9c1 |\n| curl | macos | x86_64 |  | 26848f400e636080475fc4e0cc3eef9208df15ff8744b64d8353015acbe56237 |\n| curl | windows | aarch64 |  | 5f20456c00e5d46105b2455ac476ebcb49cd0daf9e5bf7e16920ba45ed90aade |\n| curl | windows | armv7 |  | 3bd82ff1d1a3ef611ab421439d642b310171137396a14b9c69f7ca16b907132b |\n| curl | windows | i686 |  | 925414628e54abb342b45dfafb7c80585f14d949675682d6ef40bff52c0fd348 |\n| curl | windows | x86_64 |  | 593ec45977a1e3b6494f7ccdd22de6d3a718231bb7d6bd698a5ac3690604442d |\n\n",
+  "created_at": "2025-06-06T09:15:06Z",
   "draft": false,
-  "html_url": "https://github.com/stunnel/static-curl/releases/tag/8.14.1",
-  "id": 223046897,
+  "html_url": "https://github.com/stunnel/static-curl/releases/tag/8.15.0",
+  "id": 232957033,
   "immutable": false,
-  "name": "8.14.1",
-  "node_id": "RE_kwDOH-OeYM4NS2zx",
+  "name": "8.15.0",
+  "node_id": "RE_kwDOH-OeYM4N4qRp",
   "prerelease": false,
-  "published_at": "2025-06-04T11:46:15Z",
-  "tag_name": "8.14.1",
-  "tarball_url": "https://api.github.com/repos/stunnel/static-curl/tarball/8.14.1",
+  "published_at": "2025-07-16T19:20:02Z",
+  "tag_name": "8.15.0",
+  "tarball_url": "https://api.github.com/repos/stunnel/static-curl/tarball/8.15.0",
   "target_commitish": "main",
-  "upload_url": "https://uploads.github.com/repos/stunnel/static-curl/releases/223046897/assets{?name,label}",
-  "url": "https://api.github.com/repos/stunnel/static-curl/releases/223046897",
-  "zipball_url": "https://api.github.com/repos/stunnel/static-curl/zipball/8.14.1"
+  "upload_url": "https://uploads.github.com/repos/stunnel/static-curl/releases/232957033/assets{?name,label}",
+  "url": "https://api.github.com/repos/stunnel/static-curl/releases/232957033",
+  "zipball_url": "https://api.github.com/repos/stunnel/static-curl/zipball/8.15.0"
 }
