@@ -1,17 +1,87 @@
 {
   "assets": [
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-freebsd-amd64.pkg",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-dragonfly-amd64.tar.gz",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:47Z",
-      "digest": "sha256:db20092b38c8d1aaf11f5a077ee9a77e0108a2387156a47a8bfba9fd6bed678a",
-      "id": 283133974,
+      "created_at": "2025-08-29T01:01:00Z",
+      "digest": "sha256:9bcf23fde50f3755eeaf2c088a1fb4fbc8f010ee5772ce76bc7e6abe94980781",
+      "id": 287336754,
+      "label": "",
+      "name": "fastfetch-dragonfly-amd64.tar.gz",
+      "node_id": "RA_kwDOFEbCDs4RIGky",
+      "size": 6707162,
+      "state": "uploaded",
+      "updated_at": "2025-08-29T01:01:01Z",
+      "uploader": {
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+        "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+        "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+        "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/apps/github-actions",
+        "id": 41898282,
+        "login": "github-actions[bot]",
+        "node_id": "MDM6Qm90NDE4OTgyODI=",
+        "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+        "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+        "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+        "type": "Bot",
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "user_view_type": "public"
+      },
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336754"
+    },
+    {
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-dragonfly-amd64.zip",
+      "content_type": "raw",
+      "created_at": "2025-08-29T01:00:59Z",
+      "digest": "sha256:a968272bda0de9925761e1d6165c563697f36f09c4f98cad54343b4e9eb8edf3",
+      "id": 287336746,
+      "label": "",
+      "name": "fastfetch-dragonfly-amd64.zip",
+      "node_id": "RA_kwDOFEbCDs4RIGkq",
+      "size": 6729183,
+      "state": "uploaded",
+      "updated_at": "2025-08-29T01:01:00Z",
+      "uploader": {
+        "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+        "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+        "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+        "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/apps/github-actions",
+        "id": 41898282,
+        "login": "github-actions[bot]",
+        "node_id": "MDM6Qm90NDE4OTgyODI=",
+        "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+        "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+        "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+        "type": "Bot",
+        "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+        "user_view_type": "public"
+      },
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336746"
+    },
+    {
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-freebsd-amd64.pkg",
+      "content_type": "raw",
+      "created_at": "2025-08-29T01:00:59Z",
+      "digest": "sha256:0e947c9141fa7187f5df520102fe98232a634187b1eb70b4fc1e57e882e684e6",
+      "id": 287336742,
       "label": "",
       "name": "fastfetch-freebsd-amd64.pkg",
-      "node_id": "RA_kwDOFEbCDs4Q4EgW",
-      "size": 2410160,
+      "node_id": "RA_kwDOFEbCDs4RIGkm",
+      "size": 2545660,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:47Z",
+      "updated_at": "2025-08-29T01:00:59Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -33,20 +103,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133974"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336742"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-freebsd-amd64.tar.gz",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-freebsd-amd64.tar.gz",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:46Z",
-      "digest": "sha256:3e23f4d211cefb51abfc41a7c168db5c3da821499217692d06a19bd440ce7647",
-      "id": 283133970,
+      "created_at": "2025-08-29T01:00:58Z",
+      "digest": "sha256:3ad04f699504f7a4a337a76a8582ed723368343f109f4fba46e4e91117a5ebac",
+      "id": 287336740,
       "label": "",
       "name": "fastfetch-freebsd-amd64.tar.gz",
-      "node_id": "RA_kwDOFEbCDs4Q4EgS",
-      "size": 3826601,
+      "node_id": "RA_kwDOFEbCDs4RIGkk",
+      "size": 3951760,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:47Z",
+      "updated_at": "2025-08-29T01:00:58Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -68,20 +138,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133970"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336740"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-freebsd-amd64.zip",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-freebsd-amd64.zip",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:46Z",
-      "digest": "sha256:dbaee2e505896ce7c35a488350470db01b3f0d2eeba413db106d53e77fd309e0",
-      "id": 283133967,
+      "created_at": "2025-08-29T01:00:57Z",
+      "digest": "sha256:19ace055b6c8c5677c7c26488ec80a896eff546fd529824ae6d0e296d9778248",
+      "id": 287336736,
       "label": "",
       "name": "fastfetch-freebsd-amd64.zip",
-      "node_id": "RA_kwDOFEbCDs4Q4EgP",
-      "size": 3851421,
+      "node_id": "RA_kwDOFEbCDs4RIGkg",
+      "size": 3973105,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:46Z",
+      "updated_at": "2025-08-29T01:00:58Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -103,20 +173,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133967"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336736"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-haiku-amd64.tar.gz",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-haiku-amd64.tar.gz",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:45Z",
-      "digest": "sha256:f0743a220320f956f8f5b9bb9c59fcb8ef8adc3ddc3b18624ef55d6ab82ab160",
-      "id": 283133964,
+      "created_at": "2025-08-29T01:00:56Z",
+      "digest": "sha256:eb4bc2d256188b9ea92e85163a8b3cdb9e92a6e66ea27bf494fa04ca9954637b",
+      "id": 287336733,
       "label": "",
       "name": "fastfetch-haiku-amd64.tar.gz",
-      "node_id": "RA_kwDOFEbCDs4Q4EgM",
-      "size": 5695635,
+      "node_id": "RA_kwDOFEbCDs4RIGkd",
+      "size": 5779278,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:46Z",
+      "updated_at": "2025-08-29T01:00:57Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -138,20 +208,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133964"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336733"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-haiku-amd64.zip",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-haiku-amd64.zip",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:44Z",
-      "digest": "sha256:463b41d2bb76e1a6b1c8914e4f3f6eb6d535b2273a866d49ef7eae7dfb4c41f5",
-      "id": 283133962,
+      "created_at": "2025-08-29T01:00:55Z",
+      "digest": "sha256:7bff4b3f9db4e025752300bf8ac1855b9132efb1f424d0d94b6a65d96fa9e4d8",
+      "id": 287336726,
       "label": "",
       "name": "fastfetch-haiku-amd64.zip",
-      "node_id": "RA_kwDOFEbCDs4Q4EgK",
-      "size": 5720214,
+      "node_id": "RA_kwDOFEbCDs4RIGkW",
+      "size": 5798840,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:45Z",
+      "updated_at": "2025-08-29T01:00:56Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -173,20 +243,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133962"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336726"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-linux-aarch64.deb",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-linux-aarch64.deb",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:44Z",
-      "digest": "sha256:01b8226211f6db3fd2a2ac3971d289963ea80e9f694df360b62b58ac3b27ec3d",
-      "id": 283133958,
+      "created_at": "2025-08-29T01:00:55Z",
+      "digest": "sha256:183950c388d3e06b5fb81ef9774ace3c92527a4f8bcd90b6bf8517061ddf74c3",
+      "id": 287336722,
       "label": "",
       "name": "fastfetch-linux-aarch64.deb",
-      "node_id": "RA_kwDOFEbCDs4Q4EgG",
-      "size": 5004890,
+      "node_id": "RA_kwDOFEbCDs4RIGkS",
+      "size": 5173328,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:44Z",
+      "updated_at": "2025-08-29T01:00:55Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -208,20 +278,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133958"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336722"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-linux-aarch64.rpm",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-linux-aarch64.rpm",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:43Z",
-      "digest": "sha256:d48a47afb34a696cee474234c68068701c8d37e2599d62b237346e76a7cdc244",
-      "id": 283133956,
+      "created_at": "2025-08-29T01:00:54Z",
+      "digest": "sha256:be2bc5d8adbb20d82e382fa13f49a8bebf5a8af818e2c228487a17a27114b728",
+      "id": 287336719,
       "label": "",
       "name": "fastfetch-linux-aarch64.rpm",
-      "node_id": "RA_kwDOFEbCDs4Q4EgE",
-      "size": 1178438,
+      "node_id": "RA_kwDOFEbCDs4RIGkP",
+      "size": 1210240,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:44Z",
+      "updated_at": "2025-08-29T01:00:54Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -243,20 +313,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133956"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336719"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-linux-aarch64.tar.gz",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-linux-aarch64.tar.gz",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:43Z",
-      "digest": "sha256:944b68b8d95526d9663800c9a201091d6226df7c7294d18ea7d7fd7250e66ab4",
-      "id": 283133954,
+      "created_at": "2025-08-29T01:00:53Z",
+      "digest": "sha256:93d67b565f611c9d873620e781a24ce6ef5997ebfd14973c44cdce374f17b3d3",
+      "id": 287336714,
       "label": "",
       "name": "fastfetch-linux-aarch64.tar.gz",
-      "node_id": "RA_kwDOFEbCDs4Q4EgC",
-      "size": 5003189,
+      "node_id": "RA_kwDOFEbCDs4RIGkK",
+      "size": 5171598,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:43Z",
+      "updated_at": "2025-08-29T01:00:54Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -278,20 +348,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133954"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336714"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-linux-aarch64.zip",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-linux-aarch64.zip",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:42Z",
-      "digest": "sha256:7cc7747c99a00357abbf9ebc71180e9d354a0a7682e724c20065c2953fde64c8",
-      "id": 283133950,
+      "created_at": "2025-08-29T01:00:52Z",
+      "digest": "sha256:d13ce74a35827f754d4629f0060c06a831b288614cc46870ab93a7ad9b88bb3d",
+      "id": 287336708,
       "label": "",
       "name": "fastfetch-linux-aarch64.zip",
-      "node_id": "RA_kwDOFEbCDs4Q4Ef-",
-      "size": 5026293,
+      "node_id": "RA_kwDOFEbCDs4RIGkE",
+      "size": 5196163,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:42Z",
+      "updated_at": "2025-08-29T01:00:53Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -313,20 +383,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133950"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336708"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-linux-amd64.deb",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-linux-amd64.deb",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:41Z",
-      "digest": "sha256:49a98e8ac74d6d893b4c0ba3d982e75432c7e9bc34795cdfd85a3f718fdfb668",
-      "id": 283133948,
+      "created_at": "2025-08-29T01:00:51Z",
+      "digest": "sha256:eb53cd78a52c8f18145c9da19fcb010d89445dce3f30425dc278a1118bb2c45c",
+      "id": 287336702,
       "label": "",
       "name": "fastfetch-linux-amd64.deb",
-      "node_id": "RA_kwDOFEbCDs4Q4Ef8",
-      "size": 5070312,
+      "node_id": "RA_kwDOFEbCDs4RIGj-",
+      "size": 5242410,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:42Z",
+      "updated_at": "2025-08-29T01:00:52Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -348,20 +418,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133948"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336702"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-linux-amd64.rpm",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-linux-amd64.rpm",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:41Z",
-      "digest": "sha256:e892ba5172c83b5b6c3b4723eb114bc287b7b62d12e0e02b2e8d7c99d65c7dfd",
-      "id": 283133947,
+      "created_at": "2025-08-29T01:00:50Z",
+      "digest": "sha256:81e908cb321ea76fde4a81d013718466050dbf0ef47eff3ef35ebd37f494cffb",
+      "id": 287336698,
       "label": "",
       "name": "fastfetch-linux-amd64.rpm",
-      "node_id": "RA_kwDOFEbCDs4Q4Ef7",
-      "size": 1180674,
+      "node_id": "RA_kwDOFEbCDs4RIGj6",
+      "size": 1209433,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:41Z",
+      "updated_at": "2025-08-29T01:00:51Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -383,20 +453,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133947"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336698"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-linux-amd64.tar.gz",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-linux-amd64.tar.gz",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:40Z",
-      "digest": "sha256:56c26771cb58c510af852c0dd35b4348c16d2c0cbf5466f58c597e39a40518f1",
-      "id": 283133943,
+      "created_at": "2025-08-29T01:00:49Z",
+      "digest": "sha256:00b4a05a7163c5d6fb756e8a57ad23b75e43d94d14feb699335c68a117688d75",
+      "id": 287336694,
       "label": "",
       "name": "fastfetch-linux-amd64.tar.gz",
-      "node_id": "RA_kwDOFEbCDs4Q4Ef3",
-      "size": 5069264,
+      "node_id": "RA_kwDOFEbCDs4RIGj2",
+      "size": 5240476,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:41Z",
+      "updated_at": "2025-08-29T01:00:50Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -418,20 +488,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133943"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336694"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-linux-amd64.zip",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-linux-amd64.zip",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:40Z",
-      "digest": "sha256:c1e3d792408f52bb8a786e81975db1f7dea41cd46dd5b97db47a07b9e125b874",
-      "id": 283133938,
+      "created_at": "2025-08-29T01:00:48Z",
+      "digest": "sha256:b0fa2500c9362e71fe5493d09533d3dbf881e6ffab0cfb282d57e73c8e7a0cbc",
+      "id": 287336690,
       "label": "",
       "name": "fastfetch-linux-amd64.zip",
-      "node_id": "RA_kwDOFEbCDs4Q4Efy",
-      "size": 5092137,
+      "node_id": "RA_kwDOFEbCDs4RIGjy",
+      "size": 5263989,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:40Z",
+      "updated_at": "2025-08-29T01:00:49Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -453,20 +523,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133938"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336690"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-linux-armv6l.deb",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-linux-armv6l.deb",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:39Z",
-      "digest": "sha256:d6344aadb32ddd3e0508fa44dc9d4c1ad172c2e857689a207ac86e71e2263f96",
-      "id": 283133937,
+      "created_at": "2025-08-29T01:00:47Z",
+      "digest": "sha256:1bb5c7d80258175a377950accfca07cb4075056ca210146d32764ab61902ec98",
+      "id": 287336685,
       "label": "",
       "name": "fastfetch-linux-armv6l.deb",
-      "node_id": "RA_kwDOFEbCDs4Q4Efx",
-      "size": 4672518,
+      "node_id": "RA_kwDOFEbCDs4RIGjt",
+      "size": 4868448,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:39Z",
+      "updated_at": "2025-08-29T01:00:47Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -488,20 +558,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133937"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336685"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-linux-armv6l.rpm",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-linux-armv6l.rpm",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:38Z",
-      "digest": "sha256:68fb360d872d88e80b5187cd8a9d962da8c283ab9fb065836875d645a720f34c",
-      "id": 283133936,
+      "created_at": "2025-08-29T01:00:46Z",
+      "digest": "sha256:7de98c9da45ac5a9ee800cf1bb38710823efa5c15ba6c5e7eb7a32a7dcdfbc98",
+      "id": 287336678,
       "label": "",
       "name": "fastfetch-linux-armv6l.rpm",
-      "node_id": "RA_kwDOFEbCDs4Q4Efw",
-      "size": 4666639,
+      "node_id": "RA_kwDOFEbCDs4RIGjm",
+      "size": 4861085,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:39Z",
+      "updated_at": "2025-08-29T01:00:47Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -523,20 +593,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133936"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336678"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-linux-armv6l.tar.gz",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-linux-armv6l.tar.gz",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:37Z",
-      "digest": "sha256:d84cdefe6c6cf7b1d44db516841bde5407a9f7232b94fd63cb948c36babc10aa",
-      "id": 283133935,
+      "created_at": "2025-08-29T01:00:45Z",
+      "digest": "sha256:20e586fbdd1214305e02e1c4110a1d28116604bea3434130e8bda46e3f9104bb",
+      "id": 287336675,
       "label": "",
       "name": "fastfetch-linux-armv6l.tar.gz",
-      "node_id": "RA_kwDOFEbCDs4Q4Efv",
-      "size": 4674296,
+      "node_id": "RA_kwDOFEbCDs4RIGjj",
+      "size": 4866347,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:38Z",
+      "updated_at": "2025-08-29T01:00:46Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -558,20 +628,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133935"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336675"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-linux-armv6l.zip",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-linux-armv6l.zip",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:37Z",
-      "digest": "sha256:640454c1a8b50750c81e4dcd177271aa5788ae81dab987c42fba66c65c55ab85",
-      "id": 283133934,
+      "created_at": "2025-08-29T01:00:42Z",
+      "digest": "sha256:f2a4f076608c3822acd4ede24d7962a671478e150e6b3be74c1a1842218169e4",
+      "id": 287336655,
       "label": "",
       "name": "fastfetch-linux-armv6l.zip",
-      "node_id": "RA_kwDOFEbCDs4Q4Efu",
-      "size": 4695646,
+      "node_id": "RA_kwDOFEbCDs4RIGjP",
+      "size": 4889250,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:37Z",
+      "updated_at": "2025-08-29T01:00:45Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -593,20 +663,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133934"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336655"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-linux-armv7l.deb",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-linux-armv7l.deb",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:36Z",
-      "digest": "sha256:9100f2244c670bd64d2255c3dee4a921680ec514003b75f954c8a722a5cbfc62",
-      "id": 283133931,
+      "created_at": "2025-08-29T01:00:42Z",
+      "digest": "sha256:22727f0806232dc05fadab7fdc44465ca332f6a31cf7db22cca30d5ff7bbb455",
+      "id": 287336649,
       "label": "",
       "name": "fastfetch-linux-armv7l.deb",
-      "node_id": "RA_kwDOFEbCDs4Q4Efr",
-      "size": 4713562,
+      "node_id": "RA_kwDOFEbCDs4RIGjJ",
+      "size": 4871156,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:37Z",
+      "updated_at": "2025-08-29T01:00:42Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -628,20 +698,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133931"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336649"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-linux-armv7l.rpm",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-linux-armv7l.rpm",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:35Z",
-      "digest": "sha256:e6be2badee7c91860261304aec5a429e178ff05337ab476c93f5926c5e62b974",
-      "id": 283133928,
+      "created_at": "2025-08-29T01:00:40Z",
+      "digest": "sha256:823082b00ee223fb95b57c5d22e1a893027a311172b0afac03c7c872bcea5fee",
+      "id": 287336642,
       "label": "",
       "name": "fastfetch-linux-armv7l.rpm",
-      "node_id": "RA_kwDOFEbCDs4Q4Efo",
-      "size": 4701709,
+      "node_id": "RA_kwDOFEbCDs4RIGjC",
+      "size": 4858183,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:36Z",
+      "updated_at": "2025-08-29T01:00:41Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -663,20 +733,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133928"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336642"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-linux-armv7l.tar.gz",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-linux-armv7l.tar.gz",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:35Z",
-      "digest": "sha256:eace557f8201d6adaac7c720417c8298ad5557e62e4f979717baf22575b1beae",
-      "id": 283133926,
+      "created_at": "2025-08-29T01:00:39Z",
+      "digest": "sha256:e7505a303f9634812b4e45e854a3c1e7176ffc60174db08c11d9b28a6634f47e",
+      "id": 287336637,
       "label": "",
       "name": "fastfetch-linux-armv7l.tar.gz",
-      "node_id": "RA_kwDOFEbCDs4Q4Efm",
-      "size": 4713246,
+      "node_id": "RA_kwDOFEbCDs4RIGi9",
+      "size": 4868462,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:35Z",
+      "updated_at": "2025-08-29T01:00:40Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -698,20 +768,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133926"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336637"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-linux-armv7l.zip",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-linux-armv7l.zip",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:34Z",
-      "digest": "sha256:70f9ffb97761efef7fb3cccabe1cc5c60a3bef475fdd73c3c9ded9e18c2e47ad",
-      "id": 283133925,
+      "created_at": "2025-08-29T01:00:38Z",
+      "digest": "sha256:6eadf66a3148d1faf707353350d3df350cd7ac56c194998a590dfb51185df71c",
+      "id": 287336628,
       "label": "",
       "name": "fastfetch-linux-armv7l.zip",
-      "node_id": "RA_kwDOFEbCDs4Q4Efl",
-      "size": 4735178,
+      "node_id": "RA_kwDOFEbCDs4RIGi0",
+      "size": 4890928,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:34Z",
+      "updated_at": "2025-08-29T01:00:39Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -733,20 +803,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133925"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336628"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-linux-ppc64le.deb",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-linux-ppc64le.deb",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:33Z",
-      "digest": "sha256:f28747aebffd32d1b4e97c8ec8858c5ce6ff07fc93f04d6aa3f13a0eecb8de84",
-      "id": 283133922,
+      "created_at": "2025-08-29T01:00:37Z",
+      "digest": "sha256:d50ba856918d4a3e82fffbae5ba90a17df109d5d4192de3db768d45e4346f26e",
+      "id": 287336621,
       "label": "",
       "name": "fastfetch-linux-ppc64le.deb",
-      "node_id": "RA_kwDOFEbCDs4Q4Efi",
-      "size": 4937758,
+      "node_id": "RA_kwDOFEbCDs4RIGit",
+      "size": 5114180,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:34Z",
+      "updated_at": "2025-08-29T01:00:38Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -768,20 +838,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133922"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336621"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-linux-ppc64le.rpm",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-linux-ppc64le.rpm",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:33Z",
-      "digest": "sha256:1ce879420b98d9467c8f627b4fe4ff19b131da28bf4b9fe327bfcada0f85b1b7",
-      "id": 283133921,
+      "created_at": "2025-08-29T01:00:36Z",
+      "digest": "sha256:e532975dd11b5b54f177909f33524b56abe84bce8b3d1628e5e8ba0510503d93",
+      "id": 287336617,
       "label": "",
       "name": "fastfetch-linux-ppc64le.rpm",
-      "node_id": "RA_kwDOFEbCDs4Q4Efh",
-      "size": 4909660,
+      "node_id": "RA_kwDOFEbCDs4RIGip",
+      "size": 5083961,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:33Z",
+      "updated_at": "2025-08-29T01:00:37Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -803,20 +873,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133921"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336617"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-linux-ppc64le.tar.gz",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-linux-ppc64le.tar.gz",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:32Z",
-      "digest": "sha256:753cf7fd6f021d52ae44a8d97a8f8b856848d696a0cbde5339be15a5aa7c6801",
-      "id": 283133919,
+      "created_at": "2025-08-29T01:00:35Z",
+      "digest": "sha256:f1477893538fb31a7fd0748ceb865a3a112e2414ef8027a5db7d17ba45db7609",
+      "id": 287336615,
       "label": "",
       "name": "fastfetch-linux-ppc64le.tar.gz",
-      "node_id": "RA_kwDOFEbCDs4Q4Eff",
-      "size": 4935148,
+      "node_id": "RA_kwDOFEbCDs4RIGin",
+      "size": 5112499,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:32Z",
+      "updated_at": "2025-08-29T01:00:36Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -838,20 +908,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133919"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336615"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-linux-ppc64le.zip",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-linux-ppc64le.zip",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:31Z",
-      "digest": "sha256:78bf8cdb1b4a6541fdb318e7208eb5468f39a1337c719f25a1201f8b77105bcb",
-      "id": 283133918,
+      "created_at": "2025-08-29T01:00:34Z",
+      "digest": "sha256:065ced31bd00b39fba749ba367311b650e8657b9d48b9af729161ab25980d07a",
+      "id": 287336610,
       "label": "",
       "name": "fastfetch-linux-ppc64le.zip",
-      "node_id": "RA_kwDOFEbCDs4Q4Efe",
-      "size": 4959223,
+      "node_id": "RA_kwDOFEbCDs4RIGii",
+      "size": 5136114,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:32Z",
+      "updated_at": "2025-08-29T01:00:35Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -873,20 +943,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133918"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336610"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-linux-riscv64.deb",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-linux-riscv64.deb",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:31Z",
-      "digest": "sha256:b9f1ca27202b5c22067fa76c98b553fa3668c9f1cebed6220d208281597f3637",
-      "id": 283133917,
+      "created_at": "2025-08-29T01:00:33Z",
+      "digest": "sha256:e9027e491f5723e74d7688654b0dfbbf8ca60cc4979bb401fe30724b372993df",
+      "id": 287336606,
       "label": "",
       "name": "fastfetch-linux-riscv64.deb",
-      "node_id": "RA_kwDOFEbCDs4Q4Efd",
-      "size": 4510476,
+      "node_id": "RA_kwDOFEbCDs4RIGie",
+      "size": 4695608,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:31Z",
+      "updated_at": "2025-08-29T01:00:34Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -908,20 +978,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133917"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336606"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-linux-riscv64.rpm",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-linux-riscv64.rpm",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:30Z",
-      "digest": "sha256:e873f3fc8eea81db0ba2fa6b2c5deb3729b7ca5064a38fb54cfc064aa2f7b77a",
-      "id": 283133915,
+      "created_at": "2025-08-29T01:00:33Z",
+      "digest": "sha256:cd1c79385fbd129bef7c9f5889ac3e8d8dcd6cae2373baf70353a9772630345f",
+      "id": 287336603,
       "label": "",
       "name": "fastfetch-linux-riscv64.rpm",
-      "node_id": "RA_kwDOFEbCDs4Q4Efb",
-      "size": 906303,
+      "node_id": "RA_kwDOFEbCDs4RIGib",
+      "size": 946984,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:30Z",
+      "updated_at": "2025-08-29T01:00:33Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -943,20 +1013,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133915"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336603"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-linux-riscv64.tar.gz",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-linux-riscv64.tar.gz",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:30Z",
-      "digest": "sha256:5330392d55efb62f267ebbfef0684ee00ee4a3d3f5249e9c4de1feb929678965",
-      "id": 283133913,
+      "created_at": "2025-08-29T01:00:32Z",
+      "digest": "sha256:c4e3e0acb7c1e4c11c7b23dc0099931e1cff9aac6dceedc2a3c369bde99ff375",
+      "id": 287336599,
       "label": "",
       "name": "fastfetch-linux-riscv64.tar.gz",
-      "node_id": "RA_kwDOFEbCDs4Q4EfZ",
-      "size": 4510393,
+      "node_id": "RA_kwDOFEbCDs4RIGiX",
+      "size": 4695298,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:30Z",
+      "updated_at": "2025-08-29T01:00:33Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -978,20 +1048,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133913"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336599"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-linux-riscv64.zip",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-linux-riscv64.zip",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:29Z",
-      "digest": "sha256:4bdd84b87e969131f8ed2d9ce93e077585f2c8e08a692fd228a7080f3dac408c",
-      "id": 283133910,
+      "created_at": "2025-08-29T01:00:25Z",
+      "digest": "sha256:28a92aa8114286c71b033b074d1abffef005bca831130a62dfa56fe08cb527bb",
+      "id": 287336559,
       "label": "",
       "name": "fastfetch-linux-riscv64.zip",
-      "node_id": "RA_kwDOFEbCDs4Q4EfW",
-      "size": 4533736,
+      "node_id": "RA_kwDOFEbCDs4RIGhv",
+      "size": 4717988,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:29Z",
+      "updated_at": "2025-08-29T01:00:31Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1013,20 +1083,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133910"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336559"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-linux-s390x.deb",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-linux-s390x.deb",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:28Z",
-      "digest": "sha256:f8ffbd75857c38befd44aadcfa828988f9736ac1794e7340d5b83222ec9a8a99",
-      "id": 283133909,
+      "created_at": "2025-08-29T01:00:24Z",
+      "digest": "sha256:2d1d99a281fda9833c5b371f906adec9381d50a2e8c970bc541b38074c23183f",
+      "id": 287336554,
       "label": "",
       "name": "fastfetch-linux-s390x.deb",
-      "node_id": "RA_kwDOFEbCDs4Q4EfV",
-      "size": 4843806,
+      "node_id": "RA_kwDOFEbCDs4RIGhq",
+      "size": 4999702,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:29Z",
+      "updated_at": "2025-08-29T01:00:24Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1048,20 +1118,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133909"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336554"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-linux-s390x.rpm",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-linux-s390x.rpm",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:28Z",
-      "digest": "sha256:24de317747740b8f4aec0e77e56a133566d0489cc0e64951729ab2d8b241491a",
-      "id": 283133908,
+      "created_at": "2025-08-29T01:00:23Z",
+      "digest": "sha256:729ad47f9e09e01976c7ea655284bf096d022763fc40cb5edf9f6217c0511c8f",
+      "id": 287336551,
       "label": "",
       "name": "fastfetch-linux-s390x.rpm",
-      "node_id": "RA_kwDOFEbCDs4Q4EfU",
-      "size": 4788775,
+      "node_id": "RA_kwDOFEbCDs4RIGhn",
+      "size": 4940063,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:28Z",
+      "updated_at": "2025-08-29T01:00:23Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1083,20 +1153,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133908"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336551"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-linux-s390x.tar.gz",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-linux-s390x.tar.gz",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:27Z",
-      "digest": "sha256:e75e61d0ad4d320691796284f9b9569739c4243b4f2e5f7eec520f4049188490",
-      "id": 283133905,
+      "created_at": "2025-08-29T01:00:21Z",
+      "digest": "sha256:1ec8def5a6d6664a8302d9e31618de9dd40e1d44af077c90fbbce95d8ed8f84f",
+      "id": 287336534,
       "label": "",
       "name": "fastfetch-linux-s390x.tar.gz",
-      "node_id": "RA_kwDOFEbCDs4Q4EfR",
-      "size": 4843033,
+      "node_id": "RA_kwDOFEbCDs4RIGhW",
+      "size": 4997536,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:27Z",
+      "updated_at": "2025-08-29T01:00:22Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1118,20 +1188,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133905"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336534"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-linux-s390x.zip",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-linux-s390x.zip",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:26Z",
-      "digest": "sha256:65d69ad8dfde2bfc366b0fe9c8adea8edf8ce7ad85f315f8064202c2dcebe0e4",
-      "id": 283133904,
+      "created_at": "2025-08-29T01:00:20Z",
+      "digest": "sha256:2699f349372d4142d76aa7a1d7e2c83236176f4a1f3a3ee3b5af2555497042a8",
+      "id": 287336528,
       "label": "",
       "name": "fastfetch-linux-s390x.zip",
-      "node_id": "RA_kwDOFEbCDs4Q4EfQ",
-      "size": 4866506,
+      "node_id": "RA_kwDOFEbCDs4RIGhQ",
+      "size": 5021290,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:27Z",
+      "updated_at": "2025-08-29T01:00:21Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1153,20 +1223,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133904"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336528"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-macos-aarch64.tar.gz",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-macos-aarch64.tar.gz",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:26Z",
-      "digest": "sha256:72160fe141f5a4a1bf6a49e0ffa29bdffc49e7489370f1e14e67467eb6e6ed90",
-      "id": 283133903,
+      "created_at": "2025-08-29T01:00:19Z",
+      "digest": "sha256:2d212c30a6d0747bcb2a0c0d2b41d035e97e82f899b29aed65c6ff3da576e43f",
+      "id": 287336520,
       "label": "",
       "name": "fastfetch-macos-aarch64.tar.gz",
-      "node_id": "RA_kwDOFEbCDs4Q4EfP",
-      "size": 740495,
+      "node_id": "RA_kwDOFEbCDs4RIGhI",
+      "size": 778426,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:26Z",
+      "updated_at": "2025-08-29T01:00:20Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1188,20 +1258,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133903"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336520"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-macos-aarch64.zip",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-macos-aarch64.zip",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:25Z",
-      "digest": "sha256:64509a813a04cdf7a65d393f52ec6072acabf86fdbe45aadce004a2699a15774",
-      "id": 283133902,
+      "created_at": "2025-08-29T01:00:19Z",
+      "digest": "sha256:63b46118edbec0c679c726f00ec3009a444a898d43d2b2b89a95792d5e51e5b3",
+      "id": 287336518,
       "label": "",
       "name": "fastfetch-macos-aarch64.zip",
-      "node_id": "RA_kwDOFEbCDs4Q4EfO",
-      "size": 763368,
+      "node_id": "RA_kwDOFEbCDs4RIGhG",
+      "size": 800509,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:26Z",
+      "updated_at": "2025-08-29T01:00:19Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1223,20 +1293,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133902"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336518"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-macos-amd64.tar.gz",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-macos-amd64.tar.gz",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:25Z",
-      "digest": "sha256:318a13f5a0442878a3d345387362820da10758bb9914cac4c5ee53936d389868",
-      "id": 283133901,
+      "created_at": "2025-08-29T01:00:18Z",
+      "digest": "sha256:09b326a047a6eb1eb9c1f04e312ce3491e6ab6320bafe453dc546e327a44152c",
+      "id": 287336517,
       "label": "",
       "name": "fastfetch-macos-amd64.tar.gz",
-      "node_id": "RA_kwDOFEbCDs4Q4EfN",
-      "size": 783073,
+      "node_id": "RA_kwDOFEbCDs4RIGhF",
+      "size": 821512,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:25Z",
+      "updated_at": "2025-08-29T01:00:19Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1258,20 +1328,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133901"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336517"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-macos-amd64.zip",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-macos-amd64.zip",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:25Z",
-      "digest": "sha256:00df83ff74654babcf3d3435be4a474980e599fb3f11007e0694ec2ad6431c72",
-      "id": 283133900,
+      "created_at": "2025-08-29T01:00:18Z",
+      "digest": "sha256:7649dbae526c7e39cc25fcb46837558853fa332a8e9b998985a1d6c96087c063",
+      "id": 287336514,
       "label": "",
       "name": "fastfetch-macos-amd64.zip",
-      "node_id": "RA_kwDOFEbCDs4Q4EfM",
-      "size": 805781,
+      "node_id": "RA_kwDOFEbCDs4RIGhC",
+      "size": 843895,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:25Z",
+      "updated_at": "2025-08-29T01:00:18Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1293,20 +1363,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133900"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336514"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-musl-amd64.tar.gz",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-musl-amd64.tar.gz",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:24Z",
-      "digest": "sha256:fd7cef60acab49119732572a5bcf51a9e93593c63e2709488a68b9d3ed98571a",
-      "id": 283133899,
+      "created_at": "2025-08-29T01:00:15Z",
+      "digest": "sha256:943f2ef2f449c217b02f158c862d5a08bfda1912ae991dbabd3ce5bc15e19585",
+      "id": 287336499,
       "label": "",
       "name": "fastfetch-musl-amd64.tar.gz",
-      "node_id": "RA_kwDOFEbCDs4Q4EfL",
-      "size": 4893541,
+      "node_id": "RA_kwDOFEbCDs4RIGgz",
+      "size": 5043921,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:24Z",
+      "updated_at": "2025-08-29T01:00:17Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1328,20 +1398,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133899"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336499"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-musl-amd64.zip",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-musl-amd64.zip",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:23Z",
-      "digest": "sha256:fc9dd14b104c44f2cbdd0014ce465716eacb726fe3ccdaf5d4c12f2e1be23b38",
-      "id": 283133898,
+      "created_at": "2025-08-29T01:00:14Z",
+      "digest": "sha256:a30880ebfe5f166dc6bbdbdabcc8c056418f26714f1e0410e0e794fc5aa815c0",
+      "id": 287336479,
       "label": "",
       "name": "fastfetch-musl-amd64.zip",
-      "node_id": "RA_kwDOFEbCDs4Q4EfK",
-      "size": 4917570,
+      "node_id": "RA_kwDOFEbCDs4RIGgf",
+      "size": 5061874,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:24Z",
+      "updated_at": "2025-08-29T01:00:14Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1363,20 +1433,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133898"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336479"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-netbsd-amd64.tar.gz",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-netbsd-amd64.tar.gz",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:22Z",
-      "digest": "sha256:b512a487a235fa87c8656f59aefd8b50c410170f4d23e61e45d43df798565aaf",
-      "id": 283133897,
+      "created_at": "2025-08-29T01:00:12Z",
+      "digest": "sha256:f2617d511783918e0ecc7bd766e30ffda00ea4c8f704a908dd5d59244a4ec7b6",
+      "id": 287336469,
       "label": "",
       "name": "fastfetch-netbsd-amd64.tar.gz",
-      "node_id": "RA_kwDOFEbCDs4Q4EfJ",
-      "size": 6773099,
+      "node_id": "RA_kwDOFEbCDs4RIGgV",
+      "size": 6876201,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:23Z",
+      "updated_at": "2025-08-29T01:00:13Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1398,20 +1468,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133897"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336469"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-netbsd-amd64.zip",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-netbsd-amd64.zip",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:22Z",
-      "digest": "sha256:7ada5befb31c28b9fa32cf5a16c85b3f1cb7fb8f586c354e3ca9b5aa66ef009a",
-      "id": 283133895,
+      "created_at": "2025-08-29T01:00:11Z",
+      "digest": "sha256:65df74ef60e7c3c74c5540b1bfd0dceac18afb033cc19bb060df3107551c188f",
+      "id": 287336461,
       "label": "",
       "name": "fastfetch-netbsd-amd64.zip",
-      "node_id": "RA_kwDOFEbCDs4Q4EfH",
-      "size": 6797174,
+      "node_id": "RA_kwDOFEbCDs4RIGgN",
+      "size": 6898875,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:22Z",
+      "updated_at": "2025-08-29T01:00:12Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1433,20 +1503,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133895"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336461"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-openbsd-amd64.tar.gz",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-openbsd-amd64.tar.gz",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:21Z",
-      "digest": "sha256:94fd97c389cef381b7d7f37136d1f51331c7fa6c7f8aaf2c5270da17c5043840",
-      "id": 283133892,
+      "created_at": "2025-08-29T01:00:11Z",
+      "digest": "sha256:70b341f938c5835000859e1b799d768a506f75502c5d650bf84495f2527f7bd5",
+      "id": 287336456,
       "label": "",
       "name": "fastfetch-openbsd-amd64.tar.gz",
-      "node_id": "RA_kwDOFEbCDs4Q4EfE",
-      "size": 4249472,
+      "node_id": "RA_kwDOFEbCDs4RIGgI",
+      "size": 4319407,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:21Z",
+      "updated_at": "2025-08-29T01:00:11Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1468,20 +1538,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133892"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336456"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-openbsd-amd64.zip",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-openbsd-amd64.zip",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:20Z",
-      "digest": "sha256:099671612359a6f50f08776e2a0fc5c5e59e629d282af1f10df9a7a50dbdf12b",
-      "id": 283133890,
+      "created_at": "2025-08-29T01:00:10Z",
+      "digest": "sha256:636b50ad8a7b8e4fa6b5807f25ddc2afddaac83bb033310172bdc88699952a53",
+      "id": 287336449,
       "label": "",
       "name": "fastfetch-openbsd-amd64.zip",
-      "node_id": "RA_kwDOFEbCDs4Q4EfC",
-      "size": 4271899,
+      "node_id": "RA_kwDOFEbCDs4RIGgB",
+      "size": 4341832,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:21Z",
+      "updated_at": "2025-08-29T01:00:10Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1503,20 +1573,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133890"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336449"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-sunos-i386.tar.gz",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-sunos-i386.tar.gz",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:20Z",
-      "digest": "sha256:e97eab3c55e8137112653700fa6920b1e012b871e0df61ec695176f0e66d289c",
-      "id": 283133889,
+      "created_at": "2025-08-29T01:00:09Z",
+      "digest": "sha256:6c1a8dd32b26ce98af9c3a31abafd0e5cae3253f33bc76e83c30fc82c2c9ec72",
+      "id": 287336443,
       "label": "",
       "name": "fastfetch-sunos-i386.tar.gz",
-      "node_id": "RA_kwDOFEbCDs4Q4EfB",
-      "size": 6578644,
+      "node_id": "RA_kwDOFEbCDs4RIGf7",
+      "size": 6675427,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:20Z",
+      "updated_at": "2025-08-29T01:00:09Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1538,20 +1608,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133889"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336443"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-sunos-i386.zip",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-sunos-i386.zip",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:19Z",
-      "digest": "sha256:6964ac2d352364a15b3b6d4986605afd6ecf3ca446a68e5f14ab6790e1ff6fe8",
-      "id": 283133886,
+      "created_at": "2025-08-29T01:00:08Z",
+      "digest": "sha256:b2214e894066f4ce30b66bde27d2b199341c70d4852e3733dc87a818c9916b61",
+      "id": 287336436,
       "label": "",
       "name": "fastfetch-sunos-i386.zip",
-      "node_id": "RA_kwDOFEbCDs4Q4Ee-",
-      "size": 6600507,
+      "node_id": "RA_kwDOFEbCDs4RIGf0",
+      "size": 6697600,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:20Z",
+      "updated_at": "2025-08-29T01:00:08Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1573,20 +1643,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133886"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336436"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-windows-aarch64.7z",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-windows-aarch64.7z",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:19Z",
-      "digest": "sha256:df9d79c21d99f21dc6ac652992c320ec57f2838d857a19ed54036233e0e4e29c",
-      "id": 283133884,
+      "created_at": "2025-08-29T01:00:07Z",
+      "digest": "sha256:e656298d08712c760fa2950ed21676c70fe87420ec67bd63e8e7854009d42a43",
+      "id": 287336433,
       "label": "",
       "name": "fastfetch-windows-aarch64.7z",
-      "node_id": "RA_kwDOFEbCDs4Q4Ee8",
-      "size": 2451336,
+      "node_id": "RA_kwDOFEbCDs4RIGfx",
+      "size": 2511161,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:19Z",
+      "updated_at": "2025-08-29T01:00:07Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1608,20 +1678,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133884"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336433"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-windows-aarch64.zip",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-windows-aarch64.zip",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:18Z",
-      "digest": "sha256:b998eb10bbe8f87a5093ecc8d7878a9b0f773eded744ef04bc7e657fd9f3abbb",
-      "id": 283133879,
+      "created_at": "2025-08-29T01:00:06Z",
+      "digest": "sha256:95faad3b37a7db34e7b7cb2f4c5838c6a0fc49e92ded853575bb7a32f31030c7",
+      "id": 287336430,
       "label": "",
       "name": "fastfetch-windows-aarch64.zip",
-      "node_id": "RA_kwDOFEbCDs4Q4Ee3",
-      "size": 4134572,
+      "node_id": "RA_kwDOFEbCDs4RIGfu",
+      "size": 4243541,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:18Z",
+      "updated_at": "2025-08-29T01:00:06Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1643,20 +1713,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133879"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336430"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-windows-amd64.7z",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-windows-amd64.7z",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:17Z",
-      "digest": "sha256:c01c2d5592a8834cae61687aa160ca768e1b7d83427ec9a5a14a16651c23b5d9",
-      "id": 283133878,
+      "created_at": "2025-08-29T01:00:05Z",
+      "digest": "sha256:97a07dcb7b6fbe10a2bed0e37c95b73625f5a32ccba834ad99c4c7217e0a1107",
+      "id": 287336428,
       "label": "",
       "name": "fastfetch-windows-amd64.7z",
-      "node_id": "RA_kwDOFEbCDs4Q4Ee2",
-      "size": 2516430,
+      "node_id": "RA_kwDOFEbCDs4RIGfs",
+      "size": 2575564,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:18Z",
+      "updated_at": "2025-08-29T01:00:05Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1678,20 +1748,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133878"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336428"
     },
     {
-      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.50.2/fastfetch-windows-amd64.zip",
+      "browser_download_url": "https://github.com/fastfetch-cli/fastfetch/releases/download/2.51.0/fastfetch-windows-amd64.zip",
       "content_type": "raw",
-      "created_at": "2025-08-16T14:07:17Z",
-      "digest": "sha256:173ed7dcee64a2c24706832809104f66ba316dc861f3e2383683fecc72426909",
-      "id": 283133877,
+      "created_at": "2025-08-29T01:00:04Z",
+      "digest": "sha256:92cf17c31e79f5f1311b931d6a2cbf4f6e383261a1a0446c2c6d7874b80c09ff",
+      "id": 287336422,
       "label": "",
       "name": "fastfetch-windows-amd64.zip",
-      "node_id": "RA_kwDOFEbCDs4Q4Ee1",
-      "size": 4311792,
+      "node_id": "RA_kwDOFEbCDs4RIGfm",
+      "size": 4422179,
       "state": "uploaded",
-      "updated_at": "2025-08-16T14:07:17Z",
+      "updated_at": "2025-08-29T01:00:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1713,10 +1783,10 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/283133877"
+      "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/assets/287336422"
     }
   ],
-  "assets_url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/240375921/assets",
+  "assets_url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/243344574/assets",
   "author": {
     "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
     "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1738,21 +1808,21 @@
     "url": "https://api.github.com/users/github-actions%5Bbot%5D",
     "user_view_type": "public"
   },
-  "body": "Since 2.50.0:\r\n\r\nChanges:\r\n* Keys in JSON configuration files are now case-sensitive, as stated in v2.49.0.\r\n    * This is a breaking change, but it should not affect most users as long as your config file passes JSON schema validation.\r\n* All module config flags have been removed, as stated in v2.49.0.\r\n    * To configure modules via the command line, use: `echo '{\"modules\": [{\"type\":\"custom\",\"format\":\"Hello Fastfetch!\"}]}' | fastfetch -c -`.\r\n* The percent bar config `display.bar.*` options have been replaced with a more organized, nested object structure.\r\n    * `display.bar.charElapsed` has been renamed to `display.bar.char.elapsed`.\r\n    * `display.bar.charTotal` has been renamed to `display.bar.char.total`.\r\n    * `display.bar.borderLeft` has been renamed to `display.bar.border.left`.\r\n    * `display.bar.borderRight` has been renamed to `display.bar.border.right`.\r\n* The undocumented flag `--load-config` has been removed.\r\n    * Use `--config` or `-c` instead.\r\n* Flashfetch, a simplified fastfetch variant that used a hardcoded module list with direct function calls to reduce startup overhead, has been changed to a version that aims to match neofetch's behavior as closely as possible, for demonstration purposes.\r\n    * Flashfetch is intended to be built from source (like [st](https://st.suckless.org/)). We do not provide prebuilt binaries in distributions.\r\n\r\nFeatures:\r\n* Added support for reading JSON config from stdin using `--config -` or `-c -`.\r\n* Added `display.bar.border.{leftElapsed,rightElapsed}` for using the border as part of the bar content. (#1875)\r\n    * `display.bar.border: null` has been added as a shorthand to disable bar borders.\r\n* Added `display.bar.color.{elapsed,total,border}` to customize the color of the elapsed, total, and border sections of the percent bar.\r\n    * `display.bar.color: null` has been added as a shorthand to disable bar colors.\r\n* Improved Bedrock Linux detection (#1881, OS / Disk, Linux)\r\n* Added the command flag `--gen-config-full`, which generates a JSON config file containing all optional module options.\r\n* Improved the default IP address display when `localip.showAllIPs` is not set (LocalIP)\r\n    * For IPv4, the preferred source address (if detected) is shown.\r\n    * For IPv6, the first GUA or ULA that is not deprecated or temporary is shown.\r\n* Added support for interface speed detection on SunOS (LocalIP, SunOS)\r\n* Added detection support for Xlibre (#1888, WM, Linux)\r\n* Improved the accuracy of color detection (Cursor, macOS)\r\n* Improved the proformance of `Nix` package manager detection on macOS by porting optimizations form Linux port (#1893, Packages, macOS)\r\n\r\nBugfixes:\r\n* Fixed custom object inheriting a key from the previous custom object if the key is blank (#1477)\r\n* Fixed a possible segfault when parsing color strings in the JSON config (#1878)\r\n* Fixed GPU driver detection when DRM is used (GPU, FreeBSD)\r\n* Fixed default route detection on DragonFly BSD (LocalIP, DFBSD)\r\n* Fixed lliurex detection (#1882, OS, Linux)\r\n* Fixed compatibility with `-ffast-math` (#1894)\r\n* Fixed physical GPU sometimes being ignored (#1896, GPU, Windows)\r\n* Fixes linglong package detection V2 (#1903, Packages, Linux)\r\n\r\nLogos:\r\n* Added ObsidianOS (#1890)\r\n\r\n---\r\n\r\n<details><summary>SHA256SUMs</summary><br>\r\n\r\n```\r\ndb20092b38c8d1aaf11f5a077ee9a77e0108a2387156a47a8bfba9fd6bed678a  fastfetch-freebsd-amd64/fastfetch-freebsd-amd64.pkg\r\n3e23f4d211cefb51abfc41a7c168db5c3da821499217692d06a19bd440ce7647  fastfetch-freebsd-amd64/fastfetch-freebsd-amd64.tar.gz\r\ndbaee2e505896ce7c35a488350470db01b3f0d2eeba413db106d53e77fd309e0  fastfetch-freebsd-amd64/fastfetch-freebsd-amd64.zip\r\nf0743a220320f956f8f5b9bb9c59fcb8ef8adc3ddc3b18624ef55d6ab82ab160  fastfetch-haiku-amd64/fastfetch-haiku-amd64.tar.gz\r\n463b41d2bb76e1a6b1c8914e4f3f6eb6d535b2273a866d49ef7eae7dfb4c41f5  fastfetch-haiku-amd64/fastfetch-haiku-amd64.zip\r\n01b8226211f6db3fd2a2ac3971d289963ea80e9f694df360b62b58ac3b27ec3d  fastfetch-linux-aarch64/fastfetch-linux-aarch64.deb\r\nd48a47afb34a696cee474234c68068701c8d37e2599d62b237346e76a7cdc244  fastfetch-linux-aarch64/fastfetch-linux-aarch64.rpm\r\n944b68b8d95526d9663800c9a201091d6226df7c7294d18ea7d7fd7250e66ab4  fastfetch-linux-aarch64/fastfetch-linux-aarch64.tar.gz\r\n7cc7747c99a00357abbf9ebc71180e9d354a0a7682e724c20065c2953fde64c8  fastfetch-linux-aarch64/fastfetch-linux-aarch64.zip\r\n49a98e8ac74d6d893b4c0ba3d982e75432c7e9bc34795cdfd85a3f718fdfb668  fastfetch-linux-amd64/fastfetch-linux-amd64.deb\r\ne892ba5172c83b5b6c3b4723eb114bc287b7b62d12e0e02b2e8d7c99d65c7dfd  fastfetch-linux-amd64/fastfetch-linux-amd64.rpm\r\n56c26771cb58c510af852c0dd35b4348c16d2c0cbf5466f58c597e39a40518f1  fastfetch-linux-amd64/fastfetch-linux-amd64.tar.gz\r\nc1e3d792408f52bb8a786e81975db1f7dea41cd46dd5b97db47a07b9e125b874  fastfetch-linux-amd64/fastfetch-linux-amd64.zip\r\nd6344aadb32ddd3e0508fa44dc9d4c1ad172c2e857689a207ac86e71e2263f96  fastfetch-linux-armv6l/fastfetch-linux-armv6l.deb\r\n68fb360d872d88e80b5187cd8a9d962da8c283ab9fb065836875d645a720f34c  fastfetch-linux-armv6l/fastfetch-linux-armv6l.rpm\r\nd84cdefe6c6cf7b1d44db516841bde5407a9f7232b94fd63cb948c36babc10aa  fastfetch-linux-armv6l/fastfetch-linux-armv6l.tar.gz\r\n640454c1a8b50750c81e4dcd177271aa5788ae81dab987c42fba66c65c55ab85  fastfetch-linux-armv6l/fastfetch-linux-armv6l.zip\r\n9100f2244c670bd64d2255c3dee4a921680ec514003b75f954c8a722a5cbfc62  fastfetch-linux-armv7l/fastfetch-linux-armv7l.deb\r\ne6be2badee7c91860261304aec5a429e178ff05337ab476c93f5926c5e62b974  fastfetch-linux-armv7l/fastfetch-linux-armv7l.rpm\r\neace557f8201d6adaac7c720417c8298ad5557e62e4f979717baf22575b1beae  fastfetch-linux-armv7l/fastfetch-linux-armv7l.tar.gz\r\n70f9ffb97761efef7fb3cccabe1cc5c60a3bef475fdd73c3c9ded9e18c2e47ad  fastfetch-linux-armv7l/fastfetch-linux-armv7l.zip\r\nf28747aebffd32d1b4e97c8ec8858c5ce6ff07fc93f04d6aa3f13a0eecb8de84  fastfetch-linux-ppc64le/fastfetch-linux-ppc64le.deb\r\n1ce879420b98d9467c8f627b4fe4ff19b131da28bf4b9fe327bfcada0f85b1b7  fastfetch-linux-ppc64le/fastfetch-linux-ppc64le.rpm\r\n753cf7fd6f021d52ae44a8d97a8f8b856848d696a0cbde5339be15a5aa7c6801  fastfetch-linux-ppc64le/fastfetch-linux-ppc64le.tar.gz\r\n78bf8cdb1b4a6541fdb318e7208eb5468f39a1337c719f25a1201f8b77105bcb  fastfetch-linux-ppc64le/fastfetch-linux-ppc64le.zip\r\nb9f1ca27202b5c22067fa76c98b553fa3668c9f1cebed6220d208281597f3637  fastfetch-linux-riscv64/fastfetch-linux-riscv64.deb\r\ne873f3fc8eea81db0ba2fa6b2c5deb3729b7ca5064a38fb54cfc064aa2f7b77a  fastfetch-linux-riscv64/fastfetch-linux-riscv64.rpm\r\n5330392d55efb62f267ebbfef0684ee00ee4a3d3f5249e9c4de1feb929678965  fastfetch-linux-riscv64/fastfetch-linux-riscv64.tar.gz\r\n4bdd84b87e969131f8ed2d9ce93e077585f2c8e08a692fd228a7080f3dac408c  fastfetch-linux-riscv64/fastfetch-linux-riscv64.zip\r\nf8ffbd75857c38befd44aadcfa828988f9736ac1794e7340d5b83222ec9a8a99  fastfetch-linux-s390x/fastfetch-linux-s390x.deb\r\n24de317747740b8f4aec0e77e56a133566d0489cc0e64951729ab2d8b241491a  fastfetch-linux-s390x/fastfetch-linux-s390x.rpm\r\ne75e61d0ad4d320691796284f9b9569739c4243b4f2e5f7eec520f4049188490  fastfetch-linux-s390x/fastfetch-linux-s390x.tar.gz\r\n65d69ad8dfde2bfc366b0fe9c8adea8edf8ce7ad85f315f8064202c2dcebe0e4  fastfetch-linux-s390x/fastfetch-linux-s390x.zip\r\n72160fe141f5a4a1bf6a49e0ffa29bdffc49e7489370f1e14e67467eb6e6ed90  fastfetch-macos-aarch64/fastfetch-macos-aarch64.tar.gz\r\n64509a813a04cdf7a65d393f52ec6072acabf86fdbe45aadce004a2699a15774  fastfetch-macos-aarch64/fastfetch-macos-aarch64.zip\r\n318a13f5a0442878a3d345387362820da10758bb9914cac4c5ee53936d389868  fastfetch-macos-amd64/fastfetch-macos-amd64.tar.gz\r\n00df83ff74654babcf3d3435be4a474980e599fb3f11007e0694ec2ad6431c72  fastfetch-macos-amd64/fastfetch-macos-amd64.zip\r\nfd7cef60acab49119732572a5bcf51a9e93593c63e2709488a68b9d3ed98571a  fastfetch-musl-amd64/fastfetch-musl-amd64.tar.gz\r\nfc9dd14b104c44f2cbdd0014ce465716eacb726fe3ccdaf5d4c12f2e1be23b38  fastfetch-musl-amd64/fastfetch-musl-amd64.zip\r\nb512a487a235fa87c8656f59aefd8b50c410170f4d23e61e45d43df798565aaf  fastfetch-netbsd-amd64/fastfetch-netbsd-amd64.tar.gz\r\n7ada5befb31c28b9fa32cf5a16c85b3f1cb7fb8f586c354e3ca9b5aa66ef009a  fastfetch-netbsd-amd64/fastfetch-netbsd-amd64.zip\r\n94fd97c389cef381b7d7f37136d1f51331c7fa6c7f8aaf2c5270da17c5043840  fastfetch-openbsd-amd64/fastfetch-openbsd-amd64.tar.gz\r\n099671612359a6f50f08776e2a0fc5c5e59e629d282af1f10df9a7a50dbdf12b  fastfetch-openbsd-amd64/fastfetch-openbsd-amd64.zip\r\ne59f2a2bdd5834ef40adb9fb6680820c268ff60ca0534469c5ea4b86775c83db  fastfetch-source/2.50.2.tar.gz\r\n19e28cafb34803eccd825da0849641d888375901d72fcb3ea1396abf0ae3f4f4  fastfetch-source/2.50.2.zip\r\ne97eab3c55e8137112653700fa6920b1e012b871e0df61ec695176f0e66d289c  fastfetch-sunos-amd64/fastfetch-sunos-i386.tar.gz\r\n6964ac2d352364a15b3b6d4986605afd6ecf3ca446a68e5f14ab6790e1ff6fe8  fastfetch-sunos-amd64/fastfetch-sunos-i386.zip\r\ndf9d79c21d99f21dc6ac652992c320ec57f2838d857a19ed54036233e0e4e29c  fastfetch-windows-aarch64/fastfetch-windows-aarch64.7z\r\nb998eb10bbe8f87a5093ecc8d7878a9b0f773eded744ef04bc7e657fd9f3abbb  fastfetch-windows-aarch64/fastfetch-windows-aarch64.zip\r\nc01c2d5592a8834cae61687aa160ca768e1b7d83427ec9a5a14a16651c23b5d9  fastfetch-windows-amd64/fastfetch-windows-amd64.7z\r\n173ed7dcee64a2c24706832809104f66ba316dc861f3e2383683fecc72426909  fastfetch-windows-amd64/fastfetch-windows-amd64.zip\r\n```\r\n</details>\r\n\r\n<details><summary>SHA512SUMs</summary><br>\r\n\r\n```\r\n18217f4287ec2fc885005ef3e20bda938f33d9101812817eb32fbd9fd3dfef5a79a4b23faf5d17b8fcf2dc20759da62fcecbd4f8b42983a5aa588fa7172115ab  fastfetch-freebsd-amd64/fastfetch-freebsd-amd64.pkg\r\n9eca0b585f44f88a85d6a5279b4b69269e7e2c5e9ac8c2cc8e1320a19cc680ad60fb1d101635e94a5c0dd30ca84a243bf2de99ca64c6327a1a523dc99445dc5c  fastfetch-freebsd-amd64/fastfetch-freebsd-amd64.tar.gz\r\ncca34a69ed2ab47b6553c2089e71690cebbb143c73868cf6cc26e822bb969c4fab3e2cb5382d045289e8bd29bda8c41b71727d3c4ae1e4c6d2852688a322a82c  fastfetch-freebsd-amd64/fastfetch-freebsd-amd64.zip\r\nb0f7f9d82922f45a4b7bcdd9d5735140e642e90897ad31c8f280ab4e248667ee9cdaffcda70f8767fad78dd5ee8fe53b440eb33bd5c8e684f289418bb41f5018  fastfetch-haiku-amd64/fastfetch-haiku-amd64.tar.gz\r\ncdb8389c24c3f8d9857644b3eab099f09e09436c6c932e29a6a229d76cb6d61b7e53717e695e3f4fcbcb908bc691064c112f8f94aea4c8572183c168384e78a3  fastfetch-haiku-amd64/fastfetch-haiku-amd64.zip\r\n51c1432c503bb774f0bf56aaff72d7a96104fac12071f1cce53feeee09dafb593c21b4be8557f64297354deaf0a79e1756382b8e466a88e8e6795242316abb55  fastfetch-linux-aarch64/fastfetch-linux-aarch64.deb\r\nc2b5e943382a9d78830fc419826a2ae733b447cb047a9a47ffadc9b41f4b3cf1761bd98f6899509dc59a8c20806c6bb1805705b41e831c0c1e593aee3ea54294  fastfetch-linux-aarch64/fastfetch-linux-aarch64.rpm\r\n653aedcbf9c021a0c81188b1c3377416281531bb6adae2f177c6dcb8889b2b973283266cc74e22e7ee75dd10fab4304c117d5aefd51a1936dc5cc027460682cc  fastfetch-linux-aarch64/fastfetch-linux-aarch64.tar.gz\r\n870ad706de01337b447e8ae4cdbfec27dd47b49532835fc2f87a144ce1f976d33d437f634e492f4429284ffe85a68d2a459752a9ac024d2fa92930387083e1f6  fastfetch-linux-aarch64/fastfetch-linux-aarch64.zip\r\n52ccfbb9d58f12d2b64c9954976182091a434e64d45bc2f9694dbfa6dca18d272c7b40c01af11558073db68531e610e6e948328f3bd07f348c421fce647c9ecf  fastfetch-linux-amd64/fastfetch-linux-amd64.deb\r\n24b4f37440d76994ac4e03f3337f7cd4de1d37c2dd8dc501611310bb69bfc1f5b405dcd270f5e88b9e98dc7f24112c93225708b8df9f489c5f146f59ab767f2a  fastfetch-linux-amd64/fastfetch-linux-amd64.rpm\r\n50c6ae4117fb65b1795860d5b56a0a1ab553d495fc97ce8c960cf0766aaa0e0c2a5cceb731a15337c18fbf0dc4acd6f5f1ac5262333a4ab1f397f8ef9670b9d6  fastfetch-linux-amd64/fastfetch-linux-amd64.tar.gz\r\nf43e680c55e60269ced6089d241102c11e675196275a75174d9a9d79643a44b756bd264b2cca8cd26cd7ae1d1aa46ed4528b185725280da1a1f479db435b94b9  fastfetch-linux-amd64/fastfetch-linux-amd64.zip\r\n507b71f273b4667e818fa7e1944f9005463dc1cd73bdb82830c8572d38e1eebd72637be9b85d6c389396e1f6816e11b33fe5fa922a603d376cbd169d0b26c5a9  fastfetch-linux-armv6l/fastfetch-linux-armv6l.deb\r\n497754b348658766ca09d02e8d1f9aecbb2d0a932b37b57f8f1897634ad573aa6bdd434c80f7de36abcdc0deb60f748b256e3959641e792520e02ff73bb8be8f  fastfetch-linux-armv6l/fastfetch-linux-armv6l.rpm\r\n763158c539583af8a975cb54fe29bb110b1496a1831e26c3cf788ee7263332a9bd935b117d87cbcbe1205b5981b62c9fb3c2db6e4754db6d584c8b90b046b1a6  fastfetch-linux-armv6l/fastfetch-linux-armv6l.tar.gz\r\n2e5529d9e68721998c66f06369eb7319d0d48fa16629e95978c7e78704ea22aca266bbebfac73a79b284772d4238a890d80989b4f82655b303dca8cd1c4d6dde  fastfetch-linux-armv6l/fastfetch-linux-armv6l.zip\r\ne7b0b0e5db38e28d5e6f498f8986f902ea9e5f728dfa6b3c2c6f94d8cb2f0ffb155d6429e18c523db36ec768f4568c83a8baa2a507eb9a29bc5cf983c762668f  fastfetch-linux-armv7l/fastfetch-linux-armv7l.deb\r\nbd6a2366634c40dbcfc02c6ec9b79d4befe1837befb89988379e5abaa34ade1d63207e972bc239aa8bf6c3d7acffd9440cc9a0429a70549015e002dabd68e61b  fastfetch-linux-armv7l/fastfetch-linux-armv7l.rpm\r\n908f4dcd69e9e5c7bfd7e3711ea9b9e04964583ce0e4cdd23797729fdf86d36f04a2d799a5cf9fedecf93cfab6cd7968620bdcfe6f4908306bd398d05fbff8a6  fastfetch-linux-armv7l/fastfetch-linux-armv7l.tar.gz\r\na9cacd4b2538e7366efba1bf5323776fbc6c133aaef0583e71b8bb5d6ab62b464710f5282e5507b5f553bac699b05e371f17dfab06121780056217febb97f308  fastfetch-linux-armv7l/fastfetch-linux-armv7l.zip\r\n26a764c61e0dbc84426e985265685f9fa7a62a348cc9695fc43bd1fa2dcf9bfad9056e1f9444582789c2cbcfa8d1c7e16cae9250d5caf63f24a5c8aae89ee097  fastfetch-linux-ppc64le/fastfetch-linux-ppc64le.deb\r\n61b43eb509e5d38583337aaee9f5de6f8e8b984ed4a7f685c233faf27867693dcf9d9a1782c7df33683d3893e1d84f97674b84dbf90e0010bbd659900bc4dca3  fastfetch-linux-ppc64le/fastfetch-linux-ppc64le.rpm\r\n85853c9b18c36adc22415a9f0df41cfebf7647be4d6d00c6b99cc5789d326a526a6324bf6639727e3794175e84054369a03ca2fc72590a49d5a808a001944675  fastfetch-linux-ppc64le/fastfetch-linux-ppc64le.tar.gz\r\n4ed0e9d506d2f9834a8672329f4b54edddce3c76e715aed4d20e70923debf8669c7a236c8816958fcd741db88ba57cafb72b962a396908d50efda56e0e1859aa  fastfetch-linux-ppc64le/fastfetch-linux-ppc64le.zip\r\n22f1011d48ca59e7a0b8d400e77a07133319d479f746e9e991b5d351f80a15e6fb02ffe9a69f868abd49c35203bde01273747f647223f5388af7ea9ea9787e16  fastfetch-linux-riscv64/fastfetch-linux-riscv64.deb\r\neaad88d2afdd370533c4c72ab39475626bc176577a3cc32237fb731635adda2b3020cf3c883018981322b61190d275b1259417120b6f7a5dd7619c8877905059  fastfetch-linux-riscv64/fastfetch-linux-riscv64.rpm\r\nc60edc53aa292333a1c99475fb87acde2c7908c38f57e72505b97e8040bc64eb45fbb9463bf015e573727c433634c8bfd8a4976d5ad9cee338bba63b1279b03c  fastfetch-linux-riscv64/fastfetch-linux-riscv64.tar.gz\r\neddc78a79ac75ed2ed04b5244fb837b0060bd5506ed2f93814fc397fbe9a293fc7c33d13900d55644eb7106c79883de5007f62ddbd13f911a90ed302c75259ee  fastfetch-linux-riscv64/fastfetch-linux-riscv64.zip\r\n8684ee81fbc0d821216b554caae3da1e1ec0ed65e37c26806ec73e87420da02431bbb81a5a3bd70d829398664fe6d820791e38640290f524cf7c23029bd93912  fastfetch-linux-s390x/fastfetch-linux-s390x.deb\r\nef95296164a2924e25b7d30220486ec0933e70786062beaedb824b82213f4f279abb6b8cc4fc4553673739b252872407904656dac2ca6079479e7883072cf8cf  fastfetch-linux-s390x/fastfetch-linux-s390x.rpm\r\n82a6bdc70b11751b8da5ecd00f4b561d768c495fef4c964ef22b965b127d2bb62fc7d474b88945212a5d0249f23e6c761b2f0ae274526bd55d62fbe8dbd8d27d  fastfetch-linux-s390x/fastfetch-linux-s390x.tar.gz\r\n7fb5b046e667493b03daaf90507f0ce0eac0f5d3907d9d5211f0f8f8b35af4448ea1b9c23fe7f4566377b3525de4d72e938893feea21c43d71ee00b331e1d671  fastfetch-linux-s390x/fastfetch-linux-s390x.zip\r\ndcd47c1c47bd17b887e7b0b48e3eb589dc491515ab1e5641e54face5818adbb810aea88c315cd9f16ca6b45070c0951599cef8069d3997b42795f3eb5981c5a9  fastfetch-macos-aarch64/fastfetch-macos-aarch64.tar.gz\r\nfffd56b18469f177b664d6c454eda2325ccf2c3620834ebc9b582f8c0509accda375569d792c6199bd4965db13c07ec29e65fd42040d1669f35a624c18d5b336  fastfetch-macos-aarch64/fastfetch-macos-aarch64.zip\r\n079ff8f60239fc1f774821c4061d62ec1f7dd12212cb545e5ffb5cccc4a24dfb92a3990addf2555632d499e6f0eac626e0c9c9b37e2a236a52bf2aa929315184  fastfetch-macos-amd64/fastfetch-macos-amd64.tar.gz\r\nb904bcf6d7e3e6aef8c159c3759c43c0b4c24cca96ae32fb0d73df92b49edfabc4a655a1248010721092d194c0d3bd80fb56289185255253711409b3c67d68f4  fastfetch-macos-amd64/fastfetch-macos-amd64.zip\r\nddc9ed99e7745dcec7cf5b8e626c0153615660560875c720cb261174749a29c72071dbd2c92ec10942e47eee45d4279a11c82a51d57d2b05761e3e7d78927169  fastfetch-musl-amd64/fastfetch-musl-amd64.tar.gz\r\nd97380ed1e186b5cf36be66b03c4cf7bf193434269e8e383a35660fc294c62e1fb258cd6059a43e72d026d28ab80f57fe893f298f017934f3c24e0525442c42e  fastfetch-musl-amd64/fastfetch-musl-amd64.zip\r\n89cbdac8fda63f5d49ad14382a04c554d007ba72e5bfcb20bc5ae1c34b69c69c2d2aada86cd8f6911034032f52941d3ab5d217145ba883bad8aa626831c43b5d  fastfetch-netbsd-amd64/fastfetch-netbsd-amd64.tar.gz\r\n123f9da94999845edb121dd12fb519e3712c915060c4d5f93857ab087689ccb0d762bf02225b9aa7377ac9fbc427a618fef3b1f2e70ffccaf877e7d35c1aeaa3  fastfetch-netbsd-amd64/fastfetch-netbsd-amd64.zip\r\n5bc1bed8399f4483e067cf689cee571dcc362e81898359c3138d35b356b0065e5bcdd821d12464f3370d50938ee888faa2c01101ccce49111b78d9114f3457c0  fastfetch-openbsd-amd64/fastfetch-openbsd-amd64.tar.gz\r\n6d899d2043d28498fa7e1587db5e2d6e9ff36a4e52d91ce59e358ee3bd54a7299f63ffb6a056c80839bfca519fd0c19ad425fcf25cbab3a6e9a11a904aa4c482  fastfetch-openbsd-amd64/fastfetch-openbsd-amd64.zip\r\nddfeca8efc62b94641c4e8b464a309c6164c7a5a01f4ee4be82cff851eb11a2692bdaf1e3469b54758d78ca1437a523929da98fe53738fd6128c03a38f2c590b  fastfetch-source/2.50.2.tar.gz\r\n59f729b41643a445593d5c8b69eb127f94458b9ee716887cff46df1e8458abfd2ca23c3aac0ccc57cac1273a5a89c034f40fe23d4b7832c56616894d20b76826  fastfetch-source/2.50.2.zip\r\n576c17571a028dd0f2269c19742c0df755cee4f3179c075e67ac59be03b6fd8a34777d6634dd2ff94834297349b6298980d8b4b206d738ea833bcbf99d44a254  fastfetch-sunos-amd64/fastfetch-sunos-i386.tar.gz\r\n3dc5eb0219f7c44d5fa1ce4193bc44ebc06aee9a20ed16a72a87bdc6d6265892add166388af20bd1835fd911e10b5cb271c7cd5523b1b8e6f810cabc3d7cd9fe  fastfetch-sunos-amd64/fastfetch-sunos-i386.zip\r\n41762aecdde62a4ef17aa92e4345ed4054af9ea5691cb37168b8fe1b5cd84980a8fd2e5c37e3dd9bc6d5e147b4d70d25c44de921b2c1b98853c1e18ec761722a  fastfetch-windows-aarch64/fastfetch-windows-aarch64.7z\r\n4d72a4b1f57285710388e20f4f0f86b9ed0aaed7ab76ef7625bce67f91f45e829797ddca9f0258e98568ea631477a84ffcfcc99d09be109bcd6fd0f28436ea59  fastfetch-windows-aarch64/fastfetch-windows-aarch64.zip\r\n39c893105e439aca08426d3ad5aecf8dd03725ea81cc4ba19428f168f9bdfe4a831118cc3c8bf209b8364ffaa28f2641b799d159df2868737349aac1be459ec5  fastfetch-windows-amd64/fastfetch-windows-amd64.7z\r\n18c0ccc2a5cc84078d3b94495204bddba59bcb03fa45f1851cc78a0c47acc73e15c7c414aee041857fcccbce815f377133d7669539b53e721e5c842fd07206c8  fastfetch-windows-amd64/fastfetch-windows-amd64.zip\r\n```\r\n</details>\r\n",
-  "created_at": "2025-08-16T13:50:39Z",
+  "body": "Changes:\r\n* Fastfetch now requires [yyjson 0.12](https://github.com/ibireme/yyjson/releases/tag/0.12.0) to build when using `-DENABLE_SYSTEM_YYJSON=ON`.\r\n* The Disk module no longer shows hyperlink mountpoints by default, which cause issues on some real consoles (Disk)\r\n    * Instead, the custom key for the Disk module now supports `{mountpoint-link}` and `{name-link}` to show hyperlinks for mountpoints and names. For example, `{ \"type\": \"disk\", \"key\": \"Disk ({mountpoint-link})\" }` can be used to restore the old behavior.\r\n\r\nFeatures:\r\n* Adds `succeeded` module condition to JSONC config. When set to `false`, the module will only run if the last module failed (#1908)\r\n    * Useful for displaying fallback placeholders when a module fails. For example:\r\n```jsonc\r\n{\r\n    \"host\",\r\n    // If fastfetch fails to detect host info, display \"DIY PC\" instead\r\n    {\r\n        \"type\": \"custom\",\r\n        \"condition\": {\r\n            \"succeeded\": false\r\n        },\r\n        \"key\": \"Host\",\r\n        \"format\": \"DIY PC\"\r\n    }\r\n}\r\n```\r\n* By upgrading to yyjson 0.12, fastfetch now adds [JSON5](https://json5.org/) format support for configuration files (#1907)\r\n    * [JSON5](https://json5.org/) is a superset of JSONC that allows unquoted keys, single quotes, multi-line strings, etc., and is fully compatible with JSONC and strict JSON.\r\n    * To use JSON5, simply name your config file with a `.json5` extension. The `.jsonc` extension is still supported and used as the default extension for better IDE syntax highlighting support.\r\n* Fastfetch has been ported to [`GNU/Hurd`](https://www.gnu.org/software/hurd/) (#1895)\r\n    * Thanks to the efforts of @yelninei!\r\n* Built-in logos now honor `logo.width` (#1905)\r\n    * When its value is larger than the actual logo width, the logo will be padded with spaces to the right\r\n* Adds Trinity DE version detection (#1917, DE, Linux)\r\n* Adds formatted free and available disk size fields (#1929, Disk)\r\n    * `{size-free}`: free size of the disk\r\n    * `{size-available}`: available size of the disk\r\n    * See [askubuntu.com](https://askubuntu.com/questions/249387/df-h-used-space-avail-free-space-is-less-than-the-total-size-of-home) for the difference between free and available size\r\n* Adds [x86_64 micro-architecture level](https://en.wikipedia.org/wiki/X86-64#Microarchitecture_levels) detection (#1928, CPU)\r\n    * Useful when installing software that requires or is optimized for specific CPU features. E.g., [CachyOS](https://wiki.cachyos.org/features/optimized_repos/)\r\n    * Exposed via `{march}` in custom format\r\n* Adds [Aarch64 micro-architecture level](https://en.wikipedia.org/wiki/AArch64#Profiles) detection (CPU)\r\n    * Supported on Linux (including Android), macOS and Windows\r\n    * This is not fully accurate because there are many optional features across different levels, and not all levels are detectable.\r\n    * Exposed via `{march}` in custom format.\r\n* Adds shepherd detection support (InitSystem, Linux)\r\n\r\nBugfixes:\r\n* Refines GPU detection logic to correctly handle virtual devices (#1920, GPU, Windows)\r\n* Fixes possible default route detection failure when the route table is very large (#1919, LocalIP, Linux)\r\n* Fastfetch now correctly parses `hwdata/pci.ids` files alongside `pciids/pci.ids` on FreeBSD when detecting GPU names (#1924, GPU, FreeBSD)\r\n* Fixes twin WM detection (#1917, WM, Linux)\r\n* Various fixes for Android support\r\n    * Corrects WM name for Android (WM, Android)\r\n    * Fixes battery temperature detection when running in ADB (Battery, Android)\r\n    * Adds CPU and GPU temperature detection support (CPU, Android)\r\n\r\nLogos:\r\n* Adds AerynOS",
+  "created_at": "2025-08-29T00:43:08Z",
   "draft": false,
-  "html_url": "https://github.com/fastfetch-cli/fastfetch/releases/tag/2.50.2",
-  "id": 240375921,
+  "html_url": "https://github.com/fastfetch-cli/fastfetch/releases/tag/2.51.0",
+  "id": 243344574,
   "immutable": false,
-  "name": "2.50.2",
-  "node_id": "RE_kwDOFEbCDs4OU9hx",
+  "name": "2.51.0",
+  "node_id": "RE_kwDOFEbCDs4OgSS-",
   "prerelease": false,
-  "published_at": "2025-08-16T14:07:16Z",
-  "tag_name": "2.50.2",
-  "tarball_url": "https://api.github.com/repos/fastfetch-cli/fastfetch/tarball/2.50.2",
-  "target_commitish": "4dfba31cae0e124fe55b8b0e9cec107bba60370a",
-  "updated_at": "2025-08-16T15:02:56Z",
-  "upload_url": "https://uploads.github.com/repos/fastfetch-cli/fastfetch/releases/240375921/assets{?name,label}",
-  "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/240375921",
-  "zipball_url": "https://api.github.com/repos/fastfetch-cli/fastfetch/zipball/2.50.2"
+  "published_at": "2025-08-29T01:00:03Z",
+  "tag_name": "2.51.0",
+  "tarball_url": "https://api.github.com/repos/fastfetch-cli/fastfetch/tarball/2.51.0",
+  "target_commitish": "16b6aac764393561a067f154fa92fee7c51ef573",
+  "updated_at": "2025-08-29T01:01:42Z",
+  "upload_url": "https://uploads.github.com/repos/fastfetch-cli/fastfetch/releases/243344574/assets{?name,label}",
+  "url": "https://api.github.com/repos/fastfetch-cli/fastfetch/releases/243344574",
+  "zipball_url": "https://api.github.com/repos/fastfetch-cli/fastfetch/zipball/2.51.0"
 }
