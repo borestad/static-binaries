@@ -1073,7 +1073,7 @@
     "url": "https://api.github.com/users/yottahmd",
     "user_view_type": "public"
   },
-  "body": "## Changelog\n* 9aad8dd5c75e0738bce84f997f60b815f9e4e4fb Merge pull request #1234 from dagu-org/update-doc\n\n",
+  "body": "This release includes several bug fixes and new endpoint POST `/api/v2/dags/{dagName}/stop-all`.\r\n\r\n## What's Changed\r\n* ci: add manual docker build workflow by @yottahmd in https://github.com/dagu-org/dagu/pull/1225\r\n* feat: Add POST `/api/v2/dags/{dagName}/stop-all` endpont by @yottahmd in https://github.com/dagu-org/dagu/pull/1226\r\n* fix: skip history data with empty status or started at by @yottahmd in https://github.com/dagu-org/dagu/pull/1227\r\n* doc: correct docker-in-docker example by @yottahmd in https://github.com/dagu-org/dagu/pull/1230\r\n* feat: add logging output for migration command by @yottahmd in https://github.com/dagu-org/dagu/pull/1229\r\n* fix: fallback on docker-in-docker situation by @yottahmd in https://github.com/dagu-org/dagu/pull/1232\r\n* feat: add support for `key=value` env by @yottahmd in https://github.com/dagu-org/dagu/pull/1233\r\n* doc: remove deprecated field name in the doc by @yottahmd in https://github.com/dagu-org/dagu/pull/1234\r\n\r\nThank you @bellackn, @ghansham, and @Kaiden0001 for feedback and requests.\r\n\r\n**Full Changelog**: https://github.com/dagu-org/dagu/compare/v1.22.1...v1.22.2",
   "created_at": "2025-09-02T15:09:37Z",
   "draft": false,
   "html_url": "https://github.com/dagu-org/dagu/releases/tag/v1.22.2",
@@ -1086,7 +1086,7 @@
   "tag_name": "v1.22.2",
   "tarball_url": "https://api.github.com/repos/dagu-org/dagu/tarball/v1.22.2",
   "target_commitish": "main",
-  "updated_at": "2025-09-02T15:29:10Z",
+  "updated_at": "2025-09-03T00:18:55Z",
   "upload_url": "https://uploads.github.com/repos/dagu-org/dagu/releases/244168025/assets{?name,label}",
   "url": "https://api.github.com/repos/dagu-org/dagu/releases/244168025",
   "zipball_url": "https://api.github.com/repos/dagu-org/dagu/zipball/v1.22.2"
