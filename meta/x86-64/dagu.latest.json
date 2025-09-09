@@ -1073,7 +1073,7 @@
     "url": "https://api.github.com/users/yottahmd",
     "user_view_type": "public"
   },
-  "body": "## Changelog\n* 143b635d657c82de34d9192880e519263bc57971 [#1224] fix(ui): correct api params (#1246)\n\n",
+  "body": "This release includes enhancement for `container` field, queue override option, and bugfix for the system health page in the Web UI. Now you can run a container using its entrypoint or arbitrary command and execute steps in the container.\r\n\r\nExample:\r\n```yaml\r\ncontainer:\r\n  image: postgres:16\r\n  env:\r\n    - POSTGRES_PASSWORD=secret\r\n    - POSTGRES_DB=appdb\r\n  startup: entrypoint\r\n  waitFor: running\r\n\r\nsteps:\r\n  - name: check-ready\r\n    command: pg_isready -U postgres -d appdb\r\n    retryPolicy:\r\n      limit: 10\r\n      intervalSec: 1\r\n\r\n  - name: create-table\r\n    command: psql -U postgres -d appdb -c \"CREATE TABLE IF NOT EXISTS demo(id INT PRIMARY KEY, name TEXT);\"\r\n```\r\nFor more details, visit [documentation](https://docs.dagu.cloud/writing-workflows/container).\r\n\r\n## Changes\r\n* feat: Add queue override option on enqueue by @kriyanshii in https://github.com/dagu-org/dagu/pull/1240\r\n* feat: enhance container options by @yottahmd in https://github.com/dagu-org/dagu/pull/1244\r\n* fix(ui): correct api params by @yottahmd in https://github.com/dagu-org/dagu/pull/1246\r\n\r\n**Full Changelog**: https://github.com/dagu-org/dagu/compare/v1.22.2...v1.22.3",
   "created_at": "2025-09-08T16:57:55Z",
   "draft": false,
   "html_url": "https://github.com/dagu-org/dagu/releases/tag/v1.22.3",
@@ -1086,7 +1086,7 @@
   "tag_name": "v1.22.3",
   "tarball_url": "https://api.github.com/repos/dagu-org/dagu/tarball/v1.22.3",
   "target_commitish": "main",
-  "updated_at": "2025-09-08T17:17:24Z",
+  "updated_at": "2025-09-09T00:22:22Z",
   "upload_url": "https://uploads.github.com/repos/dagu-org/dagu/releases/245603964/assets{?name,label}",
   "url": "https://api.github.com/repos/dagu-org/dagu/releases/245603964",
   "zipball_url": "https://api.github.com/repos/dagu-org/dagu/zipball/v1.22.3"
