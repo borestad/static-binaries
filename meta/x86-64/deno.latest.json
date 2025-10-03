@@ -793,7 +793,7 @@
     "url": "https://api.github.com/users/github-actions%5Bbot%5D",
     "user_view_type": "public"
   },
-  "body": "### 2.5.3 / 2025.10.02\r\n\r\n- feat(unstable): add permission broker (#30826)\r\n- feat(unstable): permission broker - support custom error messages (#30902)\r\n- feat(unstable): support named pipes on Windows for the permission broker\r\n  (#30894)\r\n- fix(check): do not error for unsupported URL schemes (#30904)\r\n- fix(clean): do not panic on failure to get local cache path in clean --except\r\n  (#30895)\r\n- fix(cli/util): terminate watch file with sigint (#30635)\r\n- fix(dts): update some GPU types to not cause errors in upcoming DOM type\r\n  declarations (#30893)\r\n- fix(ext/node): allow ATTACH DATABASE with `--allow-all` (#30763)\r\n- fix(ext/node): setTimeout promisified to handle abort signal (#30855)\r\n- fix(fs): improve file stat checks (#30876)\r\n- fix(fs): improve file utime checks (#30872)\r\n- fix(npm): do not error when packument version contains both bundleDependencies\r\n  and bundledDependencies (#30875)\r\n- fix(unstable/tunnel): rename `--connected` to `--tunnel` and better handle\r\n  `DENO_DEPLOY_TOKEN` env variable (#30786)\r\n- fix: add support for passing v8 flags on `deno check` (#30868)\r\n- fix: do not purge lockfile when linking and the linked package's reqs have not\r\n  changed (#30877)\r\n- fix: show --permission-set help only once (#30844)",
+  "body": "### 2.5.3 / 2025.10.02\r\n\r\n- feat(unstable): add permission broker (#30826)\r\n- feat(unstable): permission broker - support custom error messages (#30902)\r\n- feat(unstable): support named pipes on Windows for the permission broker (#30894)\r\n- fix(check): do not error for unsupported URL schemes (#30904)\r\n- fix(clean): do not panic on failure to get local cache path in clean --except (#30895)\r\n- fix(cli/util): terminate watch file with sigint (#30635)\r\n- fix(dts): update some GPU types to not cause errors in upcoming DOM type declarations (#30893)\r\n- fix(ext/node): allow ATTACH DATABASE with `--allow-all` (#30763)\r\n- fix(ext/node): setTimeout promisified to handle abort signal (#30855)\r\n- fix(fs): improve file stat checks (#30876)\r\n- fix(fs): improve file utime checks (#30872)\r\n- fix(npm): do not error when packument version contains both bundleDependencies and bundledDependencies (#30875)\r\n- fix(unstable/tunnel): rename `--connected` to `--tunnel` and better handle `DENO_DEPLOY_TOKEN` env variable (#30786)\r\n- fix: add support for passing v8 flags on `deno check` (#30868)\r\n- fix: do not purge lockfile when linking and the linked package's reqs have not changed (#30877)\r\n- fix: show --permission-set help only once (#30844)",
   "created_at": "2025-10-03T02:05:24Z",
   "draft": false,
   "html_url": "https://github.com/denoland/deno/releases/tag/v2.5.3",
@@ -806,7 +806,7 @@
   "tag_name": "v2.5.3",
   "tarball_url": "https://api.github.com/repos/denoland/deno/tarball/v2.5.3",
   "target_commitish": "main",
-  "updated_at": "2025-10-03T04:39:49Z",
+  "updated_at": "2025-10-03T11:24:21Z",
   "upload_url": "https://uploads.github.com/repos/denoland/deno/releases/251899049/assets{?name,label}",
   "url": "https://api.github.com/repos/denoland/deno/releases/251899049",
   "zipball_url": "https://api.github.com/repos/denoland/deno/zipball/v2.5.3"
