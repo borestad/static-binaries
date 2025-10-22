@@ -1,17 +1,17 @@
 {
   "assets": [
     {
-      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.0.0/ripgrep-15.0.0-aarch64-apple-darwin.tar.gz",
+      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.1.0/ripgrep-15.1.0-aarch64-apple-darwin.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2025-10-16T03:18:30Z",
-      "digest": "sha256:98bb2e61e7277ba0ea72d2ae2592497fd8d2940934a16b122448d302a6637e3b",
-      "id": 304880546,
+      "created_at": "2025-10-22T12:39:13Z",
+      "digest": "sha256:378e973289176ca0c6054054ee7f631a065874a352bf43f0fa60ef079b6ba715",
+      "id": 307305438,
       "label": "",
-      "name": "ripgrep-15.0.0-aarch64-apple-darwin.tar.gz",
-      "node_id": "RA_kwDOAzJbyc4SLBui",
-      "size": 1775660,
+      "name": "ripgrep-15.1.0-aarch64-apple-darwin.tar.gz",
+      "node_id": "RA_kwDOAzJbyc4SURve",
+      "size": 1777930,
       "state": "uploaded",
-      "updated_at": "2025-10-16T03:18:31Z",
+      "updated_at": "2025-10-22T12:39:14Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -33,20 +33,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/304880546"
+      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/307305438"
     },
     {
-      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.0.0/ripgrep-15.0.0-aarch64-apple-darwin.tar.gz.sha256",
+      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.1.0/ripgrep-15.1.0-aarch64-apple-darwin.tar.gz.sha256",
       "content_type": "application/octet-stream",
-      "created_at": "2025-10-16T03:18:30Z",
-      "digest": "sha256:260782b063db2b037b69d6bdd8e5341e966ce5954ed4b6ecc10d873f23a1a59b",
-      "id": 304880545,
+      "created_at": "2025-10-22T12:39:13Z",
+      "digest": "sha256:b68a0a449224cf91b7bd0b7d6b20adbe86ca2a899607ee2daa5fd80f2e105795",
+      "id": 307305440,
       "label": "",
-      "name": "ripgrep-15.0.0-aarch64-apple-darwin.tar.gz.sha256",
-      "node_id": "RA_kwDOAzJbyc4SLBuh",
+      "name": "ripgrep-15.1.0-aarch64-apple-darwin.tar.gz.sha256",
+      "node_id": "RA_kwDOAzJbyc4SURvg",
       "size": 109,
       "state": "uploaded",
-      "updated_at": "2025-10-16T03:18:31Z",
+      "updated_at": "2025-10-22T12:39:14Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -68,20 +68,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/304880545"
+      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/307305440"
     },
     {
-      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.0.0/ripgrep-15.0.0-aarch64-pc-windows-msvc.zip",
+      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.1.0/ripgrep-15.1.0-aarch64-pc-windows-msvc.zip",
       "content_type": "application/zip",
-      "created_at": "2025-10-16T03:20:45Z",
-      "digest": "sha256:572709c8770cb7f9385d725cb06d2bcd9537ec24d4dd17b1be1d65a876f8b591",
-      "id": 304881041,
+      "created_at": "2025-10-22T12:40:22Z",
+      "digest": "sha256:00d931fb5237c9696ca49308818edb76d8eb6fc132761cb2a1bd616b2df02f8e",
+      "id": 307305789,
       "label": "",
-      "name": "ripgrep-15.0.0-aarch64-pc-windows-msvc.zip",
-      "node_id": "RA_kwDOAzJbyc4SLB2R",
-      "size": 1673744,
+      "name": "ripgrep-15.1.0-aarch64-pc-windows-msvc.zip",
+      "node_id": "RA_kwDOAzJbyc4SUR09",
+      "size": 1675460,
       "state": "uploaded",
-      "updated_at": "2025-10-16T03:20:46Z",
+      "updated_at": "2025-10-22T12:40:23Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -103,20 +103,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/304881041"
+      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/307305789"
     },
     {
-      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.0.0/ripgrep-15.0.0-aarch64-pc-windows-msvc.zip.sha256",
+      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.1.0/ripgrep-15.1.0-aarch64-pc-windows-msvc.zip.sha256",
       "content_type": "application/octet-stream",
-      "created_at": "2025-10-16T03:20:45Z",
-      "digest": "sha256:9c5e0524b9a915fadf56ae8f22af1292af24b86733e52df125f8ac08cbdfb03f",
-      "id": 304881040,
+      "created_at": "2025-10-22T12:40:22Z",
+      "digest": "sha256:86074c2498940cddcc07789c9205d8a0cb6848517edf9091652ca18c5c016b21",
+      "id": 307305788,
       "label": "",
-      "name": "ripgrep-15.0.0-aarch64-pc-windows-msvc.zip.sha256",
-      "node_id": "RA_kwDOAzJbyc4SLB2Q",
+      "name": "ripgrep-15.1.0-aarch64-pc-windows-msvc.zip.sha256",
+      "node_id": "RA_kwDOAzJbyc4SUR08",
       "size": 179,
       "state": "uploaded",
-      "updated_at": "2025-10-16T03:20:45Z",
+      "updated_at": "2025-10-22T12:40:23Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -138,20 +138,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/304881040"
+      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/307305788"
     },
     {
-      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.0.0/ripgrep-15.0.0-aarch64-unknown-linux-gnu.tar.gz",
+      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.1.0/ripgrep-15.1.0-aarch64-unknown-linux-gnu.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2025-10-16T03:19:44Z",
-      "digest": "sha256:15f8cc2fab12d88491c54d49f38589922a9d6a7353c29b0a0856727bcdf80754",
-      "id": 304880791,
+      "created_at": "2025-10-22T12:42:11Z",
+      "digest": "sha256:2b661c6ef508e902f388e9098d9c4c5aca72c87b55922d94abdba830b4dc885e",
+      "id": 307306472,
       "label": "",
-      "name": "ripgrep-15.0.0-aarch64-unknown-linux-gnu.tar.gz",
-      "node_id": "RA_kwDOAzJbyc4SLByX",
-      "size": 1864542,
+      "name": "ripgrep-15.1.0-aarch64-unknown-linux-gnu.tar.gz",
+      "node_id": "RA_kwDOAzJbyc4SUR_o",
+      "size": 1869959,
       "state": "uploaded",
-      "updated_at": "2025-10-16T03:19:44Z",
+      "updated_at": "2025-10-22T12:42:12Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -173,20 +173,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/304880791"
+      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/307306472"
     },
     {
-      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.0.0/ripgrep-15.0.0-aarch64-unknown-linux-gnu.tar.gz.sha256",
+      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.1.0/ripgrep-15.1.0-aarch64-unknown-linux-gnu.tar.gz.sha256",
       "content_type": "application/octet-stream",
-      "created_at": "2025-10-16T03:19:44Z",
-      "digest": "sha256:c970194b9d4958bb1a586c9f4cc9451bad5f76fcd6153ff1b6dd2def42e8eec9",
-      "id": 304880790,
+      "created_at": "2025-10-22T12:42:11Z",
+      "digest": "sha256:adc090417ac10b04f0461742c08dcc25abee4a0ff567fa4692b3a7971fe089ec",
+      "id": 307306473,
       "label": "",
-      "name": "ripgrep-15.0.0-aarch64-unknown-linux-gnu.tar.gz.sha256",
-      "node_id": "RA_kwDOAzJbyc4SLByW",
+      "name": "ripgrep-15.1.0-aarch64-unknown-linux-gnu.tar.gz.sha256",
+      "node_id": "RA_kwDOAzJbyc4SUR_p",
       "size": 114,
       "state": "uploaded",
-      "updated_at": "2025-10-16T03:19:44Z",
+      "updated_at": "2025-10-22T12:42:12Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -208,20 +208,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/304880790"
+      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/307306473"
     },
     {
-      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.0.0/ripgrep-15.0.0-armv7-unknown-linux-gnueabihf.tar.gz",
+      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.1.0/ripgrep-15.1.0-armv7-unknown-linux-gnueabihf.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2025-10-16T03:20:43Z",
-      "digest": "sha256:126182ae4c85892546aaabc406f2f9271c609ec7fd6603055783456b339a8f9e",
-      "id": 304881032,
+      "created_at": "2025-10-22T12:42:06Z",
+      "digest": "sha256:1349e515287c06317c1f7adc894a6590ab8bea8cbe997c61060bf6395f42733c",
+      "id": 307306444,
       "label": "",
-      "name": "ripgrep-15.0.0-armv7-unknown-linux-gnueabihf.tar.gz",
-      "node_id": "RA_kwDOAzJbyc4SLB2I",
-      "size": 1843702,
+      "name": "ripgrep-15.1.0-armv7-unknown-linux-gnueabihf.tar.gz",
+      "node_id": "RA_kwDOAzJbyc4SUR_M",
+      "size": 1831905,
       "state": "uploaded",
-      "updated_at": "2025-10-16T03:20:43Z",
+      "updated_at": "2025-10-22T12:42:06Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -243,20 +243,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/304881032"
+      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/307306444"
     },
     {
-      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.0.0/ripgrep-15.0.0-armv7-unknown-linux-gnueabihf.tar.gz.sha256",
+      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.1.0/ripgrep-15.1.0-armv7-unknown-linux-gnueabihf.tar.gz.sha256",
       "content_type": "application/octet-stream",
-      "created_at": "2025-10-16T03:20:43Z",
-      "digest": "sha256:0401ea12ddb3c0c66d9a5640171485bbd6ac042509eadb720915409731413aa8",
-      "id": 304881031,
+      "created_at": "2025-10-22T12:42:06Z",
+      "digest": "sha256:be311c1fcfdce399b0ea4d4ae78fbd158c497888f9b99c85f4f8ffb5d361f722",
+      "id": 307306443,
       "label": "",
-      "name": "ripgrep-15.0.0-armv7-unknown-linux-gnueabihf.tar.gz.sha256",
-      "node_id": "RA_kwDOAzJbyc4SLB2H",
+      "name": "ripgrep-15.1.0-armv7-unknown-linux-gnueabihf.tar.gz.sha256",
+      "node_id": "RA_kwDOAzJbyc4SUR_L",
       "size": 118,
       "state": "uploaded",
-      "updated_at": "2025-10-16T03:20:43Z",
+      "updated_at": "2025-10-22T12:42:06Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -278,20 +278,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/304881031"
+      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/307306443"
     },
     {
-      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.0.0/ripgrep-15.0.0-armv7-unknown-linux-musleabi.tar.gz",
+      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.1.0/ripgrep-15.1.0-armv7-unknown-linux-musleabi.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2025-10-16T03:21:09Z",
-      "digest": "sha256:1f49b435401e67439ea107709e7aac1dfc6b722071a76e991a12e224108797d7",
-      "id": 304881115,
+      "created_at": "2025-10-22T12:41:40Z",
+      "digest": "sha256:59f117dc44a08db816eb55d530ea2aa2f9239ab6939ea4b0dc5f7d355f42165c",
+      "id": 307306311,
       "label": "",
-      "name": "ripgrep-15.0.0-armv7-unknown-linux-musleabi.tar.gz",
-      "node_id": "RA_kwDOAzJbyc4SLB3b",
-      "size": 1836751,
+      "name": "ripgrep-15.1.0-armv7-unknown-linux-musleabi.tar.gz",
+      "node_id": "RA_kwDOAzJbyc4SUR9H",
+      "size": 1831202,
       "state": "uploaded",
-      "updated_at": "2025-10-16T03:21:10Z",
+      "updated_at": "2025-10-22T12:41:42Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -313,20 +313,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/304881115"
+      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/307306311"
     },
     {
-      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.0.0/ripgrep-15.0.0-armv7-unknown-linux-musleabi.tar.gz.sha256",
+      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.1.0/ripgrep-15.1.0-armv7-unknown-linux-musleabi.tar.gz.sha256",
       "content_type": "application/octet-stream",
-      "created_at": "2025-10-16T03:21:09Z",
-      "digest": "sha256:a86947ba42d4b67f9da04ba36fa64054e200993ab6e917add45df5442d6bdede",
-      "id": 304881113,
+      "created_at": "2025-10-22T12:41:40Z",
+      "digest": "sha256:4555b1a5f06fcdc046046f875bdd2e3c69ee3eccfca8e7f0e592faecce3e7ea4",
+      "id": 307306312,
       "label": "",
-      "name": "ripgrep-15.0.0-armv7-unknown-linux-musleabi.tar.gz.sha256",
-      "node_id": "RA_kwDOAzJbyc4SLB3Z",
+      "name": "ripgrep-15.1.0-armv7-unknown-linux-musleabi.tar.gz.sha256",
+      "node_id": "RA_kwDOAzJbyc4SUR9I",
       "size": 117,
       "state": "uploaded",
-      "updated_at": "2025-10-16T03:21:09Z",
+      "updated_at": "2025-10-22T12:41:40Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -348,20 +348,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/304881113"
+      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/307306312"
     },
     {
-      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.0.0/ripgrep-15.0.0-armv7-unknown-linux-musleabihf.tar.gz",
+      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.1.0/ripgrep-15.1.0-armv7-unknown-linux-musleabihf.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2025-10-16T03:19:36Z",
-      "digest": "sha256:e6fdbe890704c49d694538357f1819202163cab27e75c1ec5da8bf7c83eebaf0",
-      "id": 304880767,
+      "created_at": "2025-10-22T12:40:43Z",
+      "digest": "sha256:89c0230b8ad3c280460e0391f2ecb92f4a7c498b10f4a912540fc0f916336b08",
+      "id": 307305932,
       "label": "",
-      "name": "ripgrep-15.0.0-armv7-unknown-linux-musleabihf.tar.gz",
-      "node_id": "RA_kwDOAzJbyc4SLBx_",
-      "size": 1844101,
+      "name": "ripgrep-15.1.0-armv7-unknown-linux-musleabihf.tar.gz",
+      "node_id": "RA_kwDOAzJbyc4SUR3M",
+      "size": 1844969,
       "state": "uploaded",
-      "updated_at": "2025-10-16T03:19:36Z",
+      "updated_at": "2025-10-22T12:40:44Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -383,20 +383,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/304880767"
+      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/307305932"
     },
     {
-      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.0.0/ripgrep-15.0.0-armv7-unknown-linux-musleabihf.tar.gz.sha256",
+      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.1.0/ripgrep-15.1.0-armv7-unknown-linux-musleabihf.tar.gz.sha256",
       "content_type": "application/octet-stream",
-      "created_at": "2025-10-16T03:19:36Z",
-      "digest": "sha256:02558ed992c2911a7cf67d968c14e58d6b29580720d25eed8c13fc37dce25a8a",
-      "id": 304880768,
+      "created_at": "2025-10-22T12:40:43Z",
+      "digest": "sha256:49137c356a8a4e729aa1ec8db26f822705a19e91b411b9c054810514abc34c81",
+      "id": 307305933,
       "label": "",
-      "name": "ripgrep-15.0.0-armv7-unknown-linux-musleabihf.tar.gz.sha256",
-      "node_id": "RA_kwDOAzJbyc4SLByA",
+      "name": "ripgrep-15.1.0-armv7-unknown-linux-musleabihf.tar.gz.sha256",
+      "node_id": "RA_kwDOAzJbyc4SUR3N",
       "size": 119,
       "state": "uploaded",
-      "updated_at": "2025-10-16T03:19:36Z",
+      "updated_at": "2025-10-22T12:40:44Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -418,20 +418,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/304880768"
+      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/307305933"
     },
     {
-      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.0.0/ripgrep-15.0.0-i686-pc-windows-msvc.zip",
+      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.1.0/ripgrep-15.1.0-i686-pc-windows-msvc.zip",
       "content_type": "application/zip",
-      "created_at": "2025-10-16T03:19:48Z",
-      "digest": "sha256:acb9918e9f3a88bd171143d663ffb12e8ab765b48bb449f8e7d8f1c7c1bd8311",
-      "id": 304880809,
+      "created_at": "2025-10-22T12:42:11Z",
+      "digest": "sha256:725be85a1e8f92878a548f40ee4f6df64bc93b809586462b3c6d884e1de1e83a",
+      "id": 307306474,
       "label": "",
-      "name": "ripgrep-15.0.0-i686-pc-windows-msvc.zip",
-      "node_id": "RA_kwDOAzJbyc4SLByp",
-      "size": 1670048,
+      "name": "ripgrep-15.1.0-i686-pc-windows-msvc.zip",
+      "node_id": "RA_kwDOAzJbyc4SUR_q",
+      "size": 1665725,
       "state": "uploaded",
-      "updated_at": "2025-10-16T03:19:49Z",
+      "updated_at": "2025-10-22T12:42:12Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -453,20 +453,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/304880809"
+      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/307306474"
     },
     {
-      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.0.0/ripgrep-15.0.0-i686-pc-windows-msvc.zip.sha256",
+      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.1.0/ripgrep-15.1.0-i686-pc-windows-msvc.zip.sha256",
       "content_type": "application/octet-stream",
-      "created_at": "2025-10-16T03:19:48Z",
-      "digest": "sha256:a9722f3de6ab8a6acb91863ee68e9e9afebab842857a7104b69bf9eef66b6686",
-      "id": 304880810,
+      "created_at": "2025-10-22T12:42:11Z",
+      "digest": "sha256:27489c5d6d55f25c6bcd8f970fba43aa170fd357d043f011e0ef27f81db493d4",
+      "id": 307306475,
       "label": "",
-      "name": "ripgrep-15.0.0-i686-pc-windows-msvc.zip.sha256",
-      "node_id": "RA_kwDOAzJbyc4SLByq",
+      "name": "ripgrep-15.1.0-i686-pc-windows-msvc.zip.sha256",
+      "node_id": "RA_kwDOAzJbyc4SUR_r",
       "size": 176,
       "state": "uploaded",
-      "updated_at": "2025-10-16T03:19:48Z",
+      "updated_at": "2025-10-22T12:42:12Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -488,20 +488,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/304880810"
+      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/307306475"
     },
     {
-      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.0.0/ripgrep-15.0.0-i686-unknown-linux-gnu.tar.gz",
+      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.1.0/ripgrep-15.1.0-i686-unknown-linux-gnu.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2025-10-16T03:19:41Z",
-      "digest": "sha256:9a614b1c5014a1e9aa67aa7639fc47ee39bba02714589f43411466f75def1d3b",
-      "id": 304880784,
+      "created_at": "2025-10-22T12:41:56Z",
+      "digest": "sha256:0300c58864b1de49da08f714d56ce10328dcbf6de37a404486fe2696e95692f1",
+      "id": 307306383,
       "label": "",
-      "name": "ripgrep-15.0.0-i686-unknown-linux-gnu.tar.gz",
-      "node_id": "RA_kwDOAzJbyc4SLByQ",
-      "size": 1952857,
+      "name": "ripgrep-15.1.0-i686-unknown-linux-gnu.tar.gz",
+      "node_id": "RA_kwDOAzJbyc4SUR-P",
+      "size": 1950407,
       "state": "uploaded",
-      "updated_at": "2025-10-16T03:19:41Z",
+      "updated_at": "2025-10-22T12:41:56Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -523,20 +523,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/304880784"
+      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/307306383"
     },
     {
-      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.0.0/ripgrep-15.0.0-i686-unknown-linux-gnu.tar.gz.sha256",
+      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.1.0/ripgrep-15.1.0-i686-unknown-linux-gnu.tar.gz.sha256",
       "content_type": "application/octet-stream",
-      "created_at": "2025-10-16T03:19:41Z",
-      "digest": "sha256:0deab1b619a75f599b356611e89873b17324ef3ee4ba6360eb160aa4bb3861c1",
-      "id": 304880785,
+      "created_at": "2025-10-22T12:41:56Z",
+      "digest": "sha256:2d33600a9d66220c38fe0143fd444c8f286db829a168bebe57f0d0cace571ca6",
+      "id": 307306382,
       "label": "",
-      "name": "ripgrep-15.0.0-i686-unknown-linux-gnu.tar.gz.sha256",
-      "node_id": "RA_kwDOAzJbyc4SLByR",
+      "name": "ripgrep-15.1.0-i686-unknown-linux-gnu.tar.gz.sha256",
+      "node_id": "RA_kwDOAzJbyc4SUR-O",
       "size": 111,
       "state": "uploaded",
-      "updated_at": "2025-10-16T03:19:41Z",
+      "updated_at": "2025-10-22T12:41:56Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -558,20 +558,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/304880785"
+      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/307306382"
     },
     {
-      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.0.0/ripgrep-15.0.0-s390x-unknown-linux-gnu.tar.gz",
+      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.1.0/ripgrep-15.1.0-s390x-unknown-linux-gnu.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2025-10-16T03:19:38Z",
-      "digest": "sha256:95c24c733210c097557c6534dced233e8d7aaa4436cd808a1e01ab9338ac7951",
-      "id": 304880779,
+      "created_at": "2025-10-22T12:42:22Z",
+      "digest": "sha256:a7b9bae0009abc2df000877a2f6e64f03bbf8fdd0c912167427e69ab45dd2fef",
+      "id": 307306519,
       "label": "",
-      "name": "ripgrep-15.0.0-s390x-unknown-linux-gnu.tar.gz",
-      "node_id": "RA_kwDOAzJbyc4SLByL",
-      "size": 2431790,
+      "name": "ripgrep-15.1.0-s390x-unknown-linux-gnu.tar.gz",
+      "node_id": "RA_kwDOAzJbyc4SUSAX",
+      "size": 2441054,
       "state": "uploaded",
-      "updated_at": "2025-10-16T03:19:38Z",
+      "updated_at": "2025-10-22T12:42:22Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -593,20 +593,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/304880779"
+      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/307306519"
     },
     {
-      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.0.0/ripgrep-15.0.0-s390x-unknown-linux-gnu.tar.gz.sha256",
+      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.1.0/ripgrep-15.1.0-s390x-unknown-linux-gnu.tar.gz.sha256",
       "content_type": "application/octet-stream",
-      "created_at": "2025-10-16T03:19:38Z",
-      "digest": "sha256:fc90e34937e69c59522e8f13990b271c08909e54e4ef59eced3e2191e2d4bdd0",
-      "id": 304880780,
+      "created_at": "2025-10-22T12:42:22Z",
+      "digest": "sha256:6a00ef9ba51ec9d5afe5e137f7d6539937c0dbe6f2d5c46045bd35139fbc698b",
+      "id": 307306521,
       "label": "",
-      "name": "ripgrep-15.0.0-s390x-unknown-linux-gnu.tar.gz.sha256",
-      "node_id": "RA_kwDOAzJbyc4SLByM",
+      "name": "ripgrep-15.1.0-s390x-unknown-linux-gnu.tar.gz.sha256",
+      "node_id": "RA_kwDOAzJbyc4SUSAZ",
       "size": 112,
       "state": "uploaded",
-      "updated_at": "2025-10-16T03:19:38Z",
+      "updated_at": "2025-10-22T12:42:22Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -628,20 +628,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/304880780"
+      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/307306521"
     },
     {
-      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.0.0/ripgrep-15.0.0-x86_64-apple-darwin.tar.gz",
+      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.1.0/ripgrep-15.1.0-x86_64-apple-darwin.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2025-10-16T03:19:11Z",
-      "digest": "sha256:44128c733d127ddbda461e01225a68b5f9997cfe7635242a797f645ca674a71a",
-      "id": 304880656,
+      "created_at": "2025-10-22T12:39:11Z",
+      "digest": "sha256:64811cb24e77cac3057d6c40b63ac9becf9082eedd54ca411b475b755d334882",
+      "id": 307305422,
       "label": "",
-      "name": "ripgrep-15.0.0-x86_64-apple-darwin.tar.gz",
-      "node_id": "RA_kwDOAzJbyc4SLBwQ",
-      "size": 1887368,
+      "name": "ripgrep-15.1.0-x86_64-apple-darwin.tar.gz",
+      "node_id": "RA_kwDOAzJbyc4SURvO",
+      "size": 1894127,
       "state": "uploaded",
-      "updated_at": "2025-10-16T03:19:12Z",
+      "updated_at": "2025-10-22T12:39:11Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -663,20 +663,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/304880656"
+      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/307305422"
     },
     {
-      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.0.0/ripgrep-15.0.0-x86_64-apple-darwin.tar.gz.sha256",
+      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.1.0/ripgrep-15.1.0-x86_64-apple-darwin.tar.gz.sha256",
       "content_type": "application/octet-stream",
-      "created_at": "2025-10-16T03:19:11Z",
-      "digest": "sha256:6ffb1e07d190e80981024c4fd5adede448d4d37a6aeed5d245ed4d5ec62dcd4c",
-      "id": 304880658,
+      "created_at": "2025-10-22T12:39:11Z",
+      "digest": "sha256:8d000fa1d7c986db13836342d5312882f0edf4cf3110b6d357cb1f1ebf7e631d",
+      "id": 307305423,
       "label": "",
-      "name": "ripgrep-15.0.0-x86_64-apple-darwin.tar.gz.sha256",
-      "node_id": "RA_kwDOAzJbyc4SLBwS",
+      "name": "ripgrep-15.1.0-x86_64-apple-darwin.tar.gz.sha256",
+      "node_id": "RA_kwDOAzJbyc4SURvP",
       "size": 108,
       "state": "uploaded",
-      "updated_at": "2025-10-16T03:19:11Z",
+      "updated_at": "2025-10-22T12:39:11Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -698,20 +698,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/304880658"
+      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/307305423"
     },
     {
-      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.0.0/ripgrep-15.0.0-x86_64-pc-windows-gnu.zip",
+      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.1.0/ripgrep-15.1.0-x86_64-pc-windows-gnu.zip",
       "content_type": "application/zip",
-      "created_at": "2025-10-16T03:19:42Z",
-      "digest": "sha256:2da5362849a82c847923524cf983f134cefb07272501bff3647b4d035dd28528",
-      "id": 304880788,
+      "created_at": "2025-10-22T12:41:03Z",
+      "digest": "sha256:0bf217086ecb1392070020810b888bd405cb1dd5f088c16c45d9de1e5ea6b638",
+      "id": 307306053,
       "label": "",
-      "name": "ripgrep-15.0.0-x86_64-pc-windows-gnu.zip",
-      "node_id": "RA_kwDOAzJbyc4SLByU",
-      "size": 1897663,
+      "name": "ripgrep-15.1.0-x86_64-pc-windows-gnu.zip",
+      "node_id": "RA_kwDOAzJbyc4SUR5F",
+      "size": 1897509,
       "state": "uploaded",
-      "updated_at": "2025-10-16T03:19:43Z",
+      "updated_at": "2025-10-22T12:41:03Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -733,20 +733,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/304880788"
+      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/307306053"
     },
     {
-      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.0.0/ripgrep-15.0.0-x86_64-pc-windows-gnu.zip.sha256",
+      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.1.0/ripgrep-15.1.0-x86_64-pc-windows-gnu.zip.sha256",
       "content_type": "application/octet-stream",
-      "created_at": "2025-10-16T03:19:42Z",
-      "digest": "sha256:f13d1ed45ea74d6e750da0af4d0f5a7f58d3b00a030082aa604a0dd961b95c63",
-      "id": 304880787,
+      "created_at": "2025-10-22T12:41:03Z",
+      "digest": "sha256:fdddd755f58d5b54663916231fd1315fc3f36a2d3ca414e31a9adc32879af3d2",
+      "id": 307306052,
       "label": "",
-      "name": "ripgrep-15.0.0-x86_64-pc-windows-gnu.zip.sha256",
-      "node_id": "RA_kwDOAzJbyc4SLByT",
+      "name": "ripgrep-15.1.0-x86_64-pc-windows-gnu.zip.sha256",
+      "node_id": "RA_kwDOAzJbyc4SUR5E",
       "size": 177,
       "state": "uploaded",
-      "updated_at": "2025-10-16T03:19:42Z",
+      "updated_at": "2025-10-22T12:41:03Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -768,20 +768,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/304880787"
+      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/307306052"
     },
     {
-      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.0.0/ripgrep-15.0.0-x86_64-pc-windows-msvc.zip",
+      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.1.0/ripgrep-15.1.0-x86_64-pc-windows-msvc.zip",
       "content_type": "application/zip",
-      "created_at": "2025-10-16T03:19:33Z",
-      "digest": "sha256:21a98bf42c4da97ca543c010e764cc6dec8b9b7538d05f8d21874016385e0860",
-      "id": 304880754,
+      "created_at": "2025-10-22T12:40:34Z",
+      "digest": "sha256:124510b94b6baa3380d051fdf4650eaa80a302c876d611e9dba0b2e18d87493a",
+      "id": 307305871,
       "label": "",
-      "name": "ripgrep-15.0.0-x86_64-pc-windows-msvc.zip",
-      "node_id": "RA_kwDOAzJbyc4SLBxy",
-      "size": 1805250,
+      "name": "ripgrep-15.1.0-x86_64-pc-windows-msvc.zip",
+      "node_id": "RA_kwDOAzJbyc4SUR2P",
+      "size": 1810687,
       "state": "uploaded",
-      "updated_at": "2025-10-16T03:19:34Z",
+      "updated_at": "2025-10-22T12:40:34Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -803,20 +803,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/304880754"
+      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/307305871"
     },
     {
-      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.0.0/ripgrep-15.0.0-x86_64-pc-windows-msvc.zip.sha256",
+      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.1.0/ripgrep-15.1.0-x86_64-pc-windows-msvc.zip.sha256",
       "content_type": "application/octet-stream",
-      "created_at": "2025-10-16T03:19:34Z",
-      "digest": "sha256:59c7ff3403cf7e4429478fbb025fa3241569a65b310862c3150e4de1a6c6a7f7",
-      "id": 304880755,
+      "created_at": "2025-10-22T12:40:34Z",
+      "digest": "sha256:eb6729af60025cba92e871d9db88187035b9f48193cc82794ea0b806b6b7593d",
+      "id": 307305872,
       "label": "",
-      "name": "ripgrep-15.0.0-x86_64-pc-windows-msvc.zip.sha256",
-      "node_id": "RA_kwDOAzJbyc4SLBxz",
+      "name": "ripgrep-15.1.0-x86_64-pc-windows-msvc.zip.sha256",
+      "node_id": "RA_kwDOAzJbyc4SUR2Q",
       "size": 178,
       "state": "uploaded",
-      "updated_at": "2025-10-16T03:19:34Z",
+      "updated_at": "2025-10-22T12:40:34Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -838,20 +838,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/304880755"
+      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/307305872"
     },
     {
-      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.0.0/ripgrep-15.0.0-x86_64-unknown-linux-musl.tar.gz",
+      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.1.0/ripgrep-15.1.0-x86_64-unknown-linux-musl.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2025-10-16T03:26:46Z",
-      "digest": "sha256:253ad0fd5fef0d64cba56c70dccdacc1916d4ed70ad057cc525fcdb0c3bbd2a7",
-      "id": 304882372,
+      "created_at": "2025-10-22T12:42:42Z",
+      "digest": "sha256:1c9297be4a084eea7ecaedf93eb03d058d6faae29bbc57ecdaf5063921491599",
+      "id": 307306614,
       "label": "",
-      "name": "ripgrep-15.0.0-x86_64-unknown-linux-musl.tar.gz",
-      "node_id": "RA_kwDOAzJbyc4SLCLE",
-      "size": 2262100,
+      "name": "ripgrep-15.1.0-x86_64-unknown-linux-musl.tar.gz",
+      "node_id": "RA_kwDOAzJbyc4SUSB2",
+      "size": 2263077,
       "state": "uploaded",
-      "updated_at": "2025-10-16T03:26:46Z",
+      "updated_at": "2025-10-22T12:42:43Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -873,20 +873,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/304882372"
+      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/307306614"
     },
     {
-      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.0.0/ripgrep-15.0.0-x86_64-unknown-linux-musl.tar.gz.sha256",
+      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.1.0/ripgrep-15.1.0-x86_64-unknown-linux-musl.tar.gz.sha256",
       "content_type": "application/octet-stream",
-      "created_at": "2025-10-16T03:26:46Z",
-      "digest": "sha256:859b5796d63d7f3037f4ca95220ca3a4670332317e1561af3deda43ef8d271ba",
-      "id": 304882371,
+      "created_at": "2025-10-22T12:42:42Z",
+      "digest": "sha256:ad13579c63f6a9c6cab5e8bf093dd4c1673554f39adf940911a52522885ec563",
+      "id": 307306613,
       "label": "",
-      "name": "ripgrep-15.0.0-x86_64-unknown-linux-musl.tar.gz.sha256",
-      "node_id": "RA_kwDOAzJbyc4SLCLD",
+      "name": "ripgrep-15.1.0-x86_64-unknown-linux-musl.tar.gz.sha256",
+      "node_id": "RA_kwDOAzJbyc4SUSB1",
       "size": 114,
       "state": "uploaded",
-      "updated_at": "2025-10-16T03:26:46Z",
+      "updated_at": "2025-10-22T12:42:43Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -908,20 +908,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/304882371"
+      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/307306613"
     },
     {
-      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.0.0/ripgrep_15.0.0-1_amd64.deb",
+      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.1.0/ripgrep_15.1.0-1_amd64.deb",
       "content_type": "application/x-debian-package",
-      "created_at": "2025-10-16T03:20:39Z",
-      "digest": "sha256:ec08b128f8774c256f87b8f79def4f4930c769e21e980ec9a80e27f4f5f76759",
-      "id": 304881026,
+      "created_at": "2025-10-22T12:41:28Z",
+      "digest": "sha256:62ce186675c71edbc7c48a67dc36f986974551354d6ce63726adc2d85aad802c",
+      "id": 307306229,
       "label": "",
-      "name": "ripgrep_15.0.0-1_amd64.deb",
-      "node_id": "RA_kwDOAzJbyc4SLB2C",
-      "size": 1702852,
+      "name": "ripgrep_15.1.0-1_amd64.deb",
+      "node_id": "RA_kwDOAzJbyc4SUR71",
+      "size": 1704160,
       "state": "uploaded",
-      "updated_at": "2025-10-16T03:20:39Z",
+      "updated_at": "2025-10-22T12:41:28Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -943,20 +943,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/304881026"
+      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/307306229"
     },
     {
-      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.0.0/ripgrep_15.0.0-1_amd64.deb.sha256",
+      "browser_download_url": "https://github.com/BurntSushi/ripgrep/releases/download/15.1.0/ripgrep_15.1.0-1_amd64.deb.sha256",
       "content_type": "application/octet-stream",
-      "created_at": "2025-10-16T03:20:39Z",
-      "digest": "sha256:1836c681392d54c0c712e84181d1233b6186b23d8861284553a7b76f635ab4e0",
-      "id": 304881025,
+      "created_at": "2025-10-22T12:41:28Z",
+      "digest": "sha256:3e3b35139b55d7cac0dc2361f488262cf345c9b8afca7ce30b45a19d056a5c75",
+      "id": 307306230,
       "label": "",
-      "name": "ripgrep_15.0.0-1_amd64.deb.sha256",
-      "node_id": "RA_kwDOAzJbyc4SLB2B",
+      "name": "ripgrep_15.1.0-1_amd64.deb.sha256",
+      "node_id": "RA_kwDOAzJbyc4SUR72",
       "size": 93,
       "state": "uploaded",
-      "updated_at": "2025-10-16T03:20:39Z",
+      "updated_at": "2025-10-22T12:41:28Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -978,10 +978,10 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/304881025"
+      "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/assets/307306230"
     }
   ],
-  "assets_url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/254873528/assets",
+  "assets_url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/256335897/assets",
   "author": {
     "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
     "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1003,20 +1003,21 @@
     "url": "https://api.github.com/users/github-actions%5Bbot%5D",
     "user_view_type": "public"
   },
-  "created_at": "2025-10-16T03:08:06Z",
+  "body": "[Sponsorship is appreciated!](https://github.com/sponsors/BurntSushi/)\r\n\r\nThis is a small release that fixes a bug with how ripgrep handles line\r\nbuffering. This might manifest as ripgrep printing output later than you\r\nexpect or not working correctly with `tail -f` (even if you're using the\r\n`--line-buffered` flag).\r\n\r\n> In case you haven't heard of it before, ripgrep is a line-oriented search\r\n> tool that recursively searches the current directory for a regex pattern.\r\n> By default, ripgrep will respect gitignore rules and automatically skip\r\n> hidden files/directories and binary files.\r\n\r\nBug fixes:\r\n\r\n* [BUG #3194](https://github.com/BurntSushi/ripgrep/issues/3194):\r\n  Fix a regression with `--line-buffered` introduced in ripgrep 15.0.0.\r\n\r\nFeature enhancements:\r\n\r\n* [FEATURE #3192](https://github.com/BurntSushi/ripgrep/pull/3192):\r\n  Add hyperlink alias for Cursor.",
+  "created_at": "2025-10-22T12:30:04Z",
   "draft": false,
-  "html_url": "https://github.com/BurntSushi/ripgrep/releases/tag/15.0.0",
-  "id": 254873528,
+  "html_url": "https://github.com/BurntSushi/ripgrep/releases/tag/15.1.0",
+  "id": 256335897,
   "immutable": false,
-  "name": "15.0.0",
-  "node_id": "RE_kwDOAzJbyc4PMQ-4",
+  "name": "15.1.0",
+  "node_id": "RE_kwDOAzJbyc4PR2AZ",
   "prerelease": false,
-  "published_at": "2025-10-16T03:17:57Z",
-  "tag_name": "15.0.0",
-  "tarball_url": "https://api.github.com/repos/BurntSushi/ripgrep/tarball/15.0.0",
+  "published_at": "2025-10-22T13:00:26Z",
+  "tag_name": "15.1.0",
+  "tarball_url": "https://api.github.com/repos/BurntSushi/ripgrep/tarball/15.1.0",
   "target_commitish": "master",
-  "updated_at": "2025-10-16T03:26:46Z",
-  "upload_url": "https://uploads.github.com/repos/BurntSushi/ripgrep/releases/254873528/assets{?name,label}",
-  "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/254873528",
-  "zipball_url": "https://api.github.com/repos/BurntSushi/ripgrep/zipball/15.0.0"
+  "updated_at": "2025-10-22T13:00:26Z",
+  "upload_url": "https://uploads.github.com/repos/BurntSushi/ripgrep/releases/256335897/assets{?name,label}",
+  "url": "https://api.github.com/repos/BurntSushi/ripgrep/releases/256335897",
+  "zipball_url": "https://api.github.com/repos/BurntSushi/ripgrep/zipball/15.1.0"
 }
