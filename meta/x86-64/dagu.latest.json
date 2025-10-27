@@ -1073,7 +1073,7 @@
     "url": "https://api.github.com/users/yottahmd",
     "user_view_type": "public"
   },
-  "body": "## Changelog\n* 9d87a3299a4ef35a1ced8770c3a732e00a5d60c4 chore: Fix docker build job\n\n",
+  "body": "This release is same as v1.23.3 which I accidentally dropped.\r\n\r\n### Added\r\n- CLI: Added `--name` flag to `start`, `retry`, and `enqueue` commands to override the DAG name specified in the YAML file (#1363)\r\n- DAG: Support shell-like parameter expansion for `env` and `parameters` fields, including `${VAR:offset:length}` slices and shell-style defaults (`${VAR:-fallback}`) (#1354)\r\n- Distributed: Added comprehensive Kubernetes deployment manifests with ConfigMaps, PVCs, and separate server/worker deployments (#1360)\r\n- Distributed: Added automatic cleanup of stale coordinator service registrations (#1360)\r\n- Distributed: Added retry mechanism with exponential backoff for coordinator client connections (#1360)\r\n\r\n### Improved\r\n- Distributed: Enhanced distributed execution with better worker coordination and status propagation (#1360)\r\n- Distributed: Improved child DAG status propagation in distributed mode to correctly report final status to parent workflows (#1358)\r\n- OIDC: Improved OIDC configuration validation with better error messages and logging (#1361)\r\n- OIDC: Enhanced OIDC authentication flow with proper state management and error handling (#1361)\r\n- API: Better error handling in API endpoints with more descriptive error messages (#1361)\r\n\r\n### Fixed\r\n- Distributed: Fixed child DAG status not being properly propagated to parent in distributed execution (#1358)\r\n- Distributed: Fixed parallel execution status tracking for sub-DAGs (#1358)\r\n- Distributed: Fixed service registry cleanup and stale entry detection (#1360)\r\n\r\n### Contributors\r\n\r\nThanks to our contributors for this release:\r\n\r\n| Contribution                           | Contributors                                   |\r\n| -------------------------------------- | ---------------------------------------- |\r\n| `--name` flag feature clarification and feedback (#1349) | [@ghansham](https://github.com/ghansham) |\r\n| OIDC authentication broken interface issue report (#1359) | [@mitchplze](https://github.com/mitchplze) |\r\n| Distributed execution lock issue on Kubernetes (#1353) | [@yangkghjh](https://github.com/yangkghjh) |\r\n| Shell-like parameter expansion feature request (#1352) | [@ghansham](https://github.com/ghansham) |\r\n\r\n**Full Changelog**: [v1.23.2...v1.23.4](https://github.com/dagu-org/dagu/compare/v1.23.2...v1.23.3)\r\n",
   "created_at": "2025-10-26T14:13:19Z",
   "draft": false,
   "html_url": "https://github.com/dagu-org/dagu/releases/tag/v1.23.4",
@@ -1086,7 +1086,7 @@
   "tag_name": "v1.23.4",
   "tarball_url": "https://api.github.com/repos/dagu-org/dagu/tarball/v1.23.4",
   "target_commitish": "main",
-  "updated_at": "2025-10-27T02:40:00Z",
+  "updated_at": "2025-10-27T02:49:02Z",
   "upload_url": "https://uploads.github.com/repos/dagu-org/dagu/releases/257347981/assets{?name,label}",
   "url": "https://api.github.com/repos/dagu-org/dagu/releases/257347981",
   "zipball_url": "https://api.github.com/repos/dagu-org/dagu/zipball/v1.23.4"
