@@ -1,17 +1,17 @@
 {
   "assets": [
     {
-      "browser_download_url": "https://github.com/containers/fuse-overlayfs/releases/download/v1.15/fuse-overlayfs-aarch64",
+      "browser_download_url": "https://github.com/containers/fuse-overlayfs/releases/download/v1.16/fuse-overlayfs-aarch64",
       "content_type": "application/octet-stream",
-      "created_at": "2025-05-08T11:37:14Z",
-      "digest": null,
-      "id": 252884791,
+      "created_at": "2025-11-05T11:20:14Z",
+      "digest": "sha256:6c9ee54166fe7d33ebbfb085812585441f22ebe2a24a868d0a878d3127bcb89e",
+      "id": 312806862,
       "label": "",
       "name": "fuse-overlayfs-aarch64",
-      "node_id": "RA_kwDOCGP4D84PErc3",
-      "size": 1451480,
+      "node_id": "RA_kwDOCGP4D84SpQ3O",
+      "size": 1750792,
       "state": "uploaded",
-      "updated_at": "2025-05-08T11:37:14Z",
+      "updated_at": "2025-11-05T11:20:14Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -33,20 +33,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/containers/fuse-overlayfs/releases/assets/252884791"
+      "url": "https://api.github.com/repos/containers/fuse-overlayfs/releases/assets/312806862"
     },
     {
-      "browser_download_url": "https://github.com/containers/fuse-overlayfs/releases/download/v1.15/fuse-overlayfs-armv7l",
+      "browser_download_url": "https://github.com/containers/fuse-overlayfs/releases/download/v1.16/fuse-overlayfs-armv7l",
       "content_type": "application/octet-stream",
-      "created_at": "2025-05-08T11:37:14Z",
-      "digest": null,
-      "id": 252884789,
+      "created_at": "2025-11-05T11:20:14Z",
+      "digest": "sha256:fc2a73ace8eb6a0553204532de615d782cb98d86deeb0fa7b5d14347d0b95823",
+      "id": 312806864,
       "label": "",
       "name": "fuse-overlayfs-armv7l",
-      "node_id": "RA_kwDOCGP4D84PErc1",
-      "size": 1065576,
+      "node_id": "RA_kwDOCGP4D84SpQ3Q",
+      "size": 1188628,
       "state": "uploaded",
-      "updated_at": "2025-05-08T11:37:14Z",
+      "updated_at": "2025-11-05T11:20:14Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -68,20 +68,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/containers/fuse-overlayfs/releases/assets/252884789"
+      "url": "https://api.github.com/repos/containers/fuse-overlayfs/releases/assets/312806864"
     },
     {
-      "browser_download_url": "https://github.com/containers/fuse-overlayfs/releases/download/v1.15/fuse-overlayfs-ppc64le",
+      "browser_download_url": "https://github.com/containers/fuse-overlayfs/releases/download/v1.16/fuse-overlayfs-ppc64le",
       "content_type": "application/octet-stream",
-      "created_at": "2025-05-08T11:37:14Z",
-      "digest": null,
-      "id": 252884790,
+      "created_at": "2025-11-05T11:20:14Z",
+      "digest": "sha256:3c07b76b432a5b4e5e0ccd986919b478d096701178617175b0c71bcce7c6f6a0",
+      "id": 312806861,
       "label": "",
       "name": "fuse-overlayfs-ppc64le",
-      "node_id": "RA_kwDOCGP4D84PErc2",
-      "size": 1955552,
+      "node_id": "RA_kwDOCGP4D84SpQ3N",
+      "size": 2030688,
       "state": "uploaded",
-      "updated_at": "2025-05-08T11:37:14Z",
+      "updated_at": "2025-11-05T11:20:14Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -103,20 +103,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/containers/fuse-overlayfs/releases/assets/252884790"
+      "url": "https://api.github.com/repos/containers/fuse-overlayfs/releases/assets/312806861"
     },
     {
-      "browser_download_url": "https://github.com/containers/fuse-overlayfs/releases/download/v1.15/fuse-overlayfs-riscv64",
+      "browser_download_url": "https://github.com/containers/fuse-overlayfs/releases/download/v1.16/fuse-overlayfs-riscv64",
       "content_type": "application/octet-stream",
-      "created_at": "2025-05-08T11:37:14Z",
-      "digest": null,
-      "id": 252884788,
+      "created_at": "2025-11-05T11:20:14Z",
+      "digest": "sha256:404fd7a762255d554e70849612fb6979639e1eb23a740487dbe3bac2bccc37c1",
+      "id": 312806865,
       "label": "",
       "name": "fuse-overlayfs-riscv64",
-      "node_id": "RA_kwDOCGP4D84PErc0",
-      "size": 1281632,
+      "node_id": "RA_kwDOCGP4D84SpQ3R",
+      "size": 1486512,
       "state": "uploaded",
-      "updated_at": "2025-05-08T11:37:14Z",
+      "updated_at": "2025-11-05T11:20:14Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -138,20 +138,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/containers/fuse-overlayfs/releases/assets/252884788"
+      "url": "https://api.github.com/repos/containers/fuse-overlayfs/releases/assets/312806865"
     },
     {
-      "browser_download_url": "https://github.com/containers/fuse-overlayfs/releases/download/v1.15/fuse-overlayfs-s390x",
+      "browser_download_url": "https://github.com/containers/fuse-overlayfs/releases/download/v1.16/fuse-overlayfs-s390x",
       "content_type": "application/octet-stream",
-      "created_at": "2025-05-08T11:37:14Z",
-      "digest": null,
-      "id": 252884792,
+      "created_at": "2025-11-05T11:20:14Z",
+      "digest": "sha256:9e96cfe091b4342b8de3e239a96d5fecfb8692fbb4a201c256790c270526fd1b",
+      "id": 312806868,
       "label": "",
       "name": "fuse-overlayfs-s390x",
-      "node_id": "RA_kwDOCGP4D84PErc4",
-      "size": 1508912,
+      "node_id": "RA_kwDOCGP4D84SpQ3U",
+      "size": 1656024,
       "state": "uploaded",
-      "updated_at": "2025-05-08T11:37:14Z",
+      "updated_at": "2025-11-05T11:20:15Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -173,20 +173,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/containers/fuse-overlayfs/releases/assets/252884792"
+      "url": "https://api.github.com/repos/containers/fuse-overlayfs/releases/assets/312806868"
     },
     {
-      "browser_download_url": "https://github.com/containers/fuse-overlayfs/releases/download/v1.15/fuse-overlayfs-x86_64",
+      "browser_download_url": "https://github.com/containers/fuse-overlayfs/releases/download/v1.16/fuse-overlayfs-x86_64",
       "content_type": "application/octet-stream",
-      "created_at": "2025-05-08T11:37:14Z",
-      "digest": null,
-      "id": 252884793,
+      "created_at": "2025-11-05T11:20:14Z",
+      "digest": "sha256:30c6b9e192600d6854e13397974c709d7cabd980b7d1a4d67defd8eb69677e91",
+      "id": 312806870,
       "label": "",
       "name": "fuse-overlayfs-x86_64",
-      "node_id": "RA_kwDOCGP4D84PErc5",
-      "size": 1788872,
+      "node_id": "RA_kwDOCGP4D84SpQ3W",
+      "size": 1885808,
       "state": "uploaded",
-      "updated_at": "2025-05-08T11:37:15Z",
+      "updated_at": "2025-11-05T11:20:15Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -208,20 +208,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/containers/fuse-overlayfs/releases/assets/252884793"
+      "url": "https://api.github.com/repos/containers/fuse-overlayfs/releases/assets/312806870"
     },
     {
-      "browser_download_url": "https://github.com/containers/fuse-overlayfs/releases/download/v1.15/SHA256SUMS",
+      "browser_download_url": "https://github.com/containers/fuse-overlayfs/releases/download/v1.16/SHA256SUMS",
       "content_type": "application/octet-stream",
-      "created_at": "2025-05-08T11:37:14Z",
-      "digest": null,
-      "id": 252884794,
+      "created_at": "2025-11-05T11:20:14Z",
+      "digest": "sha256:4efe48de85caa83636d9cf19df4fb552b29cf8088ba989648256dc435284fae9",
+      "id": 312806871,
       "label": "",
       "name": "SHA256SUMS",
-      "node_id": "RA_kwDOCGP4D84PErc6",
+      "node_id": "RA_kwDOCGP4D84SpQ3X",
       "size": 614,
       "state": "uploaded",
-      "updated_at": "2025-05-08T11:37:15Z",
+      "updated_at": "2025-11-05T11:20:15Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -243,20 +243,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/containers/fuse-overlayfs/releases/assets/252884794"
+      "url": "https://api.github.com/repos/containers/fuse-overlayfs/releases/assets/312806871"
     },
     {
-      "browser_download_url": "https://github.com/containers/fuse-overlayfs/releases/download/v1.15/SOURCE_DATE_EPOCH",
+      "browser_download_url": "https://github.com/containers/fuse-overlayfs/releases/download/v1.16/SOURCE_DATE_EPOCH",
       "content_type": "application/octet-stream",
-      "created_at": "2025-05-08T11:37:14Z",
-      "digest": null,
-      "id": 252884787,
+      "created_at": "2025-11-05T11:20:14Z",
+      "digest": "sha256:5953ddc68e8c5d69f07a9233ec279a88277150b4cd7e3520b727862f46c5b578",
+      "id": 312806863,
       "label": "",
       "name": "SOURCE_DATE_EPOCH",
-      "node_id": "RA_kwDOCGP4D84PErcz",
+      "node_id": "RA_kwDOCGP4D84SpQ3P",
       "size": 11,
       "state": "uploaded",
-      "updated_at": "2025-05-08T11:37:14Z",
+      "updated_at": "2025-11-05T11:20:14Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -278,10 +278,10 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/containers/fuse-overlayfs/releases/assets/252884787"
+      "url": "https://api.github.com/repos/containers/fuse-overlayfs/releases/assets/312806863"
     }
   ],
-  "assets_url": "https://api.github.com/repos/containers/fuse-overlayfs/releases/217303270/assets",
+  "assets_url": "https://api.github.com/repos/containers/fuse-overlayfs/releases/259863931/assets",
   "author": {
     "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
     "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -303,21 +303,21 @@
     "url": "https://api.github.com/users/github-actions%5Bbot%5D",
     "user_view_type": "public"
   },
-  "body": "- main: lookup upperdir only for created directories.\r\n- main: allow escaped colons in directory paths.\r\n- main: use extended override xattr to support devices.\r\n- remove unsupported option \"lazytime\".",
-  "created_at": "2025-05-08T11:34:52Z",
+  "body": "- main: fix incorrect directory entries due to unstable iteration order.",
+  "created_at": "2025-11-05T11:15:30Z",
   "draft": false,
-  "html_url": "https://github.com/containers/fuse-overlayfs/releases/tag/v1.15",
-  "id": 217303270,
+  "html_url": "https://github.com/containers/fuse-overlayfs/releases/tag/v1.16",
+  "id": 259863931,
   "immutable": false,
-  "name": "v1.15",
-  "node_id": "RE_kwDOCGP4D84M88jm",
+  "name": "v1.16",
+  "node_id": "RE_kwDOCGP4D84PfTV7",
   "prerelease": false,
-  "published_at": "2025-05-08T12:01:57Z",
-  "tag_name": "v1.15",
-  "tarball_url": "https://api.github.com/repos/containers/fuse-overlayfs/tarball/v1.15",
+  "published_at": "2025-11-05T11:26:44Z",
+  "tag_name": "v1.16",
+  "tarball_url": "https://api.github.com/repos/containers/fuse-overlayfs/tarball/v1.16",
   "target_commitish": "main",
-  "updated_at": "2025-05-08T12:01:57Z",
-  "upload_url": "https://uploads.github.com/repos/containers/fuse-overlayfs/releases/217303270/assets{?name,label}",
-  "url": "https://api.github.com/repos/containers/fuse-overlayfs/releases/217303270",
-  "zipball_url": "https://api.github.com/repos/containers/fuse-overlayfs/zipball/v1.15"
+  "updated_at": "2025-11-05T11:26:44Z",
+  "upload_url": "https://uploads.github.com/repos/containers/fuse-overlayfs/releases/259863931/assets{?name,label}",
+  "url": "https://api.github.com/repos/containers/fuse-overlayfs/releases/259863931",
+  "zipball_url": "https://api.github.com/repos/containers/fuse-overlayfs/zipball/v1.16"
 }
