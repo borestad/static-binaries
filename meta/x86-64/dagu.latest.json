@@ -1073,7 +1073,7 @@
     "url": "https://api.github.com/users/yottahmd",
     "user_view_type": "public"
   },
-  "body": "## Changelog\n* db32c6640a513e38ed6fa458471954ed2fb477ae auth: guard oidc init against nil provider (#1408)\n\n",
+  "body": "This release includes bug fixes for Docker executor, health check endpoint, and OIDC configuration initialization. Thank you for all contributors who reported those issues.\r\n\r\n### Changed\r\n- Status: Renamed the `canceled` lifecycle label to `aborted` across the CLI, runtime, APIs, schemas, and UI so status analytics and automations reference a single canonical value.\r\n\r\n### Fixed\r\n- Docker executor: Preserve step-level container entrypoints so step commands can rely on the image's default binary (#1403)\r\n- Auth/API: Add configurable public paths so `/api/v*/health` bypasses authentication for uptime probes by default (#1404)\r\n- Auth/OIDC: Guard verifier initialization so unreachable issuers fail gracefully instead of crashing the server (#1407)\r\n\r\n### Contributors\r\n\r\nThanks to our contributors for this release:\r\n\r\n| Contribution | Contributor |\r\n| --- | --- |\r\n| Step-level Docker executor entrypoint fix (#1403) | @vnghia |\r\n| Status label rename to `aborted` | @ghansham |\r\n| Health endpoint access report (#1404) | @jeremydelattre59 |\r\n| OIDC init panic report (#1407) | @alangrafu |\r\n\r\n**Full Changelog**: https://github.com/dagu-org/dagu/compare/v1.24.2...v1.24.5",
   "created_at": "2025-11-11T17:41:39Z",
   "draft": false,
   "html_url": "https://github.com/dagu-org/dagu/releases/tag/v1.24.5",
@@ -1086,7 +1086,7 @@
   "tag_name": "v1.24.5",
   "tarball_url": "https://api.github.com/repos/dagu-org/dagu/tarball/v1.24.5",
   "target_commitish": "main",
-  "updated_at": "2025-11-11T18:03:58Z",
+  "updated_at": "2025-11-11T23:40:28Z",
   "upload_url": "https://uploads.github.com/repos/dagu-org/dagu/releases/261513594/assets{?name,label}",
   "url": "https://api.github.com/repos/dagu-org/dagu/releases/261513594",
   "zipball_url": "https://api.github.com/repos/dagu-org/dagu/zipball/v1.24.5"
