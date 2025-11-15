@@ -1,17 +1,17 @@
 {
   "assets": [
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.4/install.sh",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.5/install.sh",
       "content_type": "application/x-shellscript",
-      "created_at": "2025-11-13T01:42:31Z",
-      "digest": "sha256:82e690cb08b036c2440e9fb0ae2a5d91937bb7d140239e71e5099046050f1142",
-      "id": 315770076,
+      "created_at": "2025-11-15T02:48:28Z",
+      "digest": "sha256:1380bec1dd97ada2c2dff0ae1e3f55fe44dd2d593b22e63d6109c6f6df9f8099",
+      "id": 316652049,
       "label": "",
       "name": "install.sh",
-      "node_id": "RA_kwDOIvux3s4S0kTc",
+      "node_id": "RA_kwDOIvux3s4S37oR",
       "size": 10281,
       "state": "uploaded",
-      "updated_at": "2025-11-13T01:42:31Z",
+      "updated_at": "2025-11-15T02:48:28Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -33,20 +33,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/315770076"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/316652049"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.4/install.sh.minisig",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.5/install.sh.minisig",
       "content_type": "application/octet-stream",
-      "created_at": "2025-11-13T01:42:31Z",
-      "digest": "sha256:b77d25aa1fa17951096cf551a3bdd6988792d502bc0acc8f8fd81e437c20735c",
-      "id": 315770080,
+      "created_at": "2025-11-15T02:48:28Z",
+      "digest": "sha256:40b4ac9881fd67f4939be0ef5dfccae1b34465fa7b4114dfef5a109264f67f89",
+      "id": 316652050,
       "label": "",
       "name": "install.sh.minisig",
-      "node_id": "RA_kwDOIvux3s4S0kTg",
+      "node_id": "RA_kwDOIvux3s4S37oS",
       "size": 305,
       "state": "uploaded",
-      "updated_at": "2025-11-13T01:42:31Z",
+      "updated_at": "2025-11-15T02:48:28Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -68,20 +68,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/315770080"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/316652050"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.4/install.sh.sig",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.5/install.sh.sig",
       "content_type": "application/pgp-signature",
-      "created_at": "2025-11-13T01:42:31Z",
-      "digest": "sha256:fa1ce76da684cb96afaaac607646ad1d72fc5317ae644a6813a926edf224d710",
-      "id": 315770079,
+      "created_at": "2025-11-15T02:48:28Z",
+      "digest": "sha256:9fbb5e5afb5f69f8a9fd932016b95ea263affa40c214f623c0e84345fba28428",
+      "id": 316652052,
       "label": "",
       "name": "install.sh.sig",
-      "node_id": "RA_kwDOIvux3s4S0kTf",
-      "size": 3878,
+      "node_id": "RA_kwDOIvux3s4S37oU",
+      "size": 3883,
       "state": "uploaded",
-      "updated_at": "2025-11-13T01:42:31Z",
+      "updated_at": "2025-11-15T02:48:28Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -103,20 +103,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/315770079"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/316652052"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.4/mise-v2025.11.4-linux-arm64",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.5/mise-v2025.11.5-linux-arm64",
       "content_type": "application/octet-stream",
-      "created_at": "2025-11-13T01:42:31Z",
-      "digest": "sha256:1eaa73ad53e601a12147e9b817745e7f1267679a76d5487e57291c1ce2d88ffc",
-      "id": 315770078,
+      "created_at": "2025-11-15T02:48:28Z",
+      "digest": "sha256:0d821bda80d18c754317e4837366cae74cf4cb836d89a996560e654faed2ea15",
+      "id": 316652053,
       "label": "",
-      "name": "mise-v2025.11.4-linux-arm64",
-      "node_id": "RA_kwDOIvux3s4S0kTe",
-      "size": 60418560,
+      "name": "mise-v2025.11.5-linux-arm64",
+      "node_id": "RA_kwDOIvux3s4S37oV",
+      "size": 60304048,
       "state": "uploaded",
-      "updated_at": "2025-11-13T01:42:34Z",
+      "updated_at": "2025-11-15T02:48:30Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -138,20 +138,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/315770078"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/316652053"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.4/mise-v2025.11.4-linux-arm64-musl",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.5/mise-v2025.11.5-linux-arm64-musl",
       "content_type": "application/octet-stream",
-      "created_at": "2025-11-13T01:42:32Z",
-      "digest": "sha256:a0fff53754f232def51205adcfb1b6d3f6be28e940016c9571cb303dd3950f0d",
-      "id": 315770083,
+      "created_at": "2025-11-15T02:48:28Z",
+      "digest": "sha256:591ea171616606cca3c2039b7619b51f1169100519db9bead350eac2812e84ad",
+      "id": 316652054,
       "label": "",
-      "name": "mise-v2025.11.4-linux-arm64-musl",
-      "node_id": "RA_kwDOIvux3s4S0kTj",
-      "size": 57435088,
+      "name": "mise-v2025.11.5-linux-arm64-musl",
+      "node_id": "RA_kwDOIvux3s4S37oW",
+      "size": 57437960,
       "state": "uploaded",
-      "updated_at": "2025-11-13T01:42:34Z",
+      "updated_at": "2025-11-15T02:48:30Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -173,20 +173,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/315770083"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/316652054"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.4/mise-v2025.11.4-linux-arm64-musl.tar.gz",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.5/mise-v2025.11.5-linux-arm64-musl.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2025-11-13T01:42:32Z",
-      "digest": "sha256:230ba0deddae5b6785c59a3d9edf64c2b37860e5368d4defbfc381a560be404a",
-      "id": 315770085,
+      "created_at": "2025-11-15T02:48:28Z",
+      "digest": "sha256:4ce6f2a7de2418812f4c455f34823ef0027bc652c9d319b6fb1376a51b819f15",
+      "id": 316652055,
       "label": "",
-      "name": "mise-v2025.11.4-linux-arm64-musl.tar.gz",
-      "node_id": "RA_kwDOIvux3s4S0kTl",
-      "size": 23051641,
+      "name": "mise-v2025.11.5-linux-arm64-musl.tar.gz",
+      "node_id": "RA_kwDOIvux3s4S37oX",
+      "size": 23049476,
       "state": "uploaded",
-      "updated_at": "2025-11-13T01:42:33Z",
+      "updated_at": "2025-11-15T02:48:29Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -208,20 +208,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/315770085"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/316652055"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.4/mise-v2025.11.4-linux-arm64-musl.tar.xz",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.5/mise-v2025.11.5-linux-arm64-musl.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-11-13T01:42:32Z",
-      "digest": "sha256:253803208a01b5a5769618071ebbb4bf10e3d3c2455556124fd7b4df6220717c",
-      "id": 315770084,
+      "created_at": "2025-11-15T02:48:28Z",
+      "digest": "sha256:ebe5f92c40805fa94cd224398a4f4eb3213a12e913674408ab26ff7ebf1e9929",
+      "id": 316652056,
       "label": "",
-      "name": "mise-v2025.11.4-linux-arm64-musl.tar.xz",
-      "node_id": "RA_kwDOIvux3s4S0kTk",
-      "size": 14883120,
+      "name": "mise-v2025.11.5-linux-arm64-musl.tar.xz",
+      "node_id": "RA_kwDOIvux3s4S37oY",
+      "size": 14881868,
       "state": "uploaded",
-      "updated_at": "2025-11-13T01:42:33Z",
+      "updated_at": "2025-11-15T02:48:29Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -243,20 +243,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/315770084"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/316652056"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.4/mise-v2025.11.4-linux-arm64-musl.tar.zst",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.5/mise-v2025.11.5-linux-arm64-musl.tar.zst",
       "content_type": "application/zstd",
-      "created_at": "2025-11-13T01:42:32Z",
-      "digest": "sha256:70329e1b644950118bbafee1c56c11de76e446226c6d5660ff01ba2b15b25bba",
-      "id": 315770086,
+      "created_at": "2025-11-15T02:48:28Z",
+      "digest": "sha256:611225b57228c02503f394ea05ee51adc65333ae64c42f82e8ef04b9385e3faa",
+      "id": 316652057,
       "label": "",
-      "name": "mise-v2025.11.4-linux-arm64-musl.tar.zst",
-      "node_id": "RA_kwDOIvux3s4S0kTm",
-      "size": 17391138,
+      "name": "mise-v2025.11.5-linux-arm64-musl.tar.zst",
+      "node_id": "RA_kwDOIvux3s4S37oZ",
+      "size": 17382323,
       "state": "uploaded",
-      "updated_at": "2025-11-13T01:42:33Z",
+      "updated_at": "2025-11-15T02:48:29Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -278,20 +278,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/315770086"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/316652057"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.4/mise-v2025.11.4-linux-arm64.tar.gz",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.5/mise-v2025.11.5-linux-arm64.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2025-11-13T01:42:33Z",
-      "digest": "sha256:e259e1a08d5a825e5942c3ad495ea10c2b484c708b3f5f4f8b8e4821c22e0d37",
-      "id": 315770093,
+      "created_at": "2025-11-15T02:48:30Z",
+      "digest": "sha256:7db66524c2e57afa8545ad3f084b7036698c572c13f1e44614a7430bbb10b6d5",
+      "id": 316652060,
       "label": "",
-      "name": "mise-v2025.11.4-linux-arm64.tar.gz",
-      "node_id": "RA_kwDOIvux3s4S0kTt",
-      "size": 23435784,
+      "name": "mise-v2025.11.5-linux-arm64.tar.gz",
+      "node_id": "RA_kwDOIvux3s4S37oc",
+      "size": 23410183,
       "state": "uploaded",
-      "updated_at": "2025-11-13T01:42:34Z",
+      "updated_at": "2025-11-15T02:48:31Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -313,20 +313,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/315770093"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/316652060"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.4/mise-v2025.11.4-linux-arm64.tar.xz",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.5/mise-v2025.11.5-linux-arm64.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-11-13T01:42:33Z",
-      "digest": "sha256:074041020fe53c8384145683ac2b9daf49b595cc13510375fc24aee2f639af5a",
-      "id": 315770100,
+      "created_at": "2025-11-15T02:48:30Z",
+      "digest": "sha256:ee5211b208220c00e5545725d33c96efd1ba8660b9fdd830b63e274ca55219f2",
+      "id": 316652059,
       "label": "",
-      "name": "mise-v2025.11.4-linux-arm64.tar.xz",
-      "node_id": "RA_kwDOIvux3s4S0kT0",
-      "size": 15057680,
+      "name": "mise-v2025.11.5-linux-arm64.tar.xz",
+      "node_id": "RA_kwDOIvux3s4S37ob",
+      "size": 15042644,
       "state": "uploaded",
-      "updated_at": "2025-11-13T01:42:34Z",
+      "updated_at": "2025-11-15T02:48:31Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -348,20 +348,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/315770100"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/316652059"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.4/mise-v2025.11.4-linux-arm64.tar.zst",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.5/mise-v2025.11.5-linux-arm64.tar.zst",
       "content_type": "application/zstd",
-      "created_at": "2025-11-13T01:42:33Z",
-      "digest": "sha256:cfb8e3c3681ab58394aede3ced0603c77c91cf7931422af43714defd02d29983",
-      "id": 315770105,
+      "created_at": "2025-11-15T02:48:30Z",
+      "digest": "sha256:9b673504c38deacab3929c216f879a659d5a5d6281823521c09406654baaed12",
+      "id": 316652062,
       "label": "",
-      "name": "mise-v2025.11.4-linux-arm64.tar.zst",
-      "node_id": "RA_kwDOIvux3s4S0kT5",
-      "size": 17681144,
+      "name": "mise-v2025.11.5-linux-arm64.tar.zst",
+      "node_id": "RA_kwDOIvux3s4S37oe",
+      "size": 17592258,
       "state": "uploaded",
-      "updated_at": "2025-11-13T01:42:34Z",
+      "updated_at": "2025-11-15T02:48:30Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -383,20 +383,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/315770105"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/316652062"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.4/mise-v2025.11.4-linux-armv7",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.5/mise-v2025.11.5-linux-armv7",
       "content_type": "application/octet-stream",
-      "created_at": "2025-11-13T01:42:34Z",
-      "digest": "sha256:5b948f09f32e8460c66e883d1a38a575aa4a07157d7f4d3be2e4b9e5ab442c60",
-      "id": 315770108,
+      "created_at": "2025-11-15T02:48:30Z",
+      "digest": "sha256:46381b1d10f7056fdbc26a9d5c04054ed0f698d60d5afa46757c6b405b194c4f",
+      "id": 316652064,
       "label": "",
-      "name": "mise-v2025.11.4-linux-armv7",
-      "node_id": "RA_kwDOIvux3s4S0kT8",
-      "size": 59025516,
+      "name": "mise-v2025.11.5-linux-armv7",
+      "node_id": "RA_kwDOIvux3s4S37og",
+      "size": 58988588,
       "state": "uploaded",
-      "updated_at": "2025-11-13T01:42:37Z",
+      "updated_at": "2025-11-15T02:48:32Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -418,20 +418,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/315770108"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/316652064"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.4/mise-v2025.11.4-linux-armv7-musl",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.5/mise-v2025.11.5-linux-armv7-musl",
       "content_type": "application/octet-stream",
-      "created_at": "2025-11-13T01:42:34Z",
-      "digest": "sha256:b292934d9b7dc40d30ec270eb1c2c506d2ba20fde4165cfc0f631868f0be28f4",
-      "id": 315770110,
+      "created_at": "2025-11-15T02:48:30Z",
+      "digest": "sha256:24a4d708c9ce55e282037e7e5500d6dbcfd17640c5185c4f9695a359d44837f6",
+      "id": 316652065,
       "label": "",
-      "name": "mise-v2025.11.4-linux-armv7-musl",
-      "node_id": "RA_kwDOIvux3s4S0kT-",
-      "size": 58008064,
+      "name": "mise-v2025.11.5-linux-armv7-musl",
+      "node_id": "RA_kwDOIvux3s4S37oh",
+      "size": 58031488,
       "state": "uploaded",
-      "updated_at": "2025-11-13T01:42:37Z",
+      "updated_at": "2025-11-15T02:48:32Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -453,20 +453,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/315770110"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/316652065"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.4/mise-v2025.11.4-linux-armv7-musl.tar.gz",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.5/mise-v2025.11.5-linux-armv7-musl.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2025-11-13T01:42:35Z",
-      "digest": "sha256:e73d08fa3a1fa015a403653dbe1fc978fd07aa606bcca6255dfe0b84ad2dd851",
-      "id": 315770112,
+      "created_at": "2025-11-15T02:48:31Z",
+      "digest": "sha256:198ad0c27fcf421805836508373c922c3987f801e2722b4d5e1c5b7f48e23b7f",
+      "id": 316652067,
       "label": "",
-      "name": "mise-v2025.11.4-linux-armv7-musl.tar.gz",
-      "node_id": "RA_kwDOIvux3s4S0kUA",
-      "size": 23540631,
+      "name": "mise-v2025.11.5-linux-armv7-musl.tar.gz",
+      "node_id": "RA_kwDOIvux3s4S37oj",
+      "size": 23547653,
       "state": "uploaded",
-      "updated_at": "2025-11-13T01:42:36Z",
+      "updated_at": "2025-11-15T02:48:32Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -488,20 +488,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/315770112"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/316652067"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.4/mise-v2025.11.4-linux-armv7-musl.tar.xz",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.5/mise-v2025.11.5-linux-armv7-musl.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-11-13T01:42:35Z",
-      "digest": "sha256:bbb78ff6401d9992622b30c5d54c937af21d72512bf371def6a5650c8f648204",
-      "id": 315770111,
+      "created_at": "2025-11-15T02:48:31Z",
+      "digest": "sha256:3d2a7008a138a5052f0d0aa44dbee22fa26a36b1e212c473963f5b65cd84ba4f",
+      "id": 316652068,
       "label": "",
-      "name": "mise-v2025.11.4-linux-armv7-musl.tar.xz",
-      "node_id": "RA_kwDOIvux3s4S0kT_",
-      "size": 14780780,
+      "name": "mise-v2025.11.5-linux-armv7-musl.tar.xz",
+      "node_id": "RA_kwDOIvux3s4S37ok",
+      "size": 14786248,
       "state": "uploaded",
-      "updated_at": "2025-11-13T01:42:35Z",
+      "updated_at": "2025-11-15T02:48:31Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -523,20 +523,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/315770111"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/316652068"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.4/mise-v2025.11.4-linux-armv7-musl.tar.zst",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.5/mise-v2025.11.5-linux-armv7-musl.tar.zst",
       "content_type": "application/zstd",
-      "created_at": "2025-11-13T01:42:35Z",
-      "digest": "sha256:588a696a6b81610ee6d8f93e159a5b78727a6b0223fb811fb4dbea939263fb01",
-      "id": 315770113,
+      "created_at": "2025-11-15T02:48:31Z",
+      "digest": "sha256:88e9bc2d7beca3b96e9c57c9063308f2174fb5ab8e6e6cb7b88e2a2c0f42d0ba",
+      "id": 316652069,
       "label": "",
-      "name": "mise-v2025.11.4-linux-armv7-musl.tar.zst",
-      "node_id": "RA_kwDOIvux3s4S0kUB",
-      "size": 17585154,
+      "name": "mise-v2025.11.5-linux-armv7-musl.tar.zst",
+      "node_id": "RA_kwDOIvux3s4S37ol",
+      "size": 17553315,
       "state": "uploaded",
-      "updated_at": "2025-11-13T01:42:36Z",
+      "updated_at": "2025-11-15T02:48:32Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -558,20 +558,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/315770113"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/316652069"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.4/mise-v2025.11.4-linux-armv7.tar.gz",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.5/mise-v2025.11.5-linux-armv7.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2025-11-13T01:42:36Z",
-      "digest": "sha256:afad9aeaec8622876af25a30f9a1f0195731d48453c21705e8d0b920e488dfb2",
-      "id": 315770120,
+      "created_at": "2025-11-15T02:48:32Z",
+      "digest": "sha256:49cbb2f84d554028969b8c3d33e90374888982de5ba2b0ecf1bb73265aabd9c8",
+      "id": 316652073,
       "label": "",
-      "name": "mise-v2025.11.4-linux-armv7.tar.gz",
-      "node_id": "RA_kwDOIvux3s4S0kUI",
-      "size": 23663434,
+      "name": "mise-v2025.11.5-linux-armv7.tar.gz",
+      "node_id": "RA_kwDOIvux3s4S37op",
+      "size": 23648045,
       "state": "uploaded",
-      "updated_at": "2025-11-13T01:42:37Z",
+      "updated_at": "2025-11-15T02:48:32Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -593,20 +593,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/315770120"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/316652073"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.4/mise-v2025.11.4-linux-armv7.tar.xz",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.5/mise-v2025.11.5-linux-armv7.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-11-13T01:42:36Z",
-      "digest": "sha256:deeeb19252a8de40ec53b418c2401180ae1dad853aee9693c189688f48ef9e62",
-      "id": 315770121,
+      "created_at": "2025-11-15T02:48:32Z",
+      "digest": "sha256:d4240d3dc477d703d4ac1b8e89c95feb05b46793045e864177a2bdf92d5299bd",
+      "id": 316652074,
       "label": "",
-      "name": "mise-v2025.11.4-linux-armv7.tar.xz",
-      "node_id": "RA_kwDOIvux3s4S0kUJ",
-      "size": 14849308,
+      "name": "mise-v2025.11.5-linux-armv7.tar.xz",
+      "node_id": "RA_kwDOIvux3s4S37oq",
+      "size": 14813552,
       "state": "uploaded",
-      "updated_at": "2025-11-13T01:42:37Z",
+      "updated_at": "2025-11-15T02:48:32Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -628,20 +628,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/315770121"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/316652074"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.4/mise-v2025.11.4-linux-armv7.tar.zst",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.5/mise-v2025.11.5-linux-armv7.tar.zst",
       "content_type": "application/zstd",
-      "created_at": "2025-11-13T01:42:36Z",
-      "digest": "sha256:8fc0562bc0689275e10b428485d3466270a8379cbce8f2e6558fb46481524a7a",
-      "id": 315770122,
+      "created_at": "2025-11-15T02:48:32Z",
+      "digest": "sha256:44827acbd754c2d356f814764d3f73fb367de6f08283cf683a88a30f7785917f",
+      "id": 316652075,
       "label": "",
-      "name": "mise-v2025.11.4-linux-armv7.tar.zst",
-      "node_id": "RA_kwDOIvux3s4S0kUK",
-      "size": 17865388,
+      "name": "mise-v2025.11.5-linux-armv7.tar.zst",
+      "node_id": "RA_kwDOIvux3s4S37or",
+      "size": 17623520,
       "state": "uploaded",
-      "updated_at": "2025-11-13T01:42:37Z",
+      "updated_at": "2025-11-15T02:48:33Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -663,20 +663,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/315770122"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/316652075"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.4/mise-v2025.11.4-linux-x64",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.5/mise-v2025.11.5-linux-x64",
       "content_type": "application/octet-stream",
-      "created_at": "2025-11-13T01:42:37Z",
-      "digest": "sha256:dc92ae30e0f75c5963b25cb072197412ea33c9e065c7bcbb95f5bd4d6553ebbd",
-      "id": 315770125,
+      "created_at": "2025-11-15T02:48:32Z",
+      "digest": "sha256:5dc683fc1ff3b1d2da41b962af110186c8caa059ebfd65ae48a2969c9a13de58",
+      "id": 316652076,
       "label": "",
-      "name": "mise-v2025.11.4-linux-x64",
-      "node_id": "RA_kwDOIvux3s4S0kUN",
-      "size": 64818280,
+      "name": "mise-v2025.11.5-linux-x64",
+      "node_id": "RA_kwDOIvux3s4S37os",
+      "size": 64832104,
       "state": "uploaded",
-      "updated_at": "2025-11-13T01:42:39Z",
+      "updated_at": "2025-11-15T02:48:34Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -698,20 +698,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/315770125"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/316652076"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.4/mise-v2025.11.4-linux-x64-musl",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.5/mise-v2025.11.5-linux-x64-musl",
       "content_type": "application/octet-stream",
-      "created_at": "2025-11-13T01:42:37Z",
-      "digest": "sha256:0c09ea4981bdc908849c27c35048474517c2e2e7fe3b16b69d490cfa0590df67",
-      "id": 315770127,
+      "created_at": "2025-11-15T02:48:33Z",
+      "digest": "sha256:51747a38c5787f1c1b06c5d6c673bf3442f5ab238b9c56d7d5a0fef1c2198ad9",
+      "id": 316652078,
       "label": "",
-      "name": "mise-v2025.11.4-linux-x64-musl",
-      "node_id": "RA_kwDOIvux3s4S0kUP",
-      "size": 65522680,
+      "name": "mise-v2025.11.5-linux-x64-musl",
+      "node_id": "RA_kwDOIvux3s4S37ou",
+      "size": 65491448,
       "state": "uploaded",
-      "updated_at": "2025-11-13T01:42:40Z",
+      "updated_at": "2025-11-15T02:48:35Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -733,20 +733,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/315770127"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/316652078"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.4/mise-v2025.11.4-linux-x64-musl.tar.gz",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.5/mise-v2025.11.5-linux-x64-musl.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2025-11-13T01:42:37Z",
-      "digest": "sha256:6b0b9d9a10a115c97775761d32f6c1ceda31493351ecc834daebc81de4bf36ba",
-      "id": 315770128,
+      "created_at": "2025-11-15T02:48:33Z",
+      "digest": "sha256:3a750bf287747d2c978f23d245143ce9680caab6d147378fd5586b690aaef1ec",
+      "id": 316652080,
       "label": "",
-      "name": "mise-v2025.11.4-linux-x64-musl.tar.gz",
-      "node_id": "RA_kwDOIvux3s4S0kUQ",
-      "size": 24208715,
+      "name": "mise-v2025.11.5-linux-x64-musl.tar.gz",
+      "node_id": "RA_kwDOIvux3s4S37ow",
+      "size": 24178349,
       "state": "uploaded",
-      "updated_at": "2025-11-13T01:42:39Z",
+      "updated_at": "2025-11-15T02:48:34Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -768,20 +768,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/315770128"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/316652080"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.4/mise-v2025.11.4-linux-x64-musl.tar.xz",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.5/mise-v2025.11.5-linux-x64-musl.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-11-13T01:42:37Z",
-      "digest": "sha256:53f5cca3b89fbe45bc0ad16a40b3948b1b4f5a7758be96ada77897003c8b175c",
-      "id": 315770129,
+      "created_at": "2025-11-15T02:48:33Z",
+      "digest": "sha256:fc01dd9656a3ee3a0a3c03518d69c547e7aad76e4c6bd936725b01a8c3a883fb",
+      "id": 316652079,
       "label": "",
-      "name": "mise-v2025.11.4-linux-x64-musl.tar.xz",
-      "node_id": "RA_kwDOIvux3s4S0kUR",
-      "size": 16113944,
+      "name": "mise-v2025.11.5-linux-x64-musl.tar.xz",
+      "node_id": "RA_kwDOIvux3s4S37ov",
+      "size": 16106144,
       "state": "uploaded",
-      "updated_at": "2025-11-13T01:42:38Z",
+      "updated_at": "2025-11-15T02:48:34Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -803,20 +803,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/315770129"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/316652079"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.4/mise-v2025.11.4-linux-x64-musl.tar.zst",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.5/mise-v2025.11.5-linux-x64-musl.tar.zst",
       "content_type": "application/zstd",
-      "created_at": "2025-11-13T01:42:38Z",
-      "digest": "sha256:a1cb2591fa85e3cdb1edef7f321ef3666de9a3d5ddae870d4f1ece90743d63ac",
-      "id": 315770130,
+      "created_at": "2025-11-15T02:48:33Z",
+      "digest": "sha256:eac302b4af6c3d2cf232cae4c5540722cec8b4f43e7aafd5098a2e52f9d3537d",
+      "id": 316652081,
       "label": "",
-      "name": "mise-v2025.11.4-linux-x64-musl.tar.zst",
-      "node_id": "RA_kwDOIvux3s4S0kUS",
-      "size": 17865193,
+      "name": "mise-v2025.11.5-linux-x64-musl.tar.zst",
+      "node_id": "RA_kwDOIvux3s4S37ox",
+      "size": 17890750,
       "state": "uploaded",
-      "updated_at": "2025-11-13T01:42:39Z",
+      "updated_at": "2025-11-15T02:48:34Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -838,20 +838,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/315770130"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/316652081"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.4/mise-v2025.11.4-linux-x64.tar.gz",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.5/mise-v2025.11.5-linux-x64.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2025-11-13T01:42:39Z",
-      "digest": "sha256:c32f211461dcd3aaa96bec7c0b84a9eb6831d3de810e4a5dae0c54fa8f714665",
-      "id": 315770136,
+      "created_at": "2025-11-15T02:48:34Z",
+      "digest": "sha256:6436e0ffddad4c1a48b0e9a9927e7a868eac2bdae132d23dde168eddc883ec90",
+      "id": 316652085,
       "label": "",
-      "name": "mise-v2025.11.4-linux-x64.tar.gz",
-      "node_id": "RA_kwDOIvux3s4S0kUY",
-      "size": 24019122,
+      "name": "mise-v2025.11.5-linux-x64.tar.gz",
+      "node_id": "RA_kwDOIvux3s4S37o1",
+      "size": 24024224,
       "state": "uploaded",
-      "updated_at": "2025-11-13T01:42:40Z",
+      "updated_at": "2025-11-15T02:48:35Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -873,20 +873,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/315770136"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/316652085"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.4/mise-v2025.11.4-linux-x64.tar.xz",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.5/mise-v2025.11.5-linux-x64.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-11-13T01:42:39Z",
-      "digest": "sha256:d09dd1c220f06a6ba8bd4bc62f813d366b1fbfa72920a89f7086bef39d655260",
-      "id": 315770140,
+      "created_at": "2025-11-15T02:48:34Z",
+      "digest": "sha256:a63c7408d665701289d442f0ec86db74b300dcf131610c3bc1213610bf6bf450",
+      "id": 316652091,
       "label": "",
-      "name": "mise-v2025.11.4-linux-x64.tar.xz",
-      "node_id": "RA_kwDOIvux3s4S0kUc",
-      "size": 16002672,
+      "name": "mise-v2025.11.5-linux-x64.tar.xz",
+      "node_id": "RA_kwDOIvux3s4S37o7",
+      "size": 16028200,
       "state": "uploaded",
-      "updated_at": "2025-11-13T01:42:40Z",
+      "updated_at": "2025-11-15T02:48:35Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -908,20 +908,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/315770140"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/316652091"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.4/mise-v2025.11.4-linux-x64.tar.zst",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.5/mise-v2025.11.5-linux-x64.tar.zst",
       "content_type": "application/zstd",
-      "created_at": "2025-11-13T01:42:39Z",
-      "digest": "sha256:18fadefdbbbaec7eaaaa7f50432c4c2793d3d28c979de7dfed36f19f5280cb48",
-      "id": 315770141,
+      "created_at": "2025-11-15T02:48:34Z",
+      "digest": "sha256:96f67dabd42d6a3debe39954ebb052cc7b71e7a7ae115c359f635e1e6b468844",
+      "id": 316652090,
       "label": "",
-      "name": "mise-v2025.11.4-linux-x64.tar.zst",
-      "node_id": "RA_kwDOIvux3s4S0kUd",
-      "size": 17774066,
+      "name": "mise-v2025.11.5-linux-x64.tar.zst",
+      "node_id": "RA_kwDOIvux3s4S37o6",
+      "size": 17802197,
       "state": "uploaded",
-      "updated_at": "2025-11-13T01:42:40Z",
+      "updated_at": "2025-11-15T02:48:35Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -943,20 +943,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/315770141"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/316652090"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.4/mise-v2025.11.4-macos-arm64",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.5/mise-v2025.11.5-macos-arm64",
       "content_type": "application/octet-stream",
-      "created_at": "2025-11-13T01:42:39Z",
-      "digest": "sha256:a26ffae7dcdfa4ac5c4001b87f03decd9db5df7d4b45d49113efc8b63ca9d4e4",
-      "id": 315770145,
+      "created_at": "2025-11-15T02:48:34Z",
+      "digest": "sha256:1e545dd7534a8b1f3e26516be45f0b8de69ce1c7ad03caeea12e04e404b7937f",
+      "id": 316652095,
       "label": "",
-      "name": "mise-v2025.11.4-macos-arm64",
-      "node_id": "RA_kwDOIvux3s4S0kUh",
-      "size": 49183920,
+      "name": "mise-v2025.11.5-macos-arm64",
+      "node_id": "RA_kwDOIvux3s4S37o_",
+      "size": 49111744,
       "state": "uploaded",
-      "updated_at": "2025-11-13T01:42:42Z",
+      "updated_at": "2025-11-15T02:48:35Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -978,20 +978,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/315770145"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/316652095"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.4/mise-v2025.11.4-macos-arm64.tar.gz",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.5/mise-v2025.11.5-macos-arm64.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2025-11-13T01:42:40Z",
-      "digest": "sha256:e6dbc6ddfa8ccb0318c6a9a381a36d55f20c8f41e8b090995a923e319ac2e9ed",
-      "id": 315770466,
+      "created_at": "2025-11-15T02:48:35Z",
+      "digest": "sha256:d513e83bf84ffcc6bb0e1f3ef3607990127f6cf9a8c253a224254eb194500e8c",
+      "id": 316652097,
       "label": "",
-      "name": "mise-v2025.11.4-macos-arm64.tar.gz",
-      "node_id": "RA_kwDOIvux3s4S0kZi",
-      "size": 20006841,
+      "name": "mise-v2025.11.5-macos-arm64.tar.gz",
+      "node_id": "RA_kwDOIvux3s4S37pB",
+      "size": 19992370,
       "state": "uploaded",
-      "updated_at": "2025-11-13T01:42:41Z",
+      "updated_at": "2025-11-15T02:48:36Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -1013,20 +1013,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/315770466"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/316652097"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.4/mise-v2025.11.4-macos-arm64.tar.xz",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.5/mise-v2025.11.5-macos-arm64.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-11-13T01:42:40Z",
-      "digest": "sha256:85ae6e1dfeee2d25607152aab7e578d20598e7c2968888dc4740e0876aa4d39d",
-      "id": 315770424,
+      "created_at": "2025-11-15T02:48:35Z",
+      "digest": "sha256:f5dc7d0fee2acfe303ec3537e75c8bb0f9ece7c649a56857a2bf7a922975f65f",
+      "id": 316652099,
       "label": "",
-      "name": "mise-v2025.11.4-macos-arm64.tar.xz",
-      "node_id": "RA_kwDOIvux3s4S0kY4",
-      "size": 12642168,
+      "name": "mise-v2025.11.5-macos-arm64.tar.xz",
+      "node_id": "RA_kwDOIvux3s4S37pD",
+      "size": 12669008,
       "state": "uploaded",
-      "updated_at": "2025-11-13T01:42:41Z",
+      "updated_at": "2025-11-15T02:48:36Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -1048,20 +1048,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/315770424"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/316652099"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.4/mise-v2025.11.4-macos-arm64.tar.zst",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.5/mise-v2025.11.5-macos-arm64.tar.zst",
       "content_type": "application/zstd",
-      "created_at": "2025-11-13T01:42:40Z",
-      "digest": "sha256:6cf5b78c7541b4f018cd032595ed8f45b1bab905c106a35f79fde8cba9a8ffa9",
-      "id": 315770486,
+      "created_at": "2025-11-15T02:48:35Z",
+      "digest": "sha256:17a1ac072c7286d1537f27da49a25d4d07dd019d8dab4d51cf59f8d234bda145",
+      "id": 316652100,
       "label": "",
-      "name": "mise-v2025.11.4-macos-arm64.tar.zst",
-      "node_id": "RA_kwDOIvux3s4S0kZ2",
-      "size": 18966423,
+      "name": "mise-v2025.11.5-macos-arm64.tar.zst",
+      "node_id": "RA_kwDOIvux3s4S37pE",
+      "size": 18946123,
       "state": "uploaded",
-      "updated_at": "2025-11-13T01:42:41Z",
+      "updated_at": "2025-11-15T02:48:36Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -1083,20 +1083,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/315770486"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/316652100"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.4/mise-v2025.11.4-macos-x64",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.5/mise-v2025.11.5-macos-x64",
       "content_type": "application/octet-stream",
-      "created_at": "2025-11-13T01:42:40Z",
-      "digest": "sha256:d6bc1f50a28e85f9651fda886bf2a150721d3b7d2eb9781ae91f3d8310e62ef0",
-      "id": 315770590,
+      "created_at": "2025-11-15T02:48:35Z",
+      "digest": "sha256:2d58c0d6bcd876ddaad414469801ba1dc77760fd40b1256379c1ac0c45694af8",
+      "id": 316652101,
       "label": "",
-      "name": "mise-v2025.11.4-macos-x64",
-      "node_id": "RA_kwDOIvux3s4S0kbe",
-      "size": 55168832,
+      "name": "mise-v2025.11.5-macos-x64",
+      "node_id": "RA_kwDOIvux3s4S37pF",
+      "size": 55234256,
       "state": "uploaded",
-      "updated_at": "2025-11-13T01:42:43Z",
+      "updated_at": "2025-11-15T02:48:37Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -1118,20 +1118,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/315770590"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/316652101"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.4/mise-v2025.11.4-macos-x64.tar.gz",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.5/mise-v2025.11.5-macos-x64.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2025-11-13T01:42:41Z",
-      "digest": "sha256:387b8fbf20887b4a5991ebbdf75b1700eb4834d6c1e438890b14b3ce31e2e7f8",
-      "id": 315770666,
+      "created_at": "2025-11-15T02:48:36Z",
+      "digest": "sha256:85acc264786bcea4df9185fbc8e0223af508d821f5739d22453e941d2c7e37e2",
+      "id": 316652103,
       "label": "",
-      "name": "mise-v2025.11.4-macos-x64.tar.gz",
-      "node_id": "RA_kwDOIvux3s4S0kcq",
-      "size": 21810355,
+      "name": "mise-v2025.11.5-macos-x64.tar.gz",
+      "node_id": "RA_kwDOIvux3s4S37pH",
+      "size": 21849240,
       "state": "uploaded",
-      "updated_at": "2025-11-13T01:42:43Z",
+      "updated_at": "2025-11-15T02:48:36Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -1153,20 +1153,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/315770666"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/316652103"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.4/mise-v2025.11.4-macos-x64.tar.xz",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.5/mise-v2025.11.5-macos-x64.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2025-11-13T01:42:41Z",
-      "digest": "sha256:22171b64f29e05323d9a82025a996fa989a7944d378c25177e077d593f2746ac",
-      "id": 315770667,
+      "created_at": "2025-11-15T02:48:36Z",
+      "digest": "sha256:7f49fc778cbe0a66c26f1b80209be4f54a22ff20f727aa2820c8141c17a5d3c3",
+      "id": 316652105,
       "label": "",
-      "name": "mise-v2025.11.4-macos-x64.tar.xz",
-      "node_id": "RA_kwDOIvux3s4S0kcr",
-      "size": 14982368,
+      "name": "mise-v2025.11.5-macos-x64.tar.xz",
+      "node_id": "RA_kwDOIvux3s4S37pJ",
+      "size": 14981144,
       "state": "uploaded",
-      "updated_at": "2025-11-13T01:42:42Z",
+      "updated_at": "2025-11-15T02:48:37Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -1188,20 +1188,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/315770667"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/316652105"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.4/mise-v2025.11.4-macos-x64.tar.zst",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.5/mise-v2025.11.5-macos-x64.tar.zst",
       "content_type": "application/zstd",
-      "created_at": "2025-11-13T01:42:41Z",
-      "digest": "sha256:ec2217ab7f8e2a3be0506a22143f1f5a80b9c9c6d9492a43e92351ff8e274434",
-      "id": 315770668,
+      "created_at": "2025-11-15T02:48:36Z",
+      "digest": "sha256:bed7fbc0d7b93318ade0b1ca0fd7b348d530c799863e24bd2f60ed1bbf2912e3",
+      "id": 316652106,
       "label": "",
-      "name": "mise-v2025.11.4-macos-x64.tar.zst",
-      "node_id": "RA_kwDOIvux3s4S0kcs",
-      "size": 20571761,
+      "name": "mise-v2025.11.5-macos-x64.tar.zst",
+      "node_id": "RA_kwDOIvux3s4S37pK",
+      "size": 20675947,
       "state": "uploaded",
-      "updated_at": "2025-11-13T01:42:42Z",
+      "updated_at": "2025-11-15T02:48:37Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -1223,20 +1223,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/315770668"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/316652106"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.4/mise-v2025.11.4-windows-arm64.zip",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.5/mise-v2025.11.5-windows-arm64.zip",
       "content_type": "application/zip",
-      "created_at": "2025-11-13T01:42:42Z",
-      "digest": "sha256:4f563869cda3960e508003329f2fe9aa302decee9213cd5fe82848cf3febe698",
-      "id": 315770675,
+      "created_at": "2025-11-15T02:48:36Z",
+      "digest": "sha256:d8bd08a53a5d03465d39136db0f40c56bf8dfe0386647d01d7c39a2664de6b22",
+      "id": 316652107,
       "label": "",
-      "name": "mise-v2025.11.4-windows-arm64.zip",
-      "node_id": "RA_kwDOIvux3s4S0kcz",
-      "size": 19623055,
+      "name": "mise-v2025.11.5-windows-arm64.zip",
+      "node_id": "RA_kwDOIvux3s4S37pL",
+      "size": 19605038,
       "state": "uploaded",
-      "updated_at": "2025-11-13T01:42:43Z",
+      "updated_at": "2025-11-15T02:48:37Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -1258,20 +1258,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/315770675"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/316652107"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.4/mise-v2025.11.4-windows-x64.zip",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.5/mise-v2025.11.5-windows-x64.zip",
       "content_type": "application/zip",
-      "created_at": "2025-11-13T01:42:43Z",
-      "digest": "sha256:4e81622008aeff350c484e450e3869d29dbfa5b7332a02e199de92e15b93399c",
-      "id": 315770677,
+      "created_at": "2025-11-15T02:48:37Z",
+      "digest": "sha256:22a8d2766468423edf8586b4d839deaafcbb5fb41707e4b3abf0fa95e85641b2",
+      "id": 316652108,
       "label": "",
-      "name": "mise-v2025.11.4-windows-x64.zip",
-      "node_id": "RA_kwDOIvux3s4S0kc1",
-      "size": 20910185,
+      "name": "mise-v2025.11.5-windows-x64.zip",
+      "node_id": "RA_kwDOIvux3s4S37pM",
+      "size": 20918375,
       "state": "uploaded",
-      "updated_at": "2025-11-13T01:42:44Z",
+      "updated_at": "2025-11-15T02:48:37Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -1293,20 +1293,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/315770677"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/316652108"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.4/SHASUMS256.asc",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.5/SHASUMS256.asc",
       "content_type": "text/plain; charset=utf-8",
-      "created_at": "2025-11-13T01:42:31Z",
-      "digest": "sha256:aad1ff73ce63f3c19996b9450035471663ce2021b24116ff73f91dcb82fff808",
-      "id": 315770068,
+      "created_at": "2025-11-15T02:48:28Z",
+      "digest": "sha256:1d1690f75e01f0b92074bc9740ad93c09877a2b40d8532b00ec9da338f9018a4",
+      "id": 316652044,
       "label": "",
       "name": "SHASUMS256.asc",
-      "node_id": "RA_kwDOIvux3s4S0kTU",
+      "node_id": "RA_kwDOIvux3s4S37oM",
       "size": 4368,
       "state": "uploaded",
-      "updated_at": "2025-11-13T01:42:31Z",
+      "updated_at": "2025-11-15T02:48:28Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -1328,20 +1328,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/315770068"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/316652044"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.4/SHASUMS256.txt",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.5/SHASUMS256.txt",
       "content_type": "text/plain; charset=utf-8",
-      "created_at": "2025-11-13T01:42:31Z",
-      "digest": "sha256:a0517efeb44f6a0a93e3d2198c875c24bb3e1c173d59f7526e507baed5fdabb2",
-      "id": 315770071,
+      "created_at": "2025-11-15T02:48:28Z",
+      "digest": "sha256:dfc94b5dc4bebb51249f35a3d37765c560e848554ad3b5c19ba8b88ce4772aef",
+      "id": 316652046,
       "label": "",
       "name": "SHASUMS256.txt",
-      "node_id": "RA_kwDOIvux3s4S0kTX",
+      "node_id": "RA_kwDOIvux3s4S37oO",
       "size": 3486,
       "state": "uploaded",
-      "updated_at": "2025-11-13T01:42:31Z",
+      "updated_at": "2025-11-15T02:48:28Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -1363,20 +1363,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/315770071"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/316652046"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.4/SHASUMS256.txt.minisig",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.5/SHASUMS256.txt.minisig",
       "content_type": "application/octet-stream",
-      "created_at": "2025-11-13T01:42:31Z",
-      "digest": "sha256:65373b21e98a98befc126e9f1b9a1ec66db0dc204bb20ac3c681227bb9fe72a9",
-      "id": 315770070,
+      "created_at": "2025-11-15T02:48:28Z",
+      "digest": "sha256:8aa710da05a90bc4e7575bb2dd797c8bf6fd405800a4e8562b5e1e0d0b8db44d",
+      "id": 316652045,
       "label": "",
       "name": "SHASUMS256.txt.minisig",
-      "node_id": "RA_kwDOIvux3s4S0kTW",
+      "node_id": "RA_kwDOIvux3s4S37oN",
       "size": 309,
       "state": "uploaded",
-      "updated_at": "2025-11-13T01:42:31Z",
+      "updated_at": "2025-11-15T02:48:28Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -1398,20 +1398,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/315770070"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/316652045"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.4/SHASUMS512.asc",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.5/SHASUMS512.asc",
       "content_type": "text/plain; charset=utf-8",
-      "created_at": "2025-11-13T01:42:31Z",
-      "digest": "sha256:550f4f88959d6c3de309cb30b794e02978ccfeb40fd5f63c913be086a7800d89",
-      "id": 315770069,
+      "created_at": "2025-11-15T02:48:28Z",
+      "digest": "sha256:54267373a975bcef6365f47bc8a4338116a00f00de890770a8c3d20f68de8b93",
+      "id": 316652043,
       "label": "",
       "name": "SHASUMS512.asc",
-      "node_id": "RA_kwDOIvux3s4S0kTV",
+      "node_id": "RA_kwDOIvux3s4S37oL",
       "size": 6691,
       "state": "uploaded",
-      "updated_at": "2025-11-13T01:42:31Z",
+      "updated_at": "2025-11-15T02:48:28Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -1433,20 +1433,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/315770069"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/316652043"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.4/SHASUMS512.txt",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.5/SHASUMS512.txt",
       "content_type": "text/plain; charset=utf-8",
-      "created_at": "2025-11-13T01:42:31Z",
-      "digest": "sha256:246037e006c51d1b3a4f62ae558872565d7d236cd78a9a83779ab60ca8777e0a",
-      "id": 315770067,
+      "created_at": "2025-11-15T02:48:28Z",
+      "digest": "sha256:60b6639d22cef12204d2be411db7c547706e409d2259e530b533afdd918eb075",
+      "id": 316652047,
       "label": "",
       "name": "SHASUMS512.txt",
-      "node_id": "RA_kwDOIvux3s4S0kTT",
+      "node_id": "RA_kwDOIvux3s4S37oP",
       "size": 5809,
       "state": "uploaded",
-      "updated_at": "2025-11-13T01:42:31Z",
+      "updated_at": "2025-11-15T02:48:28Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -1468,20 +1468,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/315770067"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/316652047"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.4/SHASUMS512.txt.minisig",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.5/SHASUMS512.txt.minisig",
       "content_type": "application/octet-stream",
-      "created_at": "2025-11-13T01:42:31Z",
-      "digest": "sha256:90ff286115c4c775837f2b925ec0cb0fcbf261b09872e6e309da2abfff4c725f",
-      "id": 315770077,
+      "created_at": "2025-11-15T02:48:28Z",
+      "digest": "sha256:0956df69bcc3cd0a4ab5b8f56e8353b6aa52b2404b010ed0d7fa8152cbafeac2",
+      "id": 316652048,
       "label": "",
       "name": "SHASUMS512.txt.minisig",
-      "node_id": "RA_kwDOIvux3s4S0kTd",
+      "node_id": "RA_kwDOIvux3s4S37oQ",
       "size": 309,
       "state": "uploaded",
-      "updated_at": "2025-11-13T01:42:31Z",
+      "updated_at": "2025-11-15T02:48:28Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -1503,20 +1503,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/315770077"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/316652048"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.4/v2025.11.4.tar.gz.sig",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2025.11.5/v2025.11.5.tar.gz.sig",
       "content_type": "application/pgp-signature",
-      "created_at": "2025-11-13T01:42:43Z",
-      "digest": "sha256:f5c0bd6e79ccd53a49c1767dbb9dd5242e490740e7c7891d724ade0ec42b1646",
-      "id": 315770680,
+      "created_at": "2025-11-15T02:48:37Z",
+      "digest": "sha256:14d4489f26b07ba2a06e0553c69740637a1090b8c8db80c3092176eb274133f2",
+      "id": 316652112,
       "label": "",
-      "name": "v2025.11.4.tar.gz.sig",
-      "node_id": "RA_kwDOIvux3s4S0kc4",
+      "name": "v2025.11.5.tar.gz.sig",
+      "node_id": "RA_kwDOIvux3s4S37pQ",
       "size": 566,
       "state": "uploaded",
-      "updated_at": "2025-11-13T01:42:43Z",
+      "updated_at": "2025-11-15T02:48:37Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -1538,10 +1538,10 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/315770680"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/316652112"
     }
   ],
-  "assets_url": "https://api.github.com/repos/jdx/mise/releases/261954357/assets",
+  "assets_url": "https://api.github.com/repos/jdx/mise/releases/262621411/assets",
   "author": {
     "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
     "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -1563,21 +1563,21 @@
     "url": "https://api.github.com/users/mise-en-dev",
     "user_view_type": "public"
   },
-  "body": "## [2025.11.4](https://github.com/jdx/mise/compare/v2025.11.3..v2025.11.4) - 2025-11-13\n\n### 📦 Registry\n\n- add xcsift by @alexey1312 in [#6923](https://github.com/jdx/mise/pull/6923)\n- add tools: magika & xxh by @IceCodeNew in [#6909](https://github.com/jdx/mise/pull/6909)\n- add aliases to aqua-backend tools by @IceCodeNew in [#6910](https://github.com/jdx/mise/pull/6910)\n\n### 🚀 Features\n\n- **(gem-backend)** use gem command for backend operations by @andrewthauer in [#6650](https://github.com/jdx/mise/pull/6650)\n- **(tasks)** add `mise task validate` command for task validation by @jdx in [#6958](https://github.com/jdx/mise/pull/6958)\n- Add `--skip-deps` flag to run specified tasks, skipping dependencies by @hverlin in [#6894](https://github.com/jdx/mise/pull/6894)\n\n### 🐛 Bug Fixes\n\n- **(cli)** intercept --help flag to show task help instead of executing task by @jdx in [#6955](https://github.com/jdx/mise/pull/6955)\n- **(cli)** handle `mise help` without requiring tasks by @jdx in [#6961](https://github.com/jdx/mise/pull/6961)\n- **(pwsh)** remove __MISE_DIFF env var instead of __MISE_WATCH on deactivate by @IMXEren in [#6886](https://github.com/jdx/mise/pull/6886)\n- remove temporary files after install by @vmeurisse in [#6948](https://github.com/jdx/mise/pull/6948)\n\n### 📚 Documentation\n\n- **(snapcraft)** update `summary` & `description` shown in snapcraft.io by @phanect in [#6926](https://github.com/jdx/mise/pull/6926)\n- Change package example in go.md by @nachtjasmin in [#6862](https://github.com/jdx/mise/pull/6862)\n- paranoid mode does not untrust global config by @iloveitaly in [#6952](https://github.com/jdx/mise/pull/6952)\n\n### 📦️ Dependency Updates\n\n- lock file maintenance by @renovate[bot] in [#6932](https://github.com/jdx/mise/pull/6932)\n\n### Chore\n\n- bump cargo deps by @jdx in [#6960](https://github.com/jdx/mise/pull/6960)\n\n### New Contributors\n\n- @iloveitaly made their first contribution in [#6952](https://github.com/jdx/mise/pull/6952)\n- @nachtjasmin made their first contribution in [#6862](https://github.com/jdx/mise/pull/6862)\n- @IceCodeNew made their first contribution in [#6910](https://github.com/jdx/mise/pull/6910)\n- @alexey1312 made their first contribution in [#6923](https://github.com/jdx/mise/pull/6923)\n\n",
-  "created_at": "2025-11-13T01:10:39Z",
+  "body": "## [2025.11.5](https://github.com/jdx/mise/compare/v2025.11.4..v2025.11.5) - 2025-11-15\n\n### 🚀 Features\n\n- **(http)** Add 'format' to http backend by @thejcannon in [#6957](https://github.com/jdx/mise/pull/6957)\n\n### 🐛 Bug Fixes\n\n- **(bootstrap)** wrong directory on first run by @vmeurisse in [#6971](https://github.com/jdx/mise/pull/6971)\n- **(tasks)** fix nested colons with `mise task edit` by @jdx in [#6978](https://github.com/jdx/mise/pull/6978)\n- Use compatible env flags by @thejcannon in [#6964](https://github.com/jdx/mise/pull/6964)\n- Flush vfox download buffer by @blampe in [#6969](https://github.com/jdx/mise/pull/6969)\n\n### 📚 Documentation\n\n- `arch()` template is `x64` by @thejcannon in [#6967](https://github.com/jdx/mise/pull/6967)\n- update section headers in getting-started.md by @JunichiroKohari in [#6980](https://github.com/jdx/mise/pull/6980)\n\n### New Contributors\n\n- @JunichiroKohari made their first contribution in [#6980](https://github.com/jdx/mise/pull/6980)\n- @blampe made their first contribution in [#6969](https://github.com/jdx/mise/pull/6969)\n- @thejcannon made their first contribution in [#6964](https://github.com/jdx/mise/pull/6964)\n\n",
+  "created_at": "2025-11-15T02:17:05Z",
   "draft": false,
-  "html_url": "https://github.com/jdx/mise/releases/tag/v2025.11.4",
-  "id": 261954357,
+  "html_url": "https://github.com/jdx/mise/releases/tag/v2025.11.5",
+  "id": 262621411,
   "immutable": true,
-  "name": "v2025.11.4",
-  "node_id": "RE_kwDOIvux3s4PnRs1",
+  "name": "v2025.11.5",
+  "node_id": "RE_kwDOIvux3s4Pp0jj",
   "prerelease": false,
-  "published_at": "2025-11-13T01:43:25Z",
-  "tag_name": "v2025.11.4",
-  "tarball_url": "https://api.github.com/repos/jdx/mise/tarball/v2025.11.4",
+  "published_at": "2025-11-15T02:49:31Z",
+  "tag_name": "v2025.11.5",
+  "tarball_url": "https://api.github.com/repos/jdx/mise/tarball/v2025.11.5",
   "target_commitish": "main",
-  "updated_at": "2025-11-13T01:43:26Z",
-  "upload_url": "https://uploads.github.com/repos/jdx/mise/releases/261954357/assets{?name,label}",
-  "url": "https://api.github.com/repos/jdx/mise/releases/261954357",
-  "zipball_url": "https://api.github.com/repos/jdx/mise/zipball/v2025.11.4"
+  "updated_at": "2025-11-15T02:49:33Z",
+  "upload_url": "https://uploads.github.com/repos/jdx/mise/releases/262621411/assets{?name,label}",
+  "url": "https://api.github.com/repos/jdx/mise/releases/262621411",
+  "zipball_url": "https://api.github.com/repos/jdx/mise/zipball/v2025.11.5"
 }
