@@ -233,7 +233,7 @@
     "url": "https://api.github.com/users/github-actions%5Bbot%5D",
     "user_view_type": "public"
   },
-  "body": null,
+  "body": "## What's Changed\r\n* Adds Homebrew package to README by @colindean in https://github.com/aaronriekenberg/rust-parallel/pull/20\r\n* Bump tokio from 1.44.2 to 1.45.0 by @dependabot[bot] in https://github.com/aaronriekenberg/rust-parallel/pull/27\r\n* Bump clap from 4.5.37 to 4.5.38 by @dependabot[bot] in https://github.com/aaronriekenberg/rust-parallel/pull/28\r\n* Bump errno from 0.3.11 to 0.3.12 by @dependabot[bot] in https://github.com/aaronriekenberg/rust-parallel/pull/29\r\n* Bump bitflags from 2.9.0 to 2.9.1 by @dependabot[bot] in https://github.com/aaronriekenberg/rust-parallel/pull/30\r\n* Bump socket2 from 0.5.9 to 0.5.10 by @dependabot[bot] in https://github.com/aaronriekenberg/rust-parallel/pull/31\r\n* Bump which from 7.0.3 to 8.0.0 by @dependabot[bot] in https://github.com/aaronriekenberg/rust-parallel/pull/34\r\n* Add `--keep-order` to maintain input order by @dreampuf in https://github.com/aaronriekenberg/rust-parallel/pull/37\r\n* fix the streaming output in `--keep-order` by @dreampuf in https://github.com/aaronriekenberg/rust-parallel/pull/44\r\n* Bump signal-hook-registry from 1.4.5 to 1.4.6 by @dependabot[bot] in https://github.com/aaronriekenberg/rust-parallel/pull/48\r\n* Bump actions/checkout from 4 to 5 by @dependabot[bot] in https://github.com/aaronriekenberg/rust-parallel/pull/49\r\n* Bump tracing-subscriber from 0.3.19 to 0.3.20 in the cargo group by @dependabot[bot] in https://github.com/aaronriekenberg/rust-parallel/pull/56\r\n* Bump serde from 1.0.222 to 1.0.224 by @dependabot[bot] in https://github.com/aaronriekenberg/rust-parallel/pull/61\r\n* Bump serde from 1.0.225 to 1.0.226 by @dependabot[bot] in https://github.com/aaronriekenberg/rust-parallel/pull/62\r\n* Bump unicode-width from 0.2.1 to 0.2.2 by @dependabot[bot] in https://github.com/aaronriekenberg/rust-parallel/pull/66\r\n* Bump clap from 4.5.49 to 4.5.50 by @dependabot[bot] in https://github.com/aaronriekenberg/rust-parallel/pull/74\r\n\r\n## New Contributors\r\n* @colindean made their first contribution in https://github.com/aaronriekenberg/rust-parallel/pull/20\r\n* @dependabot[bot] made their first contribution in https://github.com/aaronriekenberg/rust-parallel/pull/27\r\n* @dreampuf made their first contribution in https://github.com/aaronriekenberg/rust-parallel/pull/37\r\n\r\n**Full Changelog**: https://github.com/aaronriekenberg/rust-parallel/compare/v1.18.1...v1.19.0",
   "created_at": "2025-11-23T18:09:06Z",
   "draft": false,
   "html_url": "https://github.com/aaronriekenberg/rust-parallel/releases/tag/v1.19.0",
@@ -246,7 +246,7 @@
   "tag_name": "v1.19.0",
   "tarball_url": "https://api.github.com/repos/aaronriekenberg/rust-parallel/tarball/v1.19.0",
   "target_commitish": "main",
-  "updated_at": "2025-11-23T18:12:15Z",
+  "updated_at": "2025-11-23T18:33:01Z",
   "upload_url": "https://uploads.github.com/repos/aaronriekenberg/rust-parallel/releases/264634753/assets{?name,label}",
   "url": "https://api.github.com/repos/aaronriekenberg/rust-parallel/releases/264634753",
   "zipball_url": "https://api.github.com/repos/aaronriekenberg/rust-parallel/zipball/v1.19.0"
