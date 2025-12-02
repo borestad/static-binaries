@@ -1,17 +1,17 @@
 {
   "assets": [
     {
-      "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.0/bat-musl_0.26.0_arm64.deb",
+      "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-musl_0.26.1_arm64.deb",
       "content_type": "application/x-debian-package",
-      "created_at": "2025-10-19T18:27:50Z",
-      "digest": "sha256:40ca427fd7fb3996e1af449cf63e39ea8e38114f595bfafa500f9f03a2346331",
-      "id": 306189060,
+      "created_at": "2025-12-02T20:54:18Z",
+      "digest": "sha256:da2ca4c742dc55216daeb68b6b7ce6d26fac0aae34f3b657c3322c14df4d0cc8",
+      "id": 323548151,
       "label": "",
-      "name": "bat-musl_0.26.0_arm64.deb",
-      "node_id": "RA_kwDOB8a8wc4SQBME",
-      "size": 2914408,
+      "name": "bat-musl_0.26.1_arm64.deb",
+      "node_id": "RA_kwDOB8a8wc4TSPP3",
+      "size": 2910138,
       "state": "uploaded",
-      "updated_at": "2025-10-19T18:27:50Z",
+      "updated_at": "2025-12-02T20:54:18Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -33,20 +33,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/bat/releases/assets/306189060"
+      "url": "https://api.github.com/repos/sharkdp/bat/releases/assets/323548151"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.0/bat-musl_0.26.0_musl-linux-amd64.deb",
+      "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-musl_0.26.1_musl-linux-amd64.deb",
       "content_type": "application/x-debian-package",
-      "created_at": "2025-10-19T18:31:10Z",
-      "digest": "sha256:1f058cce7e84b46dfef687dd7e7194820f7b9b4cdfb7db3477fe578babcd1726",
-      "id": 306190096,
+      "created_at": "2025-12-02T20:59:40Z",
+      "digest": "sha256:e2b709e7330e5e0e2b18924ebdd741f4a1e82265a2336a153f8db82567135d94",
+      "id": 323549428,
       "label": "",
-      "name": "bat-musl_0.26.0_musl-linux-amd64.deb",
-      "node_id": "RA_kwDOB8a8wc4SQBcQ",
-      "size": 3071632,
+      "name": "bat-musl_0.26.1_musl-linux-amd64.deb",
+      "node_id": "RA_kwDOB8a8wc4TSPj0",
+      "size": 3074590,
       "state": "uploaded",
-      "updated_at": "2025-10-19T18:31:10Z",
+      "updated_at": "2025-12-02T20:59:40Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -68,20 +68,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/bat/releases/assets/306190096"
+      "url": "https://api.github.com/repos/sharkdp/bat/releases/assets/323549428"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.0/bat-musl_0.26.0_musl-linux-i686.deb",
+      "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-musl_0.26.1_musl-linux-i686.deb",
       "content_type": "application/x-debian-package",
-      "created_at": "2025-10-19T18:30:15Z",
-      "digest": "sha256:44d5330a847b46dc5adc79001638d1380235a7e77d619dc127ff694a308af65e",
-      "id": 306189886,
+      "created_at": "2025-12-02T20:57:47Z",
+      "digest": "sha256:e77baebf043900d93895ec059be7637b7f736bd514a3ee2b0e26316e84fb4e86",
+      "id": 323549111,
       "label": "",
-      "name": "bat-musl_0.26.0_musl-linux-i686.deb",
-      "node_id": "RA_kwDOB8a8wc4SQBY-",
-      "size": 3071480,
+      "name": "bat-musl_0.26.1_musl-linux-i686.deb",
+      "node_id": "RA_kwDOB8a8wc4TSPe3",
+      "size": 3071596,
       "state": "uploaded",
-      "updated_at": "2025-10-19T18:30:16Z",
+      "updated_at": "2025-12-02T20:57:47Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -103,20 +103,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/bat/releases/assets/306189886"
+      "url": "https://api.github.com/repos/sharkdp/bat/releases/assets/323549111"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.0/bat-v0.26.0-aarch64-apple-darwin.tar.gz",
+      "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-aarch64-apple-darwin.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-10-19T18:29:31Z",
-      "digest": "sha256:0b66666577b551e2adba9cdcf35a265ae595c5b8d4b500acb85817c4678d2f85",
-      "id": 306189637,
+      "created_at": "2025-12-02T20:55:14Z",
+      "digest": "sha256:e30beff26779c9bf60bb541e1d79046250cb74378f2757f8eb250afddb19e114",
+      "id": 323548442,
       "label": "",
-      "name": "bat-v0.26.0-aarch64-apple-darwin.tar.gz",
-      "node_id": "RA_kwDOB8a8wc4SQBVF",
-      "size": 3219053,
+      "name": "bat-v0.26.1-aarch64-apple-darwin.tar.gz",
+      "node_id": "RA_kwDOB8a8wc4TSPUa",
+      "size": 3216703,
       "state": "uploaded",
-      "updated_at": "2025-10-19T18:29:31Z",
+      "updated_at": "2025-12-02T20:55:14Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -138,20 +138,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/bat/releases/assets/306189637"
+      "url": "https://api.github.com/repos/sharkdp/bat/releases/assets/323548442"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.0/bat-v0.26.0-aarch64-pc-windows-msvc.zip",
+      "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-aarch64-pc-windows-msvc.zip",
       "content_type": "application/zip",
-      "created_at": "2025-10-19T18:30:51Z",
-      "digest": "sha256:8feb1582b5a141b2c6d63d1f1abfc496c97ff2255eb9b797d5444393d233232c",
-      "id": 306190030,
+      "created_at": "2025-12-02T20:54:56Z",
+      "digest": "sha256:af07dd1939e99f7f5892d197fc5653cb8cb6c5999552731135ad156eca7e38a5",
+      "id": 323548313,
       "label": "",
-      "name": "bat-v0.26.0-aarch64-pc-windows-msvc.zip",
-      "node_id": "RA_kwDOB8a8wc4SQBbO",
-      "size": 3430555,
+      "name": "bat-v0.26.1-aarch64-pc-windows-msvc.zip",
+      "node_id": "RA_kwDOB8a8wc4TSPSZ",
+      "size": 3434291,
       "state": "uploaded",
-      "updated_at": "2025-10-19T18:30:52Z",
+      "updated_at": "2025-12-02T20:54:57Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -173,20 +173,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/bat/releases/assets/306190030"
+      "url": "https://api.github.com/repos/sharkdp/bat/releases/assets/323548313"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.0/bat-v0.26.0-aarch64-unknown-linux-gnu.tar.gz",
+      "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-aarch64-unknown-linux-gnu.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-10-19T18:32:18Z",
-      "digest": "sha256:eb8c96a2d9aaaf81cf7d8c3b7918a7336a06a1dec08878887963dc2cdd7db354",
-      "id": 306190344,
+      "created_at": "2025-12-02T20:55:51Z",
+      "digest": "sha256:422eb73e11c854fddd99f5ca8461c2f1d6e6dce0a2a8c3d5daade5ffcb6564aa",
+      "id": 323548647,
       "label": "",
-      "name": "bat-v0.26.0-aarch64-unknown-linux-gnu.tar.gz",
-      "node_id": "RA_kwDOB8a8wc4SQBgI",
-      "size": 3349992,
+      "name": "bat-v0.26.1-aarch64-unknown-linux-gnu.tar.gz",
+      "node_id": "RA_kwDOB8a8wc4TSPXn",
+      "size": 3345545,
       "state": "uploaded",
-      "updated_at": "2025-10-19T18:32:18Z",
+      "updated_at": "2025-12-02T20:55:52Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -208,20 +208,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/bat/releases/assets/306190344"
+      "url": "https://api.github.com/repos/sharkdp/bat/releases/assets/323548647"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.0/bat-v0.26.0-aarch64-unknown-linux-musl.tar.gz",
+      "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-aarch64-unknown-linux-musl.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-10-19T18:27:49Z",
-      "digest": "sha256:6ee11bd8a520c514e230669156d9298f0dd2b5afc788c0952a4b14fcec51eaee",
-      "id": 306189059,
+      "created_at": "2025-12-02T20:54:18Z",
+      "digest": "sha256:6369242c584065f195fb20cb36fbd7cb63ae690605bbe89868a7596b596c2c23",
+      "id": 323548153,
       "label": "",
-      "name": "bat-v0.26.0-aarch64-unknown-linux-musl.tar.gz",
-      "node_id": "RA_kwDOB8a8wc4SQBMD",
-      "size": 3387869,
+      "name": "bat-v0.26.1-aarch64-unknown-linux-musl.tar.gz",
+      "node_id": "RA_kwDOB8a8wc4TSPP5",
+      "size": 3383478,
       "state": "uploaded",
-      "updated_at": "2025-10-19T18:27:50Z",
+      "updated_at": "2025-12-02T20:54:18Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -243,20 +243,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/bat/releases/assets/306189059"
+      "url": "https://api.github.com/repos/sharkdp/bat/releases/assets/323548153"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.0/bat-v0.26.0-arm-unknown-linux-gnueabihf.tar.gz",
+      "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-arm-unknown-linux-gnueabihf.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-10-19T18:30:21Z",
-      "digest": "sha256:a89852665ae4b91d2d3571a3d0920cfad0878bcc1370caba1ebc592a6ffad678",
-      "id": 306189926,
+      "created_at": "2025-12-02T20:53:47Z",
+      "digest": "sha256:410350b51436461dbdb4b0056203dcf4d30fc303873659ad837678cdf52c42b7",
+      "id": 323547994,
       "label": "",
-      "name": "bat-v0.26.0-arm-unknown-linux-gnueabihf.tar.gz",
-      "node_id": "RA_kwDOB8a8wc4SQBZm",
-      "size": 3384808,
+      "name": "bat-v0.26.1-arm-unknown-linux-gnueabihf.tar.gz",
+      "node_id": "RA_kwDOB8a8wc4TSPNa",
+      "size": 3380827,
       "state": "uploaded",
-      "updated_at": "2025-10-19T18:30:21Z",
+      "updated_at": "2025-12-02T20:53:48Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -278,20 +278,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/bat/releases/assets/306189926"
+      "url": "https://api.github.com/repos/sharkdp/bat/releases/assets/323547994"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.0/bat-v0.26.0-arm-unknown-linux-musleabihf.tar.gz",
+      "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-arm-unknown-linux-musleabihf.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-10-19T18:32:00Z",
-      "digest": "sha256:d5171a367b30de0e75d43adb35cce0f3c9f45fc63ec2596956ddf7b8d0a68aa7",
-      "id": 306190281,
+      "created_at": "2025-12-02T20:54:09Z",
+      "digest": "sha256:ac08a619f5b1942c4745d2f686fba7145c7de47de990f0f14cc3ab2fa06c005e",
+      "id": 323548113,
       "label": "",
-      "name": "bat-v0.26.0-arm-unknown-linux-musleabihf.tar.gz",
-      "node_id": "RA_kwDOB8a8wc4SQBfJ",
-      "size": 3409448,
+      "name": "bat-v0.26.1-arm-unknown-linux-musleabihf.tar.gz",
+      "node_id": "RA_kwDOB8a8wc4TSPPR",
+      "size": 3407734,
       "state": "uploaded",
-      "updated_at": "2025-10-19T18:32:00Z",
+      "updated_at": "2025-12-02T20:54:09Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -313,20 +313,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/bat/releases/assets/306190281"
+      "url": "https://api.github.com/repos/sharkdp/bat/releases/assets/323548113"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.0/bat-v0.26.0-i686-pc-windows-msvc.zip",
+      "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-i686-pc-windows-msvc.zip",
       "content_type": "application/zip",
-      "created_at": "2025-10-19T18:34:26Z",
-      "digest": "sha256:d6f4f38815ae2f7f400d8091869ec487f930c36e3f6c189d104e4ddd9e81131d",
-      "id": 306190976,
+      "created_at": "2025-12-02T20:57:38Z",
+      "digest": "sha256:07fcab3b17e146878179553c115beb4878835a30b0e5d046457015a5b8f6e7ed",
+      "id": 323549094,
       "label": "",
-      "name": "bat-v0.26.0-i686-pc-windows-msvc.zip",
-      "node_id": "RA_kwDOB8a8wc4SQBqA",
-      "size": 3364508,
+      "name": "bat-v0.26.1-i686-pc-windows-msvc.zip",
+      "node_id": "RA_kwDOB8a8wc4TSPem",
+      "size": 3367862,
       "state": "uploaded",
-      "updated_at": "2025-10-19T18:34:27Z",
+      "updated_at": "2025-12-02T20:57:39Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -348,20 +348,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/bat/releases/assets/306190976"
+      "url": "https://api.github.com/repos/sharkdp/bat/releases/assets/323549094"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.0/bat-v0.26.0-i686-unknown-linux-gnu.tar.gz",
+      "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-i686-unknown-linux-gnu.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-10-19T18:30:25Z",
-      "digest": "sha256:349bb5c11288bebbb28474663ed75f2a0a7d2c4596a08e46d11fd43ea82d2b60",
-      "id": 306189945,
+      "created_at": "2025-12-02T20:58:12Z",
+      "digest": "sha256:336b20f63899322fde693792e5f8c31e343777dca2b00bdcdfa197b71eb79364",
+      "id": 323549157,
       "label": "",
-      "name": "bat-v0.26.0-i686-unknown-linux-gnu.tar.gz",
-      "node_id": "RA_kwDOB8a8wc4SQBZ5",
-      "size": 3572069,
+      "name": "bat-v0.26.1-i686-unknown-linux-gnu.tar.gz",
+      "node_id": "RA_kwDOB8a8wc4TSPfl",
+      "size": 3572280,
       "state": "uploaded",
-      "updated_at": "2025-10-19T18:30:25Z",
+      "updated_at": "2025-12-02T20:58:12Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -383,20 +383,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/bat/releases/assets/306189945"
+      "url": "https://api.github.com/repos/sharkdp/bat/releases/assets/323549157"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.0/bat-v0.26.0-i686-unknown-linux-musl.tar.gz",
+      "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-i686-unknown-linux-musl.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-10-19T18:30:15Z",
-      "digest": "sha256:6da1826441983ed8ce8f467979817b59a447b42f9b7c8e3520e4e6d19c28b0d7",
-      "id": 306189885,
+      "created_at": "2025-12-02T20:57:47Z",
+      "digest": "sha256:81e3386a54a915cabc9019efecec1860b9b030191bdaa928790a182ca865bda1",
+      "id": 323549112,
       "label": "",
-      "name": "bat-v0.26.0-i686-unknown-linux-musl.tar.gz",
-      "node_id": "RA_kwDOB8a8wc4SQBY9",
-      "size": 3543794,
+      "name": "bat-v0.26.1-i686-unknown-linux-musl.tar.gz",
+      "node_id": "RA_kwDOB8a8wc4TSPe4",
+      "size": 3545941,
       "state": "uploaded",
-      "updated_at": "2025-10-19T18:30:16Z",
+      "updated_at": "2025-12-02T20:57:47Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -418,20 +418,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/bat/releases/assets/306189885"
+      "url": "https://api.github.com/repos/sharkdp/bat/releases/assets/323549112"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.0/bat-v0.26.0-x86_64-apple-darwin.tar.gz",
+      "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-x86_64-apple-darwin.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-10-19T18:33:13Z",
-      "digest": "sha256:24d5a93d50cbaeeb977484c63ce88208dd0436b6aaa751562add1daa9b295f21",
-      "id": 306190673,
+      "created_at": "2025-12-02T21:01:20Z",
+      "digest": "sha256:830d63b0bba1fa040542ec569e3cf77f60d3356b9de75116a344b061e0894245",
+      "id": 323549786,
       "label": "",
-      "name": "bat-v0.26.0-x86_64-apple-darwin.tar.gz",
-      "node_id": "RA_kwDOB8a8wc4SQBlR",
-      "size": 3367829,
+      "name": "bat-v0.26.1-x86_64-apple-darwin.tar.gz",
+      "node_id": "RA_kwDOB8a8wc4TSPpa",
+      "size": 3367309,
       "state": "uploaded",
-      "updated_at": "2025-10-19T18:33:14Z",
+      "updated_at": "2025-12-02T21:01:21Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -453,20 +453,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/bat/releases/assets/306190673"
+      "url": "https://api.github.com/repos/sharkdp/bat/releases/assets/323549786"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.0/bat-v0.26.0-x86_64-pc-windows-msvc.zip",
+      "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-x86_64-pc-windows-msvc.zip",
       "content_type": "application/zip",
-      "created_at": "2025-10-19T18:31:30Z",
-      "digest": "sha256:a8a6862f14698b45e101b0932c69bc47a007f4c0456f3a129fdcef54d443d501",
-      "id": 306190187,
+      "created_at": "2025-12-02T20:57:47Z",
+      "digest": "sha256:0f729b4b6f5f28d395c641eacc2e9ff68d0096b85aa0eec344aa62425144b69b",
+      "id": 323549116,
       "label": "",
-      "name": "bat-v0.26.0-x86_64-pc-windows-msvc.zip",
-      "node_id": "RA_kwDOB8a8wc4SQBdr",
-      "size": 3607304,
+      "name": "bat-v0.26.1-x86_64-pc-windows-msvc.zip",
+      "node_id": "RA_kwDOB8a8wc4TSPe8",
+      "size": 3613318,
       "state": "uploaded",
-      "updated_at": "2025-10-19T18:31:31Z",
+      "updated_at": "2025-12-02T20:57:48Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -488,20 +488,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/bat/releases/assets/306190187"
+      "url": "https://api.github.com/repos/sharkdp/bat/releases/assets/323549116"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.0/bat-v0.26.0-x86_64-unknown-linux-gnu.tar.gz",
+      "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-x86_64-unknown-linux-gnu.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-10-19T18:30:12Z",
-      "digest": "sha256:7efed0c768fae36f18ddbbb4a38f5c4b64db7c55a170dfc89fd380805809a44b",
-      "id": 306189863,
+      "created_at": "2025-12-02T20:58:18Z",
+      "digest": "sha256:726f04c8f576a7fd18b7634f1bbf2f915c43494c1c0f013baa3287edb0d5a2a3",
+      "id": 323549181,
       "label": "",
-      "name": "bat-v0.26.0-x86_64-unknown-linux-gnu.tar.gz",
-      "node_id": "RA_kwDOB8a8wc4SQBYn",
-      "size": 3544021,
+      "name": "bat-v0.26.1-x86_64-unknown-linux-gnu.tar.gz",
+      "node_id": "RA_kwDOB8a8wc4TSPf9",
+      "size": 3546574,
       "state": "uploaded",
-      "updated_at": "2025-10-19T18:30:13Z",
+      "updated_at": "2025-12-02T20:58:19Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -523,20 +523,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/bat/releases/assets/306189863"
+      "url": "https://api.github.com/repos/sharkdp/bat/releases/assets/323549181"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.0/bat-v0.26.0-x86_64-unknown-linux-musl.tar.gz",
+      "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat-v0.26.1-x86_64-unknown-linux-musl.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2025-10-19T18:31:10Z",
-      "digest": "sha256:26a683b038fbc526c6df4166db693ddc9e431e5bdc285d45ccd6b72f3cff5ffd",
-      "id": 306190095,
+      "created_at": "2025-12-02T20:59:40Z",
+      "digest": "sha256:0dcd8ac79732c0d5b136f11f4ee00e581440e16a44eab5b3105b611bbf2cf191",
+      "id": 323549429,
       "label": "",
-      "name": "bat-v0.26.0-x86_64-unknown-linux-musl.tar.gz",
-      "node_id": "RA_kwDOB8a8wc4SQBcP",
-      "size": 3579781,
+      "name": "bat-v0.26.1-x86_64-unknown-linux-musl.tar.gz",
+      "node_id": "RA_kwDOB8a8wc4TSPj1",
+      "size": 3584928,
       "state": "uploaded",
-      "updated_at": "2025-10-19T18:31:10Z",
+      "updated_at": "2025-12-02T20:59:40Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -558,20 +558,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/bat/releases/assets/306190095"
+      "url": "https://api.github.com/repos/sharkdp/bat/releases/assets/323549429"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.0/bat_0.26.0_amd64.deb",
+      "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat_0.26.1_amd64.deb",
       "content_type": "application/x-debian-package",
-      "created_at": "2025-10-19T18:30:12Z",
-      "digest": "sha256:9ac368d45c926935cf692230b7ce412074069ca1393b0735e4a44f1f0b3ca958",
-      "id": 306189864,
+      "created_at": "2025-12-02T20:58:18Z",
+      "digest": "sha256:ad59954aa1540e526f97267f60557ea5ef4c7dcf91a0811254134537cb353a3c",
+      "id": 323549182,
       "label": "",
-      "name": "bat_0.26.0_amd64.deb",
-      "node_id": "RA_kwDOB8a8wc4SQBYo",
-      "size": 3033648,
+      "name": "bat_0.26.1_amd64.deb",
+      "node_id": "RA_kwDOB8a8wc4TSPf-",
+      "size": 3037592,
       "state": "uploaded",
-      "updated_at": "2025-10-19T18:30:13Z",
+      "updated_at": "2025-12-02T20:58:18Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -593,20 +593,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/bat/releases/assets/306189864"
+      "url": "https://api.github.com/repos/sharkdp/bat/releases/assets/323549182"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.0/bat_0.26.0_arm64.deb",
+      "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat_0.26.1_arm64.deb",
       "content_type": "application/x-debian-package",
-      "created_at": "2025-10-19T18:32:18Z",
-      "digest": "sha256:01ce3978efb66bed7d26b539de4bf21f136c5c4fa5b5770a48ad87b75aae58bf",
-      "id": 306190345,
+      "created_at": "2025-12-02T20:55:51Z",
+      "digest": "sha256:4a70c3f6236f2c621bd68357257e21b78c9497de4de1e803301ec0209f168653",
+      "id": 323548646,
       "label": "",
-      "name": "bat_0.26.0_arm64.deb",
-      "node_id": "RA_kwDOB8a8wc4SQBgJ",
-      "size": 2862046,
+      "name": "bat_0.26.1_arm64.deb",
+      "node_id": "RA_kwDOB8a8wc4TSPXm",
+      "size": 2862796,
       "state": "uploaded",
-      "updated_at": "2025-10-19T18:32:18Z",
+      "updated_at": "2025-12-02T20:55:52Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -628,20 +628,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/bat/releases/assets/306190345"
+      "url": "https://api.github.com/repos/sharkdp/bat/releases/assets/323548646"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.0/bat_0.26.0_armhf.deb",
+      "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat_0.26.1_armhf.deb",
       "content_type": "application/x-debian-package",
-      "created_at": "2025-10-19T18:30:21Z",
-      "digest": "sha256:eb9e0c2b9928d5a1fea7c4ee8dbe7fe1e15bd0f0507c81144f49c3988ae2a2ed",
-      "id": 306189927,
+      "created_at": "2025-12-02T20:53:47Z",
+      "digest": "sha256:6e3a00d061be73f66282d6dce0533bcaebcb331eb555b38c2802e7ee220dc512",
+      "id": 323547995,
       "label": "",
-      "name": "bat_0.26.0_armhf.deb",
-      "node_id": "RA_kwDOB8a8wc4SQBZn",
-      "size": 2911254,
+      "name": "bat_0.26.1_armhf.deb",
+      "node_id": "RA_kwDOB8a8wc4TSPNb",
+      "size": 2908064,
       "state": "uploaded",
-      "updated_at": "2025-10-19T18:30:21Z",
+      "updated_at": "2025-12-02T20:53:48Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -663,20 +663,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/bat/releases/assets/306189927"
+      "url": "https://api.github.com/repos/sharkdp/bat/releases/assets/323547995"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.0/bat_0.26.0_i686.deb",
+      "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat_0.26.1_i686.deb",
       "content_type": "application/x-debian-package",
-      "created_at": "2025-10-19T18:30:25Z",
-      "digest": "sha256:20176faffefe33cf57fbb8b9451f6f7b31dd5c40dd27ab76bfa68320ec309b30",
-      "id": 306189946,
+      "created_at": "2025-12-02T20:58:12Z",
+      "digest": "sha256:3c8acef5b897084b2168eae343aa72dedc728e265a8edd9f8d2eaf2a718e0c58",
+      "id": 323549158,
       "label": "",
-      "name": "bat_0.26.0_i686.deb",
-      "node_id": "RA_kwDOB8a8wc4SQBZ6",
-      "size": 3085570,
+      "name": "bat_0.26.1_i686.deb",
+      "node_id": "RA_kwDOB8a8wc4TSPfm",
+      "size": 3087444,
       "state": "uploaded",
-      "updated_at": "2025-10-19T18:30:26Z",
+      "updated_at": "2025-12-02T20:58:12Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -698,20 +698,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/bat/releases/assets/306189946"
+      "url": "https://api.github.com/repos/sharkdp/bat/releases/assets/323549158"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.0/bat_0.26.0_musl-linux-armhf.deb",
+      "browser_download_url": "https://github.com/sharkdp/bat/releases/download/v0.26.1/bat_0.26.1_musl-linux-armhf.deb",
       "content_type": "application/x-debian-package",
-      "created_at": "2025-10-19T18:32:00Z",
-      "digest": "sha256:24d0e6bd5e4559aaa4a5ead2d7c40b16bcbdedd59d586f48a381b0387ef937b8",
-      "id": 306190280,
+      "created_at": "2025-12-02T20:54:09Z",
+      "digest": "sha256:b2c35e363a046e13e8e9267d61046bf9813ff8da7b607f65fcf1e6e4ff6a86e8",
+      "id": 323548114,
       "label": "",
-      "name": "bat_0.26.0_musl-linux-armhf.deb",
-      "node_id": "RA_kwDOB8a8wc4SQBfI",
-      "size": 2933952,
+      "name": "bat_0.26.1_musl-linux-armhf.deb",
+      "node_id": "RA_kwDOB8a8wc4TSPPS",
+      "size": 2929440,
       "state": "uploaded",
-      "updated_at": "2025-10-19T18:32:00Z",
+      "updated_at": "2025-12-02T20:54:09Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -733,10 +733,10 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/bat/releases/assets/306190280"
+      "url": "https://api.github.com/repos/sharkdp/bat/releases/assets/323548114"
     }
   ],
-  "assets_url": "https://api.github.com/repos/sharkdp/bat/releases/255619331/assets",
+  "assets_url": "https://api.github.com/repos/sharkdp/bat/releases/266879896/assets",
   "author": {
     "avatar_url": "https://avatars.githubusercontent.com/u/11882719?v=4",
     "events_url": "https://api.github.com/users/keith-hall/events{/privacy}",
@@ -758,21 +758,21 @@
     "url": "https://api.github.com/users/keith-hall",
     "user_view_type": "public"
   },
-  "body": "# v0.26.0\r\n\r\n## Features\r\n- Add build for windows/ARM64 platform. #3190 (@alcroito)\r\n- Add paging to `--list-themes`, see PR #3239 (@einfachIrgendwer0815)\r\n- Support negative relative line ranges, e.g. `bat -r :-10` / `bat -r='-10:'`, see #3068 (@ajesipow)\r\n- Support context in line ranges, e.g. `bat -r 30::5` /  `bat -r 30:40:5`, see #3345 (@cavanaug)\r\n- Add built-in 'minus' pager, e.g. `bat --pager=builtin` see PR #3402 (@academician)\r\n\r\n## Bugfixes\r\n\r\n- Fix UTF-8 BOM not being stripped for syntax detection, see #3314 (@krikera)\r\n- Fix `BAT_THEME_DARK` and `BAT_THEME_LIGHT` being ignored, see issue #3171 and PR #3168 (@bash)\r\n- Prevent `--list-themes` from outputting default theme info to stdout when it is piped, see #3189 (@einfachIrgendwer0815)\r\n- Rename some submodules to fix Dependabot submodule updates, see issue #3198 and PR #3201 (@victor-gp)\r\n- Make highlight tests fail when new syntaxes don't have fixtures PR #3255 (@dan-hipschman)\r\n- Fix crash for multibyte characters in file path, see issue #3230 and PR #3245 (@HSM95)\r\n- Add missing mappings for various bash/zsh files, see PR #3262 (@AdamGaskins)\r\n- Send all bat errors to stderr by default, see #3336 (@JerryImMouse)\r\n- Make --map-syntax target case insensitive to match --language, see #3206 (@keith-hall)\r\n- Correctly determine the end of the line in UTF16LE/BE input #3369 (@keith-hall)\r\n- `--style=changes` no longer prints a two-space indent when the file is unmodified, see issue #2710 and PR #3406 (@jyn514)\r\n- Add missing shell completions, see #3411 (@keith-hall)\r\n- Execute help/version/diagnostic commands even with invalid config/arguments present, see #3414 (@keith-hall)\r\n- Fixed line numbers (`-n`) and style components not printing when piping output, see issue #2935 and PR #3438 (@lmmx)\r\n\r\n## Other\r\n\r\n- Update base16 README links to community driven base16 work #2871 (@JamyGolden)\r\n- Work around build failures when building `bat` from vendored sources #3179 (@dtolnay)\r\n- CICD: Stop building for x86_64-pc-windows-gnu which fails #3261 (Enselic)\r\n- CICD:  CICD: replace windows-2019 runners with windows-2025 #3339 (@cyqsimon)\r\n- Build script: replace string-based codegen with quote-based codegen #3340 (@cyqsimon)\r\n- Improve code coverage of `--list-languages` parameter #2942 (@sblondon)\r\n- Only start offload worker thread when there's more than 1 core #2956 (@cyqsimon)\r\n- Update terminal-colorsaurus (the library used for dark/light detection) to 1.0, see #3347 (@bash)\r\n- Update console dependency to 0.16, see #3351 (@musicinmybrain)\r\n- Fixed some typos #3244 (@ssbarnea)\r\n- Update onig_sys dependency to 69.9.1 to fix a gcc build failure #3400 (@CosmicHorrorDev)\r\n- Add a cargo feature (`vendored-libgit2`) to build with vendored libgit2 version without depending on the system's one #3426 (@0x61nas)\r\n- Update syntect dependency to v5.3.0 to fix a few minor bugs, see #3410 (@keith-hall)\r\n\r\n## Syntaxes\r\n\r\n- Add syntax mapping for `paru` configuration files #3182 (@cyqsimon)\r\n- Add support for [Idris 2 programming language](https://www.idris-lang.org/) #3150 (@buzden)\r\n- Add syntax mapping for `nix`'s '`flake.lock` lockfiles #3196 (@odilf)\r\n- Improvements to CSV/TSV highlighting, with autodetection of delimiter and support for TSV files, see #3186 (@keith-\r\n- Improve (Sys)log error highlighting, see #3205 (@keith-hall)\r\n- Map `ndjson` extension to JSON syntax, see #3209 (@keith-hall)\r\n- Map files with `csproj`, `vbproj`, `props` and `targets` extensions to XML syntax, see #3213 (@keith-hall)\r\n- Add debsources syntax to highlight `/etc/apt/sources.list` files, see #3215 (@keith-hall)\r\n- Add syntax definition and test file for GDScript highlighting, see #3236 (@chetanjangir0)\r\n- Add syntax test file for Odin highlighting, see #3241 (@chetanjangir0)\r\n- Update quadlet syntax mapping rules to cover quadlets in subdirectories #3299 (@cyqsimon)\r\n- Add syntax Typst #3300 (@cskeeters)\r\n- Map `.mill` files to Scala syntax for Mill build tool configuration files #3311 (@krikera)\r\n- Add syntax highlighting for VHDL, see #3337 (@JerryImMouse)\r\n- Add syntax mapping for certbot certificate configuration #3338 (@cyqsimon)\r\n- Update Lean syntax from Lean 3 to Lean 4 #3322 (@YDX-2147483647)\r\n- Map `.flatpakref` and `.flatpakrepo` files to INI syntax #3353 (@Ferenc-)\r\n- Update hosts syntax #3368 (@keith-hall)\r\n- Map `.kshrc` files to Bash syntax #3364 (@ritoban23)\r\n- Map `/var/log/dmesg` files to Syslog syntax #3412 (@keith-hall)\r\n- Add syntax definition and test file for Go modules(`go.mod` and `go.sum`) highlighting, see #3424 (@DarkMatter-999)\r\n- Syntax highlighting for typescript code blocks within Markdown files, see #3435 (@MuntasirSZN)\r\n\r\n## Themes\r\n\r\n- Add Catppuccin, see #3317 (@SchweGELBin)\r\n- Updated Catppuccin, see #3333 (@SchweGELBin)\r\n- Updated gruvbox, see #3372 (@Nicholas42)\r\n- Updated GitHub theme, see #3382 (@CosmicHorrorDev)\r\n- Updated ANSI theme to highlight JSON object keys differently from values, see #3413 (@keith-hall)\r\n",
-  "created_at": "2025-10-19T18:20:43Z",
+  "body": "# v0.26.1\r\n\r\n## Features\r\n\r\n- Add paging to '-h' and '--help' see PR #3478 (@MuntasirSZN)\r\n\r\n## Bugfixes\r\n\r\n- Fix hang when using `--list-themes` with an explicit pager, see #3457 (@abhinavcool42)\r\n- Fix negative values of N not being parsed in <N:M> line ranges without `=` flag value separator, see #3442 (@lmmx)\r\n- Fix broken Docker syntax preventing use of custom assets, see #3476 (@keith-hall)\r\n- Fix decorations being applied unexpectedly when piping. Now only line numbers explicitly required on the command line should be applied in auto decorations mode for `cat` compatibility. See #3496 (@keith-hall)\r\n- Fix diagnostics attempting to find the version of an executable named builtin when builtin pager is used. See #3498 (@keith-hall)\r\n- `--help` now correctly reads the config file for theme information etc. See #3507 (@keith-hall)\r\n\r\n## Other\r\n- Improve README documentation on pager options passed to less, see #3443 (@injust)\r\n- Make PowerShell completions compatible with PowerShell v5.1, see #3495 (@keith-hall)\r\n- Use more robust approach to escaping in Bash completions, see #3448 (@akinomyoga)\r\n\r\n## Syntaxes\r\n\r\n- Update quadlet syntax mapping to include *.{build,pod} files #3484 (@cyqsimon)\r\n- Fix inconsistencies in Ada syntax, see #3481 (@AldanTanneo)\r\n- Add syntax mapping for podman's `artifact` quadlet files, see #3497 (@xduugu)\r\n- Highlight Korn Shell scripts (i.e. with a shebang of ...`ksh`) using Bash syntax, see #3509 (@keith-hall)\r\n",
+  "created_at": "2025-12-02T20:44:14Z",
   "draft": false,
-  "html_url": "https://github.com/sharkdp/bat/releases/tag/v0.26.0",
-  "id": 255619331,
+  "html_url": "https://github.com/sharkdp/bat/releases/tag/v0.26.1",
+  "id": 266879896,
   "immutable": false,
-  "name": "v0.26.0",
-  "node_id": "RE_kwDOB8a8wc4PPHED",
+  "name": "v0.26.1",
+  "node_id": "RE_kwDOB8a8wc4P6EOY",
   "prerelease": false,
-  "published_at": "2025-10-19T18:22:55Z",
-  "tag_name": "v0.26.0",
-  "tarball_url": "https://api.github.com/repos/sharkdp/bat/tarball/v0.26.0",
+  "published_at": "2025-12-02T20:48:10Z",
+  "tag_name": "v0.26.1",
+  "tarball_url": "https://api.github.com/repos/sharkdp/bat/tarball/v0.26.1",
   "target_commitish": "master",
-  "updated_at": "2025-10-19T18:34:27Z",
-  "upload_url": "https://uploads.github.com/repos/sharkdp/bat/releases/255619331/assets{?name,label}",
-  "url": "https://api.github.com/repos/sharkdp/bat/releases/255619331",
-  "zipball_url": "https://api.github.com/repos/sharkdp/bat/zipball/v0.26.0"
+  "updated_at": "2025-12-02T21:01:21Z",
+  "upload_url": "https://uploads.github.com/repos/sharkdp/bat/releases/266879896/assets{?name,label}",
+  "url": "https://api.github.com/repos/sharkdp/bat/releases/266879896",
+  "zipball_url": "https://api.github.com/repos/sharkdp/bat/zipball/v0.26.1"
 }
