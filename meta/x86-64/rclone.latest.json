@@ -3,15 +3,15 @@
     {
       "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.72.1/MD5SUMS",
       "content_type": "application/octet-stream",
-      "created_at": "2025-12-10T14:44:42Z",
-      "digest": "sha256:8de3824e1ea8041dc56ce0b86be0f5714b64eedc28db1c23046d6957fc7f1986",
-      "id": 326918397,
-      "label": "",
+      "created_at": "2025-12-11T12:01:20Z",
+      "digest": "sha256:52b73aea9f4f5b5c7b4595b84422758e8784f6e7bac0204e35556f9b3628593c",
+      "id": 327363096,
+      "label": null,
       "name": "MD5SUMS",
-      "node_id": "RA_kwDOAQ-n5M4TfGD9",
-      "size": 3228,
+      "node_id": "RA_kwDOAQ-n5M4TgyoY",
+      "size": 3291,
       "state": "uploaded",
-      "updated_at": "2025-12-10T14:44:42Z",
+      "updated_at": "2025-12-11T12:01:20Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -33,7 +33,7 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/326918397"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/327363096"
     },
     {
       "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.72.1/rclone-v1.72.1-aix-ppc64.zip",
@@ -1331,6 +1331,41 @@
       "url": "https://api.github.com/repos/rclone/rclone/releases/assets/326921034"
     },
     {
+      "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.72.1/rclone-v1.72.1-osx-amd64.zip",
+      "content_type": "application/zip",
+      "created_at": "2025-12-11T12:00:28Z",
+      "digest": "sha256:c349fd4c584374af58fc2c71f55a768e86aaebfc5924c36967db896e205e8058",
+      "id": 327362843,
+      "label": null,
+      "name": "rclone-v1.72.1-osx-amd64.zip",
+      "node_id": "RA_kwDOAQ-n5M4Tgykb",
+      "size": 30253309,
+      "state": "uploaded",
+      "updated_at": "2025-12-11T12:00:47Z",
+      "uploader": {
+        "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
+        "events_url": "https://api.github.com/users/ncw/events{/privacy}",
+        "followers_url": "https://api.github.com/users/ncw/followers",
+        "following_url": "https://api.github.com/users/ncw/following{/other_user}",
+        "gists_url": "https://api.github.com/users/ncw/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/ncw",
+        "id": 536803,
+        "login": "ncw",
+        "node_id": "MDQ6VXNlcjUzNjgwMw==",
+        "organizations_url": "https://api.github.com/users/ncw/orgs",
+        "received_events_url": "https://api.github.com/users/ncw/received_events",
+        "repos_url": "https://api.github.com/users/ncw/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/ncw/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/ncw/subscriptions",
+        "type": "User",
+        "url": "https://api.github.com/users/ncw",
+        "user_view_type": "public"
+      },
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/327362843"
+    },
+    {
       "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.72.1/rclone-v1.72.1-osx-arm64.zip",
       "content_type": "application/zip",
       "created_at": "2025-12-10T14:53:41Z",
@@ -1648,15 +1683,15 @@
     {
       "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.72.1/SHA1SUMS",
       "content_type": "application/octet-stream",
-      "created_at": "2025-12-10T14:55:39Z",
-      "digest": "sha256:462db792f40b49b6900fcaecd27ff223d02c87b68aba15b69bf58a9bf17dd6f2",
-      "id": 326921658,
-      "label": "",
+      "created_at": "2025-12-11T12:01:19Z",
+      "digest": "sha256:debcd275901a3b590ae6324890120e3e0b244bbf308f9d6a6706b6c783d908e4",
+      "id": 327363095,
+      "label": null,
       "name": "SHA1SUMS",
-      "node_id": "RA_kwDOAQ-n5M4TfG26",
-      "size": 3596,
+      "node_id": "RA_kwDOAQ-n5M4TgyoX",
+      "size": 3667,
       "state": "uploaded",
-      "updated_at": "2025-12-10T14:55:40Z",
+      "updated_at": "2025-12-11T12:01:20Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -1678,20 +1713,20 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/326921658"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/327363095"
     },
     {
       "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.72.1/SHA256SUMS",
       "content_type": "application/octet-stream",
-      "created_at": "2025-12-10T14:55:41Z",
-      "digest": "sha256:e6495dd3ac3f61d8cea125f13b8eb3cd938238bb1ea318dd5ed11920ce9144a4",
-      "id": 326921666,
-      "label": "",
+      "created_at": "2025-12-11T12:01:19Z",
+      "digest": "sha256:d19c650e4bb49c67ad9eaa8fb176aecdbebc17d61223d8110d827f4baaee2c02",
+      "id": 327363093,
+      "label": null,
       "name": "SHA256SUMS",
-      "node_id": "RA_kwDOAQ-n5M4TfG3C",
-      "size": 4700,
+      "node_id": "RA_kwDOAQ-n5M4TgyoV",
+      "size": 4795,
       "state": "uploaded",
-      "updated_at": "2025-12-10T14:55:41Z",
+      "updated_at": "2025-12-11T12:01:19Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/536803?v=4",
         "events_url": "https://api.github.com/users/ncw/events{/privacy}",
@@ -1713,7 +1748,7 @@
         "url": "https://api.github.com/users/ncw",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/326921666"
+      "url": "https://api.github.com/repos/rclone/rclone/releases/assets/327363093"
     },
     {
       "browser_download_url": "https://github.com/rclone/rclone/releases/download/v1.72.1/version.txt",
@@ -1773,7 +1808,7 @@
     "url": "https://api.github.com/users/ncw",
     "user_view_type": "public"
   },
-  "body": "This is the v1.72.1 release of rclone.\n\nFull details of the changes can be found in [the changelog](https://rclone.org/changelog/#v1-72-1-2025-12-10).\n",
+  "body": "This is the v1.72.1 release of rclone.\r\n\r\nFull details of the changes can be found in [the changelog](https://rclone.org/changelog/#v1-72-1-2025-12-10).\r\n",
   "created_at": "2025-12-10T12:55:16Z",
   "draft": false,
   "html_url": "https://github.com/rclone/rclone/releases/tag/v1.72.1",
@@ -1786,7 +1821,7 @@
   "tag_name": "v1.72.1",
   "tarball_url": "https://api.github.com/repos/rclone/rclone/tarball/v1.72.1",
   "target_commitish": "master",
-  "updated_at": "2025-12-10T14:55:44Z",
+  "updated_at": "2025-12-11T12:01:33Z",
   "upload_url": "https://uploads.github.com/repos/rclone/rclone/releases/269157025/assets{?name,label}",
   "url": "https://api.github.com/repos/rclone/rclone/releases/269157025",
   "zipball_url": "https://api.github.com/repos/rclone/rclone/zipball/v1.72.1"
