@@ -898,7 +898,7 @@
     "url": "https://api.github.com/users/yottahmd",
     "user_view_type": "public"
   },
-  "body": "## Changelog\n* be3e71b79a74bb61da29341bbdf834adb9178806 fix(ui): user management visibility and reset password API (#1484)\n\n",
+  "body": "### Added\r\n- API: Added optional `singleton` flag to `POST /dags/{fileName}/enqueue` endpoint to prevent duplicate runs when a DAG is already executing or queued; returns HTTP 409 Conflict when enabled and active/queued runs exist (#1483, #1460)\r\n\r\n### Changed\r\n- Deps: Upgraded gopsutil from v3 to v4 (#1470)\r\n  - Note: On Linux, `UsedPercent` for memory now derives from `MemAvailable` rather than the previous method, which may alter reported values by 6-10%\r\n- Release: Removed NetBSD from release targets\r\n\r\n### Fixed\r\n- Scheduler: Queue processor now respects `maxConcurrency` configuration in global config for DAG-based queues (#1482)\r\n- Runtime: Fixed dequeue command missing queue name parameter, causing API-based dequeue operations to fail (#1481)\r\n- Auth: API token authentication now works alongside builtin authentication mode; unified middleware supports JWT Bearer tokens, API tokens, Basic auth, and OIDC simultaneously (#1480, #1478, #1475)\r\n- UI: User Management menu now only displays for admin users when authentication mode is \"builtin\"; reset password functionality restricted to admin users (#1484)\r\n- Runtime: Special environment variables (`DAG_RUN_ID`, `DAG_NAME`, etc.) now work correctly in `handlerOn.exit` and other handler contexts (#1474)\r\n- Security: Escaped config path strings injected into HTML templates to prevent potential JavaScript injection vulnerabilities on Windows (#1472)\r\n\r\n### Contributors\r\n\r\nThanks to our contributors for this release:\r\n\r\n| Contribution | Contributor |\r\n| --- | --- |\r\n| Dequeue command queue name fix (#1481) | @kriyanshii |\r\n| Singleton flag feature request (#1460) | @kriyanshii |\r\n| User creation error with builtin auth bug report (#1478) | @Kaiden0001 |\r\n| DAG_RUN_ID in handlers bug report (#1474) | @Kaiden0001 |\r\n| Remote node selection with builtin auth bug report (#1475) | @jeremydelattre59 |\r\n| Singleton enqueue feedback | @ghansham |",
   "created_at": "2025-12-14T10:22:54Z",
   "draft": false,
   "html_url": "https://github.com/dagu-org/dagu/releases/tag/v1.26.4",
@@ -911,7 +911,7 @@
   "tag_name": "v1.26.4",
   "tarball_url": "https://api.github.com/repos/dagu-org/dagu/tarball/v1.26.4",
   "target_commitish": "main",
-  "updated_at": "2025-12-14T10:44:15Z",
+  "updated_at": "2025-12-14T23:33:40Z",
   "upload_url": "https://uploads.github.com/repos/dagu-org/dagu/releases/270182855/assets{?name,label}",
   "url": "https://api.github.com/repos/dagu-org/dagu/releases/270182855",
   "zipball_url": "https://api.github.com/repos/dagu-org/dagu/zipball/v1.26.4"
