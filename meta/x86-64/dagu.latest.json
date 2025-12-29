@@ -898,7 +898,7 @@
     "url": "https://api.github.com/users/yottahmd",
     "user_view_type": "public"
   },
-  "body": "## Changelog\n* 14f55ebf1f8bf441f56b7d75eb8f2e7943f5dc97 fix(runtime): occasional race in closing log file (#1517)\n\n",
+  "body": "This release includes a bug-fix for an issue where Dagu sometimes fails to close log files due to  race condition.\r\n\r\n## Changelog\r\n* 14f55ebf1f8bf441f56b7d75eb8f2e7943f5dc97 fix(runtime): occasional race in closing log file (#1517)\r\n\r\n## What's Changed\r\n* fix(runtime): occasional race in closing log file by @yottahmd in https://github.com/dagu-org/dagu/pull/1517\r\n\r\n\r\n**Full Changelog**: https://github.com/dagu-org/dagu/compare/v1.29.1...v1.29.2",
   "created_at": "2025-12-29T15:48:35Z",
   "draft": false,
   "html_url": "https://github.com/dagu-org/dagu/releases/tag/v1.29.2",
@@ -911,7 +911,7 @@
   "tag_name": "v1.29.2",
   "tarball_url": "https://api.github.com/repos/dagu-org/dagu/tarball/v1.29.2",
   "target_commitish": "main",
-  "updated_at": "2025-12-29T16:09:33Z",
+  "updated_at": "2025-12-29T16:18:05Z",
   "upload_url": "https://uploads.github.com/repos/dagu-org/dagu/releases/273228237/assets{?name,label}",
   "url": "https://api.github.com/repos/dagu-org/dagu/releases/273228237",
   "zipball_url": "https://api.github.com/repos/dagu-org/dagu/zipball/v1.29.2"
