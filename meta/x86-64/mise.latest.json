@@ -1,17 +1,17 @@
 {
   "assets": [
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.0/install.sh",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.1/install.sh",
       "content_type": "application/x-shellscript",
-      "created_at": "2026-02-01T12:41:25Z",
-      "digest": "sha256:3f3a8e7540aaaf00bd8f52e6bfa1f9dee73c2baa4cc5f5f0db7e00baaa00c016",
-      "id": 349074535,
+      "created_at": "2026-02-02T11:23:21Z",
+      "digest": "sha256:62027a9a3e497dc497ebc5fc49a7bdb69d933b6e9013ccd5b21235e664af5db0",
+      "id": 349519387,
       "label": "",
       "name": "install.sh",
-      "node_id": "RA_kwDOIvux3s4UznRn",
+      "node_id": "RA_kwDOIvux3s4U1T4b",
       "size": 10368,
       "state": "uploaded",
-      "updated_at": "2026-02-01T12:41:25Z",
+      "updated_at": "2026-02-02T11:23:21Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -33,20 +33,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349074535"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349519387"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.0/install.sh.minisig",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.1/install.sh.minisig",
       "content_type": "application/octet-stream",
-      "created_at": "2026-02-01T12:41:25Z",
-      "digest": "sha256:a5aa6286b971f7c903dc13bd5c0bc380bf53f3f042f6178e0c667169549af1fb",
-      "id": 349074536,
+      "created_at": "2026-02-02T11:23:21Z",
+      "digest": "sha256:f4e6d05e4e9bbd2767d4fb7e152d37c12b7a2d27208e495f87ec56c76674f8a9",
+      "id": 349519390,
       "label": "",
       "name": "install.sh.minisig",
-      "node_id": "RA_kwDOIvux3s4UznRo",
+      "node_id": "RA_kwDOIvux3s4U1T4e",
       "size": 305,
       "state": "uploaded",
-      "updated_at": "2026-02-01T12:41:25Z",
+      "updated_at": "2026-02-02T11:23:21Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -68,20 +68,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349074536"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349519390"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.0/install.sh.sig",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.1/install.sh.sig",
       "content_type": "application/pgp-signature",
-      "created_at": "2026-02-01T12:41:25Z",
-      "digest": "sha256:d1a6f1b8160510a2baae920688c83d22fef50b2fc855140fcc08dce0ae209ced",
-      "id": 349074538,
+      "created_at": "2026-02-02T11:23:21Z",
+      "digest": "sha256:4e5def338cee84249219779c3e32a47c5fefbbc207ed35d5c21b7a4402cfd505",
+      "id": 349519393,
       "label": "",
       "name": "install.sh.sig",
-      "node_id": "RA_kwDOIvux3s4UznRq",
-      "size": 3914,
+      "node_id": "RA_kwDOIvux3s4U1T4h",
+      "size": 3908,
       "state": "uploaded",
-      "updated_at": "2026-02-01T12:41:25Z",
+      "updated_at": "2026-02-02T11:23:21Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -103,20 +103,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349074538"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349519393"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.0/mise-v2026.2.0-linux-arm64",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.1/mise-v2026.2.1-linux-arm64",
       "content_type": "application/octet-stream",
-      "created_at": "2026-02-01T12:41:25Z",
-      "digest": "sha256:1e8777da5570e9ee73b65c6ea6ee4622c2c72c44be4210e2636ea3faafef242e",
-      "id": 349074540,
+      "created_at": "2026-02-02T11:23:21Z",
+      "digest": "sha256:b1af3be3b5e95bedd6060dfc0c8a7e289497e40ed82f45e87286bcdcc64ad8df",
+      "id": 349519391,
       "label": "",
-      "name": "mise-v2026.2.0-linux-arm64",
-      "node_id": "RA_kwDOIvux3s4UznRs",
-      "size": 73159280,
+      "name": "mise-v2026.2.1-linux-arm64",
+      "node_id": "RA_kwDOIvux3s4U1T4f",
+      "size": 73357024,
       "state": "uploaded",
-      "updated_at": "2026-02-01T12:41:27Z",
+      "updated_at": "2026-02-02T11:23:22Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -138,20 +138,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349074540"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349519391"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.0/mise-v2026.2.0-linux-arm64-musl",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.1/mise-v2026.2.1-linux-arm64-musl",
       "content_type": "application/octet-stream",
-      "created_at": "2026-02-01T12:41:25Z",
-      "digest": "sha256:bb18cd225983942fd2d79ec3223e77460a1bfc3566e2dafad9742cfae3aae451",
-      "id": 349074541,
+      "created_at": "2026-02-02T11:23:21Z",
+      "digest": "sha256:7d93819d1a5a643598e125e997b9c1acf054df2d89a4bdb04bfa23e52d9623c9",
+      "id": 349519404,
       "label": "",
-      "name": "mise-v2026.2.0-linux-arm64-musl",
-      "node_id": "RA_kwDOIvux3s4UznRt",
-      "size": 69933296,
+      "name": "mise-v2026.2.1-linux-arm64-musl",
+      "node_id": "RA_kwDOIvux3s4U1T4s",
+      "size": 69996544,
       "state": "uploaded",
-      "updated_at": "2026-02-01T12:41:27Z",
+      "updated_at": "2026-02-02T11:23:23Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -173,20 +173,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349074541"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349519404"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.0/mise-v2026.2.0-linux-arm64-musl.tar.gz",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.1/mise-v2026.2.1-linux-arm64-musl.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2026-02-01T12:41:25Z",
-      "digest": "sha256:66236534349671d9dc9815e802b6a883c2cddb7b28d10332bc2fd992e8ed50ee",
-      "id": 349074542,
+      "created_at": "2026-02-02T11:23:21Z",
+      "digest": "sha256:ad97ff31b003c916e53d70b238489cff90c6c6010cf15580a75f1c3b5ee5b6c3",
+      "id": 349519406,
       "label": "",
-      "name": "mise-v2026.2.0-linux-arm64-musl.tar.gz",
-      "node_id": "RA_kwDOIvux3s4UznRu",
-      "size": 28198610,
+      "name": "mise-v2026.2.1-linux-arm64-musl.tar.gz",
+      "node_id": "RA_kwDOIvux3s4U1T4u",
+      "size": 28206316,
       "state": "uploaded",
-      "updated_at": "2026-02-01T12:41:26Z",
+      "updated_at": "2026-02-02T11:23:22Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -208,20 +208,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349074542"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349519406"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.0/mise-v2026.2.0-linux-arm64-musl.tar.xz",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.1/mise-v2026.2.1-linux-arm64-musl.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2026-02-01T12:41:25Z",
-      "digest": "sha256:04ac7fa0912a3323e48f55867019e05ed70160c0936ec7047ea2d3b89743244d",
-      "id": 349074543,
+      "created_at": "2026-02-02T11:23:21Z",
+      "digest": "sha256:ea21886b951a7d0a71e157d1dcbf595ecab8c60ff170b900aa81c16c4f81fdd3",
+      "id": 349519405,
       "label": "",
-      "name": "mise-v2026.2.0-linux-arm64-musl.tar.xz",
-      "node_id": "RA_kwDOIvux3s4UznRv",
-      "size": 17830052,
+      "name": "mise-v2026.2.1-linux-arm64-musl.tar.xz",
+      "node_id": "RA_kwDOIvux3s4U1T4t",
+      "size": 17842448,
       "state": "uploaded",
-      "updated_at": "2026-02-01T12:41:26Z",
+      "updated_at": "2026-02-02T11:23:22Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -243,20 +243,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349074543"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349519405"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.0/mise-v2026.2.0-linux-arm64-musl.tar.zst",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.1/mise-v2026.2.1-linux-arm64-musl.tar.zst",
       "content_type": "application/zstd",
-      "created_at": "2026-02-01T12:41:25Z",
-      "digest": "sha256:e030d930235ee4d233eae70e1ea589ffca8ced21f5d9ccc626b5f8a63f20545f",
-      "id": 349074544,
+      "created_at": "2026-02-02T11:23:21Z",
+      "digest": "sha256:02a48943235c33df9dbfa171d489f6d81efb17e537999ad2781e05f7de43b6d5",
+      "id": 349519407,
       "label": "",
-      "name": "mise-v2026.2.0-linux-arm64-musl.tar.zst",
-      "node_id": "RA_kwDOIvux3s4UznRw",
-      "size": 21021568,
+      "name": "mise-v2026.2.1-linux-arm64-musl.tar.zst",
+      "node_id": "RA_kwDOIvux3s4U1T4v",
+      "size": 21073149,
       "state": "uploaded",
-      "updated_at": "2026-02-01T12:41:26Z",
+      "updated_at": "2026-02-02T11:23:22Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -278,20 +278,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349074544"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349519407"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.0/mise-v2026.2.0-linux-arm64.tar.gz",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.1/mise-v2026.2.1-linux-arm64.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2026-02-01T12:41:26Z",
-      "digest": "sha256:ed5afe5638a6a867c9be9df2482ead1125cbdca8cb78f27a0e687ab58f4d1167",
-      "id": 349074548,
+      "created_at": "2026-02-02T11:23:22Z",
+      "digest": "sha256:6726622825e5b79d4608e74f0ee5b4f1173c39ba3d0548e8d66dfeafdc4f46a0",
+      "id": 349519425,
       "label": "",
-      "name": "mise-v2026.2.0-linux-arm64.tar.gz",
-      "node_id": "RA_kwDOIvux3s4UznR0",
-      "size": 28631492,
+      "name": "mise-v2026.2.1-linux-arm64.tar.gz",
+      "node_id": "RA_kwDOIvux3s4U1T5B",
+      "size": 28683565,
       "state": "uploaded",
-      "updated_at": "2026-02-01T12:41:27Z",
+      "updated_at": "2026-02-02T11:23:23Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -313,20 +313,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349074548"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349519425"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.0/mise-v2026.2.0-linux-arm64.tar.xz",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.1/mise-v2026.2.1-linux-arm64.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2026-02-01T12:41:26Z",
-      "digest": "sha256:a4a49d555e9d6634cd28557478a261464ae9e88cfaf8539a100a97967de84c62",
-      "id": 349074550,
+      "created_at": "2026-02-02T11:23:22Z",
+      "digest": "sha256:05a95b361d18e13888ed3841b65533a2de3d87411d94a94c1e3ba7fa32254024",
+      "id": 349519429,
       "label": "",
-      "name": "mise-v2026.2.0-linux-arm64.tar.xz",
-      "node_id": "RA_kwDOIvux3s4UznR2",
-      "size": 18017940,
+      "name": "mise-v2026.2.1-linux-arm64.tar.xz",
+      "node_id": "RA_kwDOIvux3s4U1T5F",
+      "size": 18053624,
       "state": "uploaded",
-      "updated_at": "2026-02-01T12:41:27Z",
+      "updated_at": "2026-02-02T11:23:23Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -348,20 +348,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349074550"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349519429"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.0/mise-v2026.2.0-linux-arm64.tar.zst",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.1/mise-v2026.2.1-linux-arm64.tar.zst",
       "content_type": "application/zstd",
-      "created_at": "2026-02-01T12:41:27Z",
-      "digest": "sha256:f92f7216f04138a969eeb9db3e1a751e075c2fea355acac527592cc40bbb4baa",
-      "id": 349074553,
+      "created_at": "2026-02-02T11:23:22Z",
+      "digest": "sha256:ffa458b42efd2439084c5f016351bd058b61cfb8c08f30ecd892ea3d42842d8b",
+      "id": 349519432,
       "label": "",
-      "name": "mise-v2026.2.0-linux-arm64.tar.zst",
-      "node_id": "RA_kwDOIvux3s4UznR5",
-      "size": 21313153,
+      "name": "mise-v2026.2.1-linux-arm64.tar.zst",
+      "node_id": "RA_kwDOIvux3s4U1T5I",
+      "size": 21352561,
       "state": "uploaded",
-      "updated_at": "2026-02-01T12:41:27Z",
+      "updated_at": "2026-02-02T11:23:23Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -383,20 +383,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349074553"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349519432"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.0/mise-v2026.2.0-linux-armv7",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.1/mise-v2026.2.1-linux-armv7",
       "content_type": "application/octet-stream",
-      "created_at": "2026-02-01T12:41:27Z",
-      "digest": "sha256:086cec4ec6982046f7a6856e0457eb3ee1e320baa4e8a6f55e7f5d97d0d571e9",
-      "id": 349074561,
+      "created_at": "2026-02-02T11:23:23Z",
+      "digest": "sha256:13deb3daaa033bfa740ff9358beed040eb0566623d13f93c2397fc0146039937",
+      "id": 349519437,
       "label": "",
-      "name": "mise-v2026.2.0-linux-armv7",
-      "node_id": "RA_kwDOIvux3s4UznSB",
-      "size": 71861040,
+      "name": "mise-v2026.2.1-linux-armv7",
+      "node_id": "RA_kwDOIvux3s4U1T5N",
+      "size": 72124772,
       "state": "uploaded",
-      "updated_at": "2026-02-01T12:41:29Z",
+      "updated_at": "2026-02-02T11:23:25Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -418,20 +418,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349074561"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349519437"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.0/mise-v2026.2.0-linux-armv7-musl",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.1/mise-v2026.2.1-linux-armv7-musl",
       "content_type": "application/octet-stream",
-      "created_at": "2026-02-01T12:41:27Z",
-      "digest": "sha256:25ad86e941de0067b189ac4a89ab56ddd234c0fd6ceb79a819f9a94856da1a13",
-      "id": 349074563,
+      "created_at": "2026-02-02T11:23:23Z",
+      "digest": "sha256:ade73b6923409c90ef446d60d2956684623f4b693f5339752b4ac4237384f6dc",
+      "id": 349519457,
       "label": "",
-      "name": "mise-v2026.2.0-linux-armv7-musl",
-      "node_id": "RA_kwDOIvux3s4UznSD",
-      "size": 70640636,
+      "name": "mise-v2026.2.1-linux-armv7-musl",
+      "node_id": "RA_kwDOIvux3s4U1T5h",
+      "size": 70974964,
       "state": "uploaded",
-      "updated_at": "2026-02-01T12:41:29Z",
+      "updated_at": "2026-02-02T11:23:25Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -453,20 +453,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349074563"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349519457"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.0/mise-v2026.2.0-linux-armv7-musl.tar.gz",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.1/mise-v2026.2.1-linux-armv7-musl.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2026-02-01T12:41:27Z",
-      "digest": "sha256:edf0655fc232b8b4cf33818a644fa7f921fc976b1ed9a6ed18f72214953daf34",
-      "id": 349074562,
+      "created_at": "2026-02-02T11:23:23Z",
+      "digest": "sha256:048ef41e1418060456b4b179f31816d16cccaf4e91b452f3a45adcfbc0f58548",
+      "id": 349519464,
       "label": "",
-      "name": "mise-v2026.2.0-linux-armv7-musl.tar.gz",
-      "node_id": "RA_kwDOIvux3s4UznSC",
-      "size": 28674890,
+      "name": "mise-v2026.2.1-linux-armv7-musl.tar.gz",
+      "node_id": "RA_kwDOIvux3s4U1T5o",
+      "size": 28828284,
       "state": "uploaded",
-      "updated_at": "2026-02-01T12:41:28Z",
+      "updated_at": "2026-02-02T11:23:24Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -488,20 +488,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349074562"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349519464"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.0/mise-v2026.2.0-linux-armv7-musl.tar.xz",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.1/mise-v2026.2.1-linux-armv7-musl.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2026-02-01T12:41:27Z",
-      "digest": "sha256:b57fdc3809aef51a5deeeb72842ee6c81220bf5214b4fb3b62ed446fcdd0f468",
-      "id": 349074564,
+      "created_at": "2026-02-02T11:23:23Z",
+      "digest": "sha256:1e1261ed42c873f96d7992127aafb1d2cc086c6c438a2dc77f5bfbb6502f5e74",
+      "id": 349519463,
       "label": "",
-      "name": "mise-v2026.2.0-linux-armv7-musl.tar.xz",
-      "node_id": "RA_kwDOIvux3s4UznSE",
-      "size": 17679588,
+      "name": "mise-v2026.2.1-linux-armv7-musl.tar.xz",
+      "node_id": "RA_kwDOIvux3s4U1T5n",
+      "size": 17818168,
       "state": "uploaded",
-      "updated_at": "2026-02-01T12:41:28Z",
+      "updated_at": "2026-02-02T11:23:24Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -523,20 +523,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349074564"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349519463"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.0/mise-v2026.2.0-linux-armv7-musl.tar.zst",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.1/mise-v2026.2.1-linux-armv7-musl.tar.zst",
       "content_type": "application/zstd",
-      "created_at": "2026-02-01T12:41:28Z",
-      "digest": "sha256:252fe455c03fd5146a24e35e25c46c1cf17a530d67a164fad99a684167c4ad14",
-      "id": 349074565,
+      "created_at": "2026-02-02T11:23:24Z",
+      "digest": "sha256:56a7b3781210484e323e024da8fd4f111c982dbf440265ad366b03588c90e98c",
+      "id": 349519466,
       "label": "",
-      "name": "mise-v2026.2.0-linux-armv7-musl.tar.zst",
-      "node_id": "RA_kwDOIvux3s4UznSF",
-      "size": 21003997,
+      "name": "mise-v2026.2.1-linux-armv7-musl.tar.zst",
+      "node_id": "RA_kwDOIvux3s4U1T5q",
+      "size": 21550270,
       "state": "uploaded",
-      "updated_at": "2026-02-01T12:41:28Z",
+      "updated_at": "2026-02-02T11:23:24Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -558,20 +558,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349074565"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349519466"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.0/mise-v2026.2.0-linux-armv7.tar.gz",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.1/mise-v2026.2.1-linux-armv7.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2026-02-01T12:41:28Z",
-      "digest": "sha256:f3da1b8cbe387d85b8c6266a2de2a4f5d65b2bda775f9b1c9275cc1cec73a85c",
-      "id": 349074568,
+      "created_at": "2026-02-02T11:23:24Z",
+      "digest": "sha256:94faff1ab198ebf8040f42d1c8853682d439ac5e160c167b6be70ef0e73d6ee5",
+      "id": 349519489,
       "label": "",
-      "name": "mise-v2026.2.0-linux-armv7.tar.gz",
-      "node_id": "RA_kwDOIvux3s4UznSI",
-      "size": 28827697,
+      "name": "mise-v2026.2.1-linux-armv7.tar.gz",
+      "node_id": "RA_kwDOIvux3s4U1T6B",
+      "size": 28964903,
       "state": "uploaded",
-      "updated_at": "2026-02-01T12:41:29Z",
+      "updated_at": "2026-02-02T11:23:26Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -593,20 +593,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349074568"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349519489"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.0/mise-v2026.2.0-linux-armv7.tar.xz",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.1/mise-v2026.2.1-linux-armv7.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2026-02-01T12:41:28Z",
-      "digest": "sha256:f79885849286787e70b2277e2437bdd846351ecba06aca9657c929aaaf2afd54",
-      "id": 349074570,
+      "created_at": "2026-02-02T11:23:25Z",
+      "digest": "sha256:ffc8881f6d1b3db24e358ce843a08f38046367b70d51b13244bc065f58d439c0",
+      "id": 349519490,
       "label": "",
-      "name": "mise-v2026.2.0-linux-armv7.tar.xz",
-      "node_id": "RA_kwDOIvux3s4UznSK",
-      "size": 17719056,
+      "name": "mise-v2026.2.1-linux-armv7.tar.xz",
+      "node_id": "RA_kwDOIvux3s4U1T6C",
+      "size": 17859896,
       "state": "uploaded",
-      "updated_at": "2026-02-01T12:41:29Z",
+      "updated_at": "2026-02-02T11:23:25Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -628,20 +628,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349074570"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349519490"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.0/mise-v2026.2.0-linux-armv7.tar.zst",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.1/mise-v2026.2.1-linux-armv7.tar.zst",
       "content_type": "application/zstd",
-      "created_at": "2026-02-01T12:41:28Z",
-      "digest": "sha256:38430652010b05b8003a5bdf7401600774ef5ed423abee68e13feb79219f2a7e",
-      "id": 349074569,
+      "created_at": "2026-02-02T11:23:25Z",
+      "digest": "sha256:05d0878dcbdd0a96d0a7cc299b51fa97bf23ed1d6f4b893d832be7aeaf7d8128",
+      "id": 349519492,
       "label": "",
-      "name": "mise-v2026.2.0-linux-armv7.tar.zst",
-      "node_id": "RA_kwDOIvux3s4UznSJ",
-      "size": 21179876,
+      "name": "mise-v2026.2.1-linux-armv7.tar.zst",
+      "node_id": "RA_kwDOIvux3s4U1T6E",
+      "size": 21655762,
       "state": "uploaded",
-      "updated_at": "2026-02-01T12:41:29Z",
+      "updated_at": "2026-02-02T11:23:26Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -663,20 +663,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349074569"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349519492"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.0/mise-v2026.2.0-linux-x64",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.1/mise-v2026.2.1-linux-x64",
       "content_type": "application/octet-stream",
-      "created_at": "2026-02-01T12:41:29Z",
-      "digest": "sha256:7e1cd2dc33f6ebc9f33c1911013ed92bf724cf63ece21f284aaa4b34987e5002",
-      "id": 349074579,
+      "created_at": "2026-02-02T11:23:25Z",
+      "digest": "sha256:929126b055db71284d9c0ab87bdf1cca302ce4076fd693f01d7bd1916ff5f5c3",
+      "id": 349519497,
       "label": "",
-      "name": "mise-v2026.2.0-linux-x64",
-      "node_id": "RA_kwDOIvux3s4UznST",
-      "size": 78223216,
+      "name": "mise-v2026.2.1-linux-x64",
+      "node_id": "RA_kwDOIvux3s4U1T6J",
+      "size": 78442944,
       "state": "uploaded",
-      "updated_at": "2026-02-01T12:41:32Z",
+      "updated_at": "2026-02-02T11:23:27Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -698,20 +698,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349074579"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349519497"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.0/mise-v2026.2.0-linux-x64-musl",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.1/mise-v2026.2.1-linux-x64-musl",
       "content_type": "application/octet-stream",
-      "created_at": "2026-02-01T12:41:29Z",
-      "digest": "sha256:e7918c00b156f57cbe49be741dc87b979b04235fd12f5f83cec33a42a63050c5",
-      "id": 349074580,
+      "created_at": "2026-02-02T11:23:25Z",
+      "digest": "sha256:83006690e0673fd06837e7aaae55c28362b5727b3f6cf6df748bee5a510b98d6",
+      "id": 349519506,
       "label": "",
-      "name": "mise-v2026.2.0-linux-x64-musl",
-      "node_id": "RA_kwDOIvux3s4UznSU",
-      "size": 78867648,
+      "name": "mise-v2026.2.1-linux-x64-musl",
+      "node_id": "RA_kwDOIvux3s4U1T6S",
+      "size": 79139376,
       "state": "uploaded",
-      "updated_at": "2026-02-01T12:41:32Z",
+      "updated_at": "2026-02-02T11:23:28Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -733,20 +733,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349074580"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349519506"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.0/mise-v2026.2.0-linux-x64-musl.tar.gz",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.1/mise-v2026.2.1-linux-x64-musl.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2026-02-01T12:41:30Z",
-      "digest": "sha256:1693248fdee8dd316fc31cd64844f65fddc8778176e14842ed168de5b076d728",
-      "id": 349074583,
+      "created_at": "2026-02-02T11:23:26Z",
+      "digest": "sha256:54608f9385f7aef1f2e2ec9a3b41af79a384ed08c9734ebce4cf412f0a3ebba2",
+      "id": 349519510,
       "label": "",
-      "name": "mise-v2026.2.0-linux-x64-musl.tar.gz",
-      "node_id": "RA_kwDOIvux3s4UznSX",
-      "size": 29257320,
+      "name": "mise-v2026.2.1-linux-x64-musl.tar.gz",
+      "node_id": "RA_kwDOIvux3s4U1T6W",
+      "size": 29375680,
       "state": "uploaded",
-      "updated_at": "2026-02-01T12:41:31Z",
+      "updated_at": "2026-02-02T11:23:27Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -768,20 +768,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349074583"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349519510"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.0/mise-v2026.2.0-linux-x64-musl.tar.xz",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.1/mise-v2026.2.1-linux-x64-musl.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2026-02-01T12:41:30Z",
-      "digest": "sha256:073597083e45d476df312509a4bc30476d802fd699effd8b311f0845c0b40526",
-      "id": 349074584,
+      "created_at": "2026-02-02T11:23:26Z",
+      "digest": "sha256:089d94efbd241210dc12f25ad1723c80d4cfc463bf951e6d1613d97d5a96060d",
+      "id": 349519516,
       "label": "",
-      "name": "mise-v2026.2.0-linux-x64-musl.tar.xz",
-      "node_id": "RA_kwDOIvux3s4UznSY",
-      "size": 19112972,
+      "name": "mise-v2026.2.1-linux-x64-musl.tar.xz",
+      "node_id": "RA_kwDOIvux3s4U1T6c",
+      "size": 19204136,
       "state": "uploaded",
-      "updated_at": "2026-02-01T12:41:30Z",
+      "updated_at": "2026-02-02T11:23:27Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -803,20 +803,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349074584"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349519516"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.0/mise-v2026.2.0-linux-x64-musl.tar.zst",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.1/mise-v2026.2.1-linux-x64-musl.tar.zst",
       "content_type": "application/zstd",
-      "created_at": "2026-02-01T12:41:30Z",
-      "digest": "sha256:e26a2582ac8f92eccc156a727014cb858ce6a497ae6297b095caec19c3b443b5",
-      "id": 349074581,
+      "created_at": "2026-02-02T11:23:26Z",
+      "digest": "sha256:eea6a9684fc530624e362a4df57478402105f3baa5040de34b9cd6eb8c1630c6",
+      "id": 349519520,
       "label": "",
-      "name": "mise-v2026.2.0-linux-x64-musl.tar.zst",
-      "node_id": "RA_kwDOIvux3s4UznSV",
-      "size": 21297870,
+      "name": "mise-v2026.2.1-linux-x64-musl.tar.zst",
+      "node_id": "RA_kwDOIvux3s4U1T6g",
+      "size": 21478865,
       "state": "uploaded",
-      "updated_at": "2026-02-01T12:41:30Z",
+      "updated_at": "2026-02-02T11:23:27Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -838,20 +838,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349074581"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349519520"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.0/mise-v2026.2.0-linux-x64.tar.gz",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.1/mise-v2026.2.1-linux-x64.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2026-02-01T12:41:30Z",
-      "digest": "sha256:1a1455db415fa25bdfd06b76eeb9923d4b72d57efbdd8ec4d5485da6e96a4144",
-      "id": 349074586,
+      "created_at": "2026-02-02T11:23:27Z",
+      "digest": "sha256:436d726c4046dd9e2681831830de5063c336d8a8164a9801de4c221bf5a8f846",
+      "id": 349519535,
       "label": "",
-      "name": "mise-v2026.2.0-linux-x64.tar.gz",
-      "node_id": "RA_kwDOIvux3s4UznSa",
-      "size": 29075015,
+      "name": "mise-v2026.2.1-linux-x64.tar.gz",
+      "node_id": "RA_kwDOIvux3s4U1T6v",
+      "size": 29192596,
       "state": "uploaded",
-      "updated_at": "2026-02-01T12:41:31Z",
+      "updated_at": "2026-02-02T11:23:28Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -873,20 +873,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349074586"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349519535"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.0/mise-v2026.2.0-linux-x64.tar.xz",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.1/mise-v2026.2.1-linux-x64.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2026-02-01T12:41:31Z",
-      "digest": "sha256:2130cf404134afca60faaa84be90f0e73be840c67f5cdcddd0f89ed45c98b155",
-      "id": 349074588,
+      "created_at": "2026-02-02T11:23:27Z",
+      "digest": "sha256:967324810ee2f932aed52398ecbeec187a41559391ae951e45694971f131c70c",
+      "id": 349519537,
       "label": "",
-      "name": "mise-v2026.2.0-linux-x64.tar.xz",
-      "node_id": "RA_kwDOIvux3s4UznSc",
-      "size": 19034680,
+      "name": "mise-v2026.2.1-linux-x64.tar.xz",
+      "node_id": "RA_kwDOIvux3s4U1T6x",
+      "size": 19105388,
       "state": "uploaded",
-      "updated_at": "2026-02-01T12:41:31Z",
+      "updated_at": "2026-02-02T11:23:28Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -908,20 +908,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349074588"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349519537"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.0/mise-v2026.2.0-linux-x64.tar.zst",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.1/mise-v2026.2.1-linux-x64.tar.zst",
       "content_type": "application/zstd",
-      "created_at": "2026-02-01T12:41:31Z",
-      "digest": "sha256:8d4112a18973eea3e6559743b1b11baa68fa8ff64f432704de2cdeca742eddec",
-      "id": 349074590,
+      "created_at": "2026-02-02T11:23:27Z",
+      "digest": "sha256:2fc15e140e180b433ce4c3cd7ff870fa4621fd0717f2e14d5a2a1099da04aac1",
+      "id": 349519539,
       "label": "",
-      "name": "mise-v2026.2.0-linux-x64.tar.zst",
-      "node_id": "RA_kwDOIvux3s4UznSe",
-      "size": 21324587,
+      "name": "mise-v2026.2.1-linux-x64.tar.zst",
+      "node_id": "RA_kwDOIvux3s4U1T6z",
+      "size": 21364492,
       "state": "uploaded",
-      "updated_at": "2026-02-01T12:41:32Z",
+      "updated_at": "2026-02-02T11:23:28Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -943,20 +943,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349074590"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349519539"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.0/mise-v2026.2.0-macos-arm64",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.1/mise-v2026.2.1-macos-arm64",
       "content_type": "application/octet-stream",
-      "created_at": "2026-02-01T12:41:31Z",
-      "digest": "sha256:f4ea0552e49bea1b6c2393bdf11391f409a149661180c333baae5f40f2549277",
-      "id": 349074592,
+      "created_at": "2026-02-02T11:23:27Z",
+      "digest": "sha256:615616524735b40089344cb5851450eb95a66a0a93020051bd863af282820f3a",
+      "id": 349519545,
       "label": "",
-      "name": "mise-v2026.2.0-macos-arm64",
-      "node_id": "RA_kwDOIvux3s4UznSg",
-      "size": 60459344,
+      "name": "mise-v2026.2.1-macos-arm64",
+      "node_id": "RA_kwDOIvux3s4U1T65",
+      "size": 60539632,
       "state": "uploaded",
-      "updated_at": "2026-02-01T12:41:33Z",
+      "updated_at": "2026-02-02T11:23:29Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -978,20 +978,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349074592"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349519545"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.0/mise-v2026.2.0-macos-arm64.tar.gz",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.1/mise-v2026.2.1-macos-arm64.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2026-02-01T12:41:32Z",
-      "digest": "sha256:f3bc94bcd49dbf4c2ac1feb0478de8a94b741d6dec8c1098c546f5e040c9eabd",
-      "id": 349074593,
+      "created_at": "2026-02-02T11:23:28Z",
+      "digest": "sha256:1287be99c7fd135e07c5d41c3347dca9340369ae8e71881889ac434cacd5678d",
+      "id": 349519552,
       "label": "",
-      "name": "mise-v2026.2.0-macos-arm64.tar.gz",
-      "node_id": "RA_kwDOIvux3s4UznSh",
-      "size": 24665965,
+      "name": "mise-v2026.2.1-macos-arm64.tar.gz",
+      "node_id": "RA_kwDOIvux3s4U1T7A",
+      "size": 24666365,
       "state": "uploaded",
-      "updated_at": "2026-02-01T12:41:33Z",
+      "updated_at": "2026-02-02T11:23:29Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -1013,20 +1013,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349074593"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349519552"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.0/mise-v2026.2.0-macos-arm64.tar.xz",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.1/mise-v2026.2.1-macos-arm64.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2026-02-01T12:41:32Z",
-      "digest": "sha256:34c7d2f32f41e68323304626694eac1b5e3bee3d867891b9fe00fff9c7b326ec",
-      "id": 349074594,
+      "created_at": "2026-02-02T11:23:28Z",
+      "digest": "sha256:a63994d3a3bf04974df6dc89ddae783cba96e70a48edd35defa04f9fffcd327e",
+      "id": 349519554,
       "label": "",
-      "name": "mise-v2026.2.0-macos-arm64.tar.xz",
-      "node_id": "RA_kwDOIvux3s4UznSi",
-      "size": 15454952,
+      "name": "mise-v2026.2.1-macos-arm64.tar.xz",
+      "node_id": "RA_kwDOIvux3s4U1T7C",
+      "size": 15451820,
       "state": "uploaded",
-      "updated_at": "2026-02-01T12:41:32Z",
+      "updated_at": "2026-02-02T11:23:29Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -1048,20 +1048,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349074594"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349519554"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.0/mise-v2026.2.0-macos-arm64.tar.zst",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.1/mise-v2026.2.1-macos-arm64.tar.zst",
       "content_type": "application/zstd",
-      "created_at": "2026-02-01T12:41:32Z",
-      "digest": "sha256:4176f66ba0b30a112cd83f9b0fd06e76576a7e79e3bb21b302745bf767e6337c",
-      "id": 349074596,
+      "created_at": "2026-02-02T11:23:28Z",
+      "digest": "sha256:57afbe77e990fda2733f953eb00f1fd1aa306794110a9a710c1804118c499122",
+      "id": 349519555,
       "label": "",
-      "name": "mise-v2026.2.0-macos-arm64.tar.zst",
-      "node_id": "RA_kwDOIvux3s4UznSk",
-      "size": 23161409,
+      "name": "mise-v2026.2.1-macos-arm64.tar.zst",
+      "node_id": "RA_kwDOIvux3s4U1T7D",
+      "size": 23249086,
       "state": "uploaded",
-      "updated_at": "2026-02-01T12:41:33Z",
+      "updated_at": "2026-02-02T11:23:29Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -1083,20 +1083,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349074596"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349519555"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.0/mise-v2026.2.0-macos-x64",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.1/mise-v2026.2.1-macos-x64",
       "content_type": "application/octet-stream",
-      "created_at": "2026-02-01T12:41:32Z",
-      "digest": "sha256:1ea2734d1d74c83f9b1a8fd2d498c5435dfadcc7100ac1e843b98bfb21deacae",
-      "id": 349074597,
+      "created_at": "2026-02-02T11:23:28Z",
+      "digest": "sha256:d410d502664d43a3d9ae46c93df406022e825b7e4c9cfedca5077ce3fd76b46a",
+      "id": 349519556,
       "label": "",
-      "name": "mise-v2026.2.0-macos-x64",
-      "node_id": "RA_kwDOIvux3s4UznSl",
-      "size": 67597360,
+      "name": "mise-v2026.2.1-macos-x64",
+      "node_id": "RA_kwDOIvux3s4U1T7E",
+      "size": 67701792,
       "state": "uploaded",
-      "updated_at": "2026-02-01T12:41:34Z",
+      "updated_at": "2026-02-02T11:23:30Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -1118,20 +1118,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349074597"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349519556"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.0/mise-v2026.2.0-macos-x64.tar.gz",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.1/mise-v2026.2.1-macos-x64.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2026-02-01T12:41:33Z",
-      "digest": "sha256:0dcb83fdb17158907efdddd38acd8f1b13877f621c1d6779c8f96767daae71f1",
-      "id": 349074603,
+      "created_at": "2026-02-02T11:23:29Z",
+      "digest": "sha256:4e532bbd81f5dba08c1b4302f1f1e7836a98215a891532b71190dd9e624c853f",
+      "id": 349519569,
       "label": "",
-      "name": "mise-v2026.2.0-macos-x64.tar.gz",
-      "node_id": "RA_kwDOIvux3s4UznSr",
-      "size": 26878663,
+      "name": "mise-v2026.2.1-macos-x64.tar.gz",
+      "node_id": "RA_kwDOIvux3s4U1T7R",
+      "size": 26978837,
       "state": "uploaded",
-      "updated_at": "2026-02-01T12:41:34Z",
+      "updated_at": "2026-02-02T11:23:30Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -1153,20 +1153,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349074603"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349519569"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.0/mise-v2026.2.0-macos-x64.tar.xz",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.1/mise-v2026.2.1-macos-x64.tar.xz",
       "content_type": "application/x-xz",
-      "created_at": "2026-02-01T12:41:33Z",
-      "digest": "sha256:63f628b70ced0a3c7903840fe784757dd2d43a9b83e460f149ea9224ad5e29fa",
-      "id": 349074605,
+      "created_at": "2026-02-02T11:23:29Z",
+      "digest": "sha256:30a83bb8570299c92e015b50fca9114d420f7b1e29bb79aaf19744a723e849d4",
+      "id": 349519571,
       "label": "",
-      "name": "mise-v2026.2.0-macos-x64.tar.xz",
-      "node_id": "RA_kwDOIvux3s4UznSt",
-      "size": 18189024,
+      "name": "mise-v2026.2.1-macos-x64.tar.xz",
+      "node_id": "RA_kwDOIvux3s4U1T7T",
+      "size": 18180364,
       "state": "uploaded",
-      "updated_at": "2026-02-01T12:41:34Z",
+      "updated_at": "2026-02-02T11:23:30Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -1188,20 +1188,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349074605"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349519571"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.0/mise-v2026.2.0-macos-x64.tar.zst",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.1/mise-v2026.2.1-macos-x64.tar.zst",
       "content_type": "application/zstd",
-      "created_at": "2026-02-01T12:41:33Z",
-      "digest": "sha256:01d03840b3cc147cec0ed4ded1b972884e7570644878f13abc6f138cb372db47",
-      "id": 349074606,
+      "created_at": "2026-02-02T11:23:29Z",
+      "digest": "sha256:5c333e319b833d6f4f4a60376a3c45e25cc3a3ca355e00d9890628562759cba4",
+      "id": 349519572,
       "label": "",
-      "name": "mise-v2026.2.0-macos-x64.tar.zst",
-      "node_id": "RA_kwDOIvux3s4UznSu",
-      "size": 25195874,
+      "name": "mise-v2026.2.1-macos-x64.tar.zst",
+      "node_id": "RA_kwDOIvux3s4U1T7U",
+      "size": 25273212,
       "state": "uploaded",
-      "updated_at": "2026-02-01T12:41:34Z",
+      "updated_at": "2026-02-02T11:23:30Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -1223,20 +1223,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349074606"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349519572"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.0/mise-v2026.2.0-windows-arm64.zip",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.1/mise-v2026.2.1-windows-arm64.zip",
       "content_type": "application/zip",
-      "created_at": "2026-02-01T12:41:33Z",
-      "digest": "sha256:e1e8107c3b9dbed293e49c352a420909e577ed8caedb8e35bf64afd4a3f97d03",
-      "id": 349074608,
+      "created_at": "2026-02-02T11:23:29Z",
+      "digest": "sha256:cfa0b90ffa0c79b3bc9863251a17e593910cf271580a826bf0a127e796931ef8",
+      "id": 349519574,
       "label": "",
-      "name": "mise-v2026.2.0-windows-arm64.zip",
-      "node_id": "RA_kwDOIvux3s4UznSw",
-      "size": 24861519,
+      "name": "mise-v2026.2.1-windows-arm64.zip",
+      "node_id": "RA_kwDOIvux3s4U1T7W",
+      "size": 24854293,
       "state": "uploaded",
-      "updated_at": "2026-02-01T12:41:34Z",
+      "updated_at": "2026-02-02T11:23:30Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -1258,20 +1258,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349074608"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349519574"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.0/mise-v2026.2.0-windows-x64.zip",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.1/mise-v2026.2.1-windows-x64.zip",
       "content_type": "application/zip",
-      "created_at": "2026-02-01T12:41:34Z",
-      "digest": "sha256:c7472466f805751a029bc31926a8e60f503f4dea3888402b40fdf03c925b78ee",
-      "id": 349074610,
+      "created_at": "2026-02-02T11:23:30Z",
+      "digest": "sha256:879ac13b2658565a9984a920d51a7e40915104e311bf29233105e2c3ce0a4dc0",
+      "id": 349519583,
       "label": "",
-      "name": "mise-v2026.2.0-windows-x64.zip",
-      "node_id": "RA_kwDOIvux3s4UznSy",
-      "size": 25805534,
+      "name": "mise-v2026.2.1-windows-x64.zip",
+      "node_id": "RA_kwDOIvux3s4U1T7f",
+      "size": 25824946,
       "state": "uploaded",
-      "updated_at": "2026-02-01T12:41:35Z",
+      "updated_at": "2026-02-02T11:23:31Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -1293,20 +1293,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349074610"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349519583"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.0/SHASUMS256.asc",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.1/SHASUMS256.asc",
       "content_type": "text/plain; charset=utf-8",
-      "created_at": "2026-02-01T12:41:25Z",
-      "digest": "sha256:5e46ded01dff934ca55aa5e1e055af40df862d2a0598c57961a1e5db947c7da7",
-      "id": 349074530,
+      "created_at": "2026-02-02T11:23:20Z",
+      "digest": "sha256:add0b6fb8575f052cf7459b821bba3ad2263800a400774275851a6d6cb89a2bd",
+      "id": 349519383,
       "label": "",
       "name": "SHASUMS256.asc",
-      "node_id": "RA_kwDOIvux3s4UznRi",
+      "node_id": "RA_kwDOIvux3s4U1T4X",
       "size": 4334,
       "state": "uploaded",
-      "updated_at": "2026-02-01T12:41:25Z",
+      "updated_at": "2026-02-02T11:23:21Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -1328,20 +1328,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349074530"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349519383"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.0/SHASUMS256.txt",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.1/SHASUMS256.txt",
       "content_type": "text/plain; charset=utf-8",
-      "created_at": "2026-02-01T12:41:25Z",
-      "digest": "sha256:3fa5ed93dd07bb3025db9ae63f462fde3d51ec1cf0d9a49af00d42a456a4c7fd",
-      "id": 349074529,
+      "created_at": "2026-02-02T11:23:20Z",
+      "digest": "sha256:b9f8840b239a05957024259d8307089cc44761a567d5a3bab9e652459c671b3f",
+      "id": 349519382,
       "label": "",
       "name": "SHASUMS256.txt",
-      "node_id": "RA_kwDOIvux3s4UznRh",
+      "node_id": "RA_kwDOIvux3s4U1T4W",
       "size": 3452,
       "state": "uploaded",
-      "updated_at": "2026-02-01T12:41:25Z",
+      "updated_at": "2026-02-02T11:23:21Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -1363,20 +1363,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349074529"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349519382"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.0/SHASUMS256.txt.minisig",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.1/SHASUMS256.txt.minisig",
       "content_type": "application/octet-stream",
-      "created_at": "2026-02-01T12:41:25Z",
-      "digest": "sha256:abddee6d9da453a02f91e7033690f57a3622faa20a24ca1d8c346b74c7f32107",
-      "id": 349074531,
+      "created_at": "2026-02-02T11:23:20Z",
+      "digest": "sha256:254c369bb7250174c6633686de96177b8e22566340b0038ba50d9878b33e4c51",
+      "id": 349519384,
       "label": "",
       "name": "SHASUMS256.txt.minisig",
-      "node_id": "RA_kwDOIvux3s4UznRj",
+      "node_id": "RA_kwDOIvux3s4U1T4Y",
       "size": 309,
       "state": "uploaded",
-      "updated_at": "2026-02-01T12:41:25Z",
+      "updated_at": "2026-02-02T11:23:21Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -1398,20 +1398,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349074531"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349519384"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.0/SHASUMS512.asc",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.1/SHASUMS512.asc",
       "content_type": "text/plain; charset=utf-8",
-      "created_at": "2026-02-01T12:41:25Z",
-      "digest": "sha256:16760c9dd03f4006b40064dfe60f0d54a2449c73cfbd6f87b689831c4ce278a8",
-      "id": 349074528,
+      "created_at": "2026-02-02T11:23:20Z",
+      "digest": "sha256:2c3fae6a9d41129cd784187e78ed262f7822a8f34a60dc8d68f9bc10dee52c3c",
+      "id": 349519385,
       "label": "",
       "name": "SHASUMS512.asc",
-      "node_id": "RA_kwDOIvux3s4UznRg",
+      "node_id": "RA_kwDOIvux3s4U1T4Z",
       "size": 6657,
       "state": "uploaded",
-      "updated_at": "2026-02-01T12:41:25Z",
+      "updated_at": "2026-02-02T11:23:21Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -1433,20 +1433,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349074528"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349519385"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.0/SHASUMS512.txt",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.1/SHASUMS512.txt",
       "content_type": "text/plain; charset=utf-8",
-      "created_at": "2026-02-01T12:41:25Z",
-      "digest": "sha256:ba07b1edf33e0772ab74f28f3ef6063bcec4587dcb7ecdd8cb873a0a430f6c10",
-      "id": 349074532,
+      "created_at": "2026-02-02T11:23:20Z",
+      "digest": "sha256:8f38d67d02afead60d6dbe48eedb500577d1b94379819b223891317d60b345d2",
+      "id": 349519381,
       "label": "",
       "name": "SHASUMS512.txt",
-      "node_id": "RA_kwDOIvux3s4UznRk",
+      "node_id": "RA_kwDOIvux3s4U1T4V",
       "size": 5775,
       "state": "uploaded",
-      "updated_at": "2026-02-01T12:41:25Z",
+      "updated_at": "2026-02-02T11:23:21Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -1468,20 +1468,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349074532"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349519381"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.0/SHASUMS512.txt.minisig",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.1/SHASUMS512.txt.minisig",
       "content_type": "application/octet-stream",
-      "created_at": "2026-02-01T12:41:25Z",
-      "digest": "sha256:2f7eb5515b380feefe251de000e5a3d71a79ecaf9bee73b2eb543a9064886f42",
-      "id": 349074533,
+      "created_at": "2026-02-02T11:23:21Z",
+      "digest": "sha256:6a74df9b2f11d9b22a0876555685d594f6d32b9b8f4914c6e25a627d79d90dcb",
+      "id": 349519386,
       "label": "",
       "name": "SHASUMS512.txt.minisig",
-      "node_id": "RA_kwDOIvux3s4UznRl",
+      "node_id": "RA_kwDOIvux3s4U1T4a",
       "size": 309,
       "state": "uploaded",
-      "updated_at": "2026-02-01T12:41:25Z",
+      "updated_at": "2026-02-02T11:23:21Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -1503,20 +1503,20 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349074533"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349519386"
     },
     {
-      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.0/v2026.2.0.tar.gz.sig",
+      "browser_download_url": "https://github.com/jdx/mise/releases/download/v2026.2.1/v2026.2.1.tar.gz.sig",
       "content_type": "application/pgp-signature",
-      "created_at": "2026-02-01T12:41:34Z",
-      "digest": "sha256:d4758d6f7b9edd635b25562badfb679737fd976cfd94851fb403d8e75bc0f420",
-      "id": 349074612,
+      "created_at": "2026-02-02T11:23:30Z",
+      "digest": "sha256:43eb1e91dcd45fd690974f03b465e65e578990903e8b0abf553792e4e350050e",
+      "id": 349519584,
       "label": "",
-      "name": "v2026.2.0.tar.gz.sig",
-      "node_id": "RA_kwDOIvux3s4UznS0",
+      "name": "v2026.2.1.tar.gz.sig",
+      "node_id": "RA_kwDOIvux3s4U1T7g",
       "size": 566,
       "state": "uploaded",
-      "updated_at": "2026-02-01T12:41:34Z",
+      "updated_at": "2026-02-02T11:23:30Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
         "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -1538,10 +1538,10 @@
         "url": "https://api.github.com/users/mise-en-dev",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349074612"
+      "url": "https://api.github.com/repos/jdx/mise/releases/assets/349519584"
     }
   ],
-  "assets_url": "https://api.github.com/repos/jdx/mise/releases/281910615/assets",
+  "assets_url": "https://api.github.com/repos/jdx/mise/releases/282137850/assets",
   "author": {
     "avatar_url": "https://avatars.githubusercontent.com/u/123107610?v=4",
     "events_url": "https://api.github.com/users/mise-en-dev/events{/privacy}",
@@ -1563,21 +1563,21 @@
     "url": "https://api.github.com/users/mise-en-dev",
     "user_view_type": "public"
   },
-  "body": "This release marks a significant milestone: **lockfiles are now stable** and no longer require an experimental flag. After extensive testing and refinement, lockfiles are ready for production use, giving you reproducible builds with cryptographically verified tool versions across your team.\r\n\r\nThe other headline feature is `mise edit`, a brand new interactive configuration editor that makes managing your mise setup more intuitive than ever. Just run `mise edit` and navigate your configuration with a proper editor interface.\r\n\r\n### Highlights\r\n\r\n- **Lockfiles are stable** — No more `MISE_EXPERIMENTAL=1` needed! Lockfiles ensure everyone on your team gets exactly the same tool versions with SHA256 verification. See the [lockfile documentation](https://mise.jdx.dev/dev-tools/mise-lock.html) for details. [#7929](https://github.com/jdx/mise/pull/7929)\r\n\r\n- **Interactive config editor** — The new `mise edit` command launches an interactive editor for your mise configuration, making it easier to manage tools and settings. [#7930](https://github.com/jdx/mise/pull/7930)\r\n\r\n- **Smarter task confirmation dialogs** — Task confirm prompts now support usage values, giving you more context when confirming task execution. Thanks @roele! [#7924](https://github.com/jdx/mise/pull/7924)\r\n\r\n- **Windows shebang task support** — File tasks with shebangs are now properly discovered and executed on Windows. [#7941](https://github.com/jdx/mise/pull/7941)\r\n\r\n### Performance\r\n\r\n- **Faster dependency scheduling** — Tool installation now uses Kahn's algorithm for optimal parallel dependency resolution, speeding up installs with complex dependency trees. [#7933](https://github.com/jdx/mise/pull/7933)\r\n\r\n- **Efficient secret redaction** — Switched to Aho-Corasick algorithm for redacting secrets in output, improving performance when many secrets are configured. [#7931](https://github.com/jdx/mise/pull/7931)\r\n\r\n### Bug Fixes\r\n\r\n- **PATH ordering preserved** — Fixed an issue where paths added after `mise activate` could get reordered unexpectedly. [#7919](https://github.com/jdx/mise/pull/7919)\r\n\r\n- **Lockfile reliability** — Atomic writes prevent corruption, cache invalidation works correctly, and URL/SHA256 info is properly preserved when merging platform information. [#7923](https://github.com/jdx/mise/pull/7923), [#7927](https://github.com/jdx/mise/pull/7927)\r\n\r\n- **Template hash filter** — The `hash` filter in templates now uses SHA256 instead of Blake3 for broader compatibility. [#7925](https://github.com/jdx/mise/pull/7925)\r\n\r\n- **Smarter version pruning** — `mise upgrade` now respects tracked configs when pruning old versions, preventing accidental removal of versions still in use. [#7926](https://github.com/jdx/mise/pull/7926)\r\n\r\n- **Deterministic error output** — Failed installations are now sorted, making error messages consistent across runs. [#7936](https://github.com/jdx/mise/pull/7936)\r\n\r\n### Documentation\r\n\r\n- Improved clarity on uvx and pipx dependencies — Thanks @ygormutti for your first contribution! [#7878](https://github.com/jdx/mise/pull/7878)\r\n",
-  "created_at": "2026-02-01T11:33:22Z",
+  "body": "### Highlights\n\n**Task documentation improvements** - The `mise generate task-docs` command now supports a `--index` flag and uses task names when generating multi-file documentation with `--multi`. This gives you better control over how your task documentation is organized and named. [#7944](https://github.com/jdx/mise/pull/7944)\n\n**Tool stub generation with --lock** - You can now generate tool stubs with locked versions using `mise generate tool-stub --lock`, making it easier to pin exact tool versions in your generated stubs. [#7948](https://github.com/jdx/mise/pull/7948)\n\n**Plugin shadowing warnings** - mise now warns you when an env plugin shadows a tool from the registry, helping you avoid confusion when a local plugin name conflicts with a well-known tool. [#7953](https://github.com/jdx/mise/pull/7953)\n\n**Lua log module for vfox plugins** - Plugin authors can now use a dedicated logging module to output debug information, warnings, and errors from their Lua plugins. [#7949](https://github.com/jdx/mise/pull/7949)\n\n### Bug Fixes\n\n- Fixed handling of `file://` URLs in the registry's `normalize_remote` function [#7947](https://github.com/jdx/mise/pull/7947)\n- Fixed LuaLS warnings in vfox test fixtures and added linting [#7946](https://github.com/jdx/mise/pull/7946)\n\n### Internal Changes\n\n- Unified the `deprecated_at!` macro to provide consistent deprecation warnings [#7957](https://github.com/jdx/mise/pull/7957)\n\n---\n\nFull documentation: https://mise.jdx.dev/",
+  "created_at": "2026-02-02T10:22:06Z",
   "draft": false,
-  "html_url": "https://github.com/jdx/mise/releases/tag/v2026.2.0",
-  "id": 281910615,
+  "html_url": "https://github.com/jdx/mise/releases/tag/v2026.2.1",
+  "id": 282137850,
   "immutable": true,
-  "name": "v2026.2.0: Lockfiles Graduate, Editor Arrives",
-  "node_id": "RE_kwDOIvux3s4QzZ1X",
+  "name": "v2026.2.1: Task Docs and Tool Stubs",
+  "node_id": "RE_kwDOIvux3s4Q0RT6",
   "prerelease": false,
-  "published_at": "2026-02-01T12:42:21Z",
-  "tag_name": "v2026.2.0",
-  "tarball_url": "https://api.github.com/repos/jdx/mise/tarball/v2026.2.0",
+  "published_at": "2026-02-02T11:24:15Z",
+  "tag_name": "v2026.2.1",
+  "tarball_url": "https://api.github.com/repos/jdx/mise/tarball/v2026.2.1",
   "target_commitish": "main",
-  "updated_at": "2026-02-01T12:48:34Z",
-  "upload_url": "https://uploads.github.com/repos/jdx/mise/releases/281910615/assets{?name,label}",
-  "url": "https://api.github.com/repos/jdx/mise/releases/281910615",
-  "zipball_url": "https://api.github.com/repos/jdx/mise/zipball/v2026.2.0"
+  "updated_at": "2026-02-02T11:40:14Z",
+  "upload_url": "https://uploads.github.com/repos/jdx/mise/releases/282137850/assets{?name,label}",
+  "url": "https://api.github.com/repos/jdx/mise/releases/282137850",
+  "zipball_url": "https://api.github.com/repos/jdx/mise/zipball/v2026.2.1"
 }
