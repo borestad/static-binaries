@@ -303,7 +303,7 @@
     "url": "https://api.github.com/users/jarun",
     "user_view_type": "public"
   },
-  "body": "nnn v5.2 [Blue Hawaii](https://en.wikipedia.org/wiki/Blue_Hawaii_(cocktail)) release notes.\r\n\r\n- [x] enable 8 contexts (saved sessions may no longer be usable, users need to re-create the sessions)\r\n- [x] massive [disk usage calculation performance improvement](https://github.com/jarun/nnn/wiki/Performance#02-feb-2026)\r\n- [x] floating window\r\n  - render file stats (<kbd>f</kbd>) in a navigable floating window\r\n  - support rendering output of command run as plugin within floating window (prefix `>`)\r\n- [x] support in order fuzzy search\r\n- [x] with no selection, allow user input on _Copy here_ or _Move here_ e.g. to copy the system clipboard\r\n- [x] double confirm when removing more than 10 selected files using `rm`\r\n- [x] auto-complete hovered file name on pressing <kbd>TAB</kbd> at the end of prompt input\r\n- [x] fix: scroll down arrow indicator not showing when down arrow is pressed with filter\r\n- [x] fix: refresh directory after selection edits\r\n- [x] support PCRE2 compile-in (`make O_PCRE2=1`), remove PCRE1 support (no longer being developed)\r\n- [x] support jelliz in preview-tui\r\n- [x] history file for native prompt\r\n\r\n<p>\r\n<a href=\"https://github.com/sponsors/jarun\"><img src=\"https://img.shields.io/badge/sponsor-jarun-1eb0fc.svg\" alt=\"Sponsor\" /></a>\r\n</p>",
+  "body": "nnn v5.2 [Blue Hawaii](https://en.wikipedia.org/wiki/Blue_Hawaii_(cocktail)) release notes.\r\n\r\n- [x] enable 8 contexts (**saved sessions may no longer be usable, users need to re-create the sessions**)\r\n- [x] massive [disk usage calculation performance improvement](https://github.com/jarun/nnn/wiki/Performance#02-feb-2026)\r\n- [x] floating window\r\n  - render file stats (<kbd>f</kbd>) in a navigable floating window\r\n  - support rendering output of command run as plugin within floating window (prefix `>`)\r\n- [x] support in order fuzzy search\r\n- [x] with no selection, allow user input on _Copy here_ or _Move here_ e.g. to copy the system clipboard\r\n- [x] double confirm when removing more than 10 selected files using `rm`\r\n- [x] auto-complete hovered file name on pressing <kbd>TAB</kbd> at the end of prompt input\r\n- [x] fix: scroll down arrow indicator not showing when down arrow is pressed with filter\r\n- [x] fix: refresh directory after selection edits\r\n- [x] support PCRE2 compile-in (`make O_PCRE2=1`), remove PCRE1 support (no longer being developed)\r\n- [x] support jelliz in preview-tui\r\n- [x] history file for native prompt\r\n\r\n<p>\r\n<a href=\"https://github.com/sponsors/jarun\"><img src=\"https://img.shields.io/badge/sponsor-jarun-1eb0fc.svg\" alt=\"Sponsor\" /></a>\r\n</p>",
   "created_at": "2026-02-14T03:13:49Z",
   "draft": false,
   "html_url": "https://github.com/jarun/nnn/releases/tag/v5.2",
@@ -316,7 +316,7 @@
   "tag_name": "v5.2",
   "tarball_url": "https://api.github.com/repos/jarun/nnn/tarball/v5.2",
   "target_commitish": "46f076895ce28035fd190828810f123d8a22221c",
-  "updated_at": "2026-02-14T03:25:33Z",
+  "updated_at": "2026-02-15T17:38:54Z",
   "upload_url": "https://uploads.github.com/repos/jarun/nnn/releases/286311812/assets{?name,label}",
   "url": "https://api.github.com/repos/jarun/nnn/releases/286311812",
   "zipball_url": "https://api.github.com/repos/jarun/nnn/zipball/v5.2"
