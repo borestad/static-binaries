@@ -3943,7 +3943,7 @@
     "url": "https://api.github.com/users/passcod",
     "user_view_type": "public"
   },
-  "body": "- Add `-I`, `--interactive` mode, which enables some keyboard-driven actions: `p` (pause filesystem events), `r` (start or restart the current command), `q` (quit). (#67)\r\n- We now stop saying \"Waiting 10s\" when the process is not running (#975)",
+  "body": "- Add `-I`, `--interactive` mode, which enables some keyboard-driven actions: `p` (pause filesystem events), `r` (start or restart the current command), `q` (quit). (#67)\r\n- We now stop saying \"Waiting 10s\" when the process is not running (#975)\r\n\r\n**Known bug** on macOS you may have to press enter after the keyboard actions for them to work. This is being investigated at #1017, chime in if you have insights.",
   "created_at": "2026-02-22T12:18:01Z",
   "draft": false,
   "html_url": "https://github.com/watchexec/watchexec/releases/tag/v2.4.0",
@@ -3956,7 +3956,7 @@
   "tag_name": "v2.4.0",
   "tarball_url": "https://api.github.com/repos/watchexec/watchexec/tarball/v2.4.0",
   "target_commitish": "main",
-  "updated_at": "2026-02-22T12:25:17Z",
+  "updated_at": "2026-02-22T14:50:47Z",
   "upload_url": "https://uploads.github.com/repos/watchexec/watchexec/releases/289133225/assets{?name,label}",
   "url": "https://api.github.com/repos/watchexec/watchexec/releases/289133225",
   "zipball_url": "https://api.github.com/repos/watchexec/watchexec/zipball/v2.4.0"
