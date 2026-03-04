@@ -933,7 +933,7 @@
     "url": "https://api.github.com/users/github-actions%5Bbot%5D",
     "user_view_type": "public"
   },
-  "body": "### 2.7.3 / 2026.03.04\r\n\r\n- fix(deploy): dont use jsr api for deploy subcommand (#32441)\r\n- fix(ext/node): handle partial writes to process.stdout/stderr (#32433)\r\n- fix(ext/node): make UDP socket ops synchronous, implement missing dgram\r\n  methods (#32381)\r\n- fix(ext/node): support HTTP over Windows named pipes in node:http (#32414)\r\n- fix(npm): don't panic when peer dep is not in snapshot (#32454)\r\n- fix(npm): regression where resolution was missing dependencies (#32453)\r\n- perf(npm): improve `npm install -g deno` binary startup performance (#32439)",
+  "body": "### 2.7.3 / 2026.03.04\r\n\r\n- fix(deploy): dont use jsr api for deploy subcommand (#32441)\r\n- fix(ext/node): handle partial writes to process.stdout/stderr (#32433)\r\n- fix(ext/node): make UDP socket ops synchronous, implement missing dgram\r\n  methods (#32381)\r\n- fix(ext/node): support HTTP over Windows named pipes in node:http (#32414)\r\n- fix(npm): don't panic when peer dep is not in snapshot (#32454)\r\n- fix(npm): regression where resolution was missing dependencies (#32453)\r\n- perf(npm): improve `npm install deno` binary startup performance (#32439)",
   "created_at": "2026-03-04T14:23:37Z",
   "draft": false,
   "html_url": "https://github.com/denoland/deno/releases/tag/v2.7.3",
@@ -946,7 +946,7 @@
   "tag_name": "v2.7.3",
   "tarball_url": "https://api.github.com/repos/denoland/deno/tarball/v2.7.3",
   "target_commitish": "main",
-  "updated_at": "2026-03-04T16:21:26Z",
+  "updated_at": "2026-03-04T17:04:57Z",
   "upload_url": "https://uploads.github.com/repos/denoland/deno/releases/293035514/assets{?name,label}",
   "url": "https://api.github.com/repos/denoland/deno/releases/293035514",
   "zipball_url": "https://api.github.com/repos/denoland/deno/zipball/v2.7.3"
