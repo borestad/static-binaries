@@ -1,17 +1,17 @@
 {
   "assets": [
     {
-      "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.4.1/fd-musl_10.4.1_amd64.deb",
+      "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.4.2/fd-musl_10.4.2_amd64.deb",
       "content_type": "application/x-debian-package",
-      "created_at": "2026-03-08T08:45:17Z",
-      "digest": "sha256:c33be6b320b64c0f3d4b55542a63471ed13ebee7f1bfb87beeef17c478e6cf72",
-      "id": 369355451,
+      "created_at": "2026-03-10T07:39:56Z",
+      "digest": "sha256:a8d10259388c32f9aafd65fb65b6e3e2d2782043bed687112f50e2c4cf000c27",
+      "id": 370662854,
       "label": "",
-      "name": "fd-musl_10.4.1_amd64.deb",
-      "node_id": "RA_kwDOBWllys4WA-q7",
-      "size": 1445068,
+      "name": "fd-musl_10.4.2_amd64.deb",
+      "node_id": "RA_kwDOBWllys4WF93G",
+      "size": 1444340,
       "state": "uploaded",
-      "updated_at": "2026-03-08T08:45:17Z",
+      "updated_at": "2026-03-10T07:39:56Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -33,20 +33,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/fd/releases/assets/369355451"
+      "url": "https://api.github.com/repos/sharkdp/fd/releases/assets/370662854"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.4.1/fd-musl_10.4.1_arm64.deb",
+      "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.4.2/fd-musl_10.4.2_arm64.deb",
       "content_type": "application/x-debian-package",
-      "created_at": "2026-03-08T08:45:24Z",
-      "digest": "sha256:d97e7a7d5da8b26b8a254b53338d3e095c9ef524f0261d90e21af60a0aee743e",
-      "id": 369355476,
+      "created_at": "2026-03-10T07:39:56Z",
+      "digest": "sha256:8dceaa1186be94c3ec29e87781b1e1d48395269e8dcf318dfa1cd1c56dbfa959",
+      "id": 370662860,
       "label": "",
-      "name": "fd-musl_10.4.1_arm64.deb",
-      "node_id": "RA_kwDOBWllys4WA-rU",
-      "size": 1324312,
+      "name": "fd-musl_10.4.2_arm64.deb",
+      "node_id": "RA_kwDOBWllys4WF93M",
+      "size": 1324274,
       "state": "uploaded",
-      "updated_at": "2026-03-08T08:45:24Z",
+      "updated_at": "2026-03-10T07:39:57Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -68,20 +68,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/fd/releases/assets/369355476"
+      "url": "https://api.github.com/repos/sharkdp/fd/releases/assets/370662860"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.4.1/fd-musl_10.4.1_armhf.deb",
+      "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.4.2/fd-musl_10.4.2_armhf.deb",
       "content_type": "application/x-debian-package",
-      "created_at": "2026-03-08T08:44:43Z",
-      "digest": "sha256:07dbce1270711d3de9fc1b53cd19c07d458e0ee5bb00526fb7c7c6df750f5a91",
-      "id": 369355349,
+      "created_at": "2026-03-10T07:38:10Z",
+      "digest": "sha256:914c5ad4a7be40b9c3046f5deafb5f2c2b64e27d71fc49b1d9880ddf27405a0c",
+      "id": 370662033,
       "label": "",
-      "name": "fd-musl_10.4.1_armhf.deb",
-      "node_id": "RA_kwDOBWllys4WA-pV",
-      "size": 1200506,
+      "name": "fd-musl_10.4.2_armhf.deb",
+      "node_id": "RA_kwDOBWllys4WF9qR",
+      "size": 1200474,
       "state": "uploaded",
-      "updated_at": "2026-03-08T08:44:43Z",
+      "updated_at": "2026-03-10T07:38:11Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -103,20 +103,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/fd/releases/assets/369355349"
+      "url": "https://api.github.com/repos/sharkdp/fd/releases/assets/370662033"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.4.1/fd-musl_10.4.1_i686.deb",
+      "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.4.2/fd-musl_10.4.2_i686.deb",
       "content_type": "application/x-debian-package",
-      "created_at": "2026-03-08T08:45:41Z",
-      "digest": "sha256:6da4c1476033fcc12df6fbb40b1492407e0a4757133ed7b3e5154d5a5fe424e7",
-      "id": 369355568,
+      "created_at": "2026-03-10T07:36:52Z",
+      "digest": "sha256:e30ba0c08e8c187927ebd92fae37237f46f68bf38d997258f7debd14ea136c1a",
+      "id": 370661445,
       "label": "",
-      "name": "fd-musl_10.4.1_i686.deb",
-      "node_id": "RA_kwDOBWllys4WA-sw",
-      "size": 1264340,
+      "name": "fd-musl_10.4.2_i686.deb",
+      "node_id": "RA_kwDOBWllys4WF9hF",
+      "size": 1264540,
       "state": "uploaded",
-      "updated_at": "2026-03-08T08:45:41Z",
+      "updated_at": "2026-03-10T07:36:52Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -138,20 +138,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/fd/releases/assets/369355568"
+      "url": "https://api.github.com/repos/sharkdp/fd/releases/assets/370661445"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.4.1/fd-v10.4.1-aarch64-apple-darwin.tar.gz",
+      "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.4.2/fd-v10.4.2-aarch64-apple-darwin.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2026-03-08T08:43:03Z",
-      "digest": "sha256:016f0fc9dd44b9c48703d742584f2d16c1144ef6a89048ec33e44646409a38cd",
-      "id": 369354976,
+      "created_at": "2026-03-10T07:36:21Z",
+      "digest": "sha256:623dc0afc81b92e4d4606b380d7bc91916ba7b97814263e554d50923a39e480a",
+      "id": 370661116,
       "label": "",
-      "name": "fd-v10.4.1-aarch64-apple-darwin.tar.gz",
-      "node_id": "RA_kwDOBWllys4WA-jg",
-      "size": 1329025,
+      "name": "fd-v10.4.2-aarch64-apple-darwin.tar.gz",
+      "node_id": "RA_kwDOBWllys4WF9b8",
+      "size": 1328933,
       "state": "uploaded",
-      "updated_at": "2026-03-08T08:43:03Z",
+      "updated_at": "2026-03-10T07:36:22Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -173,20 +173,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/fd/releases/assets/369354976"
+      "url": "https://api.github.com/repos/sharkdp/fd/releases/assets/370661116"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.4.1/fd-v10.4.1-aarch64-pc-windows-msvc.zip",
+      "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.4.2/fd-v10.4.2-aarch64-pc-windows-msvc.zip",
       "content_type": "application/zip",
-      "created_at": "2026-03-08T08:46:07Z",
-      "digest": "sha256:4b24051a9d333d6b59d35c97512c3238f91850ac2f3f2fa8715e938665d00a0b",
-      "id": 369355710,
+      "created_at": "2026-03-10T07:39:29Z",
+      "digest": "sha256:4f9110c2d5b33a7f760bfa5510f4c113d828109f7277d421b1053a9943c0fc92",
+      "id": 370662661,
       "label": "",
-      "name": "fd-v10.4.1-aarch64-pc-windows-msvc.zip",
-      "node_id": "RA_kwDOBWllys4WA-u-",
-      "size": 1371419,
+      "name": "fd-v10.4.2-aarch64-pc-windows-msvc.zip",
+      "node_id": "RA_kwDOBWllys4WF90F",
+      "size": 1370473,
       "state": "uploaded",
-      "updated_at": "2026-03-08T08:46:08Z",
+      "updated_at": "2026-03-10T07:39:29Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -208,20 +208,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/fd/releases/assets/369355710"
+      "url": "https://api.github.com/repos/sharkdp/fd/releases/assets/370662661"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.4.1/fd-v10.4.1-aarch64-unknown-linux-gnu.tar.gz",
+      "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.4.2/fd-v10.4.2-aarch64-unknown-linux-gnu.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2026-03-08T08:45:25Z",
-      "digest": "sha256:976a7e9c87cfa81ace3c81ef048c7fd7d378524c9abc5d78f52af050a6e03b38",
-      "id": 369355482,
+      "created_at": "2026-03-10T07:40:41Z",
+      "digest": "sha256:6c51f7c5446b3338b1e401ff15dc194c590bb2fa64fd43ff3278300f073adec5",
+      "id": 370663239,
       "label": "",
-      "name": "fd-v10.4.1-aarch64-unknown-linux-gnu.tar.gz",
-      "node_id": "RA_kwDOBWllys4WA-ra",
-      "size": 1559457,
+      "name": "fd-v10.4.2-aarch64-unknown-linux-gnu.tar.gz",
+      "node_id": "RA_kwDOBWllys4WF99H",
+      "size": 1559490,
       "state": "uploaded",
-      "updated_at": "2026-03-08T08:45:25Z",
+      "updated_at": "2026-03-10T07:40:42Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -243,20 +243,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/fd/releases/assets/369355482"
+      "url": "https://api.github.com/repos/sharkdp/fd/releases/assets/370663239"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.4.1/fd-v10.4.1-aarch64-unknown-linux-musl.tar.gz",
+      "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.4.2/fd-v10.4.2-aarch64-unknown-linux-musl.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2026-03-08T08:45:24Z",
-      "digest": "sha256:95d74ce371abb47a49ce72ca536ab1052adc445a2cbf47e7c1b4bf79d446baf6",
-      "id": 369355477,
+      "created_at": "2026-03-10T07:39:56Z",
+      "digest": "sha256:f32d3657473fba74e2600babc8db0b93420d51169223b7e8143b2ed55d8fd9e8",
+      "id": 370662859,
       "label": "",
-      "name": "fd-v10.4.1-aarch64-unknown-linux-musl.tar.gz",
-      "node_id": "RA_kwDOBWllys4WA-rV",
-      "size": 1604864,
+      "name": "fd-v10.4.2-aarch64-unknown-linux-musl.tar.gz",
+      "node_id": "RA_kwDOBWllys4WF93L",
+      "size": 1604562,
       "state": "uploaded",
-      "updated_at": "2026-03-08T08:45:24Z",
+      "updated_at": "2026-03-10T07:39:57Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -278,20 +278,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/fd/releases/assets/369355477"
+      "url": "https://api.github.com/repos/sharkdp/fd/releases/assets/370662859"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.4.1/fd-v10.4.1-arm-unknown-linux-gnueabihf.tar.gz",
+      "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.4.2/fd-v10.4.2-arm-unknown-linux-gnueabihf.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2026-03-08T08:47:03Z",
-      "digest": "sha256:066058883262a8f678d786326727e720aa700ffbba342a73cec92c9f35007693",
-      "id": 369355910,
+      "created_at": "2026-03-10T07:40:10Z",
+      "digest": "sha256:e5ead7def7e46fd0d8eac5794e76732d9e17eac4e3a521174ddb3a198bba2e16",
+      "id": 370662960,
       "label": "",
-      "name": "fd-v10.4.1-arm-unknown-linux-gnueabihf.tar.gz",
-      "node_id": "RA_kwDOBWllys4WA-yG",
-      "size": 1594339,
+      "name": "fd-v10.4.2-arm-unknown-linux-gnueabihf.tar.gz",
+      "node_id": "RA_kwDOBWllys4WF94w",
+      "size": 1594207,
       "state": "uploaded",
-      "updated_at": "2026-03-08T08:47:03Z",
+      "updated_at": "2026-03-10T07:40:10Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -313,20 +313,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/fd/releases/assets/369355910"
+      "url": "https://api.github.com/repos/sharkdp/fd/releases/assets/370662960"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.4.1/fd-v10.4.1-arm-unknown-linux-musleabihf.tar.gz",
+      "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.4.2/fd-v10.4.2-arm-unknown-linux-musleabihf.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2026-03-08T08:44:43Z",
-      "digest": "sha256:499a4829a61408b143455215102745706326b0eca96fab428acbe2923453b1e7",
-      "id": 369355348,
+      "created_at": "2026-03-10T07:38:10Z",
+      "digest": "sha256:ae22c21e441e205352acf224bc5bed409aeba14dea3d8c230f49e8129f24bd1a",
+      "id": 370662032,
       "label": "",
-      "name": "fd-v10.4.1-arm-unknown-linux-musleabihf.tar.gz",
-      "node_id": "RA_kwDOBWllys4WA-pU",
-      "size": 1453483,
+      "name": "fd-v10.4.2-arm-unknown-linux-musleabihf.tar.gz",
+      "node_id": "RA_kwDOBWllys4WF9qQ",
+      "size": 1453576,
       "state": "uploaded",
-      "updated_at": "2026-03-08T08:44:43Z",
+      "updated_at": "2026-03-10T07:38:11Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -348,20 +348,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/fd/releases/assets/369355348"
+      "url": "https://api.github.com/repos/sharkdp/fd/releases/assets/370662032"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.4.1/fd-v10.4.1-i686-pc-windows-msvc.zip",
+      "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.4.2/fd-v10.4.2-i686-pc-windows-msvc.zip",
       "content_type": "application/zip",
-      "created_at": "2026-03-08T08:44:52Z",
-      "digest": "sha256:8ddac10385d47fbdc1c66fb66501adcf9af462ae6a11c1e2941f0d5af62703ad",
-      "id": 369355377,
+      "created_at": "2026-03-10T07:37:29Z",
+      "digest": "sha256:5e726f454c30287f0d16a5e1ad85872dbc485e38ed3a05961ed470a51e331de2",
+      "id": 370661802,
       "label": "",
-      "name": "fd-v10.4.1-i686-pc-windows-msvc.zip",
-      "node_id": "RA_kwDOBWllys4WA-px",
-      "size": 1379839,
+      "name": "fd-v10.4.2-i686-pc-windows-msvc.zip",
+      "node_id": "RA_kwDOBWllys4WF9mq",
+      "size": 1379740,
       "state": "uploaded",
-      "updated_at": "2026-03-08T08:44:53Z",
+      "updated_at": "2026-03-10T07:37:30Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -383,20 +383,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/fd/releases/assets/369355377"
+      "url": "https://api.github.com/repos/sharkdp/fd/releases/assets/370661802"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.4.1/fd-v10.4.1-i686-unknown-linux-gnu.tar.gz",
+      "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.4.2/fd-v10.4.2-i686-unknown-linux-gnu.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2026-03-08T08:46:45Z",
-      "digest": "sha256:4433cd9fd6d22a0a44eb07d56d27e0a6a773317e948151bed009d092dbd2d78b",
-      "id": 369355831,
+      "created_at": "2026-03-10T07:37:22Z",
+      "digest": "sha256:35bb8e672a88ee3d2404cb318b18e54459957d05ce0758c1dea743795d874fa2",
+      "id": 370661737,
       "label": "",
-      "name": "fd-v10.4.1-i686-unknown-linux-gnu.tar.gz",
-      "node_id": "RA_kwDOBWllys4WA-w3",
-      "size": 1764929,
+      "name": "fd-v10.4.2-i686-unknown-linux-gnu.tar.gz",
+      "node_id": "RA_kwDOBWllys4WF9lp",
+      "size": 1765873,
       "state": "uploaded",
-      "updated_at": "2026-03-08T08:46:45Z",
+      "updated_at": "2026-03-10T07:37:22Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -418,20 +418,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/fd/releases/assets/369355831"
+      "url": "https://api.github.com/repos/sharkdp/fd/releases/assets/370661737"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.4.1/fd-v10.4.1-i686-unknown-linux-musl.tar.gz",
+      "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.4.2/fd-v10.4.2-i686-unknown-linux-musl.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2026-03-08T08:45:41Z",
-      "digest": "sha256:edb5d1622480524c1035ba4ed0bc9b3e7637564e4478c980ab9048d9e3bdcf75",
-      "id": 369355567,
+      "created_at": "2026-03-10T07:36:52Z",
+      "digest": "sha256:2120e67e49ffa1d307ce67398ff88d6c89ba21925552bc6154bcd974833d2d4e",
+      "id": 370661444,
       "label": "",
-      "name": "fd-v10.4.1-i686-unknown-linux-musl.tar.gz",
-      "node_id": "RA_kwDOBWllys4WA-sv",
-      "size": 1514692,
+      "name": "fd-v10.4.2-i686-unknown-linux-musl.tar.gz",
+      "node_id": "RA_kwDOBWllys4WF9hE",
+      "size": 1514988,
       "state": "uploaded",
-      "updated_at": "2026-03-08T08:45:41Z",
+      "updated_at": "2026-03-10T07:36:52Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -453,20 +453,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/fd/releases/assets/369355567"
+      "url": "https://api.github.com/repos/sharkdp/fd/releases/assets/370661444"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.4.1/fd-v10.4.1-x86_64-pc-windows-gnu.zip",
+      "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.4.2/fd-v10.4.2-x86_64-pc-windows-gnu.zip",
       "content_type": "application/zip",
-      "created_at": "2026-03-08T08:45:29Z",
-      "digest": "sha256:152144212a7a4a19e65fb73a0a46fdbd011c6219ccebdbd447da365d2735523f",
-      "id": 369355505,
+      "created_at": "2026-03-10T07:37:16Z",
+      "digest": "sha256:12e5e883c697bbd410ae0e85377c2b1de2e45158cd3de1c6e8fd86ed2f4103ce",
+      "id": 370661665,
       "label": "",
-      "name": "fd-v10.4.1-x86_64-pc-windows-gnu.zip",
-      "node_id": "RA_kwDOBWllys4WA-rx",
-      "size": 1469596,
+      "name": "fd-v10.4.2-x86_64-pc-windows-gnu.zip",
+      "node_id": "RA_kwDOBWllys4WF9kh",
+      "size": 1469143,
       "state": "uploaded",
-      "updated_at": "2026-03-08T08:45:30Z",
+      "updated_at": "2026-03-10T07:37:17Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -488,20 +488,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/fd/releases/assets/369355505"
+      "url": "https://api.github.com/repos/sharkdp/fd/releases/assets/370661665"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.4.1/fd-v10.4.1-x86_64-pc-windows-msvc.zip",
+      "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.4.2/fd-v10.4.2-x86_64-pc-windows-msvc.zip",
       "content_type": "application/zip",
-      "created_at": "2026-03-08T08:45:59Z",
-      "digest": "sha256:58240c89ab3388e08343efcebb89d148b9e5b92d36334eb139524c798b3d9303",
-      "id": 369355671,
+      "created_at": "2026-03-10T07:37:00Z",
+      "digest": "sha256:b2816e506390a89941c63c9187d58a3cc10e9a55f2ef0685f9ea0eccaf7c98c8",
+      "id": 370661516,
       "label": "",
-      "name": "fd-v10.4.1-x86_64-pc-windows-msvc.zip",
-      "node_id": "RA_kwDOBWllys4WA-uX",
-      "size": 1526136,
+      "name": "fd-v10.4.2-x86_64-pc-windows-msvc.zip",
+      "node_id": "RA_kwDOBWllys4WF9iM",
+      "size": 1525898,
       "state": "uploaded",
-      "updated_at": "2026-03-08T08:45:59Z",
+      "updated_at": "2026-03-10T07:37:00Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -523,20 +523,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/fd/releases/assets/369355671"
+      "url": "https://api.github.com/repos/sharkdp/fd/releases/assets/370661516"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.4.1/fd-v10.4.1-x86_64-unknown-linux-gnu.tar.gz",
+      "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.4.2/fd-v10.4.2-x86_64-unknown-linux-gnu.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2026-03-08T08:45:57Z",
-      "digest": "sha256:471927b7a155116fb1c063a96e98c6783a31cb3f010e72adfe1766e38339ee16",
-      "id": 369355657,
+      "created_at": "2026-03-10T07:38:27Z",
+      "digest": "sha256:def59805cd14b5651b68990855f426ad087f3b96881296d963910431ba3143c8",
+      "id": 370662118,
       "label": "",
-      "name": "fd-v10.4.1-x86_64-unknown-linux-gnu.tar.gz",
-      "node_id": "RA_kwDOBWllys4WA-uJ",
-      "size": 1700845,
+      "name": "fd-v10.4.2-x86_64-unknown-linux-gnu.tar.gz",
+      "node_id": "RA_kwDOBWllys4WF9rm",
+      "size": 1700779,
       "state": "uploaded",
-      "updated_at": "2026-03-08T08:45:57Z",
+      "updated_at": "2026-03-10T07:38:27Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -558,20 +558,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/fd/releases/assets/369355657"
+      "url": "https://api.github.com/repos/sharkdp/fd/releases/assets/370662118"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.4.1/fd-v10.4.1-x86_64-unknown-linux-musl.tar.gz",
+      "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.4.2/fd-v10.4.2-x86_64-unknown-linux-musl.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2026-03-08T08:45:17Z",
-      "digest": "sha256:d5b52cd765de7e7e15e6769eb21878bd48beec00a456b269766b297390da7047",
-      "id": 369355450,
+      "created_at": "2026-03-10T07:39:56Z",
+      "digest": "sha256:e3257d48e29a6be965187dbd24ce9af564e0fe67b3e73c9bdcd180f4ec11bdde",
+      "id": 370662855,
       "label": "",
-      "name": "fd-v10.4.1-x86_64-unknown-linux-musl.tar.gz",
-      "node_id": "RA_kwDOBWllys4WA-q6",
-      "size": 1754489,
+      "name": "fd-v10.4.2-x86_64-unknown-linux-musl.tar.gz",
+      "node_id": "RA_kwDOBWllys4WF93H",
+      "size": 1754511,
       "state": "uploaded",
-      "updated_at": "2026-03-08T08:45:18Z",
+      "updated_at": "2026-03-10T07:39:56Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -593,20 +593,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/fd/releases/assets/369355450"
+      "url": "https://api.github.com/repos/sharkdp/fd/releases/assets/370662855"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.4.1/fd_10.4.1_amd64.deb",
+      "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.4.2/fd_10.4.2_amd64.deb",
       "content_type": "application/x-debian-package",
-      "created_at": "2026-03-08T08:45:57Z",
-      "digest": "sha256:fa4dee2b27ea61bdd0f41716304d0a2668cec244c8dc8f0ef26967613d47907c",
-      "id": 369355658,
+      "created_at": "2026-03-10T07:38:26Z",
+      "digest": "sha256:0e44eb5fca93f09bc6f5430b90acdf44c8e069d0a903700aeb4820629337b67b",
+      "id": 370662117,
       "label": "",
-      "name": "fd_10.4.1_amd64.deb",
-      "node_id": "RA_kwDOBWllys4WA-uK",
-      "size": 1397558,
+      "name": "fd_10.4.2_amd64.deb",
+      "node_id": "RA_kwDOBWllys4WF9rl",
+      "size": 1399120,
       "state": "uploaded",
-      "updated_at": "2026-03-08T08:45:57Z",
+      "updated_at": "2026-03-10T07:38:27Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -628,20 +628,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/fd/releases/assets/369355658"
+      "url": "https://api.github.com/repos/sharkdp/fd/releases/assets/370662117"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.4.1/fd_10.4.1_arm64.deb",
+      "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.4.2/fd_10.4.2_arm64.deb",
       "content_type": "application/x-debian-package",
-      "created_at": "2026-03-08T08:45:25Z",
-      "digest": "sha256:e548ddcb0a82247c1c1b480c1c298cd1be1a42f2447ac2b2f576613f31a92287",
-      "id": 369355481,
+      "created_at": "2026-03-10T07:40:41Z",
+      "digest": "sha256:caa91b8c0fad7ba1964a78e4932a82e3a5deb747fa40d0922a8c692b6d5e0ce1",
+      "id": 370663240,
       "label": "",
-      "name": "fd_10.4.1_arm64.deb",
-      "node_id": "RA_kwDOBWllys4WA-rZ",
-      "size": 1277522,
+      "name": "fd_10.4.2_arm64.deb",
+      "node_id": "RA_kwDOBWllys4WF99I",
+      "size": 1277486,
       "state": "uploaded",
-      "updated_at": "2026-03-08T08:45:25Z",
+      "updated_at": "2026-03-10T07:40:42Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -663,20 +663,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/fd/releases/assets/369355481"
+      "url": "https://api.github.com/repos/sharkdp/fd/releases/assets/370663240"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.4.1/fd_10.4.1_armhf.deb",
+      "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.4.2/fd_10.4.2_armhf.deb",
       "content_type": "application/x-debian-package",
-      "created_at": "2026-03-08T08:47:03Z",
-      "digest": "sha256:a4f7b28c0398dbf0e9d3d463b0b93ca3a9439076073373360dbd94d40b64b315",
-      "id": 369355908,
+      "created_at": "2026-03-10T07:40:10Z",
+      "digest": "sha256:91f53586e22959fb6e39a523566142d11840007ab7f0c35da10a675385ad0586",
+      "id": 370662959,
       "label": "",
-      "name": "fd_10.4.1_armhf.deb",
-      "node_id": "RA_kwDOBWllys4WA-yE",
-      "size": 1325934,
+      "name": "fd_10.4.2_armhf.deb",
+      "node_id": "RA_kwDOBWllys4WF94v",
+      "size": 1325632,
       "state": "uploaded",
-      "updated_at": "2026-03-08T08:47:03Z",
+      "updated_at": "2026-03-10T07:40:10Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -698,20 +698,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/fd/releases/assets/369355908"
+      "url": "https://api.github.com/repos/sharkdp/fd/releases/assets/370662959"
     },
     {
-      "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.4.1/fd_10.4.1_i686.deb",
+      "browser_download_url": "https://github.com/sharkdp/fd/releases/download/v10.4.2/fd_10.4.2_i686.deb",
       "content_type": "application/x-debian-package",
-      "created_at": "2026-03-08T08:46:45Z",
-      "digest": "sha256:1309fbf7941700b5e140495335359a57139c68a8ad4e3ca5357dd1401b7d481c",
-      "id": 369355832,
+      "created_at": "2026-03-10T07:37:22Z",
+      "digest": "sha256:9b52bb0031840592e8275efbae36d9d963f9f9e130a6f8ec897911b45c5956b3",
+      "id": 370661738,
       "label": "",
-      "name": "fd_10.4.1_i686.deb",
-      "node_id": "RA_kwDOBWllys4WA-w4",
-      "size": 1473774,
+      "name": "fd_10.4.2_i686.deb",
+      "node_id": "RA_kwDOBWllys4WF9lq",
+      "size": 1474036,
       "state": "uploaded",
-      "updated_at": "2026-03-08T08:46:45Z",
+      "updated_at": "2026-03-10T07:37:22Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -733,10 +733,10 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/sharkdp/fd/releases/assets/369355832"
+      "url": "https://api.github.com/repos/sharkdp/fd/releases/assets/370661738"
     }
   ],
-  "assets_url": "https://api.github.com/repos/sharkdp/fd/releases/294368102/assets",
+  "assets_url": "https://api.github.com/repos/sharkdp/fd/releases/295032619/assets",
   "author": {
     "avatar_url": "https://avatars.githubusercontent.com/u/2541726?v=4",
     "events_url": "https://api.github.com/users/tmccombs/events{/privacy}",
@@ -758,21 +758,21 @@
     "url": "https://api.github.com/users/tmccombs",
     "user_view_type": "public"
   },
-  "body": "This is just a re-release of 10.4.0 due to an issue with the 10.4.0 release.\r\n\r\n",
-  "created_at": "2026-03-08T08:38:40Z",
+  "body": "\r\n## Bugfixes\r\n- Fixed performance regression due to `--ignore-contain`; see #1913 and #1914\r\n",
+  "created_at": "2026-03-10T07:32:25Z",
   "draft": false,
-  "html_url": "https://github.com/sharkdp/fd/releases/tag/v10.4.1",
-  "id": 294368102,
+  "html_url": "https://github.com/sharkdp/fd/releases/tag/v10.4.2",
+  "id": 295032619,
   "immutable": false,
-  "name": "v10.4.1",
-  "node_id": "RE_kwDOBWllys4Ri7Nm",
+  "name": "v10.4.2",
+  "node_id": "RE_kwDOBWllys4Rldcr",
   "prerelease": false,
-  "published_at": "2026-03-08T08:41:02Z",
-  "tag_name": "v10.4.1",
-  "tarball_url": "https://api.github.com/repos/sharkdp/fd/tarball/v10.4.1",
+  "published_at": "2026-03-10T07:33:26Z",
+  "tag_name": "v10.4.2",
+  "tarball_url": "https://api.github.com/repos/sharkdp/fd/tarball/v10.4.2",
   "target_commitish": "master",
-  "updated_at": "2026-03-08T08:57:37Z",
-  "upload_url": "https://uploads.github.com/repos/sharkdp/fd/releases/294368102/assets{?name,label}",
-  "url": "https://api.github.com/repos/sharkdp/fd/releases/294368102",
-  "zipball_url": "https://api.github.com/repos/sharkdp/fd/zipball/v10.4.1"
+  "updated_at": "2026-03-10T07:40:42Z",
+  "upload_url": "https://uploads.github.com/repos/sharkdp/fd/releases/295032619/assets{?name,label}",
+  "url": "https://api.github.com/repos/sharkdp/fd/releases/295032619",
+  "zipball_url": "https://api.github.com/repos/sharkdp/fd/zipball/v10.4.2"
 }
