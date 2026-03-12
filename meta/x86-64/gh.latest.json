@@ -793,7 +793,7 @@
     "url": "https://api.github.com/users/github-actions%5Bbot%5D",
     "user_view_type": "public"
   },
-  "body": "## What's Changed\n* Migrate Windows code signing from client secret to OIDC by @BagToad in https://github.com/cli/cli/pull/12911\n* Revert \"refactor: deduplicate scope error handling between api/client.go and project queries\" by @williammartin in https://github.com/cli/cli/pull/12914\n* Revert \"fix: clarify scope error while creating issues for projects\" by @williammartin in https://github.com/cli/cli/pull/12915\n\n\n**Full Changelog**: https://github.com/cli/cli/compare/v2.88.0...v2.88.1",
+  "body": "## Fix `pr` commands failing with `read:project` scope error\r\n\r\nv2.88.0 introduced a regression where `pr` commands would fail with the error:\r\n\r\n```\r\nerror: your authentication token is missing required scopes [read:project]\r\nTo request it, run:  gh auth refresh -s read:project\r\n```\r\n\r\nPreviously, missing read:project scope was gracefully handled, and project data was silently skipped. A change inadvertently broke the error matching that enabled this graceful degradation. v2.88.1 reverts these changes so that `pr` commands work correctly without requiring the `read:project` scope.\r\n\r\n## What's Changed\r\n* Migrate Windows code signing from client secret to OIDC by @BagToad in https://github.com/cli/cli/pull/12911\r\n* Revert \"refactor: deduplicate scope error handling between api/client.go and project queries\" by @williammartin in https://github.com/cli/cli/pull/12914\r\n* Revert \"fix: clarify scope error while creating issues for projects\" by @williammartin in https://github.com/cli/cli/pull/12915\r\n\r\n\r\n**Full Changelog**: https://github.com/cli/cli/compare/v2.88.0...v2.88.1",
   "created_at": "2026-03-12T12:06:18Z",
   "draft": false,
   "html_url": "https://github.com/cli/cli/releases/tag/v2.88.1",
@@ -806,7 +806,7 @@
   "tag_name": "v2.88.1",
   "tarball_url": "https://api.github.com/repos/cli/cli/tarball/v2.88.1",
   "target_commitish": "37800dd56a536e69b20d682b770e983c3829c164",
-  "updated_at": "2026-03-12T12:24:41Z",
+  "updated_at": "2026-03-12T12:51:03Z",
   "upload_url": "https://uploads.github.com/repos/cli/cli/releases/296153261/assets{?name,label}",
   "url": "https://api.github.com/repos/cli/cli/releases/296153261",
   "zipball_url": "https://api.github.com/repos/cli/cli/zipball/v2.88.1"
