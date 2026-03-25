@@ -618,7 +618,7 @@
     "url": "https://api.github.com/users/yottahmd",
     "user_view_type": "public"
   },
-  "body": "## Changelog\n* d15a214537e1511396a2d29dc5a56e1f876ab7d6 fix: prevent scheduler split-brain via fence token and self-fencing (#1854)\n\n",
+  "body": "## Added\r\n\r\n- feat: support step-scoped access to captured output values (#1844) @yottahmd\r\n- feat: add template executor for inline text rendering (#1845) @yottahmd\r\n- feat: support slim-sprig functions in template steps (#1848) (#1850) @yottahmd\r\n\r\n## Fixed\r\n\r\n- fix: add Docker daemon connection vars to env whitelist (#1846) @yottahmd\r\n- fix: prevent distributed runs from remaining running after execution stops (#1851) @yottahmd\r\n- fix: resolve env-provider secrets in parent before subprocess filtering (#1853) @yottahmd\r\n- fix: prevent scheduler split-brain via fence token and self-fencing (#1854) @yottahmd\r\n\r\n## Contributors\r\n\r\nThanks to our contributors for this release:\r\n\r\n| Contribution | Contributor |\r\n| --- | --- |\r\n| Bug: some scheduled tasks are queued but not run (#1837 and #1849) | @jonasban (report) |\r\n| Is the DOCKER_HOST environment variable no longer effective in dagu? (#1843) | @jerry-yuan (report) |\r\n| Since 2.3.3 secrets doesn't work with \"env\" provider (#1852) | @abylon-io (report) |\r\n\r\n\r\n**Full Changelog**: https://github.com/dagu-org/dagu/compare/v2.3.6...v2.3.7",
   "created_at": "2026-03-25T08:16:36Z",
   "draft": false,
   "html_url": "https://github.com/dagu-org/dagu/releases/tag/v2.3.7",
@@ -631,7 +631,7 @@
   "tag_name": "v2.3.7",
   "tarball_url": "https://api.github.com/repos/dagu-org/dagu/tarball/v2.3.7",
   "target_commitish": "main",
-  "updated_at": "2026-03-25T08:46:15Z",
+  "updated_at": "2026-03-25T11:42:50Z",
   "upload_url": "https://uploads.github.com/repos/dagu-org/dagu/releases/301076914/assets{?name,label}",
   "url": "https://api.github.com/repos/dagu-org/dagu/releases/301076914",
   "zipball_url": "https://api.github.com/repos/dagu-org/dagu/zipball/v2.3.7"
