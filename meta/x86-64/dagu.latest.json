@@ -618,7 +618,7 @@
     "url": "https://api.github.com/users/yottahmd",
     "user_view_type": "public"
   },
-  "body": "## Added\r\n\r\n- [Feat] history is now displayed in execution order instead of alphabetic order (#1859) @nikkeitk\r\n\r\n## Fixed\r\n\r\n- fix: recover stale queued distributed runs stuck after worker ack (#1857) @yottahmd\r\n- Preserve DAG env parity in subprocess relaunches (#1860) @yottahmd\r\n\r\n## Contributors\r\n\r\nThanks to our contributors for this release:\r\n\r\n| Contribution | Contributor |\r\n| --- | --- |\r\n| Bug: some scheduled tasks are queued but not run (#1837) | @jonasban (report) |\r\n| [Feat] history is now displayed in execution order instead of alphabetic order (#1859) | @nikkeitk |\r\n| [Feat] step in order in history (#1087) | @jeremydelattre59 (report) |\r\n| bug: block variables resolve empty for enqueued runs but work for start (#1856) | @mvgijssel (report) |\r\n\r\n**Full Changelog**: https://github.com/dagu-org/dagu/compare/v2.3.7...v2.3.8",
+  "body": "## Added\r\n\r\n- [Feat] history is now displayed in execution order instead of alphabetic order (#1859) @nikkeitk\r\n\r\n## Fixed\r\n\r\n- fix: recover stale queued distributed runs stuck after worker ack (#1857) @yottahmd\r\n- Preserve DAG env parity in subprocess relaunches (#1860) @yottahmd\r\n\r\n## Contributors\r\n\r\nThanks to our contributors for this release:\r\n\r\n| Contribution | Contributor |\r\n| --- | --- |\r\n| Bug: some scheduled tasks are queued but not run (#1837) | @jonasban (report) |\r\n| DAG did not start after coordinator dispatch (#1858) | @pommetjehorlepiep (report) | \r\n| [Feat] history is now displayed in execution order instead of alphabetic order (#1859) | @nikkeitk |\r\n| [Feat] step in order in history (#1087) | @jeremydelattre59 (report) |\r\n| bug: block variables resolve empty for enqueued runs but work for start (#1856) | @mvgijssel (report) |\r\n\r\n**Full Changelog**: https://github.com/dagu-org/dagu/compare/v2.3.7...v2.3.8",
   "created_at": "2026-03-27T03:39:33Z",
   "draft": false,
   "html_url": "https://github.com/dagu-org/dagu/releases/tag/v2.3.8",
@@ -631,7 +631,7 @@
   "tag_name": "v2.3.8",
   "tarball_url": "https://api.github.com/repos/dagu-org/dagu/tarball/v2.3.8",
   "target_commitish": "main",
-  "updated_at": "2026-03-27T06:36:26Z",
+  "updated_at": "2026-03-27T06:40:33Z",
   "upload_url": "https://uploads.github.com/repos/dagu-org/dagu/releases/302216743/assets{?name,label}",
   "url": "https://api.github.com/repos/dagu-org/dagu/releases/302216743",
   "zipball_url": "https://api.github.com/repos/dagu-org/dagu/zipball/v2.3.8"
