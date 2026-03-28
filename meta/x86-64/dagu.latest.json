@@ -618,7 +618,7 @@
     "url": "https://api.github.com/users/yottahmd",
     "user_view_type": "public"
   },
-  "body": "## Changelog\n* a88c621286658b29ac825d2bb50e96bf0ed5ae87 fix: dependency vulnerabilities reported in #1862 (#1863)\n\n",
+  "body": "## Fixed\r\n\r\n- fix: dependency vulnerabilities reported in #1862 (#1863) @yottahmd\r\n\r\n## Contributors\r\n\r\nThanks to our contributors for this release:\r\n\r\n| Contribution | Contributor |\r\n| --- | --- |\r\n| High and critical fixable vulnerabilities (#1862) | @gchiesa (report) |\r\n\r\n**Full Changelog**: https://github.com/dagu-org/dagu/compare/v2.3.8...v2.3.9",
   "created_at": "2026-03-27T13:53:48Z",
   "draft": false,
   "html_url": "https://github.com/dagu-org/dagu/releases/tag/v2.3.9",
@@ -631,7 +631,7 @@
   "tag_name": "v2.3.9",
   "tarball_url": "https://api.github.com/repos/dagu-org/dagu/tarball/v2.3.9",
   "target_commitish": "main",
-  "updated_at": "2026-03-28T00:43:45Z",
+  "updated_at": "2026-03-28T09:39:22Z",
   "upload_url": "https://uploads.github.com/repos/dagu-org/dagu/releases/302604746/assets{?name,label}",
   "url": "https://api.github.com/repos/dagu-org/dagu/releases/302604746",
   "zipball_url": "https://api.github.com/repos/dagu-org/dagu/zipball/v2.3.9"
