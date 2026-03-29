@@ -618,7 +618,7 @@
     "url": "https://api.github.com/users/yottahmd",
     "user_view_type": "public"
   },
-  "body": "## Changelog\n* 80409e8ed8b4f033b13a0982259c7013ce9e28e1 fix: preserve env-backed secrets for scheduler subprocess runs (#1877)\n\n",
+  "body": "## Added\r\n\r\n- feat: add JSON Schema validation for step outputs (#1867) @mbprabhoo\r\n- feat: unify params and output schema handling (#1869) @yottahmd\r\n- feat: support one-off start schedules (#1872) @yottahmd\r\n- feat: add built-in REST API docs (#1874) @yottahmd\r\n\r\n## Fixed\r\n\r\n- fix: track installer tmpfiles in parent shell (#1870) @yottahmd\r\n- fix: preserve env-backed secrets for scheduler subprocess runs (#1877) @yottahmd\r\n\r\n## Contributors\r\n\r\nThanks to our contributors for this release:\r\n\r\n| Contribution | Contributor |\r\n| --- | --- |\r\n| feat: add JSON Schema validation for step outputs (#1867) | @mbprabhoo |\r\n| [BUG] cleanup_tmpfiles in installer.sh does not clear tmp dir (#1868) | @jeremydelattre59 (report) |\r\n| [Feature] Schedule one-off execution (#1865), [Feature] Built in REST API docs (#1866) | @bagemt (report) |\r\n| Secrets does not work with the ‘env’ provider and a scheduled DAG (#1864) | @abylon-io (report) |\r\n\r\n## New Contributors\r\n* @mbprabhoo made their first contribution in https://github.com/dagu-org/dagu/pull/1867\r\n\r\n**Full Changelog**: https://github.com/dagu-org/dagu/compare/v2.3.9...v2.3.10",
   "created_at": "2026-03-29T11:15:38Z",
   "draft": false,
   "html_url": "https://github.com/dagu-org/dagu/releases/tag/v2.3.10",
@@ -631,7 +631,7 @@
   "tag_name": "v2.3.10",
   "tarball_url": "https://api.github.com/repos/dagu-org/dagu/tarball/v2.3.10",
   "target_commitish": "main",
-  "updated_at": "2026-03-29T12:07:00Z",
+  "updated_at": "2026-03-29T12:28:39Z",
   "upload_url": "https://uploads.github.com/repos/dagu-org/dagu/releases/302842734/assets{?name,label}",
   "url": "https://api.github.com/repos/dagu-org/dagu/releases/302842734",
   "zipball_url": "https://api.github.com/repos/dagu-org/dagu/zipball/v2.3.10"
