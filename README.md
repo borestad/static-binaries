@@ -23,11 +23,9 @@
 <!-- BINARIES:START -->
 ## 📦 Available Binaries
 
-> **Last updated:** 2026-05-05 15:14 UTC
+> **Last updated:** 2026-05-05 15:22 UTC
 >
 > **Total size:** x86\_64 → 1.0 GiB · x86\_64-upx → 326.2 MiB
->
-> ⚠️ = approaching the 99 MiB GitHub file-size limit · 🚫 = exceeds limit (will be skipped)
 
 | Binary (plain) | Binary (UPX compressed) |
 |---|---|

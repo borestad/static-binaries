@@ -88,8 +88,6 @@ NEW_SECTION="<!-- BINARIES:START -->
 > **Last updated:** ${UPDATED_AT}
 >
 > **Total size:** x86\_64 → ${TOTAL_SIZE_X86_HUMAN} · x86\_64-upx → ${TOTAL_SIZE_UPX_HUMAN}
->
-> ⚠️ = approaching the 99 MiB GitHub file-size limit · 🚫 = exceeds limit (will be skipped)
 
 | Binary (plain) | Binary (UPX compressed) |
 |---|---|
