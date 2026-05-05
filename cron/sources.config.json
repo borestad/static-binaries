@@ -34,7 +34,6 @@
   { "name": "curl",             "eget_url": "stunnel/static-curl",                "eget_args": "-a linux -a musl -a x86 -f curl",              "verify": "--version", "upx": true },
   { "name": "curlie",           "eget_url": "rs/curlie",                          "eget_args": "-a linux_amd64.tar.gz",                        "verify": "--version | head -1", "upx": true },
   { "name": "czkawka",          "eget_url": "qarmin/czkawka",                     "eget_args": "-a linux_czkawka_cli",                         "verify": "--version", "upx": true },
-  { "name": "dagu",             "eget_url": "dagu-org/dagu",                      "eget_args": "-a linux_amd64.tar.gz",                        "verify": "version", "upx": false },
   { "name": "dasel",            "eget_url": "TomWright/dasel",                    "eget_args": "-a dasel_linux_amd64",                         "verify": "--version", "upx": true },
   { "name": "dco",              "eget_url": "devemio/docker-color-output",        "eget_args": "-a linux-amd64",                               "verify": "-h | head -1", "upx": true },
   { "name": "deno",             "eget_url": "denoland/deno",                      "eget_args": "-a linux",                                     "verify": "--version", "upx": true },
