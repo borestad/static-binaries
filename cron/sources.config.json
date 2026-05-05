@@ -69,7 +69,6 @@
   { "name": "lazygit",          "eget_url": "jesseduffield/lazygit",              "eget_args": "-a Linux_x86_64.tar.gz",                       "verify": "--version", "upx": true },
   { "name": "macchina",         "eget_url": "Macchina-CLI/macchina",              "eget_args": "-a linux-x86_64",                              "verify": "-v",        "upx": true },
   { "name": "micro",            "eget_url": "zyedidia/micro",                     "eget_args": "-a linux64-static",                            "verify": "--version | head -1", "upx": true },
-  { "name": "mise",             "eget_url": "jdx/mise",                           "eget_args": "-a linux-x64-musl.tar.gz",                     "verify": "--version", "upx": true },
   { "name": "mlr",              "eget_url": "johnkerl/miller",                    "eget_args": "-a linux-amd64.tar.gz",                        "verify": "--version", "upx": true },
   { "name": "nnn",              "eget_url": "jarun/nnn",                          "eget_args": "-a nerd-static",                               "verify": "-V", "upx": true },
   { "name": "otree",            "eget_url": "fioncat/otree",                      "eget_args": "-a unknown-linux-musl.tar.gz",                 "verify": "-v", "upx": true },
