@@ -1,0 +1,107 @@
+#!/usr/bin/env bash
+# Regenerates the "Binaries" section of README.md.
+# Lists every executable in x86_64/ and x86_64-upx/ with size, SHA-1 and a
+# direct raw.githubusercontent.com download link.
+# Runs automatically from cron/download before each commit.
+
+set -euo pipefail
+
+GITROOT=$(git rev-parse --show-toplevel)
+REPO="borestad/static-binaries"
+BRANCH="main"
+BASE_URL="https://raw.githubusercontent.com/${REPO}/${BRANCH}"
+
+X86_DIR="$GITROOT/x86_64"
+UPX_DIR="$GITROOT/x86_64-upx"
+README="$GITROOT/README.md"
+
+UPDATED_AT=$(date -u '+%Y-%m-%d %H:%M UTC')
+
+# ─── helpers ──────────────────────────────────────────────────────────────────
+human_size() {
+  local bytes=$1
+  if   [[ $bytes -ge $((1024*1024*1024)) ]]; then printf "%.1f GiB" "$(echo "scale=1; $bytes/1073741824" | bc)"
+  elif [[ $bytes -ge $((1024*1024))      ]]; then printf "%.1f MiB" "$(echo "scale=1; $bytes/1048576"    | bc)"
+  elif [[ $bytes -ge 1024                ]]; then printf "%.1f KiB" "$(echo "scale=1; $bytes/1024"       | bc)"
+  else printf "%s B" "$bytes"
+  fi
+}
+
+# ─── collect data ─────────────────────────────────────────────────────────────
+declare -A UPX_SIZE UPX_SHA
+
+# Index UPX binaries first
+if [[ -d "$UPX_DIR" ]]; then
+  while IFS= read -r f; do
+    name=$(basename "$f")
+    sz=$(stat -c %s "$f")
+    sha=$(shasum -a 1 "$f" | cut -d' ' -f1)
+    UPX_SIZE[$name]=$sz
+    UPX_SHA[$name]=$sha
+  done < <(find "$UPX_DIR" -maxdepth 1 -type f | sort)
+fi
+
+# ─── build table rows ─────────────────────────────────────────────────────────
+ROWS=""
+TOTAL_SIZE_X86=0
+TOTAL_SIZE_UPX=0
+WARN_THRESHOLD=$((85 * 1024 * 1024))
+MAX_THRESHOLD=$((99 * 1024 * 1024))
+
+while IFS= read -r f; do
+  name=$(basename "$f")
+  sz=$(stat -c %s "$f")
+  sha=$(shasum -a 1 "$f" | cut -d' ' -f1)
+  sha_short="${sha:0:12}"
+  size_human=$(human_size $sz)
+  TOTAL_SIZE_X86=$((TOTAL_SIZE_X86 + sz))
+
+  # Size warning badge
+  size_badge=""
+  if   [[ $sz -gt $MAX_THRESHOLD  ]]; then size_badge=" 🚫"
+  elif [[ $sz -gt $WARN_THRESHOLD ]]; then size_badge=" ⚠️"
+  fi
+
+  link_x86="[$name](${BASE_URL}/x86_64/${name})"
+
+  upx_cell="—"
+  if [[ -n "${UPX_SIZE[$name]+x}" ]]; then
+    upx_sz=${UPX_SIZE[$name]}
+    upx_sha=${UPX_SHA[$name]}
+    upx_sha_short="${upx_sha:0:12}"
+    upx_size_human=$(human_size $upx_sz)
+    TOTAL_SIZE_UPX=$((TOTAL_SIZE_UPX + upx_sz))
+    upx_link="[${name}](${BASE_URL}/x86_64-upx/${name})"
+    upx_cell="${upx_link}<br/><sub>\`${upx_sha_short}\` · ${upx_size_human}</sub>"
+  fi
+
+  ROWS+="| ${link_x86}<br/><sub>\`${sha_short}\` · ${size_human}${size_badge}</sub> | ${upx_cell} |"$'\n'
+done < <(find "$X86_DIR" -maxdepth 1 -type f | sort)
+
+TOTAL_SIZE_X86_HUMAN=$(human_size $TOTAL_SIZE_X86)
+TOTAL_SIZE_UPX_HUMAN=$(human_size $TOTAL_SIZE_UPX)
+
+# ─── compose the section ──────────────────────────────────────────────────────
+NEW_SECTION="<!-- BINARIES:START -->
+## 📦 Available Binaries
+
+> **Last updated:** ${UPDATED_AT}
+>
+> **Total size:** x86\_64 → ${TOTAL_SIZE_X86_HUMAN} · x86\_64-upx → ${TOTAL_SIZE_UPX_HUMAN}
+>
+> ⚠️ = approaching the 99 MiB GitHub file-size limit · 🚫 = exceeds limit (will be skipped)
+
+| Binary (plain) | Binary (UPX compressed) |
+|---|---|
+${ROWS}<!-- BINARIES:END -->"
+
+# ─── splice into README ───────────────────────────────────────────────────────
+if grep -q '<!-- BINARIES:START -->' "$README"; then
+  # Replace existing section (between markers, inclusive)
+  perl -i -0pe 's/<!-- BINARIES:START -->.*<!-- BINARIES:END -->/'"$(printf '%s' "$NEW_SECTION" | sed 's/[\/&]/\\&/g; s/$/\\n/' | tr -d '\n' | sed 's/\\n$//')"'/s' "$README"
+else
+  # Append section at end
+  printf '\n%s\n' "$NEW_SECTION" >> "$README"
+fi
+
+echo "✅ README.md updated (${UPDATED_AT})"

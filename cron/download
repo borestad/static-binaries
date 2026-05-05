@@ -101,6 +101,19 @@ for row in $(ndjson $ROOT/cron/sources.config.json); do
     continue
   fi
 
+  # Guard: skip files that exceed the 99 MB GitHub file size limit
+  FILE_SIZE=$(stat -c %s ./$NAME)
+  MAX_SIZE=$((99 * 1024 * 1024))
+  WARN_SIZE=$((85 * 1024 * 1024))
+  if [[ $FILE_SIZE -gt $MAX_SIZE ]]; then
+    echo "🚫 SKIPPING $NAME — file size $(numfmt --to=iec $FILE_SIZE) exceeds the 99 MB GitHub limit"
+    echo "   Remove it from sources.config.json to suppress this warning."
+    rm -f ./$NAME
+    continue
+  elif [[ $FILE_SIZE -gt $WARN_SIZE ]]; then
+    echo "⚠️  WARNING: $NAME is $(numfmt --to=iec $FILE_SIZE) — approaching the 99 MB GitHub limit"
+  fi
+
   echo
 
   if [ ! -z "$UNPACK" ]; then
@@ -149,6 +162,10 @@ for row in $(ndjson $ROOT/cron/sources.config.json); do
 
   shasum ./$NAME | cut -d ' ' -f1  >| $METADIR/$NAME.shasum
   git add $ROOT || true
+
+  # Update README with current binary listing before committing
+  $ROOT/cron/update-readme || true
+  git add $ROOT/README.md || true
 
   if [ ! -z "$GITHUB_VERSION" ]; then
     echo "$GITHUB_VERSION" >| $METADIR/$NAME.version.txt
