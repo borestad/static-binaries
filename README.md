@@ -61,6 +61,7 @@
 | [eget-bsdtar.log](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/eget-bsdtar.log)<br/><sub>`aaf6740cec95` · 213 B</sub> | — |
 | [eget-busybox.log](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/eget-busybox.log)<br/><sub>`bbd7b66f140a` · 215 B</sub> | — |
 | [eget-dfrs.log](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/eget-dfrs.log)<br/><sub>`fb39b69ccb7a` · 207 B</sub> | — |
+| [eget-dig.log](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/eget-dig.log)<br/><sub>`082c9727f7f7` · 204 B</sub> | — |
 | [eget-entr.log](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/eget-entr.log)<br/><sub>`b0cfcd06fbec` · 206 B</sub> | — |
 | [eget-grc-rs.log](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/eget-grc-rs.log)<br/><sub>`7f3289a2005f` · 213 B</sub> | — |
 | [eget-iprange.log](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/eget-iprange.log)<br/><sub>`948ac8082b7d` · 216 B</sub> | — |
