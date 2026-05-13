@@ -63,6 +63,7 @@
 | [eget-dfrs.log](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/eget-dfrs.log)<br/><sub>`537d21e5dfc6` · 207 B</sub> | — |
 | [eget-dig.log](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/eget-dig.log)<br/><sub>`66ac95a1be37` · 204 B</sub> | — |
 | [eget-entr.log](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/eget-entr.log)<br/><sub>`f87ab093d889` · 206 B</sub> | — |
+| [eget-fastfetch.log](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/eget-fastfetch.log)<br/><sub>`8e1c383e9580` · 257 B</sub> | — |
 | [eget-grc-rs.log](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/eget-grc-rs.log)<br/><sub>`e296d2476efa` · 213 B</sub> | — |
 | [eget-iprange.log](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/eget-iprange.log)<br/><sub>`7106b2a8daa1` · 216 B</sub> | — |
 | [eget-jo.log](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/eget-jo.log)<br/><sub>`d4b53bd0257a` · 200 B</sub> | — |
@@ -77,7 +78,7 @@
 | [ets](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/ets)<br/><sub>`15bbe9b3f0b8` · 2.5 MiB</sub> | [ets](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/ets)<br/><sub>`caf527382cf4` · 957.1 KiB</sub> |
 | [exa](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/exa)<br/><sub>`8aefd8b256b7` · 1.6 MiB</sub> | [exa](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/exa)<br/><sub>`1ead5a24bef8` · 771.4 KiB</sub> |
 | [eza](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/eza)<br/><sub>`b1f7a534eaf1` · 2.3 MiB</sub> | [eza](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/eza)<br/><sub>`3ac4b483426c` · 1.0 MiB</sub> |
-| [fastfetch](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/fastfetch)<br/><sub>`22c990b0f43b` · 2.3 MiB</sub> | [fastfetch](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/fastfetch)<br/><sub>`8c4ab6467ac1` · 705.3 KiB</sub> |
+| [fastfetch](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/fastfetch)<br/><sub>`2a3d93c68137` · 2.3 MiB</sub> | [fastfetch](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/fastfetch)<br/><sub>`44bd85459e3d` · 705.3 KiB</sub> |
 | [fastfetch-musl](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/fastfetch-musl)<br/><sub>`2730d127893c` · 2.4 MiB</sub> | [fastfetch-musl](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/fastfetch-musl)<br/><sub>`697ee3d1b835` · 726.2 KiB</sub> |
 | [fd](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/fd)<br/><sub>`890331200385` · 3.9 MiB</sub> | [fd](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/fd)<br/><sub>`9cc151a5e473` · 1.3 MiB</sub> |
 | [fnm](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/fnm)<br/><sub>`bf0f17489f38` · 7.0 MiB</sub> | [fnm](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/fnm)<br/><sub>`138f3ca2aa92` · 2.6 MiB</sub> |
