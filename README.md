@@ -23,7 +23,7 @@
 <!-- BINARIES:START -->
 ## 📦 Available Binaries
 
-> **Last updated:** 2026-05-26 07:30 UTC
+> **Last updated:** 2026-05-26 07:31 UTC
 >
 > **Total size:** x86\_64 → 1019.4 MiB · x86\_64-upx → 328.5 MiB
 
@@ -60,6 +60,7 @@
 | [eget-busybox.log](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/eget-busybox.log)<br/><sub>`60b2cf3ca8eb` · 215 B</sub> | — |
 | [eget-entr.log](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/eget-entr.log)<br/><sub>`48c756eb1e2c` · 206 B</sub> | — |
 | [eget-jo.log](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/eget-jo.log)<br/><sub>`fb2c20ea1a4a` · 200 B</sub> | — |
+| [eget-ncdu.log](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/eget-ncdu.log)<br/><sub>`d8e8af3e1b0d` · 666 B</sub> | — |
 | [eget-pv.log](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/eget-pv.log)<br/><sub>`5d60a4dabe05` · 200 B</sub> | — |
 | [eget-rsync.log](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/eget-rsync.log)<br/><sub>`6844e390d9ef` · 209 B</sub> | — |
 | [eget-xml.log](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/eget-xml.log)<br/><sub>`434bc3d80a6c` · 203 B</sub> | — |
