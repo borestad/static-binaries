@@ -70,6 +70,7 @@
 | [eget-pv.log](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/eget-pv.log)<br/><sub>`e39ded56860a` · 200 B</sub> | — |
 | [eget-rsync.log](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/eget-rsync.log)<br/><sub>`b5916a5443d0` · 370 B</sub> | — |
 | [eget-serf.log](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/eget-serf.log)<br/><sub>`7fc1ecac7348` · 368 B</sub> | — |
+| [eget-speedtest.log](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/eget-speedtest.log)<br/><sub>`edd2abdce586` · 210 B</sub> | — |
 | [eget-xml.log](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/eget-xml.log)<br/><sub>`2647418f6ba1` · 203 B</sub> | — |
 | [eget-xmllint.log](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/eget-xmllint.log)<br/><sub>`da7e379e51ec` · 215 B</sub> | — |
 | [entr](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/entr)<br/><sub>`a11fe3eec912` · 49.8 KiB</sub> | [entr](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/entr)<br/><sub>`2b90dc4caa82` · 27.8 KiB</sub> |
