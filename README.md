@@ -40,7 +40,7 @@
 | [chezmoi](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/chezmoi)<br/><sub>`94d620c6f42a` · 34.0 MiB</sub> | [chezmoi](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/chezmoi)<br/><sub>`08403f3fde94` · 11.5 MiB</sub> |
 | [choose](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/choose)<br/><sub>`d97aaf6a9011` · 2.6 MiB</sub> | [choose](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/choose)<br/><sub>`73fbc0dbdb08` · 875.7 KiB</sub> |
 | [cidr-merger](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/cidr-merger)<br/><sub>`b7d0a5451465` · 1.3 MiB</sub> | — |
-| [crawley](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/crawley)<br/><sub>`7e93efdad6b7` · 6.0 MiB</sub> | [crawley](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/crawley)<br/><sub>`5c82d367aebc` · 2.2 MiB</sub> |
+| [crawley](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/crawley)<br/><sub>`493e130deda1` · 6.1 MiB</sub> | [crawley](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/crawley)<br/><sub>`11cb4ecae4bc` · 2.2 MiB</sub> |
 | [croc](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/croc)<br/><sub>`0f7e7cab9aa8` · 10.3 MiB</sub> | [croc](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/croc)<br/><sub>`9ac962f0e53d` · 3.5 MiB</sub> |
 | [ctop](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/ctop)<br/><sub>`45173935da38` · 11.7 MiB</sub> | [ctop](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/ctop)<br/><sub>`3bc3ca199339` · 4.0 MiB</sub> |
 | [curl](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/curl)<br/><sub>`ae072a57ac78` · 9.8 MiB</sub> | [curl](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/curl)<br/><sub>`2578d00c9409` · 3.5 MiB</sub> |
@@ -60,6 +60,7 @@
 | [eget-bc.log](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/eget-bc.log)<br/><sub>`6c558cf1942c` · 201 B</sub> | — |
 | [eget-bsdtar.log](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/eget-bsdtar.log)<br/><sub>`5f5adf526951` · 213 B</sub> | — |
 | [eget-busybox.log](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/eget-busybox.log)<br/><sub>`7a41c4682909` · 215 B</sub> | — |
+| [eget-crawley.log](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/eget-crawley.log)<br/><sub>`da0dcb2873f9` · 223 B</sub> | — |
 | [eget-dfrs.log](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/eget-dfrs.log)<br/><sub>`78c223221891` · 207 B</sub> | — |
 | [eget-dig.log](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/eget-dig.log)<br/><sub>`a4f140c1918f` · 204 B</sub> | — |
 | [eget-entr.log](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/eget-entr.log)<br/><sub>`a0debfab3fee` · 206 B</sub> | — |
