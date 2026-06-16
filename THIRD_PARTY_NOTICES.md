@@ -1,0 +1,312 @@
+# Third-party notices
+
+This repository distributes standalone binaries. License notice sidecars live next to binaries so direct-download users can find the relevant notices without cloning the repository.
+
+This is a license-notice compliance cleanup, not legal advice.
+
+## Components
+
+- libxml2: MIT-style, see third-party-licenses/libxml2-Copyright.txt
+- libxslt: MIT-style, see third-party-licenses/libxslt-Copyright.txt
+- UPX project/decompressor stub: GPL-2.0-or-later WITH UPX-exception, see third-party-licenses/upx-LICENSE.txt
+- agrind: MIT, see third-party-licenses/agrind-LICENSE.txt
+- bat: Apache-2.0, see third-party-licenses/bat-LICENSE.txt
+- bkt: MIT, see third-party-licenses/bkt-LICENSE.txt
+- checkexec: MIT, see third-party-licenses/checkexec-LICENSE.txt
+- chezmoi: MIT, see third-party-licenses/chezmoi-LICENSE.txt
+- choose: GPL-3.0, see third-party-licenses/choose-LICENSE.txt
+- cidr-merger: MIT, see third-party-licenses/cidr-merger-LICENSE.txt
+- crawley: MIT, see third-party-licenses/crawley-LICENSE.txt
+- croc: MIT, see third-party-licenses/croc-LICENSE.txt
+- ctop: MIT, see third-party-licenses/ctop-LICENSE.txt
+- curl: MIT, see third-party-licenses/curl-LICENSE.txt
+- curlie: MIT, see third-party-licenses/curlie-LICENSE.txt
+- czkawka: NOASSERTION, see third-party-licenses/czkawka-LICENSE.txt
+- dasel: MIT, see third-party-licenses/dasel-LICENSE.txt
+- dco: MIT, see third-party-licenses/dco-LICENSE.txt
+- deno: MIT, see third-party-licenses/deno-LICENSE.txt
+- dnslookup: MIT, see third-party-licenses/dnslookup-LICENSE.txt
+- dops: MIT, see third-party-licenses/dops-LICENSE.txt
+- dprint: MIT, see third-party-licenses/dprint-LICENSE.txt
+- dry: MIT, see third-party-licenses/dry-LICENSE.txt
+- dust: Apache-2.0, see third-party-licenses/dust-LICENSE.txt
+- eget: MIT, see third-party-licenses/eget-LICENSE.txt
+- ets: MIT, see third-party-licenses/ets-LICENSE.txt
+- exa: MIT, see third-party-licenses/exa-LICENSE.txt
+- eza: EUPL-1.2, see third-party-licenses/eza-LICENSE.txt
+- fastfetch: MIT, see third-party-licenses/fastfetch-LICENSE.txt
+- fastfetch-musl: MIT, see third-party-licenses/fastfetch-musl-LICENSE.txt
+- fd: Apache-2.0, see third-party-licenses/fd-LICENSE.txt
+- fnm: GPL-3.0, see third-party-licenses/fnm-LICENSE.txt
+- fuse-overlayfs: GPL-2.0, see third-party-licenses/fuse-overlayfs-LICENSE.txt
+- fzf: MIT, see third-party-licenses/fzf-LICENSE.txt
+- gdu: MIT, see third-party-licenses/gdu-LICENSE.txt
+- gh: MIT, see third-party-licenses/gh-LICENSE.txt
+- gitui: MIT, see third-party-licenses/gitui-LICENSE.txt
+- gojq: MIT, see third-party-licenses/gojq-LICENSE.txt
+- gron: MIT, see third-party-licenses/gron-LICENSE.txt
+- htmlq: MIT, see third-party-licenses/htmlq-LICENSE.txt
+- http: BSD-3-Clause, see third-party-licenses/http-LICENSE.txt
+- hyperfine: Apache-2.0, see third-party-licenses/hyperfine-LICENSE.txt
+- ipinfo: Apache-2.0, see third-party-licenses/ipinfo-LICENSE.txt
+- jc: MIT, see third-party-licenses/jc-LICENSE.txt
+- jd: MIT, see third-party-licenses/jd-LICENSE.txt
+- jq: NOASSERTION, see third-party-licenses/jq-LICENSE.txt
+- just: CC0-1.0, see third-party-licenses/just-LICENSE.txt
+- lazydocker: MIT, see third-party-licenses/lazydocker-LICENSE.txt
+- lazygit: MIT, see third-party-licenses/lazygit-LICENSE.txt
+- lurk: Apache-2.0, see third-party-licenses/lurk-LICENSE.txt
+- macchina: MIT, see third-party-licenses/macchina-LICENSE.txt
+- micro: MIT, see third-party-licenses/micro-LICENSE.txt
+- mlr: NOASSERTION, see third-party-licenses/mlr-LICENSE.txt
+- nnn: BSD-2-Clause, see third-party-licenses/nnn-LICENSE.txt
+- otree: MIT, see third-party-licenses/otree-LICENSE.txt
+- ouch: NOASSERTION, see third-party-licenses/ouch-LICENSE.txt
+- podman-tui: Apache-2.0, see third-party-licenses/podman-tui-LICENSE.txt
+- procs: MIT, see third-party-licenses/procs-LICENSE.txt
+- pspy: GPL-3.0, see third-party-licenses/pspy-LICENSE.txt
+- pueue: Apache-2.0, see third-party-licenses/pueue-LICENSE.txt
+- pueued: Apache-2.0, see third-party-licenses/pueued-LICENSE.txt
+- pup: MIT, see third-party-licenses/pup-LICENSE.txt
+- rargs: MIT, see third-party-licenses/rargs-LICENSE.txt
+- rclone: MIT, see third-party-licenses/rclone-LICENSE.txt
+- rg: Unlicense, see third-party-licenses/rg-LICENSE.txt
+- rnr: MIT, see third-party-licenses/rnr-LICENSE.txt
+- rp: MIT, see third-party-licenses/rp-LICENSE.txt
+- sd: MIT, see third-party-licenses/sd-LICENSE.txt
+- shfmt: BSD-3-Clause, see third-party-licenses/shfmt-LICENSE.txt
+- sponge: MIT, see third-party-licenses/sponge-LICENSE.txt
+- starship: ISC, see third-party-licenses/starship-LICENSE.txt
+- supervisord: MIT, see third-party-licenses/supervisord-LICENSE.txt
+- task: MIT, see third-party-licenses/task-LICENSE.txt
+- tokei: NOASSERTION, see third-party-licenses/tokei-LICENSE.txt
+- trurl: MIT, see third-party-licenses/trurl-LICENSE.txt
+- unison: GPL-3.0, see third-party-licenses/unison-LICENSE.txt
+- vegeta: MIT, see third-party-licenses/vegeta-LICENSE.txt
+- watchexec: Apache-2.0, see third-party-licenses/watchexec-LICENSE.txt
+- xh: MIT, see third-party-licenses/xh-LICENSE.txt
+- yazi: MIT, see third-party-licenses/yazi-LICENSE.txt
+- yq: MIT, see third-party-licenses/yq-LICENSE.txt
+- zellij: MIT, see third-party-licenses/zellij-LICENSE.txt
+- zoxide: MIT, see third-party-licenses/zoxide-LICENSE.txt
+
+## Covered binaries
+
+- x86_64-upx/agrind: agrind upstream project license, UPX decompressor stub
+- x86_64-upx/aria2c: no resolved upstream tool license notice from current source configuration, UPX decompressor stub
+- x86_64-upx/bat: bat upstream project license, UPX decompressor stub
+- x86_64-upx/bc: no resolved upstream tool license notice from current source configuration, UPX decompressor stub
+- x86_64-upx/bkt: bkt upstream project license, UPX decompressor stub
+- x86_64-upx/bsdtar: no resolved upstream tool license notice from current source configuration, UPX decompressor stub
+- x86_64-upx/busybox: no resolved upstream tool license notice from current source configuration, UPX decompressor stub
+- x86_64-upx/checkexec: checkexec upstream project license, UPX decompressor stub
+- x86_64-upx/chezmoi: chezmoi upstream project license, UPX decompressor stub
+- x86_64-upx/choose: choose upstream project license, UPX decompressor stub
+- x86_64-upx/crawley: crawley upstream project license, UPX decompressor stub
+- x86_64-upx/croc: croc upstream project license, UPX decompressor stub
+- x86_64-upx/ctop: ctop upstream project license, UPX decompressor stub
+- x86_64-upx/curl: curl upstream project license, UPX decompressor stub
+- x86_64-upx/curlie: curlie upstream project license, UPX decompressor stub
+- x86_64-upx/czkawka: czkawka upstream project license, UPX decompressor stub
+- x86_64-upx/dasel: dasel upstream project license, UPX decompressor stub
+- x86_64-upx/dco: dco upstream project license, UPX decompressor stub
+- x86_64-upx/deno: deno upstream project license, UPX decompressor stub
+- x86_64-upx/dfrs: no resolved upstream tool license notice from current source configuration, UPX decompressor stub
+- x86_64-upx/dig: no resolved upstream tool license notice from current source configuration, UPX decompressor stub
+- x86_64-upx/dnslookup: dnslookup upstream project license, UPX decompressor stub
+- x86_64-upx/dops: dops upstream project license, UPX decompressor stub
+- x86_64-upx/dprint: dprint upstream project license, UPX decompressor stub
+- x86_64-upx/dry: dry upstream project license, UPX decompressor stub
+- x86_64-upx/dust: dust upstream project license, UPX decompressor stub
+- x86_64-upx/eget: eget upstream project license, UPX decompressor stub
+- x86_64-upx/entr: no resolved upstream tool license notice from current source configuration, UPX decompressor stub
+- x86_64-upx/ets: ets upstream project license, UPX decompressor stub
+- x86_64-upx/exa: exa upstream project license, UPX decompressor stub
+- x86_64-upx/eza: eza upstream project license, UPX decompressor stub
+- x86_64-upx/fastfetch-musl: fastfetch-musl upstream project license, UPX decompressor stub
+- x86_64-upx/fastfetch: fastfetch upstream project license, UPX decompressor stub
+- x86_64-upx/fd: fd upstream project license, UPX decompressor stub
+- x86_64-upx/fnm: fnm upstream project license, UPX decompressor stub
+- x86_64-upx/fuse-overlayfs: fuse-overlayfs upstream project license, UPX decompressor stub
+- x86_64-upx/fzf: fzf upstream project license, UPX decompressor stub
+- x86_64-upx/gdu: gdu upstream project license, UPX decompressor stub
+- x86_64-upx/gh: gh upstream project license, UPX decompressor stub
+- x86_64-upx/gitui: gitui upstream project license, UPX decompressor stub
+- x86_64-upx/gojq: gojq upstream project license, UPX decompressor stub
+- x86_64-upx/grc-rs: no resolved upstream tool license notice from current source configuration, UPX decompressor stub
+- x86_64-upx/gron: gron upstream project license, UPX decompressor stub
+- x86_64-upx/htmlq: htmlq upstream project license, UPX decompressor stub
+- x86_64-upx/hyperfine: hyperfine upstream project license, UPX decompressor stub
+- x86_64-upx/ipinfo: ipinfo upstream project license, UPX decompressor stub
+- x86_64-upx/iprange: no resolved upstream tool license notice from current source configuration, UPX decompressor stub
+- x86_64-upx/jc: jc upstream project license, UPX decompressor stub
+- x86_64-upx/jd: jd upstream project license, UPX decompressor stub
+- x86_64-upx/jo: no resolved upstream tool license notice from current source configuration, UPX decompressor stub
+- x86_64-upx/job: no resolved upstream tool license notice from current source configuration, UPX decompressor stub
+- x86_64-upx/jq: jq upstream project license, UPX decompressor stub
+- x86_64-upx/just: just upstream project license, UPX decompressor stub
+- x86_64-upx/lazydocker: lazydocker upstream project license, UPX decompressor stub
+- x86_64-upx/lazygit: lazygit upstream project license, UPX decompressor stub
+- x86_64-upx/lurk: lurk upstream project license, UPX decompressor stub
+- x86_64-upx/macchina: macchina upstream project license, UPX decompressor stub
+- x86_64-upx/micro: micro upstream project license, UPX decompressor stub
+- x86_64-upx/mise: no resolved upstream tool license notice from current source configuration, UPX decompressor stub
+- x86_64-upx/mlr: mlr upstream project license, UPX decompressor stub
+- x86_64-upx/ncdu: no resolved upstream tool license notice from current source configuration, UPX decompressor stub
+- x86_64-upx/otree: otree upstream project license, UPX decompressor stub
+- x86_64-upx/ouch: ouch upstream project license, UPX decompressor stub
+- x86_64-upx/podman-tui: podman-tui upstream project license, UPX decompressor stub
+- x86_64-upx/procs: procs upstream project license, UPX decompressor stub
+- x86_64-upx/pspy: pspy upstream project license, UPX decompressor stub
+- x86_64-upx/pueue: pueue upstream project license, UPX decompressor stub
+- x86_64-upx/pueued: pueued upstream project license, UPX decompressor stub
+- x86_64-upx/pup: pup upstream project license, UPX decompressor stub
+- x86_64-upx/pv: no resolved upstream tool license notice from current source configuration, UPX decompressor stub
+- x86_64-upx/rargs: rargs upstream project license, UPX decompressor stub
+- x86_64-upx/rclone: rclone upstream project license, UPX decompressor stub
+- x86_64-upx/rg: rg upstream project license, UPX decompressor stub
+- x86_64-upx/rnr: rnr upstream project license, UPX decompressor stub
+- x86_64-upx/rp: rp upstream project license, UPX decompressor stub
+- x86_64-upx/rsync: no resolved upstream tool license notice from current source configuration, UPX decompressor stub
+- x86_64-upx/sd: sd upstream project license, UPX decompressor stub
+- x86_64-upx/serf: no resolved upstream tool license notice from current source configuration, UPX decompressor stub
+- x86_64-upx/shfmt: shfmt upstream project license, UPX decompressor stub
+- x86_64-upx/speedtest: no resolved upstream tool license notice from current source configuration, UPX decompressor stub
+- x86_64-upx/sponge: sponge upstream project license, UPX decompressor stub
+- x86_64-upx/starship: starship upstream project license, UPX decompressor stub
+- x86_64-upx/supervisord: supervisord upstream project license, UPX decompressor stub
+- x86_64-upx/task: task upstream project license, UPX decompressor stub
+- x86_64-upx/tokei: tokei upstream project license, UPX decompressor stub
+- x86_64-upx/trurl: trurl upstream project license, UPX decompressor stub
+- x86_64-upx/unison: unison upstream project license, UPX decompressor stub
+- x86_64-upx/vegeta: vegeta upstream project license, UPX decompressor stub
+- x86_64-upx/watchexec: watchexec upstream project license, UPX decompressor stub
+- x86_64-upx/xh: xh upstream project license, UPX decompressor stub
+- x86_64-upx/xml: libxml2, libxslt, UPX decompressor stub
+- x86_64-upx/xmllint: libxml2, UPX decompressor stub
+- x86_64-upx/yazi: yazi upstream project license, UPX decompressor stub
+- x86_64-upx/yq: yq upstream project license, UPX decompressor stub
+- x86_64-upx/zellij: zellij upstream project license, UPX decompressor stub
+- x86_64-upx/zoxide: zoxide upstream project license, UPX decompressor stub
+- x86_64/agrind: agrind upstream project license
+- x86_64/aria2c: no resolved upstream tool license notice from current source configuration
+- x86_64/bat: bat upstream project license
+- x86_64/bc: no resolved upstream tool license notice from current source configuration
+- x86_64/bkt: bkt upstream project license
+- x86_64/bsdtar: no resolved upstream tool license notice from current source configuration
+- x86_64/busybox: no resolved upstream tool license notice from current source configuration
+- x86_64/checkexec: checkexec upstream project license
+- x86_64/chezmoi: chezmoi upstream project license
+- x86_64/choose: choose upstream project license
+- x86_64/cidr-merger: cidr-merger upstream project license
+- x86_64/crawley: crawley upstream project license
+- x86_64/croc: croc upstream project license
+- x86_64/ctop: ctop upstream project license
+- x86_64/curl: curl upstream project license
+- x86_64/curlie: curlie upstream project license
+- x86_64/czkawka: czkawka upstream project license
+- x86_64/dasel: dasel upstream project license
+- x86_64/dco: dco upstream project license
+- x86_64/deno: deno upstream project license
+- x86_64/dfrs: no resolved upstream tool license notice from current source configuration
+- x86_64/dig: no resolved upstream tool license notice from current source configuration
+- x86_64/dnslookup: dnslookup upstream project license
+- x86_64/dops: dops upstream project license
+- x86_64/dprint: dprint upstream project license
+- x86_64/dry: dry upstream project license
+- x86_64/dust: dust upstream project license
+- x86_64/eget: eget upstream project license
+- x86_64/entr: no resolved upstream tool license notice from current source configuration
+- x86_64/ets: ets upstream project license
+- x86_64/exa: exa upstream project license
+- x86_64/eza: eza upstream project license
+- x86_64/fastfetch-musl: fastfetch-musl upstream project license
+- x86_64/fastfetch: fastfetch upstream project license
+- x86_64/fd: fd upstream project license
+- x86_64/fnm: fnm upstream project license
+- x86_64/fuse-overlayfs: fuse-overlayfs upstream project license
+- x86_64/fzf: fzf upstream project license
+- x86_64/gdu: gdu upstream project license
+- x86_64/gh: gh upstream project license
+- x86_64/gitui: gitui upstream project license
+- x86_64/gojq: gojq upstream project license
+- x86_64/grc-rs: no resolved upstream tool license notice from current source configuration
+- x86_64/gron: gron upstream project license
+- x86_64/htmlq: htmlq upstream project license
+- x86_64/http: http upstream project license
+- x86_64/hyperfine: hyperfine upstream project license
+- x86_64/ipinfo: ipinfo upstream project license
+- x86_64/iprange: no resolved upstream tool license notice from current source configuration
+- x86_64/jc: jc upstream project license
+- x86_64/jd: jd upstream project license
+- x86_64/jo: no resolved upstream tool license notice from current source configuration
+- x86_64/job: no resolved upstream tool license notice from current source configuration
+- x86_64/jq: jq upstream project license
+- x86_64/just: just upstream project license
+- x86_64/lazydocker: lazydocker upstream project license
+- x86_64/lazygit: lazygit upstream project license
+- x86_64/lurk: lurk upstream project license
+- x86_64/macchina: macchina upstream project license
+- x86_64/micro: micro upstream project license
+- x86_64/mise: no resolved upstream tool license notice from current source configuration
+- x86_64/mlr: mlr upstream project license
+- x86_64/ncdu: no resolved upstream tool license notice from current source configuration
+- x86_64/nnn: nnn upstream project license
+- x86_64/otree: otree upstream project license
+- x86_64/ouch: ouch upstream project license
+- x86_64/podman-tui: podman-tui upstream project license
+- x86_64/procs: procs upstream project license
+- x86_64/pspy: pspy upstream project license
+- x86_64/pueue: pueue upstream project license
+- x86_64/pueued: pueued upstream project license
+- x86_64/pup: pup upstream project license
+- x86_64/pv: no resolved upstream tool license notice from current source configuration
+- x86_64/rargs: rargs upstream project license
+- x86_64/rclone: rclone upstream project license
+- x86_64/rg: rg upstream project license
+- x86_64/rnr: rnr upstream project license
+- x86_64/rp: rp upstream project license
+- x86_64/rsync: no resolved upstream tool license notice from current source configuration
+- x86_64/sd: sd upstream project license
+- x86_64/serf: no resolved upstream tool license notice from current source configuration
+- x86_64/shfmt: shfmt upstream project license
+- x86_64/speedtest: no resolved upstream tool license notice from current source configuration
+- x86_64/sponge: sponge upstream project license
+- x86_64/starship: starship upstream project license
+- x86_64/supervisord: supervisord upstream project license
+- x86_64/task: task upstream project license
+- x86_64/tokei: tokei upstream project license
+- x86_64/trurl: trurl upstream project license
+- x86_64/unison: unison upstream project license
+- x86_64/upx: UPX project license
+- x86_64/vegeta: vegeta upstream project license
+- x86_64/watchexec: watchexec upstream project license
+- x86_64/xh: xh upstream project license
+- x86_64/xml: libxml2, libxslt
+- x86_64/xmllint: libxml2
+- x86_64/yazi: yazi upstream project license
+- x86_64/yq: yq upstream project license
+- x86_64/zellij: zellij upstream project license
+- x86_64/zoxide: zoxide upstream project license
+
+## Unresolved upstream tool licenses
+
+These binaries have sidecars, but the current source configuration does not identify a GitHub project license that can be copied automatically. They should be reviewed manually as follow-up work.
+
+- aria2c: GitHub license API lookup failed for abcfy2/aria2-static-build
+- bc: configured source is not a GitHub repository with a resolvable license API entry
+- bsdtar: configured source is not a GitHub repository with a resolvable license API entry
+- busybox: configured source is not a GitHub repository with a resolvable license API entry
+- dfrs: configured source is not a GitHub repository with a resolvable license API entry
+- dig: configured source is not a GitHub repository with a resolvable license API entry
+- entr: configured source is not a GitHub repository with a resolvable license API entry
+- grc-rs: configured source is not a GitHub repository with a resolvable license API entry
+- iprange: configured source is not a GitHub repository with a resolvable license API entry
+- jo: configured source is not a GitHub repository with a resolvable license API entry
+- job: GitHub license API lookup failed for liujianping/job
+- mise: configured source is not a GitHub repository with a resolvable license API entry
+- ncdu: configured source is not a GitHub repository with a resolvable license API entry
+- pv: configured source is not a GitHub repository with a resolvable license API entry
+- rsync: configured source is not a GitHub repository with a resolvable license API entry
+- serf: configured source is not a GitHub repository with a resolvable license API entry
+- speedtest: configured source is not a GitHub repository with a resolvable license API entry

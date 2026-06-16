@@ -1,0 +1,186 @@
+#!/usr/bin/env bash
+
+set -e
+
+
+GITROOT=`git rev-parse --show-toplevel`
+ROOT=$GITROOT
+METADIR=$GITROOT/meta/x86-64
+
+cd $GITROOT
+mkdir -p x86_64-upx
+mkdir -p x86_64 && cd x86_64
+mkdir -p $METADIR
+
+echo "ROOT: $ROOT"
+echo "Rate: $(eget --rate)"
+
+function changed-files() {
+  git ls-files --others --exclude-standard
+  git diff --name-only HEAD
+}
+
+function ndjson() {
+  gojq -r '.[] | @base64' $1
+}
+
+TOTAL=$(jq '.[].name' $ROOT/cron/sources.config.json | wc -l)
+
+for row in $(ndjson $ROOT/cron/sources.config.json); do
+
+  _jq() {
+     printf ${row} | base64 --decode | gojq -r "${1}"
+  }
+
+  echo '────────────────────────────────────────────────────────────────────────────────'
+
+  I=$((I+1));
+  echo "[$I of $TOTAL]"
+  echo
+
+  NAME=$(_jq '.name')
+  EGET_URL=$(_jq '.eget_url')
+  EGET_ARGS=$(_jq '.eget_args | select (.!=null)')
+  UPX=$(_jq '.upx | select (.!=null) | select (.!=false)')
+  VERIFY=$(_jq '.verify | select (.!=null)')
+  UNPACK=$(_jq '.unpack | select (.!=null)')
+  VERIFY_RESULT=''
+  GITHUB_VERSION=''
+  CMD=''
+  REDOWNLOAD_BINARY=true
+
+  ###
+  # Download latest json information file unless it's a direct path (then assume it does not have a release)
+  ###
+  if [[ ! "$EGET_URL" =~ .*"https://".* ]]; then
+    echo "🚀 Downloading repos/$EGET_URL/releases/latest ..."
+
+    gh api "repos/${EGET_URL}/releases/latest" > "$METADIR/$NAME.latest.json"
+
+    # Filter out download_count since they change a lot
+    gron $METADIR/$NAME.latest.json | egrep -v 'reactions|count' | gron -ungron | gojq . | sponge $METADIR/$NAME.latest.json
+
+    GITHUB_VERSION=$(rg -o "releases/download/(.*)/" -r '$1' < $METADIR/$NAME.latest.json | sort | uniq | head -1 | sd 'v' '')
+
+    changed_version=$(changed-files | grep "/$NAME.latest.json" | wc -l)
+
+    if [[ $changed_version -eq 0 ]] && [ -f $ROOT/x86_64/$NAME ]; then
+      REDOWNLOAD_BINARY=false
+    fi
+
+    git add $ROOT || true
+    [[ `changed-files | wc -l` -gt 0 ]] && \
+      git commit -m "🦄 Update $NAME.latest.json" || true
+  fi
+
+  if [ "$REDOWNLOAD_BINARY" = "false" ]; then
+    echo 'No changes: skipping download ...'
+    continue
+  fi
+
+  ###
+  # Download latest binary
+  ###
+  echo "🚀 Downloading $NAME ..."
+  mkdir -p /tmp/static-binaries
+  mkdir -p /tmp/static-binaries/logs
+
+  eget "$EGET_URL" ${EGET_ARGS} \
+      --to=/tmp/static-binaries/$NAME \
+      -a '^sha' \
+      -a '^b3' \
+      2> >(tee "/tmp/static-binaries/logs/eget-$NAME.log") | grep -v '==' | grep -v 'Extracted'
+
+  # Check for the case of a faulty download, causing the binary to be a text/html file
+  if is-binary /tmp/static-binaries/$NAME; then
+    echo "✅ $NAME is binary"
+    mv /tmp/static-binaries/$NAME ./$NAME
+  else
+    echo "❌ /tmp/static-binaries/$NAME is not a binary"
+    grep -m1 '' /tmp/static-binaries/$NAME || true
+    stat /tmp/static-binaries/$NAME || true
+    continue
+  fi
+
+  # Guard: skip files that exceed the 99 MB GitHub file size limit
+  FILE_SIZE=$(stat -c %s ./$NAME)
+  MAX_SIZE=$((99 * 1024 * 1024))
+  WARN_SIZE=$((85 * 1024 * 1024))
+  if [[ $FILE_SIZE -gt $MAX_SIZE ]]; then
+    echo "🚫 SKIPPING $NAME — file size $(numfmt --to=iec $FILE_SIZE) exceeds the 99 MB GitHub limit"
+    echo "   Remove it from sources.config.json to suppress this warning."
+    rm -f ./$NAME
+    continue
+  elif [[ $FILE_SIZE -gt $WARN_SIZE ]]; then
+    echo "⚠️  WARNING: $NAME is $(numfmt --to=iec $FILE_SIZE) — approaching the 99 MB GitHub limit"
+  fi
+
+  echo
+
+  if [ ! -z "$UNPACK" ]; then
+    eval "$UNPACK"
+  fi
+
+  chmod +x ./$NAME
+  file ./$NAME | egrep  'dynamically linked|not stripped' || true
+
+  echo "Size (original): $(stat -c %s ./$NAME | numfmt --to=iec)"
+  echo "SHA 256:         $(shasum -a 256 ./$NAME | cut -d ' ' -f1)"
+
+  echo
+
+  if [ ! -z "$UPX" ]; then
+    strip ./$NAME || true
+    echo "Size (stripped): $(stat -c %s ./$NAME | numfmt --to=iec)"
+    echo "SHA 256:         $(shasum -a 256 ./$NAME | cut -d ' ' -f1)"
+    echo
+
+
+    changed_binary=$(changed-files | grep "/$NAME" | wc -l)
+
+    if [[ $changed_binary -gt 0 ]] || [ ! -f $ROOT/x86_64-upx/$NAME ]; then
+      echo "$NAME" has changed
+      mkdir -p $ROOT/x86_64-upx
+      rm -f $ROOT/x86_64-upx/$NAME
+      (upx --best $NAME -o $ROOT/x86_64-upx/$NAME && upx -t $ROOT/x86_64-upx/$NAME)|| true
+    fi
+
+  fi
+
+
+  if [ ! -z "$VERIFY" ]; then
+    echo "Verify version:"
+    CMD="./$NAME $VERIFY"
+    VERIFY_RESULT=$(eval $CMD) || true
+    echo $VERIFY_RESULT
+  fi
+
+
+  # # WTF?
+  # if [ $? -ne 0 ]; then
+  #     exit $?
+  # fi
+
+  shasum ./$NAME | cut -d ' ' -f1  >| $METADIR/$NAME.shasum
+  git add $ROOT || true
+
+  # Update README with current binary listing before committing
+  $ROOT/cron/update-readme || true
+  git add $ROOT/README.md || true
+
+  if [ ! -z "$GITHUB_VERSION" ]; then
+    echo "$GITHUB_VERSION" >| $METADIR/$NAME.version.txt
+    git add $ROOT || true
+    git commit -m "🦄 Update $NAME ($GITHUB_VERSION)" || true
+  elif [ ! -z "$VERIFY_RESULT" ]; then
+    echo "$VERIFY_RESULT" >| $METADIR/$NAME.version.txt
+    git add $ROOT || true
+    git commit -m "🦄 Update $NAME ($VERIFY_RESULT)" || true
+  else
+    shasum ./$NAME | cut -d ' ' -f1  >| $METADIR/$NAME.version.txt
+    git add $ROOT || true
+    git commit -m "🦄 Update $NAME" || true
+  fi
+
+
+done
