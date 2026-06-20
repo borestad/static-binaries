@@ -30,9 +30,9 @@ Binaries with bundled third-party notice requirements also have adjacent
 <!-- BINARIES:START -->
 ## 📦 Available Binaries
 
-> **Last updated:** 2026-06-20 03:22 UTC
+> **Last updated:** 2026-06-20 03:24 UTC
 >
-> **Total size:** x86\_64 → 1023.5 MiB · x86\_64-upx → 329.3 MiB
+> **Total size:** x86\_64 → 1023.6 MiB · x86\_64-upx → 329.4 MiB
 
 | Binary (plain) | Binary (UPX compressed) |
 |---|---|
@@ -102,7 +102,7 @@ Binaries with bundled third-party notice requirements also have adjacent
 | [nnn](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/nnn)<br/><sub>`986158e67db6` · 652.5 KiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/nnn.LICENSE.txt)</sub> | — |
 | [otree](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/otree)<br/><sub>`1d6905aba0ad` · 4.5 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/otree.LICENSE.txt)</sub> | [otree](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/otree)<br/><sub>`340f4dd7165d` · 1.5 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/otree.LICENSE.txt)</sub> |
 | [ouch](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/ouch)<br/><sub>`03da7ae52c80` · 6.0 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/ouch.LICENSE.txt)</sub> | [ouch](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/ouch)<br/><sub>`fecd02c01be7` · 2.3 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/ouch.LICENSE.txt)</sub> |
-| [podman-tui](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/podman-tui)<br/><sub>`681884a51f34` · 29.2 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/podman-tui.LICENSE.txt)</sub> | [podman-tui](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/podman-tui)<br/><sub>`fd9758b9b325` · 9.0 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/podman-tui.LICENSE.txt)</sub> |
+| [podman-tui](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/podman-tui)<br/><sub>`ee2659d9e32d` · 29.3 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/podman-tui.LICENSE.txt)</sub> | [podman-tui](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/podman-tui)<br/><sub>`b567a65b8bff` · 9.0 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/podman-tui.LICENSE.txt)</sub> |
 | [procs](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/procs)<br/><sub>`afc11706947b` · 5.2 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/procs.LICENSE.txt)</sub> | [procs](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/procs)<br/><sub>`0e17a614d7aa` · 1.6 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/procs.LICENSE.txt)</sub> |
 | [pspy](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/pspy)<br/><sub>`f0083547c7ba` · 2.9 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/pspy.LICENSE.txt)</sub> | [pspy](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/pspy)<br/><sub>`726ef089b04b` · 1.0 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/pspy.LICENSE.txt)</sub> |
 | [pueue](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/pueue)<br/><sub>`0dd8e4223960` · 6.2 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/pueue.LICENSE.txt)</sub> | [pueue](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/pueue)<br/><sub>`c90c4a7c3e98` · 2.0 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/pueue.LICENSE.txt)</sub> |
