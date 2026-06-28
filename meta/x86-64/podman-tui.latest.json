@@ -1,17 +1,17 @@
 {
   "assets": [
     {
-      "browser_download_url": "https://github.com/containers/podman-tui/releases/download/v1.11.2/podman-tui-release-darwin_amd64.zip",
+      "browser_download_url": "https://github.com/containers/podman-tui/releases/download/v1.11.3/podman-tui-release-darwin_amd64.zip",
       "content_type": "application/zip",
-      "created_at": "2026-06-20T02:58:35Z",
-      "digest": "sha256:eb3613618eaeb9fd53c707ffb423f6cc08ec49b81502a97b3757baa2151407e0",
-      "id": 452684251,
+      "created_at": "2026-06-28T07:17:56Z",
+      "digest": "sha256:a7d7869c607fbad1d6241fe64589c5b79c2a9abd410742224d4646e843bedbfa",
+      "id": 460063316,
       "label": "",
       "name": "podman-tui-release-darwin_amd64.zip",
-      "node_id": "RA_kwDOGtrE0c4a-2nb",
-      "size": 20817967,
+      "node_id": "RA_kwDOGtrE0c4bbAJU",
+      "size": 20832372,
       "state": "uploaded",
-      "updated_at": "2026-06-20T02:58:36Z",
+      "updated_at": "2026-06-28T07:17:58Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -33,20 +33,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/containers/podman-tui/releases/assets/452684251"
+      "url": "https://api.github.com/repos/containers/podman-tui/releases/assets/460063316"
     },
     {
-      "browser_download_url": "https://github.com/containers/podman-tui/releases/download/v1.11.2/podman-tui-release-linux_amd64.zip",
+      "browser_download_url": "https://github.com/containers/podman-tui/releases/download/v1.11.3/podman-tui-release-linux_amd64.zip",
       "content_type": "application/zip",
-      "created_at": "2026-06-20T02:58:35Z",
-      "digest": "sha256:08e35acb25328dc366dfe687d5aa9845df06e90eba8b416f617c1f596fbc42b9",
-      "id": 452684249,
+      "created_at": "2026-06-28T07:17:56Z",
+      "digest": "sha256:7fc071e1086520ad9beb46349c0a7e92b0039679160592f6af54fc717c1231ec",
+      "id": 460063318,
       "label": "",
       "name": "podman-tui-release-linux_amd64.zip",
-      "node_id": "RA_kwDOGtrE0c4a-2nZ",
-      "size": 21230470,
+      "node_id": "RA_kwDOGtrE0c4bbAJW",
+      "size": 21249701,
       "state": "uploaded",
-      "updated_at": "2026-06-20T02:58:36Z",
+      "updated_at": "2026-06-28T07:17:58Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -68,20 +68,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/containers/podman-tui/releases/assets/452684249"
+      "url": "https://api.github.com/repos/containers/podman-tui/releases/assets/460063318"
     },
     {
-      "browser_download_url": "https://github.com/containers/podman-tui/releases/download/v1.11.2/podman-tui-release-windows_amd64.zip",
+      "browser_download_url": "https://github.com/containers/podman-tui/releases/download/v1.11.3/podman-tui-release-windows_amd64.zip",
       "content_type": "application/zip",
-      "created_at": "2026-06-20T02:58:35Z",
-      "digest": "sha256:4d4aa6acc36933bdba87f7bb7f63969bf441194be447830948797cfcf2c00cb4",
-      "id": 452684253,
+      "created_at": "2026-06-28T07:17:56Z",
+      "digest": "sha256:17089acca3d6b4fbc9f35b51574cdba41932f5e0f9a60e820a00a1c8f20cba5a",
+      "id": 460063317,
       "label": "",
       "name": "podman-tui-release-windows_amd64.zip",
-      "node_id": "RA_kwDOGtrE0c4a-2nd",
-      "size": 20345093,
+      "node_id": "RA_kwDOGtrE0c4bbAJV",
+      "size": 20372603,
       "state": "uploaded",
-      "updated_at": "2026-06-20T02:58:36Z",
+      "updated_at": "2026-06-28T07:17:58Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -103,20 +103,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/containers/podman-tui/releases/assets/452684253"
+      "url": "https://api.github.com/repos/containers/podman-tui/releases/assets/460063317"
     },
     {
-      "browser_download_url": "https://github.com/containers/podman-tui/releases/download/v1.11.2/sha256sum",
+      "browser_download_url": "https://github.com/containers/podman-tui/releases/download/v1.11.3/sha256sum",
       "content_type": "application/octet-stream",
-      "created_at": "2026-06-20T02:58:35Z",
-      "digest": "sha256:0e94e8236cd2d70b21bdb7f0bbad7650ca75598705ce29829e5e030479f75002",
-      "id": 452684250,
+      "created_at": "2026-06-28T07:17:56Z",
+      "digest": "sha256:f6dda72f32b476dc054c695e421a53b5e9389820dac817bc56c3d5702380d8e6",
+      "id": 460063315,
       "label": "",
       "name": "sha256sum",
-      "node_id": "RA_kwDOGtrE0c4a-2na",
+      "node_id": "RA_kwDOGtrE0c4bbAJT",
       "size": 306,
       "state": "uploaded",
-      "updated_at": "2026-06-20T02:58:36Z",
+      "updated_at": "2026-06-28T07:17:56Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -138,10 +138,10 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/containers/podman-tui/releases/assets/452684250"
+      "url": "https://api.github.com/repos/containers/podman-tui/releases/assets/460063315"
     }
   ],
-  "assets_url": "https://api.github.com/repos/containers/podman-tui/releases/342231955/assets",
+  "assets_url": "https://api.github.com/repos/containers/podman-tui/releases/345857756/assets",
   "author": {
     "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
     "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -163,21 +163,21 @@
     "url": "https://api.github.com/users/github-actions%5Bbot%5D",
     "user_view_type": "public"
   },
-  "body": "* Golang lint version update to 2.5.0\r\n* Packit remove centos build\r\n* Golang version update to 1.25.0\r\n* Bump github.com/containers/podman/v5 from 5.8.2 to 5.8.3\r\n* Bump github.com/containers/podman/v5 from 5.8.1 to 5.8.2\r\n* Bump go.opentelemetry.io/otel from 1.36.0 to 1.41.0\r\n* Bump github.com/rs/zerolog from 1.35.0 to 1.35.1\r\n* Bump github.com/rs/zerolog from 1.34.0 to 1.35.0\r\n* Bump github.com/go-jose/go-jose/v4 from 4.0.5 to 4.1.4",
-  "created_at": "2026-06-20T02:55:56Z",
+  "body": "* Update github.com/containers/podman/v5 to v5.8.4\r\n* Update golang.org/x/crypto to v0.53.0\r\n  * CVE-2026-39828: Unauthorized command execution via discarded SSH permissions\r\n  * CVE-2026-39829: Denial of Service via crafted public key with excessive parameters\r\n  * CVE-2026-39830: Denial of Service via resource leak from unsolicited SSH responses\r\n  * CVE-2026-39832: Security bypass due to improper handling of key restrictions\r\n  * CVE-2026-39835: Denial of Service via crafted SSH certificate\r\n\r\n\r\n\r\n",
+  "created_at": "2026-06-28T07:07:11Z",
   "draft": false,
-  "html_url": "https://github.com/containers/podman-tui/releases/tag/v1.11.2",
-  "id": 342231955,
+  "html_url": "https://github.com/containers/podman-tui/releases/tag/v1.11.3",
+  "id": 345857756,
   "immutable": false,
-  "name": "v1.11.2",
-  "node_id": "RE_kwDOGtrE0c4UZguT",
+  "name": "v1.11.3",
+  "node_id": "RE_kwDOGtrE0c4UnV7c",
   "prerelease": false,
-  "published_at": "2026-06-20T03:05:29Z",
-  "tag_name": "v1.11.2",
-  "tarball_url": "https://api.github.com/repos/containers/podman-tui/tarball/v1.11.2",
+  "published_at": "2026-06-28T07:25:20Z",
+  "tag_name": "v1.11.3",
+  "tarball_url": "https://api.github.com/repos/containers/podman-tui/tarball/v1.11.3",
   "target_commitish": "main",
-  "updated_at": "2026-06-20T03:05:29Z",
-  "upload_url": "https://uploads.github.com/repos/containers/podman-tui/releases/342231955/assets{?name,label}",
-  "url": "https://api.github.com/repos/containers/podman-tui/releases/342231955",
-  "zipball_url": "https://api.github.com/repos/containers/podman-tui/zipball/v1.11.2"
+  "updated_at": "2026-06-28T07:25:20Z",
+  "upload_url": "https://uploads.github.com/repos/containers/podman-tui/releases/345857756/assets{?name,label}",
+  "url": "https://api.github.com/repos/containers/podman-tui/releases/345857756",
+  "zipball_url": "https://api.github.com/repos/containers/podman-tui/zipball/v1.11.3"
 }
