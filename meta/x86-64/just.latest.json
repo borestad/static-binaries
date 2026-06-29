@@ -1,17 +1,17 @@
 {
   "assets": [
     {
-      "browser_download_url": "https://github.com/casey/just/releases/download/1.54.0/CHANGELOG.md",
+      "browser_download_url": "https://github.com/casey/just/releases/download/1.55.0/CHANGELOG.md",
       "content_type": "text/markdown",
-      "created_at": "2026-06-23T04:23:20Z",
-      "digest": "sha256:87cdd650b937f75c75f395578275f17ce7c5fbc762e286cc241278cbf008adb6",
-      "id": 455265447,
+      "created_at": "2026-06-29T20:44:26Z",
+      "digest": "sha256:9061ae084956b3650c6a9cc5dbc1ab26832c5926913ba1934e3210abb7d51d8c",
+      "id": 461483428,
       "label": "",
       "name": "CHANGELOG.md",
-      "node_id": "RA_kwDOA6gfW84bIsyn",
-      "size": 187910,
+      "node_id": "RA_kwDOA6gfW84bga2k",
+      "size": 192489,
       "state": "uploaded",
-      "updated_at": "2026-06-23T04:23:20Z",
+      "updated_at": "2026-06-29T20:44:26Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -33,20 +33,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/casey/just/releases/assets/455265447"
+      "url": "https://api.github.com/repos/casey/just/releases/assets/461483428"
     },
     {
-      "browser_download_url": "https://github.com/casey/just/releases/download/1.54.0/just-1.54.0-aarch64-apple-darwin.tar.gz",
+      "browser_download_url": "https://github.com/casey/just/releases/download/1.55.0/just-1.55.0-aarch64-apple-darwin.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2026-06-23T04:22:51Z",
-      "digest": "sha256:a776fc5015491f84580875bc6dad3de59fa4f47a309ccac49d1287cb55f9b599",
-      "id": 455265130,
+      "created_at": "2026-06-29T20:44:24Z",
+      "digest": "sha256:3d8453f2d56c82bcbb0aa17973ddbed9155b336c8e14c420af8815b919c3e293",
+      "id": 461483405,
       "label": "",
-      "name": "just-1.54.0-aarch64-apple-darwin.tar.gz",
-      "node_id": "RA_kwDOA6gfW84bIstq",
-      "size": 2111384,
+      "name": "just-1.55.0-aarch64-apple-darwin.tar.gz",
+      "node_id": "RA_kwDOA6gfW84bga2N",
+      "size": 2138069,
       "state": "uploaded",
-      "updated_at": "2026-06-23T04:22:52Z",
+      "updated_at": "2026-06-29T20:44:25Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -68,20 +68,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/casey/just/releases/assets/455265130"
+      "url": "https://api.github.com/repos/casey/just/releases/assets/461483405"
     },
     {
-      "browser_download_url": "https://github.com/casey/just/releases/download/1.54.0/just-1.54.0-aarch64-pc-windows-msvc.zip",
+      "browser_download_url": "https://github.com/casey/just/releases/download/1.55.0/just-1.55.0-aarch64-pc-windows-msvc.zip",
       "content_type": "application/zip",
-      "created_at": "2026-06-23T04:24:34Z",
-      "digest": "sha256:53037b100843ba20826506aa8857c3b209d01542643570190a51692e3e91068f",
-      "id": 455266342,
+      "created_at": "2026-06-29T20:45:59Z",
+      "digest": "sha256:1625d936abc7b2994292d0bd6503adacb6da919ca249cc27188fb278855e984c",
+      "id": 461484336,
       "label": "",
-      "name": "just-1.54.0-aarch64-pc-windows-msvc.zip",
-      "node_id": "RA_kwDOA6gfW84bItAm",
-      "size": 1992168,
+      "name": "just-1.55.0-aarch64-pc-windows-msvc.zip",
+      "node_id": "RA_kwDOA6gfW84bgbEw",
+      "size": 2024074,
       "state": "uploaded",
-      "updated_at": "2026-06-23T04:24:35Z",
+      "updated_at": "2026-06-29T20:45:59Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -103,20 +103,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/casey/just/releases/assets/455266342"
+      "url": "https://api.github.com/repos/casey/just/releases/assets/461484336"
     },
     {
-      "browser_download_url": "https://github.com/casey/just/releases/download/1.54.0/just-1.54.0-aarch64-unknown-linux-musl.tar.gz",
+      "browser_download_url": "https://github.com/casey/just/releases/download/1.55.0/just-1.55.0-aarch64-unknown-linux-musl.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2026-06-23T04:23:17Z",
-      "digest": "sha256:2162accb54d087c6fbd165c1baedccb0f93b4953af7f00309b8f928016c49cae",
-      "id": 455265383,
+      "created_at": "2026-06-29T20:44:30Z",
+      "digest": "sha256:0296d0fdb9207523a66302e1dfb549eece06adfe8339e1f63535cb5ac30bab77",
+      "id": 461483459,
       "label": "",
-      "name": "just-1.54.0-aarch64-unknown-linux-musl.tar.gz",
-      "node_id": "RA_kwDOA6gfW84bIsxn",
-      "size": 2268802,
+      "name": "just-1.55.0-aarch64-unknown-linux-musl.tar.gz",
+      "node_id": "RA_kwDOA6gfW84bga3D",
+      "size": 2295361,
       "state": "uploaded",
-      "updated_at": "2026-06-23T04:23:17Z",
+      "updated_at": "2026-06-29T20:44:30Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -138,20 +138,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/casey/just/releases/assets/455265383"
+      "url": "https://api.github.com/repos/casey/just/releases/assets/461483459"
     },
     {
-      "browser_download_url": "https://github.com/casey/just/releases/download/1.54.0/just-1.54.0-arm-unknown-linux-musleabihf.tar.gz",
+      "browser_download_url": "https://github.com/casey/just/releases/download/1.55.0/just-1.55.0-arm-unknown-linux-musleabihf.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2026-06-23T04:23:05Z",
-      "digest": "sha256:48ef0577bfa8083137f78e021b6d8aca588bd0354c3cbef4cf4c49e40b7e0cc9",
-      "id": 455265267,
+      "created_at": "2026-06-29T20:44:29Z",
+      "digest": "sha256:a40eaaffe57897870d51980b72e68193bc870748653a4baf2653ccbc2fda5df8",
+      "id": 461483455,
       "label": "",
-      "name": "just-1.54.0-arm-unknown-linux-musleabihf.tar.gz",
-      "node_id": "RA_kwDOA6gfW84bIsvz",
-      "size": 2320652,
+      "name": "just-1.55.0-arm-unknown-linux-musleabihf.tar.gz",
+      "node_id": "RA_kwDOA6gfW84bga2_",
+      "size": 2353484,
       "state": "uploaded",
-      "updated_at": "2026-06-23T04:23:06Z",
+      "updated_at": "2026-06-29T20:44:30Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -173,20 +173,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/casey/just/releases/assets/455265267"
+      "url": "https://api.github.com/repos/casey/just/releases/assets/461483455"
     },
     {
-      "browser_download_url": "https://github.com/casey/just/releases/download/1.54.0/just-1.54.0-armv7-unknown-linux-musleabihf.tar.gz",
+      "browser_download_url": "https://github.com/casey/just/releases/download/1.55.0/just-1.55.0-armv7-unknown-linux-musleabihf.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2026-06-23T04:23:24Z",
-      "digest": "sha256:136dd02e4163c94689fd5d87dc46e482edf5b86d98e6223c554af12f13b363d9",
-      "id": 455265504,
+      "created_at": "2026-06-29T20:44:42Z",
+      "digest": "sha256:37405c748c724b76aededac7d6711c4d337a7c8f6a27eee72d8dc5da3c6b2878",
+      "id": 461483559,
       "label": "",
-      "name": "just-1.54.0-armv7-unknown-linux-musleabihf.tar.gz",
-      "node_id": "RA_kwDOA6gfW84bIszg",
-      "size": 2284492,
+      "name": "just-1.55.0-armv7-unknown-linux-musleabihf.tar.gz",
+      "node_id": "RA_kwDOA6gfW84bga4n",
+      "size": 2310837,
       "state": "uploaded",
-      "updated_at": "2026-06-23T04:23:24Z",
+      "updated_at": "2026-06-29T20:44:43Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -208,20 +208,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/casey/just/releases/assets/455265504"
+      "url": "https://api.github.com/repos/casey/just/releases/assets/461483559"
     },
     {
-      "browser_download_url": "https://github.com/casey/just/releases/download/1.54.0/just-1.54.0-loongarch64-unknown-linux-musl.tar.gz",
+      "browser_download_url": "https://github.com/casey/just/releases/download/1.55.0/just-1.55.0-loongarch64-unknown-linux-musl.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2026-06-23T04:23:09Z",
-      "digest": "sha256:4b010243231bb33570885b6bd3f26cac519051856bfb4caf62bb110b85c388b6",
-      "id": 455265310,
+      "created_at": "2026-06-29T20:44:20Z",
+      "digest": "sha256:612b1acb10750a0ca1b0eda9883f82f509b9ca9ebcfa4d682c774228698352a1",
+      "id": 461483363,
       "label": "",
-      "name": "just-1.54.0-loongarch64-unknown-linux-musl.tar.gz",
-      "node_id": "RA_kwDOA6gfW84bIswe",
-      "size": 2275523,
+      "name": "just-1.55.0-loongarch64-unknown-linux-musl.tar.gz",
+      "node_id": "RA_kwDOA6gfW84bga1j",
+      "size": 2307060,
       "state": "uploaded",
-      "updated_at": "2026-06-23T04:23:10Z",
+      "updated_at": "2026-06-29T20:44:21Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -243,20 +243,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/casey/just/releases/assets/455265310"
+      "url": "https://api.github.com/repos/casey/just/releases/assets/461483363"
     },
     {
-      "browser_download_url": "https://github.com/casey/just/releases/download/1.54.0/just-1.54.0-riscv64gc-unknown-linux-musl.tar.gz",
+      "browser_download_url": "https://github.com/casey/just/releases/download/1.55.0/just-1.55.0-riscv64gc-unknown-linux-musl.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2026-06-23T04:22:50Z",
-      "digest": "sha256:1f79e04e40b74cc5eb96163d044db49bcda96e4c25124db0a512d2915d9086d2",
-      "id": 455265117,
+      "created_at": "2026-06-29T20:44:27Z",
+      "digest": "sha256:ca1f2725630dfefd9a9c7e47019134310e0d7b7c8d6c084094754354c5098f1a",
+      "id": 461483439,
       "label": "",
-      "name": "just-1.54.0-riscv64gc-unknown-linux-musl.tar.gz",
-      "node_id": "RA_kwDOA6gfW84bIstd",
-      "size": 2348446,
+      "name": "just-1.55.0-riscv64gc-unknown-linux-musl.tar.gz",
+      "node_id": "RA_kwDOA6gfW84bga2v",
+      "size": 2377595,
       "state": "uploaded",
-      "updated_at": "2026-06-23T04:22:51Z",
+      "updated_at": "2026-06-29T20:44:28Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -278,20 +278,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/casey/just/releases/assets/455265117"
+      "url": "https://api.github.com/repos/casey/just/releases/assets/461483439"
     },
     {
-      "browser_download_url": "https://github.com/casey/just/releases/download/1.54.0/just-1.54.0-x86_64-apple-darwin.tar.gz",
+      "browser_download_url": "https://github.com/casey/just/releases/download/1.55.0/just-1.55.0-x86_64-apple-darwin.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2026-06-23T04:22:46Z",
-      "digest": "sha256:3f1adefef12bcdf99134a44bde53b779e83726381e15de92113ce4bf2a3cf61f",
-      "id": 455265068,
+      "created_at": "2026-06-29T20:44:59Z",
+      "digest": "sha256:deca76d668082fa90562d92b3cd9e298401baf3b966566a4d5720070bb69120a",
+      "id": 461483714,
       "label": "",
-      "name": "just-1.54.0-x86_64-apple-darwin.tar.gz",
-      "node_id": "RA_kwDOA6gfW84bIsss",
-      "size": 2289922,
+      "name": "just-1.55.0-x86_64-apple-darwin.tar.gz",
+      "node_id": "RA_kwDOA6gfW84bga7C",
+      "size": 2320695,
       "state": "uploaded",
-      "updated_at": "2026-06-23T04:22:47Z",
+      "updated_at": "2026-06-29T20:45:00Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -313,20 +313,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/casey/just/releases/assets/455265068"
+      "url": "https://api.github.com/repos/casey/just/releases/assets/461483714"
     },
     {
-      "browser_download_url": "https://github.com/casey/just/releases/download/1.54.0/just-1.54.0-x86_64-pc-windows-msvc.zip",
+      "browser_download_url": "https://github.com/casey/just/releases/download/1.55.0/just-1.55.0-x86_64-pc-windows-msvc.zip",
       "content_type": "application/zip",
-      "created_at": "2026-06-23T04:24:47Z",
-      "digest": "sha256:860e21474e956eaa9879d62f68cc24530254eefe14ac108eaf707c0daf56a6d0",
-      "id": 455266503,
+      "created_at": "2026-06-29T20:46:13Z",
+      "digest": "sha256:a2a53bf1b220ba6484b7910077645fce167733052c1bef015dbad567c5df43f4",
+      "id": 461484607,
       "label": "",
-      "name": "just-1.54.0-x86_64-pc-windows-msvc.zip",
-      "node_id": "RA_kwDOA6gfW84bItDH",
-      "size": 2191934,
+      "name": "just-1.55.0-x86_64-pc-windows-msvc.zip",
+      "node_id": "RA_kwDOA6gfW84bgbI_",
+      "size": 2219247,
       "state": "uploaded",
-      "updated_at": "2026-06-23T04:24:48Z",
+      "updated_at": "2026-06-29T20:46:14Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -348,20 +348,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/casey/just/releases/assets/455266503"
+      "url": "https://api.github.com/repos/casey/just/releases/assets/461484607"
     },
     {
-      "browser_download_url": "https://github.com/casey/just/releases/download/1.54.0/just-1.54.0-x86_64-unknown-linux-musl.tar.gz",
+      "browser_download_url": "https://github.com/casey/just/releases/download/1.55.0/just-1.55.0-x86_64-unknown-linux-musl.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2026-06-23T04:23:18Z",
-      "digest": "sha256:193e2b04bac8ff3568ff81cf62f8c9db08f8083e16665e28d400dd35bac47ffd",
-      "id": 455265415,
+      "created_at": "2026-06-29T20:44:25Z",
+      "digest": "sha256:978178d9b20d2017ae7efdd29b204afc2ba75d103b4ab9d2c4e1a6407bbd648a",
+      "id": 461483415,
       "label": "",
-      "name": "just-1.54.0-x86_64-unknown-linux-musl.tar.gz",
-      "node_id": "RA_kwDOA6gfW84bIsyH",
-      "size": 2489309,
+      "name": "just-1.55.0-x86_64-unknown-linux-musl.tar.gz",
+      "node_id": "RA_kwDOA6gfW84bga2X",
+      "size": 2512069,
       "state": "uploaded",
-      "updated_at": "2026-06-23T04:23:19Z",
+      "updated_at": "2026-06-29T20:44:25Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -383,20 +383,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/casey/just/releases/assets/455265415"
+      "url": "https://api.github.com/repos/casey/just/releases/assets/461483415"
     },
     {
-      "browser_download_url": "https://github.com/casey/just/releases/download/1.54.0/SHA256SUMS",
+      "browser_download_url": "https://github.com/casey/just/releases/download/1.55.0/SHA256SUMS",
       "content_type": "application/octet-stream",
-      "created_at": "2026-06-23T04:24:59Z",
-      "digest": "sha256:d3fc7be03f2abd2679ec7ecb7496ac819c0752e3e22ad40e9ff4319892fcc2f9",
-      "id": 455266676,
+      "created_at": "2026-06-29T20:46:41Z",
+      "digest": "sha256:749bf51f12ce5acdc676a282fe405499ad5c16973f0c3b1bad5ab6d8b0a3596f",
+      "id": 461484966,
       "label": "",
       "name": "SHA256SUMS",
-      "node_id": "RA_kwDOA6gfW84bItF0",
+      "node_id": "RA_kwDOA6gfW84bgbOm",
       "size": 1184,
       "state": "uploaded",
-      "updated_at": "2026-06-23T04:25:00Z",
+      "updated_at": "2026-06-29T20:46:42Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -418,10 +418,10 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/casey/just/releases/assets/455266676"
+      "url": "https://api.github.com/repos/casey/just/releases/assets/461484966"
     }
   ],
-  "assets_url": "https://api.github.com/repos/casey/just/releases/343274209/assets",
+  "assets_url": "https://api.github.com/repos/casey/just/releases/346497565/assets",
   "author": {
     "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
     "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -443,21 +443,21 @@
     "url": "https://api.github.com/users/github-actions%5Bbot%5D",
     "user_view_type": "public"
   },
-  "body": "### Fixed\r\n- Forbid duplicate attribute keys ([#3454](https://github.com/casey/just/pull/3454) by [casey](https://github.com/casey))\r\n- Clear signal handler when infallible line catches signal ([#3444](https://github.com/casey/just/pull/3444) by [casey](https://github.com/casey))\r\n\r\n### Changed\r\n- Allow passing `--dotenv-command` multiple times ([#3445](https://github.com/casey/just/pull/3445) by [casey](https://github.com/casey))\r\n- Allow `[arg]` `value` to be expression ([#3429](https://github.com/casey/just/pull/3429) by [casey](https://github.com/casey))\r\n\r\n### Added\r\n- Add `[continue]` attribute ([#3442](https://github.com/casey/just/pull/3442) by [casey](https://github.com/casey))\r\n- Add `--dotenv-command` and `set dotenv-command` ([#3441](https://github.com/casey/just/pull/3441) by [casey](https://github.com/casey))\r\n\r\n### Cached Recipes\r\n- Add cache key to verbose output ([#3465](https://github.com/casey/just/pull/3465) by [casey](https://github.com/casey))\r\n- Add `--no-cache` flag ([#3463](https://github.com/casey/just/pull/3463) by [casey](https://github.com/casey))\r\n- Remove empty cache entries with `just --clean` ([#3462](https://github.com/casey/just/pull/3462) by [casey](https://github.com/casey))\r\n- Add `just --clean` instructions to readme ([#3461](https://github.com/casey/just/pull/3461) by [casey](https://github.com/casey))\r\n- Allow filtering `--clean` by recipe and module path ([#3460](https://github.com/casey/just/pull/3460) by [casey](https://github.com/casey))\r\n- Add `--clean` subcommand for clearing recipe cache ([#3459](https://github.com/casey/just/pull/3459) by [casey](https://github.com/casey))\r\n- Include recipe name in cache entries ([#3457](https://github.com/casey/just/pull/3457) by [casey](https://github.com/casey))\r\n- Add extra user-supplied cache key ([#3456](https://github.com/casey/just/pull/3456) by [casey](https://github.com/casey))\r\n- Fix working directory cache key ([#3455](https://github.com/casey/just/pull/3455) by [casey](https://github.com/casey))\r\n- Add output files to cached recipes ([#3453](https://github.com/casey/just/pull/3453) by [casey](https://github.com/casey))\r\n- Add file inputs to cached recipes ([#3452](https://github.com/casey/just/pull/3452) by [casey](https://github.com/casey))\r\n- Use body lines in cache key ([#3451](https://github.com/casey/just/pull/3451) by [casey](https://github.com/casey))\r\n- Use recipe body in cache key instead of lines ([#3447](https://github.com/casey/just/pull/3447) by [casey](https://github.com/casey))\r\n- Add additional cache keys ([#3446](https://github.com/casey/just/pull/3446) by [casey](https://github.com/casey))\r\n- Add cached recipes ([#3437](https://github.com/casey/just/pull/3437) by [casey](https://github.com/casey))\r\n\r\n### Misc\r\n- Rename `AttributeDiscriminant` to `AttributeKind` ([#3464](https://github.com/casey/just/pull/3464) by [casey](https://github.com/casey))\r\n- Improve invalid shell recipe attribute error message ([#3458](https://github.com/casey/just/pull/3458) by [casey](https://github.com/casey))\r\n- Add `Environment` struct ([#3450](https://github.com/casey/just/pull/3450) by [casey](https://github.com/casey))\r\n- Remove `Test::no_justfile()` ([#3449](https://github.com/casey/just/pull/3449) by [casey](https://github.com/casey))\r\n- Use plural consistently in `UnstableFeature` enum ([#3448](https://github.com/casey/just/pull/3448) by [casey](https://github.com/casey))\r\n- Lowercase `ctrl` consistently ([#3443](https://github.com/casey/just/pull/3443) by [casey](https://github.com/casey))\r\n- Add activating environments section to readme ([#3440](https://github.com/casey/just/pull/3440) by [casey](https://github.com/casey))\r\n- Bump minimum-supported Rust version to 1.89.0 ([#3438](https://github.com/casey/just/pull/3438) by [casey](https://github.com/casey))\r\n- Make non-unicode error messages consistent ([#3436](https://github.com/casey/just/pull/3436) by [casey](https://github.com/casey))\r\n- Lowercase function error messages ([#3435](https://github.com/casey/just/pull/3435) by [casey](https://github.com/casey))\r\n- Reword readme ([#3433](https://github.com/casey/just/pull/3433) by [casey](https://github.com/casey))\r\n- Remove emacs `Local Variables:` block from justfile ([#3432](https://github.com/casey/just/pull/3432) by [casey](https://github.com/casey))",
-  "created_at": "2026-06-23T04:20:55Z",
+  "body": "### Fixed\r\n- Fix forwarded dependency flag value ([#3489](https://github.com/casey/just/pull/3489) by [casey](https://github.com/casey))\r\n\r\n### Changed\r\n- Allow `[arg(pattern)]` to be a list ([#3484](https://github.com/casey/just/pull/3484) by [casey](https://github.com/casey))\r\n- Allow `[arg(help)]` to be expression ([#3483](https://github.com/casey/just/pull/3483) by [casey](https://github.com/casey))\r\n- Allow `[arg(pattern)]` to be expression ([#3482](https://github.com/casey/just/pull/3482) by [casey](https://github.com/casey))\r\n\r\n### Added\r\n- Add stream gates to `style()` ([#3503](https://github.com/casey/just/pull/3503) by [casey](https://github.com/casey))\r\n- Accept `-F` for `--dotenv-filename` ([#3498](https://github.com/casey/just/pull/3498) by [casey](https://github.com/casey))\r\n- Add `just_version()` function ([#3497](https://github.com/casey/just/pull/3497) by [casey](https://github.com/casey))\r\n- Add `[arg(multiple)]` ([#3493](https://github.com/casey/just/pull/3493) by [casey](https://github.com/casey))\r\n- Allow combining short options ([#3490](https://github.com/casey/just/pull/3490) by [casey](https://github.com/casey))\r\n- Allow variadic parameters to be options ([#3488](https://github.com/casey/just/pull/3488) by [casey](https://github.com/casey))\r\n- Default `[arg(short)]` to first character of parameter name ([#3486](https://github.com/casey/just/pull/3486) by [casey](https://github.com/casey))\r\n- Add support for RGB and fixed colors to `style()` ([#3479](https://github.com/casey/just/pull/3479) by [casey](https://github.com/casey))\r\n- Improve `style()` function ([#3478](https://github.com/casey/just/pull/3478) by [casey](https://github.com/casey))\r\n- Add `set minimum-version` ([#3477](https://github.com/casey/just/pull/3477) by [casey](https://github.com/casey))\r\n- Add module aliases ([#3472](https://github.com/casey/just/pull/3472) by [casey](https://github.com/casey))\r\n\r\n### Misc\r\n- Add example to cached recipes readme ([#3506](https://github.com/casey/just/pull/3506) by [casey](https://github.com/casey))\r\n- Fix readme heading levels ([#3505](https://github.com/casey/just/pull/3505) by [casey](https://github.com/casey))\r\n- Move Friendly Admonitions higher in Cached Recipes section ([#3504](https://github.com/casey/just/pull/3504) by [casey](https://github.com/casey))\r\n- Rename test helper functions ([#3502](https://github.com/casey/just/pull/3502) by [casey](https://github.com/casey))\r\n- Simplify tests ([#3501](https://github.com/casey/just/pull/3501) by [casey](https://github.com/casey))\r\n- Use `assert_eval_eq` in tests ([#3499](https://github.com/casey/just/pull/3499) by [casey](https://github.com/casey))\r\n- Expand readme intro list ([#3496](https://github.com/casey/just/pull/3496) by [casey](https://github.com/casey))\r\n- Organize readme into sections ([#3495](https://github.com/casey/just/pull/3495) by [casey](https://github.com/casey))\r\n- Rename option tests ([#3494](https://github.com/casey/just/pull/3494) by [casey](https://github.com/casey))\r\n- Move option application to `switch.apply()` ([#3491](https://github.com/casey/just/pull/3491) by [casey](https://github.com/casey))\r\n- Document that `[arg(help)]` may be a list ([#3485](https://github.com/casey/just/pull/3485) by [casey](https://github.com/casey))\r\n- Move override processing out of `Analyzer` ([#3481](https://github.com/casey/just/pull/3481) by [casey](https://github.com/casey))\r\n- Add `ConstEvalError` ([#3480](https://github.com/casey/just/pull/3480) by [casey](https://github.com/casey))\r\n- Remove `ModuleAlias` ([#3475](https://github.com/casey/just/pull/3475) by [casey](https://github.com/casey))\r\n- Chain tests ([#3476](https://github.com/casey/just/pull/3476) by [casey](https://github.com/casey))\r\n- Remove temptree dependency ([#3473](https://github.com/casey/just/pull/3473) by [casey](https://github.com/casey))\r\n- Simplify show tests ([#3471](https://github.com/casey/just/pull/3471) by [casey](https://github.com/casey))\r\n- Remove unnecessary tab escapes ([#3470](https://github.com/casey/just/pull/3470) by [casey](https://github.com/casey))\r\n- Indent `Test::write()` strings ([#3469](https://github.com/casey/just/pull/3469) by [casey](https://github.com/casey))\r\n- Document cache key printing ([#3468](https://github.com/casey/just/pull/3468) by [casey](https://github.com/casey))\r\n- Remove generic argument from `Count` ([#3467](https://github.com/casey/just/pull/3467) by [casey](https://github.com/casey))",
+  "created_at": "2026-06-29T20:42:15Z",
   "draft": false,
-  "html_url": "https://github.com/casey/just/releases/tag/1.54.0",
-  "id": 343274209,
+  "html_url": "https://github.com/casey/just/releases/tag/1.55.0",
+  "id": 346497565,
   "immutable": false,
-  "name": "1.54.0",
-  "node_id": "RE_kwDOA6gfW84UdfLh",
+  "name": "1.55.0",
+  "node_id": "RE_kwDOA6gfW84UpyId",
   "prerelease": false,
-  "published_at": "2026-06-23T04:22:47Z",
-  "tag_name": "1.54.0",
-  "tarball_url": "https://api.github.com/repos/casey/just/tarball/1.54.0",
+  "published_at": "2026-06-29T20:44:21Z",
+  "tag_name": "1.55.0",
+  "tarball_url": "https://api.github.com/repos/casey/just/tarball/1.55.0",
   "target_commitish": "master",
-  "updated_at": "2026-06-23T04:25:00Z",
-  "upload_url": "https://uploads.github.com/repos/casey/just/releases/343274209/assets{?name,label}",
-  "url": "https://api.github.com/repos/casey/just/releases/343274209",
-  "zipball_url": "https://api.github.com/repos/casey/just/zipball/1.54.0"
+  "updated_at": "2026-06-29T20:46:42Z",
+  "upload_url": "https://uploads.github.com/repos/casey/just/releases/346497565/assets{?name,label}",
+  "url": "https://api.github.com/repos/casey/just/releases/346497565",
+  "zipball_url": "https://api.github.com/repos/casey/just/zipball/1.55.0"
 }
