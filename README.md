@@ -30,7 +30,7 @@ Binaries with bundled third-party notice requirements also have adjacent
 <!-- BINARIES:START -->
 ## 📦 Available Binaries
 
-> **Last updated:** 2026-07-04 14:42 UTC
+> **Last updated:** 2026-07-04 14:43 UTC
 >
 > **Total size:** x86\_64 → 1.0 GiB · x86\_64-upx → 331.1 MiB
 
@@ -135,5 +135,5 @@ Binaries with bundled third-party notice requirements also have adjacent
 | [yazi](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/yazi)<br/><sub>`758394dd9481` · 16.2 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/yazi.LICENSE.txt)</sub> | [yazi](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/yazi)<br/><sub>`3a08008f0a0b` · 5.5 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/yazi.LICENSE.txt)</sub> |
 | [yq](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/yq)<br/><sub>`b2faedb1059b` · 13.1 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/yq.LICENSE.txt)</sub> | [yq](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/yq)<br/><sub>`a11f9bff0607` · 4.4 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/yq.LICENSE.txt)</sub> |
 | [zellij](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/zellij)<br/><sub>`c0f9e7f14c7a` · 37.0 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/zellij.LICENSE.txt)</sub> | [zellij](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/zellij)<br/><sub>`60557c6001cd` · 9.7 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/zellij.LICENSE.txt)</sub> |
-| [zoxide](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/zoxide)<br/><sub>`565a9ac46aa6` · 1.1 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/zoxide.LICENSE.txt)</sub> | [zoxide](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/zoxide)<br/><sub>`cb6d3b12bf71` · 463.4 KiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/zoxide.LICENSE.txt)</sub> |
+| [zoxide](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/zoxide)<br/><sub>`59280bac17cc` · 1.1 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/zoxide.LICENSE.txt)</sub> | [zoxide](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/zoxide)<br/><sub>`919f06d0607e` · 479.3 KiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/zoxide.LICENSE.txt)</sub> |
 <!-- BINARIES:END -->
