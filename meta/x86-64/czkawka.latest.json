@@ -1,17 +1,17 @@
 {
   "assets": [
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/cedinia.apk",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/cedinia.apk",
       "content_type": "application/vnd.android.package-archive",
-      "created_at": "2026-06-28T13:48:57Z",
-      "digest": "sha256:a48d5f93508369982e8f78e81ce96f51aa65249d9013c73b4e152c56d2225a40",
-      "id": 460260678,
+      "created_at": "2026-07-29T16:27:13Z",
+      "digest": "sha256:1f18be2194591fe2608117f177b61fa13d9f9792d1b883b684dbdb9c42789bc7",
+      "id": 494263982,
       "label": null,
       "name": "cedinia.apk",
-      "node_id": "RA_kwDOEWiRKs4bbwVG",
-      "size": 20165774,
+      "node_id": "RA_kwDOEWiRKs4ddd6u",
+      "size": 19993742,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:49:00Z",
+      "updated_at": "2026-07-29T16:27:17Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -33,20 +33,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460260678"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494263982"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/deps_linux.sh",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/deps_linux.sh",
       "content_type": "application/x-shellscript",
-      "created_at": "2026-06-28T15:25:12Z",
-      "digest": "sha256:8e060afa69518efc64235920c7b9843c4ac9ad4a4aa60b17c7ec2a1a1399225b",
-      "id": 460314092,
+      "created_at": "2026-07-29T16:35:09Z",
+      "digest": "sha256:ecacfb19397046a584a692f60df5c4ee27d24b1883ecd45e5ecb5e2cfddeef3b",
+      "id": 494272393,
       "label": null,
       "name": "deps_linux.sh",
-      "node_id": "RA_kwDOEWiRKs4bb9Xs",
-      "size": 1797,
+      "node_id": "RA_kwDOEWiRKs4ddf-J",
+      "size": 1864,
       "state": "uploaded",
-      "updated_at": "2026-06-28T15:25:13Z",
+      "updated_at": "2026-07-29T16:35:10Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -68,20 +68,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460314092"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494272393"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/deps_macos.sh",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/deps_macos.sh",
       "content_type": "application/x-shellscript",
-      "created_at": "2026-06-28T15:25:13Z",
+      "created_at": "2026-07-29T16:35:10Z",
       "digest": "sha256:19589d833572c5cad01d40caa3106c18f22bb8c3eb6d45518670b5c15f5be2e3",
-      "id": 460314095,
+      "id": 494272400,
       "label": null,
       "name": "deps_macos.sh",
-      "node_id": "RA_kwDOEWiRKs4bb9Xv",
+      "node_id": "RA_kwDOEWiRKs4ddf-Q",
       "size": 775,
       "state": "uploaded",
-      "updated_at": "2026-06-28T15:25:14Z",
+      "updated_at": "2026-07-29T16:35:10Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -103,20 +103,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460314095"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494272400"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/deps_windows.bat",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/deps_windows.bat",
       "content_type": "application/x-bat",
-      "created_at": "2026-06-28T15:25:14Z",
+      "created_at": "2026-07-29T16:35:10Z",
       "digest": "sha256:c6b308b460ef7c8a7fec0f314275488139237fe1824c786791f15366194e11cf",
-      "id": 460314096,
+      "id": 494272440,
       "label": null,
       "name": "deps_windows.bat",
-      "node_id": "RA_kwDOEWiRKs4bb9Xw",
+      "node_id": "RA_kwDOEWiRKs4ddf-4",
       "size": 759,
       "state": "uploaded",
-      "updated_at": "2026-06-28T15:25:14Z",
+      "updated_at": "2026-07-29T16:35:10Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -138,20 +138,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460314096"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494272440"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/linux_czkawka_cli_arm64",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/linux_czkawka_cli_arm64",
       "content_type": "application/octet-stream",
-      "created_at": "2026-06-28T13:49:00Z",
-      "digest": "sha256:2d7a66cf626d64ae578e2ef502df5ea9e82aeab3d890853a2e15118c430d8a37",
-      "id": 460260704,
+      "created_at": "2026-07-29T16:27:17Z",
+      "digest": "sha256:82bcbb671b1cd833e0ecbdd57a39c1e729880fb1bc938ba6075d8d9a771d96d9",
+      "id": 494264038,
       "label": null,
       "name": "linux_czkawka_cli_arm64",
-      "node_id": "RA_kwDOEWiRKs4bbwVg",
-      "size": 26449672,
+      "node_id": "RA_kwDOEWiRKs4ddd7m",
+      "size": 27180616,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:49:03Z",
+      "updated_at": "2026-07-29T16:27:20Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -173,20 +173,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460260704"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494264038"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/linux_czkawka_cli_heif_raw_avif_arm64",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/linux_czkawka_cli_heif_raw_avif_arm64",
       "content_type": "application/octet-stream",
-      "created_at": "2026-06-28T13:49:03Z",
-      "digest": "sha256:10b67356f4c6ed21ae05857cf54a9007c379cafd2c3078100a3266deadab3322",
-      "id": 460260721,
+      "created_at": "2026-07-29T16:27:20Z",
+      "digest": "sha256:0bfc3a58abebf736ff75c936bd968848c7e3d0e0f13da21ed9addf42c3cf53ed",
+      "id": 494264110,
       "label": null,
       "name": "linux_czkawka_cli_heif_raw_avif_arm64",
-      "node_id": "RA_kwDOEWiRKs4bbwVx",
-      "size": 27782824,
+      "node_id": "RA_kwDOEWiRKs4ddd8u",
+      "size": 28620648,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:49:07Z",
+      "updated_at": "2026-07-29T16:27:24Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -208,20 +208,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460260721"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494264110"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/linux_czkawka_cli_heif_raw_avif_x86_64",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/linux_czkawka_cli_heif_raw_avif_x86_64",
       "content_type": "application/octet-stream",
-      "created_at": "2026-06-28T13:49:07Z",
-      "digest": "sha256:2af04208884441a1a137b0867005de136313572f38a6269ba288639a2c372a87",
-      "id": 460260743,
+      "created_at": "2026-07-29T16:27:24Z",
+      "digest": "sha256:54cc3c1a5fbddfee1a35217cebf5967b6d6f50fa0b7677bb4d2c867759f81ac4",
+      "id": 494264201,
       "label": null,
       "name": "linux_czkawka_cli_heif_raw_avif_x86_64",
-      "node_id": "RA_kwDOEWiRKs4bbwWH",
-      "size": 32372008,
+      "node_id": "RA_kwDOEWiRKs4ddd-J",
+      "size": 33340080,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:49:11Z",
+      "updated_at": "2026-07-29T16:27:28Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -243,20 +243,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460260743"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494264201"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/linux_czkawka_cli_musl",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/linux_czkawka_cli_musl",
       "content_type": "application/octet-stream",
-      "created_at": "2026-06-28T13:49:11Z",
-      "digest": "sha256:6fe1d5008167d5e3cb48b1ff92562dc80c9d7c386f3bd99180beb3f81fee2182",
-      "id": 460260771,
+      "created_at": "2026-07-29T16:27:28Z",
+      "digest": "sha256:0b0fbba4ebb844ac7c7712742868c669e2101a29bb4e729a89c5ab0a606896ed",
+      "id": 494264370,
       "label": null,
       "name": "linux_czkawka_cli_musl",
-      "node_id": "RA_kwDOEWiRKs4bbwWj",
-      "size": 31443032,
+      "node_id": "RA_kwDOEWiRKs4ddeAy",
+      "size": 32232288,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:49:16Z",
+      "updated_at": "2026-07-29T16:27:31Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -278,20 +278,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460260771"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494264370"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/linux_czkawka_cli_x86_64",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/linux_czkawka_cli_x86_64",
       "content_type": "application/octet-stream",
-      "created_at": "2026-06-28T13:49:16Z",
-      "digest": "sha256:ad21a5428aee09fad88fb6d35fb1c656b9e0b8cdafee2de107618ddb5a9997ff",
-      "id": 460260819,
+      "created_at": "2026-07-29T16:27:31Z",
+      "digest": "sha256:612fdb68c245775b02c34cb52aa7a350ea89cd11fe7a3daf7fd947a26a679d2b",
+      "id": 494264451,
       "label": null,
       "name": "linux_czkawka_cli_x86_64",
-      "node_id": "RA_kwDOEWiRKs4bbwXT",
-      "size": 31255344,
+      "node_id": "RA_kwDOEWiRKs4ddeCD",
+      "size": 32046088,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:49:21Z",
+      "updated_at": "2026-07-29T16:27:35Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -313,20 +313,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460260819"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494264451"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/linux_czkawka_gui_arm64",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/linux_czkawka_gui_arm64",
       "content_type": "application/octet-stream",
-      "created_at": "2026-06-28T13:49:21Z",
-      "digest": "sha256:7d58b3b70d8638e9237a54341d4afd6db92e5fec62390d967c142bece820ac35",
-      "id": 460260879,
+      "created_at": "2026-07-29T16:27:35Z",
+      "digest": "sha256:cf8ecfeee0e36a4c7133183fcd3d79c743c9eb7e373452ab182027416114082a",
+      "id": 494264512,
       "label": null,
       "name": "linux_czkawka_gui_arm64",
-      "node_id": "RA_kwDOEWiRKs4bbwYP",
-      "size": 29225448,
+      "node_id": "RA_kwDOEWiRKs4ddeDA",
+      "size": 29983800,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:49:25Z",
+      "updated_at": "2026-07-29T16:27:45Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -348,20 +348,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460260879"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494264512"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/linux_czkawka_gui_heif_raw_avif_arm64",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/linux_czkawka_gui_heif_raw_avif_arm64",
       "content_type": "application/octet-stream",
-      "created_at": "2026-06-28T13:49:25Z",
-      "digest": "sha256:26076396af56eb8150aab45b30688372b7893c235634b2e1465a9451c4bd7626",
-      "id": 460260932,
+      "created_at": "2026-07-29T16:27:45Z",
+      "digest": "sha256:6400c71468e782d9f68c448d8b19fba9bf36cdb210e4ab8f28f55c7dcdfe9dfb",
+      "id": 494264705,
       "label": null,
       "name": "linux_czkawka_gui_heif_raw_avif_arm64",
-      "node_id": "RA_kwDOEWiRKs4bbwZE",
-      "size": 30561136,
+      "node_id": "RA_kwDOEWiRKs4ddeGB",
+      "size": 31405992,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:49:29Z",
+      "updated_at": "2026-07-29T16:27:48Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -383,20 +383,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460260932"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494264705"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/linux_czkawka_gui_heif_raw_avif_x86_64",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/linux_czkawka_gui_heif_raw_avif_x86_64",
       "content_type": "application/octet-stream",
-      "created_at": "2026-06-28T13:49:29Z",
-      "digest": "sha256:32722b649be087c50d233b4fdae0614a8f8183fabaff7a866156d17eeb338830",
-      "id": 460260969,
+      "created_at": "2026-07-29T16:27:48Z",
+      "digest": "sha256:6fd98b20db675d2297af11972451ff8adeb0e83fc6c5939605dd697cf07ca5b8",
+      "id": 494264814,
       "label": null,
       "name": "linux_czkawka_gui_heif_raw_avif_x86_64",
-      "node_id": "RA_kwDOEWiRKs4bbwZp",
-      "size": 35221016,
+      "node_id": "RA_kwDOEWiRKs4ddeHu",
+      "size": 36240200,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:49:33Z",
+      "updated_at": "2026-07-29T16:27:52Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -418,20 +418,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460260969"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494264814"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/linux_czkawka_gui_x86_64",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/linux_czkawka_gui_x86_64",
       "content_type": "application/octet-stream",
-      "created_at": "2026-06-28T13:49:33Z",
-      "digest": "sha256:87d37c90577f160cf154797a1c3d33eade244671acd4db92f158218e8be74e58",
-      "id": 460261022,
+      "created_at": "2026-07-29T16:27:53Z",
+      "digest": "sha256:f0b7866db663f5bda0703dcc407313bbdde8f821afaa68710988bcfcafda6aab",
+      "id": 494264898,
       "label": null,
       "name": "linux_czkawka_gui_x86_64",
-      "node_id": "RA_kwDOEWiRKs4bbwae",
-      "size": 34104504,
+      "node_id": "RA_kwDOEWiRKs4ddeJC",
+      "size": 34927528,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:49:37Z",
+      "updated_at": "2026-07-29T16:27:57Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -453,20 +453,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460261022"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494264898"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/linux_krokiet_all_backends_arm64.zip",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/linux_krokiet_all_backends_arm64.zip",
       "content_type": "application/zip",
-      "created_at": "2026-06-28T13:49:37Z",
-      "digest": "sha256:9da853a94dfdfed4c035f6b80214935993eb1be867812ef851d4bf409e47401f",
-      "id": 460261070,
+      "created_at": "2026-07-29T16:27:57Z",
+      "digest": "sha256:adb1b0469f88b3e837b822a4c5ddd747b5fac51a0eccb9a4e2522676b05ebb3e",
+      "id": 494265002,
       "label": null,
       "name": "linux_krokiet_all_backends_arm64.zip",
-      "node_id": "RA_kwDOEWiRKs4bbwbO",
-      "size": 27553721,
+      "node_id": "RA_kwDOEWiRKs4ddeKq",
+      "size": 27992509,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:49:41Z",
+      "updated_at": "2026-07-29T16:28:00Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -488,20 +488,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460261070"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494265002"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/linux_krokiet_all_backends_x86_64.zip",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/linux_krokiet_all_backends_x86_64.zip",
       "content_type": "application/zip",
-      "created_at": "2026-06-28T13:49:41Z",
-      "digest": "sha256:097419088944d932275d942fc7051c37b646743cc85795b91bec4b5f0b892e3b",
-      "id": 460261110,
+      "created_at": "2026-07-29T16:28:00Z",
+      "digest": "sha256:53bd09374421185cdc797ccd172e5ae56687883cae9ae81d2fd3145aab9d1ef5",
+      "id": 494265068,
       "label": null,
       "name": "linux_krokiet_all_backends_x86_64.zip",
-      "node_id": "RA_kwDOEWiRKs4bbwb2",
-      "size": 28984290,
+      "node_id": "RA_kwDOEWiRKs4ddeLs",
+      "size": 29451469,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:49:45Z",
+      "updated_at": "2026-07-29T16:28:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -523,20 +523,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460261110"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494265068"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/linux_krokiet_arm64",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/linux_krokiet_arm64",
       "content_type": "application/octet-stream",
-      "created_at": "2026-06-28T13:49:45Z",
-      "digest": "sha256:d0de7c036c7a642d54fc19f294c027913b77161a58f1c3ca1ad995b11377ea4c",
-      "id": 460261143,
+      "created_at": "2026-07-29T16:28:04Z",
+      "digest": "sha256:170b252fb007a2a18d16b0162c8c118f192e111f959585bea4f683ceddb6d3df",
+      "id": 494265137,
       "label": null,
       "name": "linux_krokiet_arm64",
-      "node_id": "RA_kwDOEWiRKs4bbwcX",
-      "size": 55843680,
+      "node_id": "RA_kwDOEWiRKs4ddeMx",
+      "size": 57221704,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:49:52Z",
+      "updated_at": "2026-07-29T16:28:15Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -558,20 +558,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460261143"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494265137"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/linux_krokiet_femtovg_wgpu_arm64",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/linux_krokiet_femtovg_wgpu_arm64",
       "content_type": "application/octet-stream",
-      "created_at": "2026-06-28T13:49:52Z",
-      "digest": "sha256:cc18a925b69bb3b8e78554eb2b4aef87d9bae859c2a686f87c5d9cd18d47ec97",
-      "id": 460261221,
+      "created_at": "2026-07-29T16:28:15Z",
+      "digest": "sha256:15c5423a1321da19563624a75be6563395fda34e60f3d7575b9e50df18e070d7",
+      "id": 494265309,
       "label": null,
       "name": "linux_krokiet_femtovg_wgpu_arm64",
-      "node_id": "RA_kwDOEWiRKs4bbwdl",
-      "size": 61404464,
+      "node_id": "RA_kwDOEWiRKs4ddePd",
+      "size": 62775448,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:50:04Z",
+      "updated_at": "2026-07-29T16:28:31Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -593,20 +593,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460261221"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494265309"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/linux_krokiet_femtovg_wgpu_x86_64",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/linux_krokiet_femtovg_wgpu_x86_64",
       "content_type": "application/octet-stream",
-      "created_at": "2026-06-28T13:50:04Z",
-      "digest": "sha256:13cef3e64dac6b73c22cf9d37511bc3e6c81320b8bf1055f09b281e56529b86f",
-      "id": 460261337,
+      "created_at": "2026-07-29T16:28:31Z",
+      "digest": "sha256:48bed8e529a9ae7c64feb5de4afafb0f1c73ac0160148c3f661a5b60bc1e298e",
+      "id": 494265556,
       "label": null,
       "name": "linux_krokiet_femtovg_wgpu_x86_64",
-      "node_id": "RA_kwDOEWiRKs4bbwfZ",
-      "size": 67296944,
+      "node_id": "RA_kwDOEWiRKs4ddeTU",
+      "size": 68774480,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:50:12Z",
+      "updated_at": "2026-07-29T16:28:50Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -628,20 +628,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460261337"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494265556"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/linux_krokiet_heif_raw_avif_all_backends_arm64.zip",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/linux_krokiet_heif_raw_avif_all_backends_arm64.zip",
       "content_type": "application/zip",
-      "created_at": "2026-06-28T13:50:12Z",
-      "digest": "sha256:294c2f54507ad07be21732ab7ac3408ab8f781a9fced4a39a4ddaaa4c31ac7a5",
-      "id": 460261463,
+      "created_at": "2026-07-29T16:28:50Z",
+      "digest": "sha256:66b99ad7bf547f89654c7465b9d292fd4254364eb3349a39f479b941c2aecc9c",
+      "id": 494265923,
       "label": null,
       "name": "linux_krokiet_heif_raw_avif_all_backends_arm64.zip",
-      "node_id": "RA_kwDOEWiRKs4bbwhX",
-      "size": 28407640,
+      "node_id": "RA_kwDOEWiRKs4ddeZD",
+      "size": 28890678,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:50:18Z",
+      "updated_at": "2026-07-29T16:28:54Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -663,20 +663,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460261463"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494265923"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/linux_krokiet_heif_raw_avif_all_backends_x86_64.zip",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/linux_krokiet_heif_raw_avif_all_backends_x86_64.zip",
       "content_type": "application/zip",
-      "created_at": "2026-06-28T13:50:18Z",
-      "digest": "sha256:ef583bebb43d0a1c75a5959cc56f04ecfdadac3cd515cae6fee7c9dd604554d1",
-      "id": 460261509,
+      "created_at": "2026-07-29T16:28:54Z",
+      "digest": "sha256:3a117ac8c354e6b6b9622245a86bfde207e6d1a0b252ddc239e67641069158e5",
+      "id": 494265982,
       "label": null,
       "name": "linux_krokiet_heif_raw_avif_all_backends_x86_64.zip",
-      "node_id": "RA_kwDOEWiRKs4bbwiF",
-      "size": 29764660,
+      "node_id": "RA_kwDOEWiRKs4ddeZ-",
+      "size": 30320326,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:50:23Z",
+      "updated_at": "2026-07-29T16:28:57Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -698,20 +698,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460261509"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494265982"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/linux_krokiet_heif_raw_avif_arm64",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/linux_krokiet_heif_raw_avif_arm64",
       "content_type": "application/octet-stream",
-      "created_at": "2026-06-28T13:50:23Z",
-      "digest": "sha256:56f497daba5b5b6259eae0a40503eddc4201d628db9ca817856b8f5748441430",
-      "id": 460261536,
+      "created_at": "2026-07-29T16:28:57Z",
+      "digest": "sha256:4d58492352103682f240cf22e0e4f6a93dae128e2f421843fa33357c5b0e0ac8",
+      "id": 494266006,
       "label": null,
       "name": "linux_krokiet_heif_raw_avif_arm64",
-      "node_id": "RA_kwDOEWiRKs4bbwig",
-      "size": 57399016,
+      "node_id": "RA_kwDOEWiRKs4ddeaW",
+      "size": 58862536,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:50:30Z",
+      "updated_at": "2026-07-29T16:29:03Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -733,20 +733,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460261536"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494266006"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/linux_krokiet_heif_raw_avif_femtovg_wgpu_arm64",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/linux_krokiet_heif_raw_avif_femtovg_wgpu_arm64",
       "content_type": "application/octet-stream",
-      "created_at": "2026-06-28T13:50:30Z",
-      "digest": "sha256:420a10d18347ac258882ad98df5dc0dbd23e2cf9f8720260cde1987f738cc7f1",
-      "id": 460261582,
+      "created_at": "2026-07-29T16:29:03Z",
+      "digest": "sha256:3f8ece07376e1a9eb5c1bec9fe02edaa042397e6576f129c95fe469dc3aeee80",
+      "id": 494266108,
       "label": null,
       "name": "linux_krokiet_heif_raw_avif_femtovg_wgpu_arm64",
-      "node_id": "RA_kwDOEWiRKs4bbwjO",
-      "size": 62990224,
+      "node_id": "RA_kwDOEWiRKs4ddeb8",
+      "size": 64455016,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:50:39Z",
+      "updated_at": "2026-07-29T16:29:10Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -768,20 +768,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460261582"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494266108"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/linux_krokiet_heif_raw_avif_femtovg_wgpu_x86_64",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/linux_krokiet_heif_raw_avif_femtovg_wgpu_x86_64",
       "content_type": "application/octet-stream",
-      "created_at": "2026-06-28T13:50:39Z",
-      "digest": "sha256:980c9dfb870da9de5269481fe7fd602f93ebc4561698c4dd0eaab5eda9865c2d",
-      "id": 460261630,
+      "created_at": "2026-07-29T16:29:10Z",
+      "digest": "sha256:c94dd9141d2caff3dc1fcf296d459a2ecccf650efaaaea24f159a8cc71f568e0",
+      "id": 494266258,
       "label": null,
       "name": "linux_krokiet_heif_raw_avif_femtovg_wgpu_x86_64",
-      "node_id": "RA_kwDOEWiRKs4bbwj-",
-      "size": 68687992,
+      "node_id": "RA_kwDOEWiRKs4ddeeS",
+      "size": 70371360,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:50:48Z",
+      "updated_at": "2026-07-29T16:29:18Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -803,20 +803,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460261630"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494266258"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/linux_krokiet_heif_raw_avif_skia_opengl_arm64",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/linux_krokiet_heif_raw_avif_skia_opengl_arm64",
       "content_type": "application/octet-stream",
-      "created_at": "2026-06-28T13:50:48Z",
-      "digest": "sha256:10c2d4c274b8f0539bebf5bd3566d69f5968c3fb640b887aeaabd4b762763a61",
-      "id": 460261692,
+      "created_at": "2026-07-29T16:29:18Z",
+      "digest": "sha256:03b40323d7c7451dd2a74e3a4b056dffacd87ae8a6cf6e9e87c0d42853608aad",
+      "id": 494266399,
       "label": null,
       "name": "linux_krokiet_heif_raw_avif_skia_opengl_arm64",
-      "node_id": "RA_kwDOEWiRKs4bbwk8",
-      "size": 63748960,
+      "node_id": "RA_kwDOEWiRKs4ddegf",
+      "size": 65212656,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:50:57Z",
+      "updated_at": "2026-07-29T16:29:26Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -838,20 +838,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460261692"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494266399"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/linux_krokiet_heif_raw_avif_skia_opengl_x86_64",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/linux_krokiet_heif_raw_avif_skia_opengl_x86_64",
       "content_type": "application/octet-stream",
-      "created_at": "2026-06-28T13:50:57Z",
-      "digest": "sha256:fbe409ba152173257e12612a828822bdd5a3f43dc4aac9d6da4c1754f88b4afd",
-      "id": 460261764,
+      "created_at": "2026-07-29T16:29:26Z",
+      "digest": "sha256:7076dde74fcb399d08c4b6fe4c9ff7a5a8a902876b517e4b3fdf493eb55e92f4",
+      "id": 494266527,
       "label": null,
       "name": "linux_krokiet_heif_raw_avif_skia_opengl_x86_64",
-      "node_id": "RA_kwDOEWiRKs4bbwmE",
-      "size": 68735368,
+      "node_id": "RA_kwDOEWiRKs4ddeif",
+      "size": 70345992,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:51:07Z",
+      "updated_at": "2026-07-29T16:29:33Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -873,20 +873,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460261764"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494266527"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/linux_krokiet_heif_raw_avif_skia_vulkan_arm64",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/linux_krokiet_heif_raw_avif_skia_vulkan_arm64",
       "content_type": "application/octet-stream",
-      "created_at": "2026-06-28T13:51:07Z",
-      "digest": "sha256:9b5159ca2ac7f899757ee27b26c84904440c6cf7debedbd02382e3ee834af106",
-      "id": 460261834,
+      "created_at": "2026-07-29T16:29:33Z",
+      "digest": "sha256:342790a3bee81f506c24b5c07f819337dd8929a89a8194b18dfa65f0cbfb6d04",
+      "id": 494266693,
       "label": null,
       "name": "linux_krokiet_heif_raw_avif_skia_vulkan_arm64",
-      "node_id": "RA_kwDOEWiRKs4bbwnK",
-      "size": 65902896,
+      "node_id": "RA_kwDOEWiRKs4ddelF",
+      "size": 67391184,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:51:16Z",
+      "updated_at": "2026-07-29T16:29:41Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -908,20 +908,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460261834"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494266693"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/linux_krokiet_heif_raw_avif_skia_vulkan_x86_64",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/linux_krokiet_heif_raw_avif_skia_vulkan_x86_64",
       "content_type": "application/octet-stream",
-      "created_at": "2026-06-28T13:51:16Z",
-      "digest": "sha256:6ae4e3c35c45f9bd2aea23b118b50aee1f6dc6e5049c53f4ef01d80ac7835c31",
-      "id": 460261901,
+      "created_at": "2026-07-29T16:29:41Z",
+      "digest": "sha256:8e9204e1a64b362872a5acc094c9b28442b59b4b9acf5552c7fbe19bfb4d79cd",
+      "id": 494266801,
       "label": null,
       "name": "linux_krokiet_heif_raw_avif_skia_vulkan_x86_64",
-      "node_id": "RA_kwDOEWiRKs4bbwoN",
-      "size": 70864008,
+      "node_id": "RA_kwDOEWiRKs4ddemx",
+      "size": 72476736,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:51:26Z",
+      "updated_at": "2026-07-29T16:29:49Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -943,20 +943,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460261901"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494266801"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/linux_krokiet_heif_raw_avif_x86_64",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/linux_krokiet_heif_raw_avif_x86_64",
       "content_type": "application/octet-stream",
-      "created_at": "2026-06-28T13:51:26Z",
-      "digest": "sha256:2d9da8c04e5906fdeb8e7ec1304511af402ceec309d43a3da443703fd00d9e80",
-      "id": 460262011,
+      "created_at": "2026-07-29T16:29:49Z",
+      "digest": "sha256:cc6529929dfe952303bbc051f2722c52e14ecd0a6e15eeef1f1948cca321a104",
+      "id": 494266948,
       "label": null,
       "name": "linux_krokiet_heif_raw_avif_x86_64",
-      "node_id": "RA_kwDOEWiRKs4bbwp7",
-      "size": 62988440,
+      "node_id": "RA_kwDOEWiRKs4ddepE",
+      "size": 64675808,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:51:34Z",
+      "updated_at": "2026-07-29T16:29:56Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -978,20 +978,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460262011"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494266948"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/linux_krokiet_skia_opengl_arm64",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/linux_krokiet_skia_opengl_arm64",
       "content_type": "application/octet-stream",
-      "created_at": "2026-06-28T13:51:34Z",
-      "digest": "sha256:b74c6231a664d8fe5e6457ade77f8e46a47f2d8d699c2161d09f7ebf5a8e5b0a",
-      "id": 460262088,
+      "created_at": "2026-07-29T16:29:56Z",
+      "digest": "sha256:1874ed1a4ec32285d21a3ce7ef6ab1b2ddd1475821dc340aa69997275d6529d4",
+      "id": 494267084,
       "label": null,
       "name": "linux_krokiet_skia_opengl_arm64",
-      "node_id": "RA_kwDOEWiRKs4bbwrI",
-      "size": 62172968,
+      "node_id": "RA_kwDOEWiRKs4dderM",
+      "size": 63553616,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:51:44Z",
+      "updated_at": "2026-07-29T16:30:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -1013,20 +1013,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460262088"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494267084"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/linux_krokiet_skia_opengl_x86_64",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/linux_krokiet_skia_opengl_x86_64",
       "content_type": "application/octet-stream",
-      "created_at": "2026-06-28T13:51:44Z",
-      "digest": "sha256:8f359939bd20dfd732b3e90fc27147f1075b26a6b1aa42f71a8e02326e0624b2",
-      "id": 460262175,
+      "created_at": "2026-07-29T16:30:04Z",
+      "digest": "sha256:5ae1dae94af9cf9a81d0b7d9c4014c3710d03736f435ad4d24a3c033a25b56f1",
+      "id": 494267199,
       "label": null,
       "name": "linux_krokiet_skia_opengl_x86_64",
-      "node_id": "RA_kwDOEWiRKs4bbwsf",
-      "size": 67332944,
+      "node_id": "RA_kwDOEWiRKs4ddes_",
+      "size": 68803792,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:51:53Z",
+      "updated_at": "2026-07-29T16:30:11Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -1048,20 +1048,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460262175"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494267199"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/linux_krokiet_skia_vulkan_arm64",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/linux_krokiet_skia_vulkan_arm64",
       "content_type": "application/octet-stream",
-      "created_at": "2026-06-28T13:51:53Z",
-      "digest": "sha256:054d0abd8d7de6ff833c6be24bf86e0fef92cf0b86708a95ab0a1ff1ca1d27ca",
-      "id": 460262236,
+      "created_at": "2026-07-29T16:30:11Z",
+      "digest": "sha256:3b8e7558d1f99f8206020d30f8f52447cef9adb950357e6dcefc234673967e39",
+      "id": 494267381,
       "label": null,
       "name": "linux_krokiet_skia_vulkan_arm64",
-      "node_id": "RA_kwDOEWiRKs4bbwtc",
-      "size": 64326048,
+      "node_id": "RA_kwDOEWiRKs4ddev1",
+      "size": 65715688,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:52:01Z",
+      "updated_at": "2026-07-29T16:30:18Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -1083,20 +1083,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460262236"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494267381"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/linux_krokiet_skia_vulkan_x86_64",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/linux_krokiet_skia_vulkan_x86_64",
       "content_type": "application/octet-stream",
-      "created_at": "2026-06-28T13:52:01Z",
-      "digest": "sha256:18504597dda644238f5b6e858263db9f52abbbedcc3b6ee378dbd4bf07aae864",
-      "id": 460262327,
+      "created_at": "2026-07-29T16:30:18Z",
+      "digest": "sha256:e7a8d5145252e39da2015399d8d9fd86697773fd4c84c559bb58512db538f485",
+      "id": 494267522,
       "label": null,
       "name": "linux_krokiet_skia_vulkan_x86_64",
-      "node_id": "RA_kwDOEWiRKs4bbwu3",
-      "size": 69467600,
+      "node_id": "RA_kwDOEWiRKs4ddeyC",
+      "size": 70939248,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:52:11Z",
+      "updated_at": "2026-07-29T16:30:26Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -1118,20 +1118,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460262327"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494267522"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/linux_krokiet_x86_64",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/linux_krokiet_x86_64",
       "content_type": "application/octet-stream",
-      "created_at": "2026-06-28T13:52:11Z",
-      "digest": "sha256:84c2677ad3ad824af61c5d930818c7f1221d9b401a9be24905bb0bc38011dc74",
-      "id": 460262416,
+      "created_at": "2026-07-29T16:30:26Z",
+      "digest": "sha256:7108b088afdf27e21356962f344ccaf51306723fd7e10b96d952826e7f271603",
+      "id": 494267692,
       "label": null,
       "name": "linux_krokiet_x86_64",
-      "node_id": "RA_kwDOEWiRKs4bbwwQ",
-      "size": 61598776,
+      "node_id": "RA_kwDOEWiRKs4dde0s",
+      "size": 63076768,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:52:19Z",
+      "updated_at": "2026-07-29T16:30:33Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -1153,20 +1153,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460262416"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494267692"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/mac_czkawka_cli_arm64",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/mac_czkawka_cli_arm64",
       "content_type": "application/octet-stream",
-      "created_at": "2026-06-28T13:52:19Z",
-      "digest": "sha256:9a08888d329fe39d5b00a15bf0bbbfdc80c5f480465edc63a94a13a3b4e1f312",
-      "id": 460262511,
+      "created_at": "2026-07-29T16:30:33Z",
+      "digest": "sha256:465ba2ea8f6ce0378adc412e7d8012903e8bfc6d3bded29320db3ed02723c905",
+      "id": 494267853,
       "label": null,
       "name": "mac_czkawka_cli_arm64",
-      "node_id": "RA_kwDOEWiRKs4bbwxv",
-      "size": 26505456,
+      "node_id": "RA_kwDOEWiRKs4dde3N",
+      "size": 27195696,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:52:24Z",
+      "updated_at": "2026-07-29T16:30:36Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -1188,20 +1188,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460262511"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494267853"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/mac_czkawka_cli_heif_avif_arm64",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/mac_czkawka_cli_heif_avif_arm64",
       "content_type": "application/octet-stream",
-      "created_at": "2026-06-28T13:52:24Z",
-      "digest": "sha256:431ca616a98d2c49abc98c9cc90a798db649c77363b6c02267702c7506b9aeb7",
-      "id": 460262549,
+      "created_at": "2026-07-29T16:30:36Z",
+      "digest": "sha256:cfe0fbc66042414bd5b4603446ff1614a006fc4e067183df0451df8d8c32a31d",
+      "id": 494267908,
       "label": null,
       "name": "mac_czkawka_cli_heif_avif_arm64",
-      "node_id": "RA_kwDOEWiRKs4bbwyV",
-      "size": 30487392,
+      "node_id": "RA_kwDOEWiRKs4dde4E",
+      "size": 31351424,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:52:29Z",
+      "updated_at": "2026-07-29T16:30:40Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -1223,20 +1223,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460262549"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494267908"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/mac_czkawka_gui_arm64",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/mac_czkawka_gui_arm64",
       "content_type": "application/octet-stream",
-      "created_at": "2026-06-28T13:52:29Z",
-      "digest": "sha256:971646cbd93ecaea0fc07237ba2a63be62717d8a1238d6da9ad757c7c0ecad4e",
-      "id": 460262612,
+      "created_at": "2026-07-29T16:30:40Z",
+      "digest": "sha256:1a50bd84367cb3fd5b17464231992d97451c7cf41c5335b7bfdcc47ca05409b0",
+      "id": 494267995,
       "label": null,
       "name": "mac_czkawka_gui_arm64",
-      "node_id": "RA_kwDOEWiRKs4bbwzU",
-      "size": 29156160,
+      "node_id": "RA_kwDOEWiRKs4dde5b",
+      "size": 29901328,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:52:33Z",
+      "updated_at": "2026-07-29T16:30:43Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -1258,20 +1258,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460262612"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494267995"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/mac_czkawka_gui_heif_avif_arm64",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/mac_czkawka_gui_heif_avif_arm64",
       "content_type": "application/octet-stream",
-      "created_at": "2026-06-28T13:52:33Z",
-      "digest": "sha256:68097619d8f23495230ec28525539fa41d5bd84c08a1253ed9e1feb576ae2436",
-      "id": 460262666,
+      "created_at": "2026-07-29T16:30:43Z",
+      "digest": "sha256:433443c08021c6e7f36a9c51fa6e0c9b4f1a48d457c9523f4ed5966e9197adbf",
+      "id": 494268032,
       "label": null,
       "name": "mac_czkawka_gui_heif_avif_arm64",
-      "node_id": "RA_kwDOEWiRKs4bbw0K",
-      "size": 33137536,
+      "node_id": "RA_kwDOEWiRKs4dde6A",
+      "size": 34055872,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:52:37Z",
+      "updated_at": "2026-07-29T16:30:48Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -1293,20 +1293,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460262666"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494268032"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/mac_krokiet_all_backends_arm64.zip",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/mac_krokiet_all_backends_arm64.zip",
       "content_type": "application/zip",
-      "created_at": "2026-06-28T13:52:37Z",
-      "digest": "sha256:9aa06f8499daf94b2f98f7dc93ca6ced9b04535dca428557bfcda41d29fa5249",
-      "id": 460262734,
+      "created_at": "2026-07-29T16:30:47Z",
+      "digest": "sha256:71a14507fc3ba7738c8ebc134e8d48940b3a7251148b9452ca93adfa5767fcb8",
+      "id": 494268088,
       "label": null,
       "name": "mac_krokiet_all_backends_arm64.zip",
-      "node_id": "RA_kwDOEWiRKs4bbw1O",
-      "size": 28965124,
+      "node_id": "RA_kwDOEWiRKs4dde64",
+      "size": 29355676,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:52:41Z",
+      "updated_at": "2026-07-29T16:30:51Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -1328,20 +1328,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460262734"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494268088"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/mac_krokiet_arm64",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/mac_krokiet_arm64",
       "content_type": "application/octet-stream",
-      "created_at": "2026-06-28T13:52:41Z",
-      "digest": "sha256:09adbb733bdfb7444c4d1c3cb6ea5c1663f3ac63def9f639e74bf4eccb87fbaa",
-      "id": 460262779,
+      "created_at": "2026-07-29T16:30:51Z",
+      "digest": "sha256:77e7420ce04f6e6aa01f9c509f800d8921beb361128ccfcbe9def3aa401fbf9b",
+      "id": 494268165,
       "label": null,
       "name": "mac_krokiet_arm64",
-      "node_id": "RA_kwDOEWiRKs4bbw17",
-      "size": 48599648,
+      "node_id": "RA_kwDOEWiRKs4dde8F",
+      "size": 49852176,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:52:48Z",
+      "updated_at": "2026-07-29T16:30:57Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -1363,20 +1363,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460262779"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494268165"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/mac_krokiet_femtovg_wgpu_arm64",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/mac_krokiet_femtovg_wgpu_arm64",
       "content_type": "application/octet-stream",
-      "created_at": "2026-06-28T13:52:48Z",
-      "digest": "sha256:5f9079a80a416dd9476cfd58c22effadb88a29c494f742c29cb840f7b26a8b10",
-      "id": 460262875,
+      "created_at": "2026-07-29T16:30:57Z",
+      "digest": "sha256:a8876da3a68ed7a8aa539ed155fa067da3e25a6cce92f6e523f2ce166365c2fd",
+      "id": 494268244,
       "label": null,
       "name": "mac_krokiet_femtovg_wgpu_arm64",
-      "node_id": "RA_kwDOEWiRKs4bbw3b",
-      "size": 52780512,
+      "node_id": "RA_kwDOEWiRKs4dde9U",
+      "size": 54033072,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:52:56Z",
+      "updated_at": "2026-07-29T16:31:03Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -1398,20 +1398,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460262875"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494268244"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/mac_krokiet_heif_avif_all_backends_arm64.zip",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/mac_krokiet_heif_avif_all_backends_arm64.zip",
       "content_type": "application/zip",
-      "created_at": "2026-06-28T13:52:56Z",
-      "digest": "sha256:cec18c37441b3aa587440c2a778e0cf055b7b3cb72b3ad3b160696569ba1d1c1",
-      "id": 460262955,
+      "created_at": "2026-07-29T16:31:03Z",
+      "digest": "sha256:ea391d1e78d11ca3f41d9d37228fbaf348085108c9e15303451aa9676979a661",
+      "id": 494268332,
       "label": null,
       "name": "mac_krokiet_heif_avif_all_backends_arm64.zip",
-      "node_id": "RA_kwDOEWiRKs4bbw4r",
-      "size": 30689521,
+      "node_id": "RA_kwDOEWiRKs4dde-s",
+      "size": 31137541,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:53:00Z",
+      "updated_at": "2026-07-29T16:31:07Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -1433,20 +1433,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460262955"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494268332"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/mac_krokiet_heif_avif_arm64",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/mac_krokiet_heif_avif_arm64",
       "content_type": "application/octet-stream",
-      "created_at": "2026-06-28T13:53:00Z",
-      "digest": "sha256:c56f3e28e3c41b9154cbaf0f38f5b2e45c12eb7588b21285e1999284bab53fa4",
-      "id": 460262997,
+      "created_at": "2026-07-29T16:31:07Z",
+      "digest": "sha256:e02a1acdb38037b95b07da38931bb47f95e716eb9477f7f09c99e01f324b7f78",
+      "id": 494268375,
       "label": null,
       "name": "mac_krokiet_heif_avif_arm64",
-      "node_id": "RA_kwDOEWiRKs4bbw5V",
-      "size": 52850928,
+      "node_id": "RA_kwDOEWiRKs4dde_X",
+      "size": 54259856,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:53:07Z",
+      "updated_at": "2026-07-29T16:31:13Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -1468,20 +1468,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460262997"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494268375"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/mac_krokiet_heif_avif_femtovg_wgpu_arm64",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/mac_krokiet_heif_avif_femtovg_wgpu_arm64",
       "content_type": "application/octet-stream",
-      "created_at": "2026-06-28T13:53:07Z",
-      "digest": "sha256:87703eb72a611cf345d8114b05f919fdc6985b9227d1f003e4e2ddb3f258dade",
-      "id": 460263032,
+      "created_at": "2026-07-29T16:31:13Z",
+      "digest": "sha256:749123e51ecc4c5f5a5ba2dc7e4df6160f40c2c7028fb5563916feddc34f044b",
+      "id": 494268488,
       "label": null,
       "name": "mac_krokiet_heif_avif_femtovg_wgpu_arm64",
-      "node_id": "RA_kwDOEWiRKs4bbw54",
-      "size": 57032560,
+      "node_id": "RA_kwDOEWiRKs4ddfBI",
+      "size": 58456912,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:53:15Z",
+      "updated_at": "2026-07-29T16:31:19Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -1503,20 +1503,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460263032"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494268488"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/mac_krokiet_skia_vulkan_arm64",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/mac_krokiet_skia_vulkan_arm64",
       "content_type": "application/octet-stream",
-      "created_at": "2026-06-28T13:53:15Z",
-      "digest": "sha256:52de38cd785688bb9fe74d50d9a34870c99a129fd837869cd1a3a609198ea90c",
-      "id": 460263109,
+      "created_at": "2026-07-29T16:31:19Z",
+      "digest": "sha256:5f2840e6ff0417c3a3750bf6bf0dee779120edc2a053d191f5b7fa38ec35e69a",
+      "id": 494268592,
       "label": null,
       "name": "mac_krokiet_skia_vulkan_arm64",
-      "node_id": "RA_kwDOEWiRKs4bbw7F",
-      "size": 66054416,
+      "node_id": "RA_kwDOEWiRKs4ddfCw",
+      "size": 67320512,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:53:24Z",
+      "updated_at": "2026-07-29T16:31:27Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -1538,20 +1538,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460263109"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494268592"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/mac_krokiet_skia_vulkan_heif_avif_arm64",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/mac_krokiet_skia_vulkan_heif_avif_arm64",
       "content_type": "application/octet-stream",
-      "created_at": "2026-06-28T13:53:24Z",
-      "digest": "sha256:32a0a6a4a8495fb16c11085fe6211fbafed1d4134306ed0dfe8c524ddc7a17c7",
-      "id": 460263190,
+      "created_at": "2026-07-29T16:31:27Z",
+      "digest": "sha256:cbe502274fe8c07f6de81720164e9af0336182eb5dbe37cc2c8380e400e2be77",
+      "id": 494268771,
       "label": null,
       "name": "mac_krokiet_skia_vulkan_heif_avif_arm64",
-      "node_id": "RA_kwDOEWiRKs4bbw8W",
-      "size": 70305824,
+      "node_id": "RA_kwDOEWiRKs4ddfFj",
+      "size": 71744992,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:53:34Z",
+      "updated_at": "2026-07-29T16:31:35Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -1573,20 +1573,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460263190"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494268771"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/windows_czkawka_cli.exe",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/windows_czkawka_cli.exe",
       "content_type": "application/x-msdownload",
-      "created_at": "2026-06-28T17:25:17Z",
-      "digest": "sha256:fbdc5ced0fefd6f3222cf4920ede2c2c9f6286433a6a96b9c1e8e525c788597e",
-      "id": 460379151,
+      "created_at": "2026-07-29T16:34:07Z",
+      "digest": "sha256:433b96ceb2a9c58882342ac866ff9edaa928d11d031dfe41dfdeada5552f8ca1",
+      "id": 494271558,
       "label": null,
       "name": "windows_czkawka_cli.exe",
-      "node_id": "RA_kwDOEWiRKs4bcNQP",
-      "size": 47149568,
+      "node_id": "RA_kwDOEWiRKs4ddfxG",
+      "size": 48666112,
       "state": "uploaded",
-      "updated_at": "2026-06-28T17:25:24Z",
+      "updated_at": "2026-07-29T16:34:13Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -1608,20 +1608,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460379151"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494271558"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/windows_czkawka_gui_gtk_412.zip",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/windows_czkawka_gui_gtk_412.zip",
       "content_type": "application/zip",
-      "created_at": "2026-06-28T13:53:34Z",
-      "digest": "sha256:cee1d000181c6ae8ebb7cb6d955edf4ac10aa0449654af2cfe8ce954df44e539",
-      "id": 460263284,
+      "created_at": "2026-07-29T16:31:35Z",
+      "digest": "sha256:402fbf30ff5b8b675305e31b0da49c7e2a424f12fa20b9cb3cfe0c3a67f494c5",
+      "id": 494268931,
       "label": null,
       "name": "windows_czkawka_gui_gtk_412.zip",
-      "node_id": "RA_kwDOEWiRKs4bbw90",
-      "size": 87856167,
+      "node_id": "RA_kwDOEWiRKs4ddfID",
+      "size": 88755388,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:53:48Z",
+      "updated_at": "2026-07-29T16:31:45Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -1643,20 +1643,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460263284"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494268931"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/windows_krokiet_on_linux.exe",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/windows_krokiet_on_linux.exe",
       "content_type": "application/x-msdownload",
-      "created_at": "2026-06-28T13:53:48Z",
-      "digest": "sha256:6c65904eeb1de5b76a338906bc09bee5a4ddf1c977fff836a6cb3a41023a3dd4",
-      "id": 460263797,
+      "created_at": "2026-07-29T16:31:44Z",
+      "digest": "sha256:084fa6f9d97574704a5104d207b8805e510f3f1c9907e7828607e7fce6a67abf",
+      "id": 494269230,
       "label": null,
       "name": "windows_krokiet_on_linux.exe",
-      "node_id": "RA_kwDOEWiRKs4bbxF1",
-      "size": 53308928,
+      "node_id": "RA_kwDOEWiRKs4ddfMu",
+      "size": 54714880,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:53:55Z",
+      "updated_at": "2026-07-29T16:31:51Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -1678,20 +1678,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460263797"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494269230"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/windows_krokiet_on_windows_all_backends.zip",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/windows_krokiet_on_windows_all_backends.zip",
       "content_type": "application/zip",
-      "created_at": "2026-06-28T13:53:55Z",
-      "digest": "sha256:239cbed78b7a5780e705becedb24a86920edf1815b0740a82cd42c4608169630",
-      "id": 460263874,
+      "created_at": "2026-07-29T16:31:51Z",
+      "digest": "sha256:13f68c9b29b7667caf913c1223dbcdb58e9e51b8a050e00ed1f1fd31508d17b5",
+      "id": 494269366,
       "label": null,
       "name": "windows_krokiet_on_windows_all_backends.zip",
-      "node_id": "RA_kwDOEWiRKs4bbxHC",
-      "size": 28253242,
+      "node_id": "RA_kwDOEWiRKs4ddfO2",
+      "size": 28718460,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:54:01Z",
+      "updated_at": "2026-07-29T16:31:54Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -1713,20 +1713,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460263874"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494269366"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/windows_krokiet_on_windows_femtovg_wgpu.exe",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/windows_krokiet_on_windows_femtovg_wgpu.exe",
       "content_type": "application/x-msdownload",
-      "created_at": "2026-06-28T13:54:01Z",
-      "digest": "sha256:fd0846799f8057717d6f96e663f7d8cc774c3d371d382f05745a14158d593d29",
-      "id": 460263942,
+      "created_at": "2026-07-29T16:31:54Z",
+      "digest": "sha256:464820ff4dac21dd490e36bb1a6a7ee9e0a55a62ea02c543cacf49b06f89de24",
+      "id": 494269427,
       "label": null,
       "name": "windows_krokiet_on_windows_femtovg_wgpu.exe",
-      "node_id": "RA_kwDOEWiRKs4bbxIG",
-      "size": 63993856,
+      "node_id": "RA_kwDOEWiRKs4ddfPz",
+      "size": 65542656,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:54:11Z",
+      "updated_at": "2026-07-29T16:32:01Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -1748,20 +1748,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460263942"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494269427"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/windows_krokiet_on_windows_skia_opengl.exe",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/windows_krokiet_on_windows_skia_opengl.exe",
       "content_type": "application/x-msdownload",
-      "created_at": "2026-06-28T13:54:11Z",
-      "digest": "sha256:bb9c907035c1ae067aabfc4033eeb6a0565593edd15d770de0e7d42f9143b794",
-      "id": 460264022,
+      "created_at": "2026-07-29T16:32:01Z",
+      "digest": "sha256:9f1a8e51b4d0825c57379fb2d0e13f153e7c559aeb1e4e7c129ffe6b24e3aa15",
+      "id": 494269526,
       "label": null,
       "name": "windows_krokiet_on_windows_skia_opengl.exe",
-      "node_id": "RA_kwDOEWiRKs4bbxJW",
-      "size": 64616960,
+      "node_id": "RA_kwDOEWiRKs4ddfRW",
+      "size": 66164224,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:54:19Z",
+      "updated_at": "2026-07-29T16:32:08Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -1783,20 +1783,20 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460264022"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494269526"
     },
     {
-      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.0/windows_krokiet_on_windows_skia_vulkan.exe",
+      "browser_download_url": "https://github.com/qarmin/czkawka/releases/download/12.0.1/windows_krokiet_on_windows_skia_vulkan.exe",
       "content_type": "application/x-msdownload",
-      "created_at": "2026-06-28T13:54:19Z",
-      "digest": "sha256:0118f7760d5e924c50891daff977bb2f9226904b88a99679418cea28c29bbd8c",
-      "id": 460264115,
+      "created_at": "2026-07-29T16:32:08Z",
+      "digest": "sha256:ffc0ad76909dfb6806ee78acfea3615b5828baf2d648fac2a7265fd196bbca86",
+      "id": 494269637,
       "label": null,
       "name": "windows_krokiet_on_windows_skia_vulkan.exe",
-      "node_id": "RA_kwDOEWiRKs4bbxKz",
-      "size": 66584064,
+      "node_id": "RA_kwDOEWiRKs4ddfTF",
+      "size": 68130816,
       "state": "uploaded",
-      "updated_at": "2026-06-28T13:54:28Z",
+      "updated_at": "2026-07-29T16:32:16Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
         "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -1818,10 +1818,10 @@
         "url": "https://api.github.com/users/qarmin",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/460264115"
+      "url": "https://api.github.com/repos/qarmin/czkawka/releases/assets/494269637"
     }
   ],
-  "assets_url": "https://api.github.com/repos/qarmin/czkawka/releases/345917203/assets",
+  "assets_url": "https://api.github.com/repos/qarmin/czkawka/releases/361895052/assets",
   "author": {
     "avatar_url": "https://avatars.githubusercontent.com/u/41945903?v=4",
     "events_url": "https://api.github.com/users/qarmin/events{/privacy}",
@@ -1843,20 +1843,21 @@
     "url": "https://api.github.com/users/qarmin",
     "user_view_type": "public"
   },
-  "created_at": "2026-06-28T11:31:28Z",
+  "body": "## Version 12.0.1 - 29.07.2026r\r\n\r\n### Czkawka GTK Deprecation Notice\r\n**Version 12.0 is the last released version of Czkawka GTK.** No new binaries will be provided from this point on. All users are encouraged to migrate to Krokiet, the new Slint-based GUI frontend.\r\n\r\n### Core\r\n- Fixed an issue where console windows appeared on Windows when running FFmpeg internally - [#1989](https://github.com/qarmin/czkawka/pull/1989)\r\n- Added `BuildRuntimeInfo`, a new module that detects compile-time features (HEIF, LibRAW, AVIF) and the runtime availability of FFmpeg and FFprobe at startup - [#1989](https://github.com/qarmin/czkawka/pull/1989)\r\n\r\n### Krokiet\r\n- Added a new \"About / Diagnostics\" panel to inspect build/runtime features and verify whether specific image files are recognized correctly - [#1989](https://github.com/qarmin/czkawka/pull/1989)\r\n- Fixed the sort popup not displaying its background - [#2011](https://github.com/qarmin/czkawka/pull/2011)\r\n- Fixed text overflowing in popups for some languages - [#2011](https://github.com/qarmin/czkawka/pull/2011)\r\n- Fixed the Video Optimizer optimize confirmation popup content being cropped - [#2011](https://github.com/qarmin/czkawka/pull/2011)\r\n- Added translations for settings dropdown options - [#2011](https://github.com/qarmin/czkawka/pull/2011)\r\n- Pinned Slint to version 1.17.0 to avoid a Wayland bug introduced in 1.17.1 that prevented the window size from being restored correctly on startup - [#2011](https://github.com/qarmin/czkawka/pull/2011)\r\n\r\n### Cedinia\r\n- Fixed an incorrect progress bar status - [#1989](https://github.com/qarmin/czkawka/pull/1989)\r\n- Fixed automatic language detection on first launch - [#1989](https://github.com/qarmin/czkawka/pull/1989)\r\n- Migrated all raw and unsafe JNI usage (file picker, notifications, Android path setup) to the new `jni-high` crate - [#2011](https://github.com/qarmin/czkawka/pull/2011)\r\n\r\n## Virustotal\r\n- https://www.virustotal.com/gui/file/402fbf30ff5b8b675305e31b0da49c7e2a424f12fa20b9cb3cfe0c3a67f494c5\r\n- https://www.virustotal.com/gui/file/433b96ceb2a9c58882342ac866ff9edaa928d11d031dfe41dfdeada5552f8ca1\r\n- https://www.virustotal.com/gui/file/084fa6f9d97574704a5104d207b8805e510f3f1c9907e7828607e7fce6a67abf\r\n- https://www.virustotal.com/gui/file/13f68c9b29b7667caf913c1223dbcdb58e9e51b8a050e00ed1f1fd31508d17b5\r\n- https://www.virustotal.com/gui/file/464820ff4dac21dd490e36bb1a6a7ee9e0a55a62ea02c543cacf49b06f89de24\r\n- https://www.virustotal.com/gui/file/ffc0ad76909dfb6806ee78acfea3615b5828baf2d648fac2a7265fd196bbca86\r\n- https://www.virustotal.com/gui/file/9f1a8e51b4d0825c57379fb2d0e13f153e7c559aeb1e4e7c129ffe6b24e3aa15\r\n\r\n## Legend:\r\n- If you are a beginner or don't know which version to use, start with one of these depending on your OS (if they don’t work, try different builds):\r\n  - **Windows** – `windows_krokiet_on_windows_skia_opengl.exe`, `windows_krokiet_on_linux.exe`, `windows_czkawka_gui_gtk_412.zip`  \r\n  - **Mac** – `mac_krokiet_skia_vulkan_x86_64`, `mac_krokiet_skia_vulkan_arm64`, `mac_czkawka_gui_x86_64`, `mac_czkawka_gui_arm64`\r\n  - **Linux** – `linux_krokiet_x86_64`, `linux_krokiet_all_backends`, `linux_czkawka_gui_x86_64`\r\n- `krokiet` – primary graphical version of the application, fully supported and actively developed, includes new features and ongoing improvements\r\n- `gtk_gui` – legacy GTK-based graphical version\r\n- `cedinia` - new android app\r\n- `cli` – command-line version of the app\r\n- `arm`, `x86_64` – CPU architecture. Most Windows/Linux uses `x86_64`, while on Mac the `arm` version is becoming the most common choice. \r\n- `heif`, `raw`, `avif` – additional features that require extra libraries installed on the OS\r\n- `skia_opengl`, `skia_vulkan`, `femtovg_wgpu`, `all_backends` – alternative Krokiet backends, use different, when you have problem with current\r\n- `deps` - scripts that you can run, to install required/optional apps/libraries\r\n\r\nYou can read more about 12.0.0 version on Medium:\r\n- English article – https://medium.com/@qarmin/krokiet-czkawka-12-0-6fa09c43c3b9\r\n- Polish article – https://medium.com/@qarmin/krokiet-czkawka-12-0-c5dad2116793",
+  "created_at": "2026-07-29T11:07:47Z",
   "draft": false,
-  "html_url": "https://github.com/qarmin/czkawka/releases/tag/12.0.0",
-  "id": 345917203,
+  "html_url": "https://github.com/qarmin/czkawka/releases/tag/12.0.1",
+  "id": 361895052,
   "immutable": false,
-  "name": "12.0.0",
-  "node_id": "RE_kwDOEWiRKs4UnkcT",
+  "name": "12.0.1",
+  "node_id": "RE_kwDOEWiRKs4VkhSM",
   "prerelease": false,
-  "published_at": "2026-06-28T14:00:21Z",
-  "tag_name": "12.0.0",
-  "tarball_url": "https://api.github.com/repos/qarmin/czkawka/tarball/12.0.0",
+  "published_at": "2026-07-29T16:35:31Z",
+  "tag_name": "12.0.1",
+  "tarball_url": "https://api.github.com/repos/qarmin/czkawka/tarball/12.0.1",
   "target_commitish": "master",
-  "updated_at": "2026-06-28T19:29:04Z",
-  "upload_url": "https://uploads.github.com/repos/qarmin/czkawka/releases/345917203/assets{?name,label}",
-  "url": "https://api.github.com/repos/qarmin/czkawka/releases/345917203",
-  "zipball_url": "https://api.github.com/repos/qarmin/czkawka/zipball/12.0.0"
+  "updated_at": "2026-07-29T16:35:31Z",
+  "upload_url": "https://uploads.github.com/repos/qarmin/czkawka/releases/361895052/assets{?name,label}",
+  "url": "https://api.github.com/repos/qarmin/czkawka/releases/361895052",
+  "zipball_url": "https://api.github.com/repos/qarmin/czkawka/zipball/12.0.1"
 }
