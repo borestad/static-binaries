@@ -30,9 +30,9 @@ Binaries with bundled third-party notice requirements also have adjacent
 <!-- BINARIES:START -->
 ## 📦 Available Binaries
 
-> **Last updated:** 2026-07-31 16:43 UTC
+> **Last updated:** 2026-07-31 16:44 UTC
 >
-> **Total size:** x86\_64 → 1.0 GiB · x86\_64-upx → 334.0 MiB
+> **Total size:** x86\_64 → 1.0 GiB · x86\_64-upx → 335.4 MiB
 
 | Binary (plain) | Binary (UPX compressed) |
 |---|---|
@@ -48,7 +48,7 @@ Binaries with bundled third-party notice requirements also have adjacent
 | [choose](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/choose)<br/><sub>`d97aaf6a9011` · 2.6 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/choose.LICENSE.txt)</sub> | [choose](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/choose)<br/><sub>`73fbc0dbdb08` · 875.7 KiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/choose.LICENSE.txt)</sub> |
 | [cidr-merger](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/cidr-merger)<br/><sub>`b7d0a5451465` · 1.3 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/cidr-merger.LICENSE.txt)</sub> | — |
 | [crawley](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/crawley)<br/><sub>`493e130deda1` · 6.1 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/crawley.LICENSE.txt)</sub> | [crawley](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/crawley)<br/><sub>`11cb4ecae4bc` · 2.2 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/crawley.LICENSE.txt)</sub> |
-| [croc](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/croc)<br/><sub>`5c6b1b58b8f6` · 16.5 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/croc.LICENSE.txt)</sub> | [croc](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/croc)<br/><sub>`cc065d74d12a` · 5.3 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/croc.LICENSE.txt)</sub> |
+| [croc](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/croc)<br/><sub>`a7ba3c397dd4` · 18.1 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/croc.LICENSE.txt)</sub> | [croc](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/croc)<br/><sub>`f4f967e4fe7e` · 6.7 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/croc.LICENSE.txt)</sub> |
 | [ctop](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/ctop)<br/><sub>`45173935da38` · 11.7 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/ctop.LICENSE.txt)</sub> | [ctop](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/ctop)<br/><sub>`3bc3ca199339` · 4.0 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/ctop.LICENSE.txt)</sub> |
 | [curl](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/curl)<br/><sub>`ecf24fcf6c5b` · 9.9 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/curl.LICENSE.txt)</sub> | [curl](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/curl)<br/><sub>`d48ab7d6c9b3` · 3.6 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/curl.LICENSE.txt)</sub> |
 | [curlie](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/curlie)<br/><sub>`eadab9b111e2` · 2.3 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/curlie.LICENSE.txt)</sub> | [curlie](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/curlie)<br/><sub>`851decb5c49c` · 949.7 KiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/curlie.LICENSE.txt)</sub> |
