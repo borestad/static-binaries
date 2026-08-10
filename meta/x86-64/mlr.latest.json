@@ -1,17 +1,17 @@
 {
   "assets": [
     {
-      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.20.2/miller-6.20.2-1.src.rpm",
+      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-1.src.rpm",
       "content_type": "application/x-rpm",
-      "created_at": "2026-07-04T19:21:03Z",
-      "digest": "sha256:491782aca84947d493b56fa863ced7c7bdbdb8467c587e23c03cff166c701fa9",
-      "id": 466552926,
+      "created_at": "2026-08-10T13:48:40Z",
+      "digest": "sha256:fea25d875e163e9d60f6fab771f6204453a90d43a13cdf7f85ce67d409aae5a1",
+      "id": 508810280,
       "label": "",
-      "name": "miller-6.20.2-1.src.rpm",
-      "node_id": "RA_kwDOAhYdrs4bzwhe",
-      "size": 3154636,
+      "name": "miller-6.21.0-1.src.rpm",
+      "node_id": "RA_kwDOAhYdrs4eU9Qo",
+      "size": 3210720,
       "state": "uploaded",
-      "updated_at": "2026-07-04T19:21:03Z",
+      "updated_at": "2026-08-10T13:48:41Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/2008794?v=4",
         "events_url": "https://api.github.com/users/johnkerl/events{/privacy}",
@@ -33,20 +33,20 @@
         "url": "https://api.github.com/users/johnkerl",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/466552926"
+      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/508810280"
     },
     {
-      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.20.2/miller-6.20.2-aix-ppc64.rpm",
+      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-aix-ppc64.rpm",
       "content_type": "application/x-rpm",
-      "created_at": "2026-07-04T19:28:45Z",
-      "digest": "sha256:0e9a73a4b1bd4c8b58452671a1abcf463d4dd2a455394ad0c79f7a43b67bd320",
-      "id": 466557215,
+      "created_at": "2026-08-10T13:56:11Z",
+      "digest": "sha256:fa3b1b7bd6180416deb04026cf9f78e6a5d79872773139609b25b3b2156dadbc",
+      "id": 508818276,
       "label": "",
-      "name": "miller-6.20.2-aix-ppc64.rpm",
-      "node_id": "RA_kwDOAhYdrs4bzxkf",
-      "size": 5668137,
+      "name": "miller-6.21.0-aix-ppc64.rpm",
+      "node_id": "RA_kwDOAhYdrs4eU_Nk",
+      "size": 5766043,
       "state": "uploaded",
-      "updated_at": "2026-07-04T19:28:46Z",
+      "updated_at": "2026-08-10T13:56:11Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -68,20 +68,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/466557215"
+      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/508818276"
     },
     {
-      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.20.2/miller-6.20.2-aix-ppc64.tar.gz",
+      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-aix-ppc64.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2026-07-04T19:28:42Z",
-      "digest": "sha256:9a9e24e41851bf9e75c7c02a396ff2aff2d6acd1a097def2ac8e9b0f093162c7",
-      "id": 466557182,
+      "created_at": "2026-08-10T13:56:06Z",
+      "digest": "sha256:b0d55d9a1fab2862a553f00765e5513d7ad375a19a07368649c0534d82215b7c",
+      "id": 508818130,
       "label": "",
-      "name": "miller-6.20.2-aix-ppc64.tar.gz",
-      "node_id": "RA_kwDOAhYdrs4bzxj-",
-      "size": 5696963,
+      "name": "miller-6.21.0-aix-ppc64.tar.gz",
+      "node_id": "RA_kwDOAhYdrs4eU_LS",
+      "size": 5793428,
       "state": "uploaded",
-      "updated_at": "2026-07-04T19:28:43Z",
+      "updated_at": "2026-08-10T13:56:06Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -103,20 +103,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/466557182"
+      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/508818130"
     },
     {
-      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.20.2/miller-6.20.2-checksums.txt",
+      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-checksums.txt",
       "content_type": "text/plain; charset=utf-8",
-      "created_at": "2026-07-04T19:28:47Z",
-      "digest": "sha256:9315c2ad4cc77013a59dea2a5a9775715e50bc9ecb700820732f58070faf230d",
-      "id": 466557230,
+      "created_at": "2026-08-10T13:56:11Z",
+      "digest": "sha256:3beceba0ea5dbb08a6d2c29dbd84506a891b1af23581eca3138e4550bd53cac4",
+      "id": 508818280,
       "label": "",
-      "name": "miller-6.20.2-checksums.txt",
-      "node_id": "RA_kwDOAhYdrs4bzxku",
+      "name": "miller-6.21.0-checksums.txt",
+      "node_id": "RA_kwDOAhYdrs4eU_No",
       "size": 3318,
       "state": "uploaded",
-      "updated_at": "2026-07-04T19:28:47Z",
+      "updated_at": "2026-08-10T13:56:11Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -138,20 +138,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/466557230"
+      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/508818280"
     },
     {
-      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.20.2/miller-6.20.2-darwin-amd64.tar.gz",
+      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-darwin-amd64.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2026-07-04T19:28:42Z",
-      "digest": "sha256:bcfe6d817e1752b6a0bcc5ecffbcf1911bb980ca4cc40fb8b6b6d446abfed0b1",
-      "id": 466557186,
+      "created_at": "2026-08-10T13:56:05Z",
+      "digest": "sha256:0b02be2a7166b56bad29b0446e2a2cc8c47269410e6af2841174aa1854fde53a",
+      "id": 508818116,
       "label": "",
-      "name": "miller-6.20.2-darwin-amd64.tar.gz",
-      "node_id": "RA_kwDOAhYdrs4bzxkC",
-      "size": 5954024,
+      "name": "miller-6.21.0-darwin-amd64.tar.gz",
+      "node_id": "RA_kwDOAhYdrs4eU_LE",
+      "size": 6049474,
       "state": "uploaded",
-      "updated_at": "2026-07-04T19:28:43Z",
+      "updated_at": "2026-08-10T13:56:06Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -173,20 +173,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/466557186"
+      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/508818116"
     },
     {
-      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.20.2/miller-6.20.2-darwin-arm64.tar.gz",
+      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-darwin-arm64.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2026-07-04T19:28:39Z",
-      "digest": "sha256:32ddff009de1b281a06fb1aa1c5c4efd9d4958ba4bd7cc608bea6dbf1206623c",
-      "id": 466557137,
+      "created_at": "2026-08-10T13:56:07Z",
+      "digest": "sha256:e172a045a813de63753ddbe043208785e944819b082526ddd927559eeb0ad176",
+      "id": 508818153,
       "label": "",
-      "name": "miller-6.20.2-darwin-arm64.tar.gz",
-      "node_id": "RA_kwDOAhYdrs4bzxjR",
-      "size": 5437335,
+      "name": "miller-6.21.0-darwin-arm64.tar.gz",
+      "node_id": "RA_kwDOAhYdrs4eU_Lp",
+      "size": 5521955,
       "state": "uploaded",
-      "updated_at": "2026-07-04T19:28:39Z",
+      "updated_at": "2026-08-10T13:56:07Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -208,20 +208,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/466557137"
+      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/508818153"
     },
     {
-      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.20.2/miller-6.20.2-freebsd-386.tar.gz",
+      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-freebsd-386.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2026-07-04T19:28:41Z",
-      "digest": "sha256:a7667ffb385220db727c29742765a55f553d35cba9c8931b6ad71b631e209d89",
-      "id": 466557172,
+      "created_at": "2026-08-10T13:56:04Z",
+      "digest": "sha256:691cc0251162d801b99e7f0c1fa72851de0f40de86f884c2347335bc049af7bc",
+      "id": 508818096,
       "label": "",
-      "name": "miller-6.20.2-freebsd-386.tar.gz",
-      "node_id": "RA_kwDOAhYdrs4bzxj0",
-      "size": 5471946,
+      "name": "miller-6.21.0-freebsd-386.tar.gz",
+      "node_id": "RA_kwDOAhYdrs4eU_Kw",
+      "size": 5562739,
       "state": "uploaded",
-      "updated_at": "2026-07-04T19:28:41Z",
+      "updated_at": "2026-08-10T13:56:05Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -243,20 +243,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/466557172"
+      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/508818096"
     },
     {
-      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.20.2/miller-6.20.2-freebsd-amd64.tar.gz",
+      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-freebsd-amd64.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2026-07-04T19:28:42Z",
-      "digest": "sha256:bf319dbc09bd1a65a2922fdc6d4dfd11e4689e1e638e95340587bdf6dd67a27a",
-      "id": 466557183,
+      "created_at": "2026-08-10T13:56:06Z",
+      "digest": "sha256:c787f08ef78323141bfc8bc85da68c3c66760ec906954e82cb633ecda2d16c62",
+      "id": 508818128,
       "label": "",
-      "name": "miller-6.20.2-freebsd-amd64.tar.gz",
-      "node_id": "RA_kwDOAhYdrs4bzxj_",
-      "size": 5834424,
+      "name": "miller-6.21.0-freebsd-amd64.tar.gz",
+      "node_id": "RA_kwDOAhYdrs4eU_LQ",
+      "size": 5927704,
       "state": "uploaded",
-      "updated_at": "2026-07-04T19:28:42Z",
+      "updated_at": "2026-08-10T13:56:06Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -278,20 +278,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/466557183"
+      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/508818128"
     },
     {
-      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.20.2/miller-6.20.2-freebsd-arm64.tar.gz",
+      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-freebsd-arm64.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2026-07-04T19:28:42Z",
-      "digest": "sha256:aee1f4dc882813df17e7ec593c3805c71d56e2e44a1e357b665d4ca612fa2f40",
-      "id": 466557188,
+      "created_at": "2026-08-10T13:56:07Z",
+      "digest": "sha256:125a7bdfab81db3994aa6f14742738ab689113a9c3428663391098034e4259b5",
+      "id": 508818178,
       "label": "",
-      "name": "miller-6.20.2-freebsd-arm64.tar.gz",
-      "node_id": "RA_kwDOAhYdrs4bzxkE",
-      "size": 5186150,
+      "name": "miller-6.21.0-freebsd-arm64.tar.gz",
+      "node_id": "RA_kwDOAhYdrs4eU_MC",
+      "size": 5270509,
       "state": "uploaded",
-      "updated_at": "2026-07-04T19:28:43Z",
+      "updated_at": "2026-08-10T13:56:08Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -313,20 +313,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/466557188"
+      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/508818178"
     },
     {
-      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.20.2/miller-6.20.2-linux-386.deb",
+      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-linux-386.deb",
       "content_type": "application/vnd.debian.binary-package",
-      "created_at": "2026-07-04T19:28:44Z",
-      "digest": "sha256:d4b969c07223c98c06ca5b3b449bd0feb2140e01cb6f9105cc8d35a79743c51b",
-      "id": 466557201,
+      "created_at": "2026-08-10T13:56:08Z",
+      "digest": "sha256:b0a1af6982d15eecd8c9195b7bac374209e8277114026b50ae8bb262889aa3fd",
+      "id": 508818209,
       "label": "",
-      "name": "miller-6.20.2-linux-386.deb",
-      "node_id": "RA_kwDOAhYdrs4bzxkR",
-      "size": 5495120,
+      "name": "miller-6.21.0-linux-386.deb",
+      "node_id": "RA_kwDOAhYdrs4eU_Mh",
+      "size": 5587012,
       "state": "uploaded",
-      "updated_at": "2026-07-04T19:28:45Z",
+      "updated_at": "2026-08-10T13:56:09Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -348,20 +348,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/466557201"
+      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/508818209"
     },
     {
-      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.20.2/miller-6.20.2-linux-386.rpm",
+      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-linux-386.rpm",
       "content_type": "application/x-rpm",
-      "created_at": "2026-07-04T19:28:46Z",
-      "digest": "sha256:47e32ec0630a8f889e1d879c23235ac96e5ed2cda45dccc5a36fc35eb8024131",
-      "id": 466557220,
+      "created_at": "2026-08-10T13:56:09Z",
+      "digest": "sha256:983e636c39136517149d92f32bb25182bda55010577bd898ff99afe07a1e2a14",
+      "id": 508818226,
       "label": "",
-      "name": "miller-6.20.2-linux-386.rpm",
-      "node_id": "RA_kwDOAhYdrs4bzxkk",
-      "size": 5485907,
+      "name": "miller-6.21.0-linux-386.rpm",
+      "node_id": "RA_kwDOAhYdrs4eU_My",
+      "size": 5569042,
       "state": "uploaded",
-      "updated_at": "2026-07-04T19:28:46Z",
+      "updated_at": "2026-08-10T13:56:10Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -383,20 +383,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/466557220"
+      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/508818226"
     },
     {
-      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.20.2/miller-6.20.2-linux-386.tar.gz",
+      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-linux-386.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2026-07-04T19:28:41Z",
-      "digest": "sha256:fbd1b135834ad91db180fe00619a2f11042c6b5869a1b04aaa2be511a1b6c5cd",
-      "id": 466557173,
+      "created_at": "2026-08-10T13:56:04Z",
+      "digest": "sha256:4a3509b9e6ed553a7ae1286080b119f891ad0e3da3eac56e76a1ebfb9bae7e69",
+      "id": 508818095,
       "label": "",
-      "name": "miller-6.20.2-linux-386.tar.gz",
-      "node_id": "RA_kwDOAhYdrs4bzxj1",
-      "size": 5505674,
+      "name": "miller-6.21.0-linux-386.tar.gz",
+      "node_id": "RA_kwDOAhYdrs4eU_Kv",
+      "size": 5593468,
       "state": "uploaded",
-      "updated_at": "2026-07-04T19:28:42Z",
+      "updated_at": "2026-08-10T13:56:05Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -418,20 +418,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/466557173"
+      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/508818095"
     },
     {
-      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.20.2/miller-6.20.2-linux-amd64.deb",
+      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-linux-amd64.deb",
       "content_type": "application/vnd.debian.binary-package",
-      "created_at": "2026-07-04T19:28:43Z",
-      "digest": "sha256:8e1d1f02203f0c5417dc06fac586cab0da79f875a9230704fee684f35f8f388c",
-      "id": 466557193,
+      "created_at": "2026-08-10T13:56:09Z",
+      "digest": "sha256:93a3d96275107cfba1a8d62816ddef685d2e8d6e2d41cbcd0cac37939633a738",
+      "id": 508818232,
       "label": "",
-      "name": "miller-6.20.2-linux-amd64.deb",
-      "node_id": "RA_kwDOAhYdrs4bzxkJ",
-      "size": 5856118,
+      "name": "miller-6.21.0-linux-amd64.deb",
+      "node_id": "RA_kwDOAhYdrs4eU_M4",
+      "size": 5950548,
       "state": "uploaded",
-      "updated_at": "2026-07-04T19:28:44Z",
+      "updated_at": "2026-08-10T13:56:10Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -453,20 +453,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/466557193"
+      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/508818232"
     },
     {
-      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.20.2/miller-6.20.2-linux-amd64.rpm",
+      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-linux-amd64.rpm",
       "content_type": "application/x-rpm",
-      "created_at": "2026-07-04T19:28:47Z",
-      "digest": "sha256:05e660456e21da910757a7c4082978da3674c06e25f98245f4b2a083ec78d8cb",
-      "id": 466557229,
+      "created_at": "2026-08-10T13:56:09Z",
+      "digest": "sha256:a169accdd615215ffd1b6b92aa7995c1853259493752b5559d9fde5a348750ba",
+      "id": 508818233,
       "label": "",
-      "name": "miller-6.20.2-linux-amd64.rpm",
-      "node_id": "RA_kwDOAhYdrs4bzxkt",
-      "size": 5842805,
+      "name": "miller-6.21.0-linux-amd64.rpm",
+      "node_id": "RA_kwDOAhYdrs4eU_M5",
+      "size": 5944022,
       "state": "uploaded",
-      "updated_at": "2026-07-04T19:28:47Z",
+      "updated_at": "2026-08-10T13:56:10Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -488,20 +488,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/466557229"
+      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/508818233"
     },
     {
-      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.20.2/miller-6.20.2-linux-amd64.tar.gz",
+      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-linux-amd64.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2026-07-04T19:28:39Z",
-      "digest": "sha256:73461cd6469df3a0c14a102d6e19ef04528eda08cbd7aedbce5d32ccc7c0428e",
-      "id": 466557139,
+      "created_at": "2026-08-10T13:56:04Z",
+      "digest": "sha256:22daf43f3afc7c497da0b9480a0d4ef0d39c9bf68b2460068dd0187ed44f7b80",
+      "id": 508818093,
       "label": "",
-      "name": "miller-6.20.2-linux-amd64.tar.gz",
-      "node_id": "RA_kwDOAhYdrs4bzxjT",
-      "size": 5862780,
+      "name": "miller-6.21.0-linux-amd64.tar.gz",
+      "node_id": "RA_kwDOAhYdrs4eU_Kt",
+      "size": 5960002,
       "state": "uploaded",
-      "updated_at": "2026-07-04T19:28:39Z",
+      "updated_at": "2026-08-10T13:56:05Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -523,20 +523,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/466557139"
+      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/508818093"
     },
     {
-      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.20.2/miller-6.20.2-linux-arm64.deb",
+      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-linux-arm64.deb",
       "content_type": "application/vnd.debian.binary-package",
-      "created_at": "2026-07-04T19:28:44Z",
-      "digest": "sha256:aee87aa61c04f51dd41297c7edba919478bef140ca3b94c5af8d8c722bf1f708",
-      "id": 466557199,
+      "created_at": "2026-08-10T13:56:08Z",
+      "digest": "sha256:0e79a5448ed36d19f2a67ec1e185c56c5e5a6bbab57451615de8c97fbdccfa8e",
+      "id": 508818190,
       "label": "",
-      "name": "miller-6.20.2-linux-arm64.deb",
-      "node_id": "RA_kwDOAhYdrs4bzxkP",
-      "size": 5213186,
+      "name": "miller-6.21.0-linux-arm64.deb",
+      "node_id": "RA_kwDOAhYdrs4eU_MO",
+      "size": 5293046,
       "state": "uploaded",
-      "updated_at": "2026-07-04T19:28:44Z",
+      "updated_at": "2026-08-10T13:56:08Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -558,20 +558,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/466557199"
+      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/508818190"
     },
     {
-      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.20.2/miller-6.20.2-linux-arm64.rpm",
+      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-linux-arm64.rpm",
       "content_type": "application/x-rpm",
-      "created_at": "2026-07-04T19:28:45Z",
-      "digest": "sha256:a0bff9444f2df07674fe0d515d2356180f3b2f9298bb5b01495f8e920f8b8f00",
-      "id": 466557212,
+      "created_at": "2026-08-10T13:56:10Z",
+      "digest": "sha256:73564a279762ce9d2dad36376068c33c7e2a8723c4f36548d9b80edb70a2b911",
+      "id": 508818255,
       "label": "",
-      "name": "miller-6.20.2-linux-arm64.rpm",
-      "node_id": "RA_kwDOAhYdrs4bzxkc",
-      "size": 5191895,
+      "name": "miller-6.21.0-linux-arm64.rpm",
+      "node_id": "RA_kwDOAhYdrs4eU_NP",
+      "size": 5272526,
       "state": "uploaded",
-      "updated_at": "2026-07-04T19:28:46Z",
+      "updated_at": "2026-08-10T13:56:11Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -593,20 +593,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/466557212"
+      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/508818255"
     },
     {
-      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.20.2/miller-6.20.2-linux-arm64.tar.gz",
+      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-linux-arm64.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2026-07-04T19:28:39Z",
-      "digest": "sha256:d38f0f42d939609d6806274af67d86c2873acbc64635a3f11aa69fa28038722b",
-      "id": 466557138,
+      "created_at": "2026-08-10T13:56:05Z",
+      "digest": "sha256:3f4bc15993da3039e5aad1f67a114817db5d933a1cde26b6c2edf867de467d27",
+      "id": 508818115,
       "label": "",
-      "name": "miller-6.20.2-linux-arm64.tar.gz",
-      "node_id": "RA_kwDOAhYdrs4bzxjS",
-      "size": 5222375,
+      "name": "miller-6.21.0-linux-arm64.tar.gz",
+      "node_id": "RA_kwDOAhYdrs4eU_LD",
+      "size": 5304155,
       "state": "uploaded",
-      "updated_at": "2026-07-04T19:28:39Z",
+      "updated_at": "2026-08-10T13:56:05Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -628,20 +628,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/466557138"
+      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/508818115"
     },
     {
-      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.20.2/miller-6.20.2-linux-armv6.deb",
+      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-linux-armv6.deb",
       "content_type": "application/vnd.debian.binary-package",
-      "created_at": "2026-07-04T19:28:43Z",
-      "digest": "sha256:f342f2057c66bc37cbad74c76908bd0b1fd9a1ddc018a494925e70c0c1db8046",
-      "id": 466557190,
+      "created_at": "2026-08-10T13:56:08Z",
+      "digest": "sha256:8d6374988815544b0483203602aae907e79be3662e3963d1abedd617d7a56e64",
+      "id": 508818210,
       "label": "",
-      "name": "miller-6.20.2-linux-armv6.deb",
-      "node_id": "RA_kwDOAhYdrs4bzxkG",
-      "size": 5610422,
+      "name": "miller-6.21.0-linux-armv6.deb",
+      "node_id": "RA_kwDOAhYdrs4eU_Mi",
+      "size": 5699882,
       "state": "uploaded",
-      "updated_at": "2026-07-04T19:28:43Z",
+      "updated_at": "2026-08-10T13:56:09Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -663,20 +663,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/466557190"
+      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/508818210"
     },
     {
-      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.20.2/miller-6.20.2-linux-armv6.rpm",
+      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-linux-armv6.rpm",
       "content_type": "application/x-rpm",
-      "created_at": "2026-07-04T19:28:46Z",
-      "digest": "sha256:0872e2419ddee5bcc1c40c0620683698eda4bba71dfd114157b3677b4f7e60b1",
-      "id": 466557223,
+      "created_at": "2026-08-10T13:56:10Z",
+      "digest": "sha256:8a885c9cac586c5b4f652bbbb9155f7059fe26e2f16f7263df959254d2c62e21",
+      "id": 508818251,
       "label": "",
-      "name": "miller-6.20.2-linux-armv6.rpm",
-      "node_id": "RA_kwDOAhYdrs4bzxkn",
-      "size": 5582495,
+      "name": "miller-6.21.0-linux-armv6.rpm",
+      "node_id": "RA_kwDOAhYdrs4eU_NL",
+      "size": 5677255,
       "state": "uploaded",
-      "updated_at": "2026-07-04T19:28:47Z",
+      "updated_at": "2026-08-10T13:56:10Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -698,20 +698,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/466557223"
+      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/508818251"
     },
     {
-      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.20.2/miller-6.20.2-linux-armv6.tar.gz",
+      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-linux-armv6.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2026-07-04T19:28:41Z",
-      "digest": "sha256:f4451f7045b5b49f0a5f9175eb15526df833ea546c00c00d2172fe6a548e2414",
-      "id": 466557169,
+      "created_at": "2026-08-10T13:56:06Z",
+      "digest": "sha256:7ab898b4ac38a33633dda33c5f8140fdf140baad619cecec21d329403b3e0589",
+      "id": 508818126,
       "label": "",
-      "name": "miller-6.20.2-linux-armv6.tar.gz",
-      "node_id": "RA_kwDOAhYdrs4bzxjx",
-      "size": 5618556,
+      "name": "miller-6.21.0-linux-armv6.tar.gz",
+      "node_id": "RA_kwDOAhYdrs4eU_LO",
+      "size": 5710401,
       "state": "uploaded",
-      "updated_at": "2026-07-04T19:28:41Z",
+      "updated_at": "2026-08-10T13:56:06Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -733,20 +733,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/466557169"
+      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/508818126"
     },
     {
-      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.20.2/miller-6.20.2-linux-armv7.deb",
+      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-linux-armv7.deb",
       "content_type": "application/vnd.debian.binary-package",
-      "created_at": "2026-07-04T19:28:43Z",
-      "digest": "sha256:9857813f04f94c1895e8e98b9b4757715614ca122b96094dc2e3b23ffc74514e",
-      "id": 466557189,
+      "created_at": "2026-08-10T13:56:08Z",
+      "digest": "sha256:e5b998008eb25b4d8ecfdedaaac0b34ed4b996e1bbed321255e918fb281b69ad",
+      "id": 508818188,
       "label": "",
-      "name": "miller-6.20.2-linux-armv7.deb",
-      "node_id": "RA_kwDOAhYdrs4bzxkF",
-      "size": 5580870,
+      "name": "miller-6.21.0-linux-armv7.deb",
+      "node_id": "RA_kwDOAhYdrs4eU_MM",
+      "size": 5671780,
       "state": "uploaded",
-      "updated_at": "2026-07-04T19:28:43Z",
+      "updated_at": "2026-08-10T13:56:08Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -768,20 +768,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/466557189"
+      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/508818188"
     },
     {
-      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.20.2/miller-6.20.2-linux-armv7.rpm",
+      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-linux-armv7.rpm",
       "content_type": "application/x-rpm",
-      "created_at": "2026-07-04T19:28:46Z",
-      "digest": "sha256:10ef20eaf22a03cc94ef0609c8337158ca1db1a32f82bb54974e3b96decb3f94",
-      "id": 466557222,
+      "created_at": "2026-08-10T13:56:08Z",
+      "digest": "sha256:8b383bcf8b5e19d75ef270a0dacd889d023dbb7d0e410f22f5b90b608fd44092",
+      "id": 508818211,
       "label": "",
-      "name": "miller-6.20.2-linux-armv7.rpm",
-      "node_id": "RA_kwDOAhYdrs4bzxkm",
-      "size": 5555248,
+      "name": "miller-6.21.0-linux-armv7.rpm",
+      "node_id": "RA_kwDOAhYdrs4eU_Mj",
+      "size": 5644502,
       "state": "uploaded",
-      "updated_at": "2026-07-04T19:28:47Z",
+      "updated_at": "2026-08-10T13:56:09Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -803,20 +803,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/466557222"
+      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/508818211"
     },
     {
-      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.20.2/miller-6.20.2-linux-armv7.tar.gz",
+      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-linux-armv7.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2026-07-04T19:28:39Z",
-      "digest": "sha256:4e1bc6240340b7adc944ddda33463f6fb788c6ae0d195713ab0a38ae7a5135ed",
-      "id": 466557140,
+      "created_at": "2026-08-10T13:56:04Z",
+      "digest": "sha256:e7188138b39e41170b4ddb2f3089bcb5e277c3c455a8f8cfc8e58d823a0ecc87",
+      "id": 508818092,
       "label": "",
-      "name": "miller-6.20.2-linux-armv7.tar.gz",
-      "node_id": "RA_kwDOAhYdrs4bzxjU",
-      "size": 5588507,
+      "name": "miller-6.21.0-linux-armv7.tar.gz",
+      "node_id": "RA_kwDOAhYdrs4eU_Ks",
+      "size": 5680457,
       "state": "uploaded",
-      "updated_at": "2026-07-04T19:28:40Z",
+      "updated_at": "2026-08-10T13:56:05Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -838,20 +838,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/466557140"
+      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/508818092"
     },
     {
-      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.20.2/miller-6.20.2-linux-ppc64le.deb",
+      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-linux-ppc64le.deb",
       "content_type": "application/vnd.debian.binary-package",
-      "created_at": "2026-07-04T19:28:44Z",
-      "digest": "sha256:1afe7faae11d926fdca870f4c22e7e2193de43addc82182282f79a21533d6c33",
-      "id": 466557200,
+      "created_at": "2026-08-10T13:56:08Z",
+      "digest": "sha256:ec4c2549249b009abb2ba0e8d29fc8beeef14f4b1db427253c1b2206ea5d3ab0",
+      "id": 508818192,
       "label": "",
-      "name": "miller-6.20.2-linux-ppc64le.deb",
-      "node_id": "RA_kwDOAhYdrs4bzxkQ",
-      "size": 5219888,
+      "name": "miller-6.21.0-linux-ppc64le.deb",
+      "node_id": "RA_kwDOAhYdrs4eU_MQ",
+      "size": 5305498,
       "state": "uploaded",
-      "updated_at": "2026-07-04T19:28:45Z",
+      "updated_at": "2026-08-10T13:56:08Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -873,20 +873,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/466557200"
+      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/508818192"
     },
     {
-      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.20.2/miller-6.20.2-linux-ppc64le.rpm",
+      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-linux-ppc64le.rpm",
       "content_type": "application/x-rpm",
-      "created_at": "2026-07-04T19:28:45Z",
-      "digest": "sha256:339d0c1b8e0a68456ae58ab3456cd34274e43796b0a7ef6e6d868c3dafc9f93c",
-      "id": 466557205,
+      "created_at": "2026-08-10T13:56:10Z",
+      "digest": "sha256:4e5276bcdde2fed959b37ec3a8b76d4c224561910d291c76c48d9ea0e7130746",
+      "id": 508818268,
       "label": "",
-      "name": "miller-6.20.2-linux-ppc64le.rpm",
-      "node_id": "RA_kwDOAhYdrs4bzxkV",
-      "size": 5194234,
+      "name": "miller-6.21.0-linux-ppc64le.rpm",
+      "node_id": "RA_kwDOAhYdrs4eU_Nc",
+      "size": 5282528,
       "state": "uploaded",
-      "updated_at": "2026-07-04T19:28:45Z",
+      "updated_at": "2026-08-10T13:56:11Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -908,20 +908,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/466557205"
+      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/508818268"
     },
     {
-      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.20.2/miller-6.20.2-linux-ppc64le.tar.gz",
+      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-linux-ppc64le.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2026-07-04T19:28:42Z",
-      "digest": "sha256:17d73d564266d6f778255aa12f3f51da32425ce9504fa0a5d43db6f7dfe400a3",
-      "id": 466557181,
+      "created_at": "2026-08-10T13:56:05Z",
+      "digest": "sha256:af9c514f344b137f1b725af446f162a2c95d768c5b928681355411eae6c418a3",
+      "id": 508818114,
       "label": "",
-      "name": "miller-6.20.2-linux-ppc64le.tar.gz",
-      "node_id": "RA_kwDOAhYdrs4bzxj9",
-      "size": 5229234,
+      "name": "miller-6.21.0-linux-ppc64le.tar.gz",
+      "node_id": "RA_kwDOAhYdrs4eU_LC",
+      "size": 5312161,
       "state": "uploaded",
-      "updated_at": "2026-07-04T19:28:42Z",
+      "updated_at": "2026-08-10T13:56:05Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -943,20 +943,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/466557181"
+      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/508818114"
     },
     {
-      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.20.2/miller-6.20.2-linux-riscv64.deb",
+      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-linux-riscv64.deb",
       "content_type": "application/vnd.debian.binary-package",
-      "created_at": "2026-07-04T19:28:44Z",
-      "digest": "sha256:2a51050b87d718b189a0aa142c6bfc1c60617e82868d18a5a8b0ded5bc40a96b",
-      "id": 466557202,
+      "created_at": "2026-08-10T13:56:08Z",
+      "digest": "sha256:ff70980ad9ffbe19bf6e1e001e0f7586cef842cd12dd3cec46232de0cb8acbe9",
+      "id": 508818207,
       "label": "",
-      "name": "miller-6.20.2-linux-riscv64.deb",
-      "node_id": "RA_kwDOAhYdrs4bzxkS",
-      "size": 5539436,
+      "name": "miller-6.21.0-linux-riscv64.deb",
+      "node_id": "RA_kwDOAhYdrs4eU_Mf",
+      "size": 5630452,
       "state": "uploaded",
-      "updated_at": "2026-07-04T19:28:45Z",
+      "updated_at": "2026-08-10T13:56:09Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -978,20 +978,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/466557202"
+      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/508818207"
     },
     {
-      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.20.2/miller-6.20.2-linux-riscv64.rpm",
+      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-linux-riscv64.rpm",
       "content_type": "application/x-rpm",
-      "created_at": "2026-07-04T19:28:46Z",
-      "digest": "sha256:898133149e568dea4f05965ac8ec33932f3b37042eedec40915720bf9995f1c7",
-      "id": 466557219,
+      "created_at": "2026-08-10T13:56:11Z",
+      "digest": "sha256:8b14dd3f9314b43433871ed6c2345072b551e2612769780e3eb29af1146adefa",
+      "id": 508818278,
       "label": "",
-      "name": "miller-6.20.2-linux-riscv64.rpm",
-      "node_id": "RA_kwDOAhYdrs4bzxkj",
-      "size": 5512887,
+      "name": "miller-6.21.0-linux-riscv64.rpm",
+      "node_id": "RA_kwDOAhYdrs4eU_Nm",
+      "size": 5600930,
       "state": "uploaded",
-      "updated_at": "2026-07-04T19:28:46Z",
+      "updated_at": "2026-08-10T13:56:11Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1013,20 +1013,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/466557219"
+      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/508818278"
     },
     {
-      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.20.2/miller-6.20.2-linux-riscv64.tar.gz",
+      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-linux-riscv64.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2026-07-04T19:28:40Z",
-      "digest": "sha256:7e7dc0034d1e5cbb4f0ac3f2256ba9c548e8d7b1c6ed5b05623cc6e02020274c",
-      "id": 466557151,
+      "created_at": "2026-08-10T13:56:07Z",
+      "digest": "sha256:1a20ab651100a3e41e32a04eb7e59b4b2cf99a651de70987ce73d9e42d5eef2d",
+      "id": 508818162,
       "label": "",
-      "name": "miller-6.20.2-linux-riscv64.tar.gz",
-      "node_id": "RA_kwDOAhYdrs4bzxjf",
-      "size": 5543708,
+      "name": "miller-6.21.0-linux-riscv64.tar.gz",
+      "node_id": "RA_kwDOAhYdrs4eU_Ly",
+      "size": 5633185,
       "state": "uploaded",
-      "updated_at": "2026-07-04T19:28:40Z",
+      "updated_at": "2026-08-10T13:56:07Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1048,20 +1048,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/466557151"
+      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/508818162"
     },
     {
-      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.20.2/miller-6.20.2-linux-s390x.deb",
+      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-linux-s390x.deb",
       "content_type": "application/vnd.debian.binary-package",
-      "created_at": "2026-07-04T19:28:43Z",
-      "digest": "sha256:0544dc0775788cb6e2ee7b21998dc9a0467411d87c0606cef32779c6b45b7fca",
-      "id": 466557197,
+      "created_at": "2026-08-10T13:56:10Z",
+      "digest": "sha256:606fcafc626f3dc52a12418405d5e8f5c182bd69b292e27448d8eb8f085960df",
+      "id": 508818243,
       "label": "",
-      "name": "miller-6.20.2-linux-s390x.deb",
-      "node_id": "RA_kwDOAhYdrs4bzxkN",
-      "size": 5681988,
+      "name": "miller-6.21.0-linux-s390x.deb",
+      "node_id": "RA_kwDOAhYdrs4eU_ND",
+      "size": 5773072,
       "state": "uploaded",
-      "updated_at": "2026-07-04T19:28:44Z",
+      "updated_at": "2026-08-10T13:56:10Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1083,20 +1083,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/466557197"
+      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/508818243"
     },
     {
-      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.20.2/miller-6.20.2-linux-s390x.rpm",
+      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-linux-s390x.rpm",
       "content_type": "application/x-rpm",
-      "created_at": "2026-07-04T19:28:47Z",
-      "digest": "sha256:a95ed9b4a41ab2e161eb604585c5c92c6fa1bbdcb59a60651e3c7f996a30d8c3",
-      "id": 466557228,
+      "created_at": "2026-08-10T13:56:10Z",
+      "digest": "sha256:b7fd4dc845609ee795675a4267c991bb80b11d2c081e5abb7ee0f3262caf1ec8",
+      "id": 508818259,
       "label": "",
-      "name": "miller-6.20.2-linux-s390x.rpm",
-      "node_id": "RA_kwDOAhYdrs4bzxks",
-      "size": 5669628,
+      "name": "miller-6.21.0-linux-s390x.rpm",
+      "node_id": "RA_kwDOAhYdrs4eU_NT",
+      "size": 5760336,
       "state": "uploaded",
-      "updated_at": "2026-07-04T19:28:47Z",
+      "updated_at": "2026-08-10T13:56:11Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1118,20 +1118,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/466557228"
+      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/508818259"
     },
     {
-      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.20.2/miller-6.20.2-linux-s390x.tar.gz",
+      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-linux-s390x.tar.gz",
       "content_type": "application/gzip",
-      "created_at": "2026-07-04T19:28:40Z",
-      "digest": "sha256:af78252b7709bdfabd0a97b3cdc6f2306df1dd10841d91317940fdf20586187d",
-      "id": 466557165,
+      "created_at": "2026-08-10T13:56:07Z",
+      "digest": "sha256:15d6a03efa4ef006f8cf850799c819358d0d168fcc8f6db296a961a51f604d27",
+      "id": 508818149,
       "label": "",
-      "name": "miller-6.20.2-linux-s390x.tar.gz",
-      "node_id": "RA_kwDOAhYdrs4bzxjt",
-      "size": 5685857,
+      "name": "miller-6.21.0-linux-s390x.tar.gz",
+      "node_id": "RA_kwDOAhYdrs4eU_Ll",
+      "size": 5784396,
       "state": "uploaded",
-      "updated_at": "2026-07-04T19:28:41Z",
+      "updated_at": "2026-08-10T13:56:07Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1153,20 +1153,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/466557165"
+      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/508818149"
     },
     {
-      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.20.2/miller-6.20.2-windows-386.zip",
+      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-windows-386.zip",
       "content_type": "application/zip",
-      "created_at": "2026-07-04T19:28:41Z",
-      "digest": "sha256:84095befdd5827980632034f89b6fe05f9b449fd72df356c86b3864f5db4eadc",
-      "id": 466557168,
+      "created_at": "2026-08-10T13:56:06Z",
+      "digest": "sha256:042ab83e1b7dae4d5cd37517efd52f7e2d034a74211f3b07d87e5d4e97e3d957",
+      "id": 508818129,
       "label": "",
-      "name": "miller-6.20.2-windows-386.zip",
-      "node_id": "RA_kwDOAhYdrs4bzxjw",
-      "size": 5790262,
+      "name": "miller-6.21.0-windows-386.zip",
+      "node_id": "RA_kwDOAhYdrs4eU_LR",
+      "size": 5884565,
       "state": "uploaded",
-      "updated_at": "2026-07-04T19:28:41Z",
+      "updated_at": "2026-08-10T13:56:06Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1188,20 +1188,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/466557168"
+      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/508818129"
     },
     {
-      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.20.2/miller-6.20.2-windows-amd64.zip",
+      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-windows-amd64.zip",
       "content_type": "application/zip",
-      "created_at": "2026-07-04T19:28:40Z",
-      "digest": "sha256:c49cb6c1dd3a5a8c7b63f64e6758c910caf4b4b2aae040e75946aaa5bff77b6d",
-      "id": 466557152,
+      "created_at": "2026-08-10T13:56:05Z",
+      "digest": "sha256:e4730fafce659db22c619c0fde51eba050edc584a0804fd2c8b2883c8f8d8250",
+      "id": 508818118,
       "label": "",
-      "name": "miller-6.20.2-windows-amd64.zip",
-      "node_id": "RA_kwDOAhYdrs4bzxjg",
-      "size": 6011480,
+      "name": "miller-6.21.0-windows-amd64.zip",
+      "node_id": "RA_kwDOAhYdrs4eU_LG",
+      "size": 6109224,
       "state": "uploaded",
-      "updated_at": "2026-07-04T19:28:40Z",
+      "updated_at": "2026-08-10T13:56:06Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1223,20 +1223,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/466557152"
+      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/508818118"
     },
     {
-      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.20.2/miller-6.20.2-windows-arm64.zip",
+      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0-windows-arm64.zip",
       "content_type": "application/zip",
-      "created_at": "2026-07-04T19:28:40Z",
-      "digest": "sha256:680b999682a9c62edb4a2de0df2b6617b447cb3b003b5cbcc77128e7a97f1e97",
-      "id": 466557150,
+      "created_at": "2026-08-10T13:56:07Z",
+      "digest": "sha256:2f50142276a2058d00742335842831c987cb1961390a7ce7084eee2da6e7f7d5",
+      "id": 508818150,
       "label": "",
-      "name": "miller-6.20.2-windows-arm64.zip",
-      "node_id": "RA_kwDOAhYdrs4bzxje",
-      "size": 5283295,
+      "name": "miller-6.21.0-windows-arm64.zip",
+      "node_id": "RA_kwDOAhYdrs4eU_Lm",
+      "size": 5369064,
       "state": "uploaded",
-      "updated_at": "2026-07-04T19:28:40Z",
+      "updated_at": "2026-08-10T13:56:07Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -1258,20 +1258,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/466557150"
+      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/508818150"
     },
     {
-      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.20.2/miller-6.20.2.tar.gz",
+      "browser_download_url": "https://github.com/johnkerl/miller/releases/download/v6.21.0/miller-6.21.0.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2026-07-04T19:21:01Z",
-      "digest": "sha256:2762f1f547a36280ceadb8c1771733017b5aad6bf6bad5f48db27fbf9bcfda7e",
-      "id": 466552921,
+      "created_at": "2026-08-10T13:48:38Z",
+      "digest": "sha256:d05b6edb506c16d448e9c66308b0169c80c93e0f3f2ef6ad248d22520684990f",
+      "id": 508810241,
       "label": "",
-      "name": "miller-6.20.2.tar.gz",
-      "node_id": "RA_kwDOAhYdrs4bzwhZ",
-      "size": 3420821,
+      "name": "miller-6.21.0.tar.gz",
+      "node_id": "RA_kwDOAhYdrs4eU9QB",
+      "size": 3481499,
       "state": "uploaded",
-      "updated_at": "2026-07-04T19:21:02Z",
+      "updated_at": "2026-08-10T13:48:38Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/u/2008794?v=4",
         "events_url": "https://api.github.com/users/johnkerl/events{/privacy}",
@@ -1293,10 +1293,10 @@
         "url": "https://api.github.com/users/johnkerl",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/466552921"
+      "url": "https://api.github.com/repos/johnkerl/miller/releases/assets/508810241"
     }
   ],
-  "assets_url": "https://api.github.com/repos/johnkerl/miller/releases/349021910/assets",
+  "assets_url": "https://api.github.com/repos/johnkerl/miller/releases/367946561/assets",
   "author": {
     "avatar_url": "https://avatars.githubusercontent.com/u/2008794?v=4",
     "events_url": "https://api.github.com/users/johnkerl/events{/privacy}",
@@ -1318,21 +1318,21 @@
     "url": "https://api.github.com/users/johnkerl",
     "user_view_type": "public"
   },
-  "body": "# What's new in 6.20.2\r\n\r\n* Miller now treats AI agents as first-class users\r\n* There is shell tab-completion for `bash` and `zsh`\r\n* There is a new `bytes` datatype, along with base64 encode/decode support\r\n\r\n(Note: versions 6.20.0 and 6.20.1 were in error and are not released.)\r\n\r\n## Miller and AI\r\n\r\nMiller now treats AI agents as first-class users. Everything an agent needs to drive Miller well --\r\ndiscovering what exists, learning your data's shape, validating expressions before running them, and\r\nrecovering from errors -- is now a built-in, structured feature of the `mlr` binary, packaged for\r\nMCP-speaking agents (Claude Code, Claude Desktop, Cursor, ...) via a one-line setup. Your choice of\r\n\r\n```\r\n# Claude\r\nmlr skill install ~/.claude/skills/miller\r\n# Codex and Gemini\r\nmlr skill install ~/.agents/skills/miller\r\n```\r\n\r\nor\r\n\r\n```\r\n# Claude\r\nclaude mcp add miller --  mlr mcp\r\n# Codex\r\ncodex mcp add miller --  mlr mcp\r\n# Gemini\r\ngemini mcp add miller mlr mcp\r\n```\r\n\r\nSee the new [Miller and AI](https://miller.readthedocs.io/en/latest/ai/) docs page for the quick start.\r\n\r\nReference pages:\r\n\r\n* https://miller.readthedocs.io/en/latest/ai\r\n* https://miller.readthedocs.io/en/latest/agent-skill\r\n* https://miller.readthedocs.io/en/latest/mcp-server\r\n* https://miller.readthedocs.io/en/latest/ai-support\r\n\r\nPRs:\r\n\r\n* Machine-readable help catalog, `mlr help --as-json`: by @johnkerl in https://github.com/johnkerl/miller/pull/2099, https://github.com/johnkerl/miller/pull/2106\r\n* JSON capability index and `mlr which` intent router by @johnkerl in https://github.com/johnkerl/miller/pull/2107\r\n* Structured verb options, with enum value-sets by @johnkerl in https://github.com/johnkerl/miller/pull/2111\r\n* Structured error output, `--errors-json`, with hints and did-you-mean suggestions by @johnkerl in https://github.com/johnkerl/miller/pull/2113\r\n* DSL validate/dry-run, `mlr put --explain` / `mlr filter --explain` by @johnkerl in https://github.com/johnkerl/miller/pull/2131\r\n* New `mlr describe` verb: field names, types, cardinality, and value domains of your data in one pass by @johnkerl in https://github.com/johnkerl/miller/pull/2132\r\n* New `mlr mcp` MCP server and agent playbook, with a `--no-shell` sandbox flag by @johnkerl in https://github.com/johnkerl/miller/pull/2133\r\n* Roadmap doc by @johnkerl in https://github.com/johnkerl/miller/pull/2103; \"Miller and AI\" docs page by @johnkerl in https://github.com/johnkerl/miller/pull/2134\r\n\r\n## Shell tab-completion for bash and zsh\r\n\r\nDocumentation:\r\n\r\nhttps://miller.readthedocs.io/en/latest/shell-completion/\r\n\r\nPR:\r\n\r\n* Shell tab-completion for bash and zsh by @johnkerl in https://github.com/johnkerl/miller/pull/2096\r\n\r\n## A first-class bytes type in the DSL\r\n\r\nDocs:\r\n\r\n* https://miller.readthedocs.io/en/latest/reference-main-data-types/\r\n* https://miller.readthedocs.io/en/latest/reference-dsl-builtin-functions/#base64_encode\r\n* https://miller.readthedocs.io/en/latest/reference-dsl-builtin-functions/#base64_decode\r\n\r\nPR:\r\n\r\n* New `bytes` type with `b\"...\"` literals and base64/hex codecs by @johnkerl in https://github.com/johnkerl/miller/pull/2122\r\n\r\n## More features\r\n\r\n* New `tail -n +N` and `head -n -N` options by @farnoy in https://github.com/johnkerl/miller/pull/2071\r\n* Long-overdue `--md` flag by @johnkerl in https://github.com/johnkerl/miller/pull/2100\r\n* Windows-arm64 releases by @teo-tsirpanis in https://github.com/johnkerl/miller/pull/2127\r\n\r\n## Bug fixes\r\n\r\n* Fix masked unset-on-array error path (along with govet lint findings) by @johnkerl in https://github.com/johnkerl/miller/pull/2129\r\n\r\n## Documentation\r\n\r\n* CSV and JSON troubleshooting tips by @dashitongzhi in https://github.com/johnkerl/miller/pull/2123, with page-refactor by @johnkerl in https://github.com/johnkerl/miller/pull/2128\r\n* Document time-conversion thread safety by @dashitongzhi in https://github.com/johnkerl/miller/pull/2115\r\n* PNG graphics in perf docs for issue-2084 perf mods by @johnkerl in https://github.com/johnkerl/miller/pull/2095\r\n\r\n## Internals\r\n\r\n* golangci-lint CI workflow by @dashitongzhi in https://github.com/johnkerl/miller/pull/2076\r\n* Lint fixes bringing staticcheck and errcheck to zero by @johnkerl in https://github.com/johnkerl/miller/pull/2108, https://github.com/johnkerl/miller/pull/2110, https://github.com/johnkerl/miller/pull/2112, https://github.com/johnkerl/miller/pull/2130\r\n* Strip dead code from pkg/ by @johnkerl in https://github.com/johnkerl/miller/pull/2121\r\n* CI/actions updates by @johnkerl in https://github.com/johnkerl/miller/pull/2119 and by @dependabot in https://github.com/johnkerl/miller/pull/2101, https://github.com/johnkerl/miller/pull/2102, https://github.com/johnkerl/miller/pull/2104, https://github.com/johnkerl/miller/pull/2105, https://github.com/johnkerl/miller/pull/2114, https://github.com/johnkerl/miller/pull/2116, https://github.com/johnkerl/miller/pull/2118, https://github.com/johnkerl/miller/pull/2124, https://github.com/johnkerl/miller/pull/2125, https://github.com/johnkerl/miller/pull/2126\r\n* Dependency bumps by @dependabot in https://github.com/johnkerl/miller/pull/2117, https://github.com/johnkerl/miller/pull/2120\r\n\r\n## New Contributors\r\n\r\n* @farnoy made their first contribution in https://github.com/johnkerl/miller/pull/2071\r\n* @dashitongzhi made their first contribution in https://github.com/johnkerl/miller/pull/2076\r\n* @teo-tsirpanis made their first contribution in https://github.com/johnkerl/miller/pull/2127\r\n\r\n**Full Changelog**: https://github.com/johnkerl/miller/compare/v6.19.0...v6.20.0\r\n",
-  "created_at": "2026-07-04T19:18:18Z",
+  "body": "## New verbs and DSL features\r\n\r\n- `mlr rank` verb, `sparkline` DSL function and verb, `bootstrap-ci` verb for bootstrap-resampling confidence intervals\r\n- Sliding-window mode for `stats1 -w {n}`, more `step -a` back-reference options\r\n- Positional placeholders (`{1}`, etc.) in the `format` DSL function\r\n- `--right-align-numeric` for PPRINT/Markdown output\r\n- Named `.mlrrc` profile sections via `--profile`/`-P`\r\n- `mlr join --ignore-empty` to skip pairing on empty join keys\r\n- New GNU recutils (`.rec`) I/O format\r\n- YAML now follows JSON's auto-flatten/auto-unflatten behavior\r\n\r\n## Documentation\r\n\r\n- Numerous new recipes/guides: wide-CSV transposition, updating a CSV from partial downloads, merging files with colliding column names, combining CSVs with different headers, SQL-style join examples, preprocessing join's left file, --lazy-quotes semantics, malformed-TZ troubleshooting, STAN-format JSON-array reshaping\r\n- Clarified docs for `uniq`, `join` format flags, `summary` field types, `NF` dynamism\r\n- Published an epub of the docs on https://miller.readthedocs.io/en/latest\r\n\r\n## Bug fixes\r\n\r\n- `tee`/`split` no longer leak downstream mutations into side-output files (#1671)\r\n- Fixed float formatting (e.g. 004.56) to emit valid JSON numbers\r\n- `--ors crlf` is now honored for CSV output (#1810)\r\n- `reorder -r` groups matched fields by regex order, not record order (#1325)\r\n- Fixed dedupe-field-names clobbering values on ragged short rows (#1997)\r\n- `--skip-trivial-records` now exits 0 on trailing blank CSV/TSV lines\r\n- `join` exits nonzero if the left file can't be read (#2169)\r\n- DKVPX reader now honors `--ifs`/`--ips` instead of hardcoding comma/equals\r\n- Fixed recutils parser for empty fields with `+`-continuation\r\n- Fixed a mid-stream error-loss race causing flaky exit codes on transformer errors\r\n\r\n## Internal/infra\r\n\r\n- Multi-phase removal of `os.Exit` calls below the entrypoint (5 phases) for cleaner exit-code handling\r\n- Guard against release tags being cut before the version-bump commit lands\r\n- Plans checked in for future work: exit-handling, recutils, r-strings, format-from-extension inference, nested/JSON-style accessors in non-DSL verbs\r\n- Routine dependency bumps (golang.org/x/*, codeql-action, go-isatty, etc.)\r\n\r\nFull diff: https://github.com/johnkerl/miller/compare/v6.20.2...v6.21.0\r\n",
+  "created_at": "2026-08-10T13:44:03Z",
   "draft": false,
-  "html_url": "https://github.com/johnkerl/miller/releases/tag/v6.20.2",
-  "id": 349021910,
+  "html_url": "https://github.com/johnkerl/miller/releases/tag/v6.21.0",
+  "id": 367946561,
   "immutable": false,
-  "name": "Miller 6.20.2: Miller and AI, bash/zsh tab-completion, bytes datatype",
-  "node_id": "RE_kwDOAhYdrs4UzabW",
+  "name": "v6.21.0 New verbs and DSL features",
+  "node_id": "RE_kwDOAhYdrs4V7mtB",
   "prerelease": false,
-  "published_at": "2026-07-04T19:21:00Z",
-  "tag_name": "v6.20.2",
-  "tarball_url": "https://api.github.com/repos/johnkerl/miller/tarball/v6.20.2",
+  "published_at": "2026-08-10T13:48:36Z",
+  "tag_name": "v6.21.0",
+  "tarball_url": "https://api.github.com/repos/johnkerl/miller/tarball/v6.21.0",
   "target_commitish": "main",
-  "updated_at": "2026-07-04T19:48:00Z",
-  "upload_url": "https://uploads.github.com/repos/johnkerl/miller/releases/349021910/assets{?name,label}",
-  "url": "https://api.github.com/repos/johnkerl/miller/releases/349021910",
-  "zipball_url": "https://api.github.com/repos/johnkerl/miller/zipball/v6.20.2"
+  "updated_at": "2026-08-10T15:02:10Z",
+  "upload_url": "https://uploads.github.com/repos/johnkerl/miller/releases/367946561/assets{?name,label}",
+  "url": "https://api.github.com/repos/johnkerl/miller/releases/367946561",
+  "zipball_url": "https://api.github.com/repos/johnkerl/miller/zipball/v6.21.0"
 }
