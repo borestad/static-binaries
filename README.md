@@ -30,9 +30,9 @@ Binaries with bundled third-party notice requirements also have adjacent
 <!-- BINARIES:START -->
 ## 📦 Available Binaries
 
-> **Last updated:** 2026-08-20 10:16 UTC
+> **Last updated:** 2026-08-20 10:17 UTC
 >
-> **Total size:** x86\_64 → 1.0 GiB · x86\_64-upx → 333.6 MiB
+> **Total size:** x86\_64 → 1.0 GiB · x86\_64-upx → 333.8 MiB
 
 | Binary (plain) | Binary (UPX compressed) |
 |---|---|
@@ -133,7 +133,7 @@ Binaries with bundled third-party notice requirements also have adjacent
 | [xml](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/xml)<br/><sub>`69665d3a8cb0` · 3.5 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/xml.LICENSE.txt)</sub> | [xml](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/xml)<br/><sub>`1d04243d4a04` · 1.1 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/xml.LICENSE.txt)</sub> |
 | [xmllint](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/xmllint)<br/><sub>`3f35a3dcd710` · 1.9 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/xmllint.LICENSE.txt)</sub> | [xmllint](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/xmllint)<br/><sub>`347753c96456` · 670.2 KiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/xmllint.LICENSE.txt)</sub> |
 | [yazi](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/yazi)<br/><sub>`758394dd9481` · 16.2 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/yazi.LICENSE.txt)</sub> | [yazi](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/yazi)<br/><sub>`3a08008f0a0b` · 5.5 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/yazi.LICENSE.txt)</sub> |
-| [yq](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/yq)<br/><sub>`63d236f4a08b` · 13.1 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/yq.LICENSE.txt)</sub> | [yq](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/yq)<br/><sub>`8738e535d7eb` · 4.7 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/yq.LICENSE.txt)</sub> |
+| [yq](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/yq)<br/><sub>`8c1996f994b0` · 13.5 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/yq.LICENSE.txt)</sub> | [yq](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/yq)<br/><sub>`1a87814d1f6a` · 4.8 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/yq.LICENSE.txt)</sub> |
 | [zellij](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/zellij)<br/><sub>`c0f9e7f14c7a` · 37.0 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/zellij.LICENSE.txt)</sub> | [zellij](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/zellij)<br/><sub>`60557c6001cd` · 9.7 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/zellij.LICENSE.txt)</sub> |
 | [zoxide](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/zoxide)<br/><sub>`59280bac17cc` · 1.1 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/zoxide.LICENSE.txt)</sub> | [zoxide](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/zoxide)<br/><sub>`919f06d0607e` · 479.3 KiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/zoxide.LICENSE.txt)</sub> |
 <!-- BINARIES:END -->
