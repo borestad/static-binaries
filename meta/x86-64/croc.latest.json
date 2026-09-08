@@ -1,17 +1,17 @@
 {
   "assets": [
     {
-      "browser_download_url": "https://github.com/schollz/croc/releases/download/v11.5.0/croc-web_v11.5.0_Linux-amd64.tar.gz",
+      "browser_download_url": "https://github.com/schollz/croc/releases/download/v11.5.1/croc-web_v11.5.1_Linux-amd64.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2026-09-06T17:21:47Z",
-      "digest": "sha256:194ff6b27ee41f23f720c7431cb5db4772f1abc8abbf7f179e2126a4a9ffa08e",
-      "id": 547460973,
+      "created_at": "2026-09-08T13:48:00Z",
+      "digest": "sha256:a40b4ea70773ef728490a8f8ec9118437db255f0d05c226ad45c093f958c9321",
+      "id": 550590973,
       "label": "",
-      "name": "croc-web_v11.5.0_Linux-amd64.tar.gz",
-      "node_id": "RA_kwDOBmURac4goZdt",
-      "size": 10139924,
+      "name": "croc-web_v11.5.1_Linux-amd64.tar.gz",
+      "node_id": "RA_kwDOBmURac4g0Vn9",
+      "size": 10133226,
       "state": "uploaded",
-      "updated_at": "2026-09-06T17:21:47Z",
+      "updated_at": "2026-09-08T13:48:01Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -33,20 +33,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/schollz/croc/releases/assets/547460973"
+      "url": "https://api.github.com/repos/schollz/croc/releases/assets/550590973"
     },
     {
-      "browser_download_url": "https://github.com/schollz/croc/releases/download/v11.5.0/croc_v11.5.0_checksums.txt",
+      "browser_download_url": "https://github.com/schollz/croc/releases/download/v11.5.1/croc_v11.5.1_checksums.txt",
       "content_type": "text/plain; charset=utf-8",
-      "created_at": "2026-09-06T17:21:50Z",
-      "digest": "sha256:393e01f0fb8f38d6841a2507a508acdece11df78c3f7a48ad8e6a905c4866777",
-      "id": 547461028,
+      "created_at": "2026-09-08T13:48:04Z",
+      "digest": "sha256:d9b20ec60bc36d2a024db087a7f0437e7ef46d6cad1a2bf6b1305231b44107db",
+      "id": 550591146,
       "label": "",
-      "name": "croc_v11.5.0_checksums.txt",
-      "node_id": "RA_kwDOBmURac4goZek",
+      "name": "croc_v11.5.1_checksums.txt",
+      "node_id": "RA_kwDOBmURac4g0Vqq",
       "size": 2069,
       "state": "uploaded",
-      "updated_at": "2026-09-06T17:21:50Z",
+      "updated_at": "2026-09-08T13:48:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -68,20 +68,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/schollz/croc/releases/assets/547461028"
+      "url": "https://api.github.com/repos/schollz/croc/releases/assets/550591146"
     },
     {
-      "browser_download_url": "https://github.com/schollz/croc/releases/download/v11.5.0/croc_v11.5.0_DragonFlyBSD-64bit.tar.gz",
+      "browser_download_url": "https://github.com/schollz/croc/releases/download/v11.5.1/croc_v11.5.1_DragonFlyBSD-64bit.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2026-09-06T17:21:47Z",
-      "digest": "sha256:4d7ebc29a72d353db76bfeeb632c7e7c85a06ebd026dbf7bc00019380ff1cf82",
-      "id": 547460977,
+      "created_at": "2026-09-08T13:48:01Z",
+      "digest": "sha256:d9f99a1b6eb35b48ff9ba1a1017c08fe66903760dd5c4983a31fc82ea5ff9f13",
+      "id": 550590975,
       "label": "",
-      "name": "croc_v11.5.0_DragonFlyBSD-64bit.tar.gz",
-      "node_id": "RA_kwDOBmURac4goZdx",
-      "size": 4066413,
+      "name": "croc_v11.5.1_DragonFlyBSD-64bit.tar.gz",
+      "node_id": "RA_kwDOBmURac4g0Vn_",
+      "size": 4068099,
       "state": "uploaded",
-      "updated_at": "2026-09-06T17:21:47Z",
+      "updated_at": "2026-09-08T13:48:01Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -103,20 +103,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/schollz/croc/releases/assets/547460977"
+      "url": "https://api.github.com/repos/schollz/croc/releases/assets/550590975"
     },
     {
-      "browser_download_url": "https://github.com/schollz/croc/releases/download/v11.5.0/croc_v11.5.0_FreeBSD-64bit.tar.gz",
+      "browser_download_url": "https://github.com/schollz/croc/releases/download/v11.5.1/croc_v11.5.1_FreeBSD-64bit.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2026-09-06T17:21:47Z",
-      "digest": "sha256:065032b460b4050afe99628418cedf08abf1785d1ca4aa55f2e963d93db93746",
-      "id": 547460985,
+      "created_at": "2026-09-08T13:48:01Z",
+      "digest": "sha256:f21a2c625f45b705d6d053894d6220ccd649a627296e6a3dd4e16d7aaa4b0090",
+      "id": 550591005,
       "label": "",
-      "name": "croc_v11.5.0_FreeBSD-64bit.tar.gz",
-      "node_id": "RA_kwDOBmURac4goZd5",
-      "size": 8779622,
+      "name": "croc_v11.5.1_FreeBSD-64bit.tar.gz",
+      "node_id": "RA_kwDOBmURac4g0Vod",
+      "size": 8783452,
       "state": "uploaded",
-      "updated_at": "2026-09-06T17:21:48Z",
+      "updated_at": "2026-09-08T13:48:02Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -138,20 +138,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/schollz/croc/releases/assets/547460985"
+      "url": "https://api.github.com/repos/schollz/croc/releases/assets/550591005"
     },
     {
-      "browser_download_url": "https://github.com/schollz/croc/releases/download/v11.5.0/croc_v11.5.0_FreeBSD-ARM64.tar.gz",
+      "browser_download_url": "https://github.com/schollz/croc/releases/download/v11.5.1/croc_v11.5.1_FreeBSD-ARM64.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2026-09-06T17:21:48Z",
-      "digest": "sha256:623db386b5fd0f3cdb02cce4da24cdeff33139f33efc5c55face8c97e52ff657",
-      "id": 547460986,
+      "created_at": "2026-09-08T13:48:02Z",
+      "digest": "sha256:57f880110413c5336d0446ad2e9ddbcd053126e39c35921244080a6b40a01372",
+      "id": 550591009,
       "label": "",
-      "name": "croc_v11.5.0_FreeBSD-ARM64.tar.gz",
-      "node_id": "RA_kwDOBmURac4goZd6",
-      "size": 7942383,
+      "name": "croc_v11.5.1_FreeBSD-ARM64.tar.gz",
+      "node_id": "RA_kwDOBmURac4g0Voh",
+      "size": 7946017,
       "state": "uploaded",
-      "updated_at": "2026-09-06T17:21:48Z",
+      "updated_at": "2026-09-08T13:48:02Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -173,20 +173,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/schollz/croc/releases/assets/547460986"
+      "url": "https://api.github.com/repos/schollz/croc/releases/assets/550591009"
     },
     {
-      "browser_download_url": "https://github.com/schollz/croc/releases/download/v11.5.0/croc_v11.5.0_Linux-32bit.tar.gz",
+      "browser_download_url": "https://github.com/schollz/croc/releases/download/v11.5.1/croc_v11.5.1_Linux-32bit.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2026-09-06T17:21:48Z",
-      "digest": "sha256:4c6d24c2fc734a5cee02671e26ec18a80f670b2d644553c355ab07a99d252161",
-      "id": 547460987,
+      "created_at": "2026-09-08T13:48:02Z",
+      "digest": "sha256:400177fca8f7ddba6b7cd86237d713b851391a8e62166c902667d48bca79dd1a",
+      "id": 550591010,
       "label": "",
-      "name": "croc_v11.5.0_Linux-32bit.tar.gz",
-      "node_id": "RA_kwDOBmURac4goZd7",
-      "size": 8755479,
+      "name": "croc_v11.5.1_Linux-32bit.tar.gz",
+      "node_id": "RA_kwDOBmURac4g0Voi",
+      "size": 8756587,
       "state": "uploaded",
-      "updated_at": "2026-09-06T17:21:48Z",
+      "updated_at": "2026-09-08T13:48:03Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -208,20 +208,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/schollz/croc/releases/assets/547460987"
+      "url": "https://api.github.com/repos/schollz/croc/releases/assets/550591010"
     },
     {
-      "browser_download_url": "https://github.com/schollz/croc/releases/download/v11.5.0/croc_v11.5.0_Linux-64bit.tar.gz",
+      "browser_download_url": "https://github.com/schollz/croc/releases/download/v11.5.1/croc_v11.5.1_Linux-64bit.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2026-09-06T17:21:48Z",
-      "digest": "sha256:ea040965dec526bd86b756b594a7f3958bbd795a3f7f89d195e8ed836c7bcd6e",
-      "id": 547460992,
+      "created_at": "2026-09-08T13:48:02Z",
+      "digest": "sha256:402f72463581e4665e9e1611e8304709baa09b02104c53f8dce9a56532f9bc6d",
+      "id": 550591018,
       "label": "",
-      "name": "croc_v11.5.0_Linux-64bit.tar.gz",
-      "node_id": "RA_kwDOBmURac4goZeA",
-      "size": 9113678,
+      "name": "croc_v11.5.1_Linux-64bit.tar.gz",
+      "node_id": "RA_kwDOBmURac4g0Voq",
+      "size": 9114946,
       "state": "uploaded",
-      "updated_at": "2026-09-06T17:21:48Z",
+      "updated_at": "2026-09-08T13:48:02Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -243,20 +243,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/schollz/croc/releases/assets/547460992"
+      "url": "https://api.github.com/repos/schollz/croc/releases/assets/550591018"
     },
     {
-      "browser_download_url": "https://github.com/schollz/croc/releases/download/v11.5.0/croc_v11.5.0_Linux-ARM.tar.gz",
+      "browser_download_url": "https://github.com/schollz/croc/releases/download/v11.5.1/croc_v11.5.1_Linux-ARM.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2026-09-06T17:21:48Z",
-      "digest": "sha256:75ff47a19a648038551d25b8a0bbcf29a33005280c9e8b83761981baa3fc1e10",
-      "id": 547460993,
+      "created_at": "2026-09-08T13:48:02Z",
+      "digest": "sha256:e7f00f8914b6587169afe97861b8f5891d719827b75c80195bcb7f74cd0c5fdd",
+      "id": 550591022,
       "label": "",
-      "name": "croc_v11.5.0_Linux-ARM.tar.gz",
-      "node_id": "RA_kwDOBmURac4goZeB",
-      "size": 8646285,
+      "name": "croc_v11.5.1_Linux-ARM.tar.gz",
+      "node_id": "RA_kwDOBmURac4g0Vou",
+      "size": 8648676,
       "state": "uploaded",
-      "updated_at": "2026-09-06T17:21:48Z",
+      "updated_at": "2026-09-08T13:48:02Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -278,20 +278,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/schollz/croc/releases/assets/547460993"
+      "url": "https://api.github.com/repos/schollz/croc/releases/assets/550591022"
     },
     {
-      "browser_download_url": "https://github.com/schollz/croc/releases/download/v11.5.0/croc_v11.5.0_Linux-ARM64.tar.gz",
+      "browser_download_url": "https://github.com/schollz/croc/releases/download/v11.5.1/croc_v11.5.1_Linux-ARM64.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2026-09-06T17:21:48Z",
-      "digest": "sha256:b0d181d5c41b5c3f97e46c3907170b599e351c80c0f2d8d0ecb8c3bd152d924d",
-      "id": 547460996,
+      "created_at": "2026-09-08T13:48:02Z",
+      "digest": "sha256:ef4f3f13f67e9f4e982fde02deab1f080f65e59b68136d67e3bcbe2fbabd9446",
+      "id": 550591060,
       "label": "",
-      "name": "croc_v11.5.0_Linux-ARM64.tar.gz",
-      "node_id": "RA_kwDOBmURac4goZeE",
-      "size": 8247405,
+      "name": "croc_v11.5.1_Linux-ARM64.tar.gz",
+      "node_id": "RA_kwDOBmURac4g0VpU",
+      "size": 8247415,
       "state": "uploaded",
-      "updated_at": "2026-09-06T17:21:49Z",
+      "updated_at": "2026-09-08T13:48:03Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -313,20 +313,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/schollz/croc/releases/assets/547460996"
+      "url": "https://api.github.com/repos/schollz/croc/releases/assets/550591060"
     },
     {
-      "browser_download_url": "https://github.com/schollz/croc/releases/download/v11.5.0/croc_v11.5.0_Linux-ARMv5.tar.gz",
+      "browser_download_url": "https://github.com/schollz/croc/releases/download/v11.5.1/croc_v11.5.1_Linux-ARMv5.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2026-09-06T17:21:48Z",
-      "digest": "sha256:f5b4805ee4a28b5bd98b6ad20eeb7b9eabc4a16c457d3ba1b21bce3a28dc916c",
-      "id": 547460999,
+      "created_at": "2026-09-08T13:48:03Z",
+      "digest": "sha256:5d9f4d1227217f2f77fb5e8f9d0564d546ccc5b40a28b889690a5f4212473168",
+      "id": 550591064,
       "label": "",
-      "name": "croc_v11.5.0_Linux-ARMv5.tar.gz",
-      "node_id": "RA_kwDOBmURac4goZeH",
-      "size": 8667767,
+      "name": "croc_v11.5.1_Linux-ARMv5.tar.gz",
+      "node_id": "RA_kwDOBmURac4g0VpY",
+      "size": 8669661,
       "state": "uploaded",
-      "updated_at": "2026-09-06T17:21:49Z",
+      "updated_at": "2026-09-08T13:48:03Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -348,20 +348,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/schollz/croc/releases/assets/547460999"
+      "url": "https://api.github.com/repos/schollz/croc/releases/assets/550591064"
     },
     {
-      "browser_download_url": "https://github.com/schollz/croc/releases/download/v11.5.0/croc_v11.5.0_Linux-RISCV64.tar.gz",
+      "browser_download_url": "https://github.com/schollz/croc/releases/download/v11.5.1/croc_v11.5.1_Linux-RISCV64.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2026-09-06T17:21:48Z",
-      "digest": "sha256:223c66ec5e46d242d5e8370a1b9132ac19abb788b5f6397594c284227b7dc7d7",
-      "id": 547461000,
+      "created_at": "2026-09-08T13:48:03Z",
+      "digest": "sha256:de3edcda0183b80060543604522ccbdbbf0bd69350a7d02fbf281ba292e890cb",
+      "id": 550591077,
       "label": "",
-      "name": "croc_v11.5.0_Linux-RISCV64.tar.gz",
-      "node_id": "RA_kwDOBmURac4goZeI",
-      "size": 8584892,
+      "name": "croc_v11.5.1_Linux-RISCV64.tar.gz",
+      "node_id": "RA_kwDOBmURac4g0Vpl",
+      "size": 8586141,
       "state": "uploaded",
-      "updated_at": "2026-09-06T17:21:49Z",
+      "updated_at": "2026-09-08T13:48:03Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -383,20 +383,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/schollz/croc/releases/assets/547461000"
+      "url": "https://api.github.com/repos/schollz/croc/releases/assets/550591077"
     },
     {
-      "browser_download_url": "https://github.com/schollz/croc/releases/download/v11.5.0/croc_v11.5.0_macOS-64bit.tar.gz",
+      "browser_download_url": "https://github.com/schollz/croc/releases/download/v11.5.1/croc_v11.5.1_macOS-64bit.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2026-09-06T17:21:49Z",
-      "digest": "sha256:73a08663f9ecbbe854aa5fcea9ea36169d49000f6e9422043274eb45772ba928",
-      "id": 547461017,
+      "created_at": "2026-09-08T13:48:04Z",
+      "digest": "sha256:57e9ecb18057040e61409b329a02de67df782339e04176fc8b75083b71e9e9d3",
+      "id": 550591119,
       "label": "",
-      "name": "croc_v11.5.0_macOS-64bit.tar.gz",
-      "node_id": "RA_kwDOBmURac4goZeZ",
-      "size": 8996023,
+      "name": "croc_v11.5.1_macOS-64bit.tar.gz",
+      "node_id": "RA_kwDOBmURac4g0VqP",
+      "size": 8999696,
       "state": "uploaded",
-      "updated_at": "2026-09-06T17:21:50Z",
+      "updated_at": "2026-09-08T13:48:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -418,20 +418,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/schollz/croc/releases/assets/547461017"
+      "url": "https://api.github.com/repos/schollz/croc/releases/assets/550591119"
     },
     {
-      "browser_download_url": "https://github.com/schollz/croc/releases/download/v11.5.0/croc_v11.5.0_macOS-ARM64.tar.gz",
+      "browser_download_url": "https://github.com/schollz/croc/releases/download/v11.5.1/croc_v11.5.1_macOS-ARM64.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2026-09-06T17:21:50Z",
-      "digest": "sha256:641ea6e0f3e6691105a6fa94de426cb43fda88cd7e65b72f143850d6f498f217",
-      "id": 547461021,
+      "created_at": "2026-09-08T13:48:04Z",
+      "digest": "sha256:8ad55888608d0919ac8c4f0236b8b3572758cb77ff1e9a2e016b946a0739a133",
+      "id": 550591133,
       "label": "",
-      "name": "croc_v11.5.0_macOS-ARM64.tar.gz",
-      "node_id": "RA_kwDOBmURac4goZed",
-      "size": 8323969,
+      "name": "croc_v11.5.1_macOS-ARM64.tar.gz",
+      "node_id": "RA_kwDOBmURac4g0Vqd",
+      "size": 8327840,
       "state": "uploaded",
-      "updated_at": "2026-09-06T17:21:50Z",
+      "updated_at": "2026-09-08T13:48:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -453,20 +453,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/schollz/croc/releases/assets/547461021"
+      "url": "https://api.github.com/repos/schollz/croc/releases/assets/550591133"
     },
     {
-      "browser_download_url": "https://github.com/schollz/croc/releases/download/v11.5.0/croc_v11.5.0_NetBSD-32bit.tar.gz",
+      "browser_download_url": "https://github.com/schollz/croc/releases/download/v11.5.1/croc_v11.5.1_NetBSD-32bit.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2026-09-06T17:21:49Z",
-      "digest": "sha256:bec357abe49b737e5dbd3b749539cfb45e39ed6323be09f57160bf22a068600b",
-      "id": 547461002,
+      "created_at": "2026-09-08T13:48:03Z",
+      "digest": "sha256:b6f8dbe58d98a2054fcc78ffe529427b5d09ace7cbf9135b93a2a9b8fe8cec7a",
+      "id": 550591082,
       "label": "",
-      "name": "croc_v11.5.0_NetBSD-32bit.tar.gz",
-      "node_id": "RA_kwDOBmURac4goZeK",
-      "size": 3976117,
+      "name": "croc_v11.5.1_NetBSD-32bit.tar.gz",
+      "node_id": "RA_kwDOBmURac4g0Vpq",
+      "size": 3975341,
       "state": "uploaded",
-      "updated_at": "2026-09-06T17:21:49Z",
+      "updated_at": "2026-09-08T13:48:03Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -488,20 +488,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/schollz/croc/releases/assets/547461002"
+      "url": "https://api.github.com/repos/schollz/croc/releases/assets/550591082"
     },
     {
-      "browser_download_url": "https://github.com/schollz/croc/releases/download/v11.5.0/croc_v11.5.0_NetBSD-64bit.tar.gz",
+      "browser_download_url": "https://github.com/schollz/croc/releases/download/v11.5.1/croc_v11.5.1_NetBSD-64bit.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2026-09-06T17:21:49Z",
-      "digest": "sha256:ce1264f3ab9a841b5a8cd6dbf2514d8b6bd480ff79b84668d57f21fd92957186",
-      "id": 547461004,
+      "created_at": "2026-09-08T13:48:03Z",
+      "digest": "sha256:1afea5f06bd68897c93671d25a2595c08755d74f15f4bf556d450f2d1d64d924",
+      "id": 550591087,
       "label": "",
-      "name": "croc_v11.5.0_NetBSD-64bit.tar.gz",
-      "node_id": "RA_kwDOBmURac4goZeM",
-      "size": 4061895,
+      "name": "croc_v11.5.1_NetBSD-64bit.tar.gz",
+      "node_id": "RA_kwDOBmURac4g0Vpv",
+      "size": 4064915,
       "state": "uploaded",
-      "updated_at": "2026-09-06T17:21:49Z",
+      "updated_at": "2026-09-08T13:48:03Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -523,20 +523,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/schollz/croc/releases/assets/547461004"
+      "url": "https://api.github.com/repos/schollz/croc/releases/assets/550591087"
     },
     {
-      "browser_download_url": "https://github.com/schollz/croc/releases/download/v11.5.0/croc_v11.5.0_NetBSD-ARM64.tar.gz",
+      "browser_download_url": "https://github.com/schollz/croc/releases/download/v11.5.1/croc_v11.5.1_NetBSD-ARM64.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2026-09-06T17:21:49Z",
-      "digest": "sha256:5b30893c9c320fa443b00565f9fd4515908cd398a47b137040354987af206315",
-      "id": 547461014,
+      "created_at": "2026-09-08T13:48:03Z",
+      "digest": "sha256:7085ccf61f0242426e84c607c896fccba3003d1ec417cd8132d3abf951fbe672",
+      "id": 550591092,
       "label": "",
-      "name": "croc_v11.5.0_NetBSD-ARM64.tar.gz",
-      "node_id": "RA_kwDOBmURac4goZeW",
-      "size": 3652176,
+      "name": "croc_v11.5.1_NetBSD-ARM64.tar.gz",
+      "node_id": "RA_kwDOBmURac4g0Vp0",
+      "size": 3653211,
       "state": "uploaded",
-      "updated_at": "2026-09-06T17:21:49Z",
+      "updated_at": "2026-09-08T13:48:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -558,20 +558,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/schollz/croc/releases/assets/547461014"
+      "url": "https://api.github.com/repos/schollz/croc/releases/assets/550591092"
     },
     {
-      "browser_download_url": "https://github.com/schollz/croc/releases/download/v11.5.0/croc_v11.5.0_OpenBSD-64bit.tar.gz",
+      "browser_download_url": "https://github.com/schollz/croc/releases/download/v11.5.1/croc_v11.5.1_OpenBSD-64bit.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2026-09-06T17:21:49Z",
-      "digest": "sha256:96b69f3188008223860a671550ef7823adf010d93d3f8e571c3d4c3c9bb2e3a5",
-      "id": 547461012,
+      "created_at": "2026-09-08T13:48:03Z",
+      "digest": "sha256:09eab4f16b5fdafefd523b6b76a7da474ca549f3a974ff08b3118586b4b985bf",
+      "id": 550591105,
       "label": "",
-      "name": "croc_v11.5.0_OpenBSD-64bit.tar.gz",
-      "node_id": "RA_kwDOBmURac4goZeU",
-      "size": 8772150,
+      "name": "croc_v11.5.1_OpenBSD-64bit.tar.gz",
+      "node_id": "RA_kwDOBmURac4g0VqB",
+      "size": 8775160,
       "state": "uploaded",
-      "updated_at": "2026-09-06T17:21:50Z",
+      "updated_at": "2026-09-08T13:48:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -593,20 +593,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/schollz/croc/releases/assets/547461012"
+      "url": "https://api.github.com/repos/schollz/croc/releases/assets/550591105"
     },
     {
-      "browser_download_url": "https://github.com/schollz/croc/releases/download/v11.5.0/croc_v11.5.0_OpenBSD-ARM64.tar.gz",
+      "browser_download_url": "https://github.com/schollz/croc/releases/download/v11.5.1/croc_v11.5.1_OpenBSD-ARM64.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2026-09-06T17:21:49Z",
-      "digest": "sha256:deef2d4b38014c0b7be3f0896d51b271a1b4a6d0e51d8d6bdb61d182ac65497b",
-      "id": 547461015,
+      "created_at": "2026-09-08T13:48:03Z",
+      "digest": "sha256:89de64baba57e3f6ef75d15735ec4bc8e2393ad36a8f934445d7e461faec5eb7",
+      "id": 550591108,
       "label": "",
-      "name": "croc_v11.5.0_OpenBSD-ARM64.tar.gz",
-      "node_id": "RA_kwDOBmURac4goZeX",
-      "size": 7937802,
+      "name": "croc_v11.5.1_OpenBSD-ARM64.tar.gz",
+      "node_id": "RA_kwDOBmURac4g0VqE",
+      "size": 7940213,
       "state": "uploaded",
-      "updated_at": "2026-09-06T17:21:50Z",
+      "updated_at": "2026-09-08T13:48:04Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -628,20 +628,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/schollz/croc/releases/assets/547461015"
+      "url": "https://api.github.com/repos/schollz/croc/releases/assets/550591108"
     },
     {
-      "browser_download_url": "https://github.com/schollz/croc/releases/download/v11.5.0/croc_v11.5.0_src.tar.gz",
+      "browser_download_url": "https://github.com/schollz/croc/releases/download/v11.5.1/croc_v11.5.1_src.tar.gz",
       "content_type": "application/x-gtar",
-      "created_at": "2026-09-06T17:21:50Z",
-      "digest": "sha256:8815c86afb0223628e0a049dbf52c3e6cd26395eeff3a0e34f30093251bf4ec7",
-      "id": 547461025,
+      "created_at": "2026-09-08T13:48:04Z",
+      "digest": "sha256:89db18cb838a02d65d8863b67d26f7ad74eb8cde15dc56b71a8b83a3b6a5be33",
+      "id": 550591136,
       "label": "",
-      "name": "croc_v11.5.0_src.tar.gz",
-      "node_id": "RA_kwDOBmURac4goZeh",
-      "size": 16329618,
+      "name": "croc_v11.5.1_src.tar.gz",
+      "node_id": "RA_kwDOBmURac4g0Vqg",
+      "size": 16352582,
       "state": "uploaded",
-      "updated_at": "2026-09-06T17:21:50Z",
+      "updated_at": "2026-09-08T13:48:05Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -663,20 +663,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/schollz/croc/releases/assets/547461025"
+      "url": "https://api.github.com/repos/schollz/croc/releases/assets/550591136"
     },
     {
-      "browser_download_url": "https://github.com/schollz/croc/releases/download/v11.5.0/croc_v11.5.0_Windows-32bit.zip",
+      "browser_download_url": "https://github.com/schollz/croc/releases/download/v11.5.1/croc_v11.5.1_Windows-32bit.zip",
       "content_type": "application/zip",
-      "created_at": "2026-09-06T17:21:47Z",
-      "digest": "sha256:31db5e7052a4f630975246f021a5ccbf0c0d9f9ae94da9c6e76b31443c85010d",
-      "id": 547460971,
+      "created_at": "2026-09-08T13:48:01Z",
+      "digest": "sha256:6f60fa353c492d620c86906157199e5ae5ab14b94ee0389b40adf2e569ef7ce6",
+      "id": 550590982,
       "label": "",
-      "name": "croc_v11.5.0_Windows-32bit.zip",
-      "node_id": "RA_kwDOBmURac4goZdr",
-      "size": 8839573,
+      "name": "croc_v11.5.1_Windows-32bit.zip",
+      "node_id": "RA_kwDOBmURac4g0VoG",
+      "size": 8840456,
       "state": "uploaded",
-      "updated_at": "2026-09-06T17:21:47Z",
+      "updated_at": "2026-09-08T13:48:01Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -698,20 +698,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/schollz/croc/releases/assets/547460971"
+      "url": "https://api.github.com/repos/schollz/croc/releases/assets/550590982"
     },
     {
-      "browser_download_url": "https://github.com/schollz/croc/releases/download/v11.5.0/croc_v11.5.0_Windows-64bit.zip",
+      "browser_download_url": "https://github.com/schollz/croc/releases/download/v11.5.1/croc_v11.5.1_Windows-64bit.zip",
       "content_type": "application/zip",
-      "created_at": "2026-09-06T17:21:47Z",
-      "digest": "sha256:bd7c40b425d058c36d5dedff91d6577520cef7236703b3e707872b0913f80e30",
-      "id": 547460974,
+      "created_at": "2026-09-08T13:48:00Z",
+      "digest": "sha256:41b5e0b4b627b7f79b3262405708173ce4b488eedbc13f2569f8b54c2af9d1b1",
+      "id": 550590972,
       "label": "",
-      "name": "croc_v11.5.0_Windows-64bit.zip",
-      "node_id": "RA_kwDOBmURac4goZdu",
-      "size": 9027914,
+      "name": "croc_v11.5.1_Windows-64bit.zip",
+      "node_id": "RA_kwDOBmURac4g0Vn8",
+      "size": 9029392,
       "state": "uploaded",
-      "updated_at": "2026-09-06T17:21:47Z",
+      "updated_at": "2026-09-08T13:48:01Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -733,20 +733,20 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/schollz/croc/releases/assets/547460974"
+      "url": "https://api.github.com/repos/schollz/croc/releases/assets/550590972"
     },
     {
-      "browser_download_url": "https://github.com/schollz/croc/releases/download/v11.5.0/croc_v11.5.0_Windows-ARM64.zip",
+      "browser_download_url": "https://github.com/schollz/croc/releases/download/v11.5.1/croc_v11.5.1_Windows-ARM64.zip",
       "content_type": "application/zip",
-      "created_at": "2026-09-06T17:21:47Z",
-      "digest": "sha256:25365576f21667246100d6125e9405397eab3b05227a50401ea493b8b51cc749",
-      "id": 547460975,
+      "created_at": "2026-09-08T13:48:00Z",
+      "digest": "sha256:09d90b84d155544c79aef8c8599c52796500a72287718cddddede850d0a59e98",
+      "id": 550590971,
       "label": "",
-      "name": "croc_v11.5.0_Windows-ARM64.zip",
-      "node_id": "RA_kwDOBmURac4goZdv",
-      "size": 8093711,
+      "name": "croc_v11.5.1_Windows-ARM64.zip",
+      "node_id": "RA_kwDOBmURac4g0Vn7",
+      "size": 8095524,
       "state": "uploaded",
-      "updated_at": "2026-09-06T17:21:47Z",
+      "updated_at": "2026-09-08T13:48:01Z",
       "uploader": {
         "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
         "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -768,10 +768,10 @@
         "url": "https://api.github.com/users/github-actions%5Bbot%5D",
         "user_view_type": "public"
       },
-      "url": "https://api.github.com/repos/schollz/croc/releases/assets/547460975"
+      "url": "https://api.github.com/repos/schollz/croc/releases/assets/550590971"
     }
   ],
-  "assets_url": "https://api.github.com/repos/schollz/croc/releases/383661003/assets",
+  "assets_url": "https://api.github.com/repos/schollz/croc/releases/384768307/assets",
   "author": {
     "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
     "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
@@ -793,21 +793,21 @@
     "url": "https://api.github.com/users/github-actions%5Bbot%5D",
     "user_view_type": "public"
   },
-  "body": "## What's Changed\n* fix: convert spaces to dashes (web) by @Akhil373 in https://github.com/schollz/croc/pull/1319\n* fix: improve ux by @schollz in https://github.com/schollz/croc/pull/1321\n\n\n**Full Changelog**: https://github.com/schollz/croc/compare/v11.4.0...v11.5.0",
-  "created_at": "2026-09-06T17:19:05Z",
+  "body": "## What's Changed\n* fix: resolve relay hostnames through SOCKS5 proxies by @schollz in https://github.com/schollz/croc/pull/1324\n\n\n**Full Changelog**: https://github.com/schollz/croc/compare/v11.5.0...v11.5.1",
+  "created_at": "2026-09-08T13:45:47Z",
   "draft": false,
-  "html_url": "https://github.com/schollz/croc/releases/tag/v11.5.0",
-  "id": 383661003,
+  "html_url": "https://github.com/schollz/croc/releases/tag/v11.5.1",
+  "id": 384768307,
   "immutable": false,
-  "name": "v11.5.0",
-  "node_id": "RE_kwDOBmURac4W3jPL",
+  "name": "v11.5.1",
+  "node_id": "RE_kwDOBmURac4W7xkz",
   "prerelease": false,
-  "published_at": "2026-09-06T17:22:24Z",
-  "tag_name": "v11.5.0",
-  "tarball_url": "https://api.github.com/repos/schollz/croc/tarball/v11.5.0",
+  "published_at": "2026-09-08T13:49:07Z",
+  "tag_name": "v11.5.1",
+  "tarball_url": "https://api.github.com/repos/schollz/croc/tarball/v11.5.1",
   "target_commitish": "main",
-  "updated_at": "2026-09-06T17:22:24Z",
-  "upload_url": "https://uploads.github.com/repos/schollz/croc/releases/383661003/assets{?name,label}",
-  "url": "https://api.github.com/repos/schollz/croc/releases/383661003",
-  "zipball_url": "https://api.github.com/repos/schollz/croc/zipball/v11.5.0"
+  "updated_at": "2026-09-08T13:49:07Z",
+  "upload_url": "https://uploads.github.com/repos/schollz/croc/releases/384768307/assets{?name,label}",
+  "url": "https://api.github.com/repos/schollz/croc/releases/384768307",
+  "zipball_url": "https://api.github.com/repos/schollz/croc/zipball/v11.5.1"
 }
