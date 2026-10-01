@@ -30,7 +30,7 @@ Binaries with bundled third-party notice requirements also have adjacent
 <!-- BINARIES:START -->
 ## 📦 Available Binaries
 
-> **Last updated:** 2026-10-01 06:42 UTC
+> **Last updated:** 2026-10-01 08:34 UTC
 >
 > **Total size:** x86\_64 → 1.0 GiB · x86\_64-upx → 340.2 MiB
 
