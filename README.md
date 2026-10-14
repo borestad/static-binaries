@@ -30,9 +30,9 @@ Binaries with bundled third-party notice requirements also have adjacent
 <!-- BINARIES:START -->
 ## 📦 Available Binaries
 
-> **Last updated:** 2026-10-14 12:35 UTC
+> **Last updated:** 2026-10-14 12:36 UTC
 >
-> **Total size:** x86\_64 → 1.0 GiB · x86\_64-upx → 342.0 MiB
+> **Total size:** x86\_64 → 1.0 GiB · x86\_64-upx → 341.8 MiB
 
 | Binary (plain) | Binary (UPX compressed) |
 |---|---|
@@ -124,7 +124,7 @@ Binaries with bundled third-party notice requirements also have adjacent
 | [supervisord](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/supervisord)<br/><sub>`263aaa05effd` · 10.2 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/supervisord.LICENSE.txt)</sub> | [supervisord](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/supervisord)<br/><sub>`7a53980a6585` · 3.5 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/supervisord.LICENSE.txt)</sub> |
 | [task](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/task)<br/><sub>`ebb5d3182989` · 49.9 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/task.LICENSE.txt)</sub> | [task](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/task)<br/><sub>`5df1d4b85fb6` · 13.4 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/task.LICENSE.txt)</sub> |
 | [tokei](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/tokei)<br/><sub>`9a52adff77cb` · 4.0 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/tokei.LICENSE.txt)</sub> | [tokei](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/tokei)<br/><sub>`bf8f313a51e6` · 1.3 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/tokei.LICENSE.txt)</sub> |
-| [trurl](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/trurl)<br/><sub>`d5349e3b61d9` · 9.7 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/trurl.LICENSE.txt)</sub> | [trurl](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/trurl)<br/><sub>`e5beb724d00f` · 3.6 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/trurl.LICENSE.txt)</sub> |
+| [trurl](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/trurl)<br/><sub>`96f5f12a9b49` · 9.8 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/trurl.LICENSE.txt)</sub> | [trurl](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/trurl)<br/><sub>`dcfd7bee5c39` · 3.5 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/trurl.LICENSE.txt)</sub> |
 | [unison](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/unison)<br/><sub>`18d39bd78c62` · 2.9 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/unison.LICENSE.txt)</sub> | [unison](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/unison)<br/><sub>`a37e12111716` · 971.5 KiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/unison.LICENSE.txt)</sub> |
 | [upx](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/upx)<br/><sub>`c43e86b825c2` · 624.2 KiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/upx.LICENSE.txt)</sub> | — |
 | [vegeta](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/vegeta)<br/><sub>`f318708b30cf` · 10.4 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/vegeta.LICENSE.txt)</sub> | [vegeta](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/vegeta)<br/><sub>`03c105ef3d85` · 3.5 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/vegeta.LICENSE.txt)</sub> |
