@@ -793,7 +793,7 @@
     "url": "https://api.github.com/users/github-actions%5Bbot%5D",
     "user_view_type": "public"
   },
-  "body": "## What's Changed\n* Avoid repeating the skill installation safety warning by @tommaso-moro in https://github.com/cli/cli/pull/14784\n* Update github.com/digitorus/pkcs7 dependency by @bdehamer in https://github.com/cli/cli/pull/14791\n* Document extrepo installation on Debian by @williammartin in https://github.com/cli/cli/pull/14796\n* feat(gh auth login): hint at `--expiring` when no preference is set by @babakks in https://github.com/cli/cli/pull/14798\n\n\n**Full Changelog**: https://github.com/cli/cli/compare/v2.103.0...v2.103.1",
+  "body": "## What's Changed\r\n\r\n### 🐛 Fixes\r\n\r\n* Avoid repeating the skill installation safety warning by @tommaso-moro in https://github.com/cli/cli/pull/14784\r\n* feat(gh auth login): hint at `--expiring` when no preference is set by @babakks in https://github.com/cli/cli/pull/14798\r\n\r\n### 📚 Docs & Chores\r\n\r\n* Document extrepo installation on Debian by @williammartin in https://github.com/cli/cli/pull/14796\r\n\r\n### :dependabot: Dependencies\r\n\r\n* Update github.com/digitorus/pkcs7 dependency by @bdehamer in https://github.com/cli/cli/pull/14791\r\n\r\n**Full Changelog**: https://github.com/cli/cli/compare/v2.103.0...v2.103.1\r\n",
   "created_at": "2026-10-23T16:00:04Z",
   "draft": false,
   "html_url": "https://github.com/cli/cli/releases/tag/v2.103.1",
@@ -806,7 +806,7 @@
   "tag_name": "v2.103.1",
   "tarball_url": "https://api.github.com/repos/cli/cli/tarball/v2.103.1",
   "target_commitish": "64d175234b85aa7765c1f4cda058bd6353adb78f",
-  "updated_at": "2026-10-23T16:24:01Z",
+  "updated_at": "2026-10-23T16:28:58Z",
   "upload_url": "https://uploads.github.com/repos/cli/cli/releases/422063866/assets{?name,label}",
   "url": "https://api.github.com/repos/cli/cli/releases/422063866",
   "zipball_url": "https://api.github.com/repos/cli/cli/zipball/v2.103.1"
