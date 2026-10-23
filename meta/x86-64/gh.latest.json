@@ -793,7 +793,7 @@
     "url": "https://api.github.com/users/github-actions%5Bbot%5D",
     "user_view_type": "public"
   },
-  "body": "## What's Changed\n* Allow installation tokens to attach files by @martinajir in https://github.com/cli/cli/pull/14804\n* Defer `--attach` credential checks to the server by @BagToad in https://github.com/cli/cli/pull/14805\n\n## New Contributors\n* @martinajir made their first contribution in https://github.com/cli/cli/pull/14804\n\n**Full Changelog**: https://github.com/cli/cli/compare/v2.103.1...v2.103.2",
+  "body": "### 🐛 Fixes\r\n\r\n* Allow server to arbitrate which GitHub App installation tokens can attach files by @martinajir in [#14804](https://github.com/cli/cli/pull/14804)\r\n* Defer `--attach` credential checks to the upload endpoint by @BagToad in [#14805](https://github.com/cli/cli/pull/14805)\r\n\r\n## New Contributors\r\n* @martinajir made their first contribution in https://github.com/cli/cli/pull/14804\r\n\r\n**Full Changelog**: https://github.com/cli/cli/compare/v2.103.1...v2.103.2",
   "created_at": "2026-10-23T20:08:01Z",
   "draft": false,
   "html_url": "https://github.com/cli/cli/releases/tag/v2.103.2",
@@ -806,7 +806,7 @@
   "tag_name": "v2.103.2",
   "tarball_url": "https://api.github.com/repos/cli/cli/tarball/v2.103.2",
   "target_commitish": "4f2cfe92e3499f8581bf39db77e0a1431fa7b55c",
-  "updated_at": "2026-10-23T20:24:12Z",
+  "updated_at": "2026-10-23T20:28:28Z",
   "upload_url": "https://uploads.github.com/repos/cli/cli/releases/422277825/assets{?name,label}",
   "url": "https://api.github.com/repos/cli/cli/releases/422277825",
   "zipball_url": "https://api.github.com/repos/cli/cli/zipball/v2.103.2"
