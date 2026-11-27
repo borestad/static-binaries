@@ -30,9 +30,9 @@ Binaries with bundled third-party notice requirements also have adjacent
 <!-- BINARIES:START -->
 ## 📦 Available Binaries
 
-> **Last updated:** 2026-11-27 12:22 UTC
+> **Last updated:** 2026-11-27 12:23 UTC
 >
-> **Total size:** x86\_64 → 1.0 GiB · x86\_64-upx → 338.7 MiB
+> **Total size:** x86\_64 → 1.0 GiB · x86\_64-upx → 340.1 MiB
 
 | Binary (plain) | Binary (UPX compressed) |
 |---|---|
@@ -83,7 +83,7 @@ Binaries with bundled third-party notice requirements also have adjacent
 | [htmlq](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/htmlq)<br/><sub>`4fbbd528ba57` · 2.4 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/htmlq.LICENSE.txt)</sub> | [htmlq](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/htmlq)<br/><sub>`b6d1b14796a5` · 815.5 KiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/htmlq.LICENSE.txt)</sub> |
 | [http](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/http)<br/><sub>`3f6d7d01c600` · 9.2 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/http.LICENSE.txt)</sub> | — |
 | [hyperfine](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/hyperfine)<br/><sub>`80d166735adf` · 1.4 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/hyperfine.LICENSE.txt)</sub> | [hyperfine](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/hyperfine)<br/><sub>`a736e63e4074` · 582.6 KiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/hyperfine.LICENSE.txt)</sub> |
-| [ipinfo](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/ipinfo)<br/><sub>`2e0e892edae3` · 6.2 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/ipinfo.LICENSE.txt)</sub> | [ipinfo](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/ipinfo)<br/><sub>`87729abbd9c0` · 2.2 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/ipinfo.LICENSE.txt)</sub> |
+| [ipinfo](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/ipinfo)<br/><sub>`fb90b7036b54` · 10.3 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/ipinfo.LICENSE.txt)</sub> | [ipinfo](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/ipinfo)<br/><sub>`1c98d2d97164` · 3.6 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/ipinfo.LICENSE.txt)</sub> |
 | [iprange](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/iprange)<br/><sub>`2811793d1ffa` · 82.0 KiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/iprange.LICENSE.txt)</sub> | [iprange](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/iprange)<br/><sub>`20b8f65ebb12` · 30.4 KiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/iprange.LICENSE.txt)</sub> |
 | [jc](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/jc)<br/><sub>`c19e6d9bd804` · 28.7 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/jc.LICENSE.txt)</sub> | [jc](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/jc)<br/><sub>`3b9df4a09f88` · 9.1 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/jc.LICENSE.txt)</sub> |
 | [jd](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/jd)<br/><sub>`ed8edd5545b3` · 13.5 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/jd.LICENSE.txt)</sub> | [jd](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/jd)<br/><sub>`ee92d77ca54a` · 4.1 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/jd.LICENSE.txt)</sub> |
