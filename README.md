@@ -30,15 +30,15 @@ Binaries with bundled third-party notice requirements also have adjacent
 <!-- BINARIES:START -->
 ## 📦 Available Binaries
 
-> **Last updated:** 2026-11-28 08:19 UTC
+> **Last updated:** 2026-11-28 08:20 UTC
 >
-> **Total size:** x86\_64 → 1.0 GiB · x86\_64-upx → 340.1 MiB
+> **Total size:** x86\_64 → 1.0 GiB · x86\_64-upx → 340.3 MiB
 
 | Binary (plain) | Binary (UPX compressed) |
 |---|---|
 | [agrind](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/agrind)<br/><sub>`a7c53810f863` · 5.2 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/agrind.LICENSE.txt)</sub> | [agrind](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/agrind)<br/><sub>`bcb3e3e2dfcc` · 1.6 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/agrind.LICENSE.txt)</sub> |
 | [aria2c](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/aria2c)<br/><sub>`3ec3091f5fd8` · 13.4 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/aria2c.LICENSE.txt)</sub> | [aria2c](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/aria2c)<br/><sub>`adf680cd3aee` · 4.5 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/aria2c.LICENSE.txt)</sub> |
-| [bat](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/bat)<br/><sub>`9d2e3e6b9c77` · 6.5 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/bat.LICENSE.txt)</sub> | [bat](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/bat)<br/><sub>`d8fbbbf4fbf0` · 3.0 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/bat.LICENSE.txt)</sub> |
+| [bat](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/bat)<br/><sub>`2d195e917b68` · 7.5 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/bat.LICENSE.txt)</sub> | [bat](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/bat)<br/><sub>`68fe4aad364e` · 3.3 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/bat.LICENSE.txt)</sub> |
 | [bc](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/bc)<br/><sub>`50ff8a1247c3` · 79.4 KiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/bc.LICENSE.txt)</sub> | [bc](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/bc)<br/><sub>`de75f0df07e5` · 41.6 KiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/bc.LICENSE.txt)</sub> |
 | [bkt](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/bkt)<br/><sub>`0610b1d2ee60` · 1.2 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/bkt.LICENSE.txt)</sub> | [bkt](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/bkt)<br/><sub>`fc7aa503aeb4` · 491.9 KiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/bkt.LICENSE.txt)</sub> |
 | [bsdtar](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/bsdtar)<br/><sub>`fa29328b07f1` · 1.2 MiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64/bsdtar.LICENSE.txt)</sub> | [bsdtar](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/bsdtar)<br/><sub>`78b811c21e3b` · 511.4 KiB · [LICENSE](https://raw.githubusercontent.com/borestad/static-binaries/main/x86_64-upx/bsdtar.LICENSE.txt)</sub> |
